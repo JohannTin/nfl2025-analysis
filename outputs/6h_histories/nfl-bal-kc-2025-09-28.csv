@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1758456024,2025-09-21 12:00:24,Baltimore Ravens,away,0.59,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758456025,2025-09-21 12:00:25,Kansas City Chiefs,home,0.41,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758499218,2025-09-22 00:00:18,Baltimore Ravens,away,0.585,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758499219,2025-09-22 00:00:19,Kansas City Chiefs,home,0.415,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758542408,2025-09-22 12:00:08,Baltimore Ravens,away,0.58,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758542414,2025-09-22 12:00:14,Kansas City Chiefs,home,0.42,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758585607,2025-09-23 00:00:07,Baltimore Ravens,away,0.575,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758585608,2025-09-23 00:00:08,Kansas City Chiefs,home,0.425,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758628805,2025-09-23 12:00:05,Baltimore Ravens,away,0.57,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758628815,2025-09-23 12:00:15,Kansas City Chiefs,home,0.43,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758672010,2025-09-24 00:00:10,Baltimore Ravens,away,0.57,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758672014,2025-09-24 00:00:14,Kansas City Chiefs,home,0.43,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758715210,2025-09-24 12:00:10,Baltimore Ravens,away,0.575,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758715212,2025-09-24 12:00:12,Kansas City Chiefs,home,0.425,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758758404,2025-09-25 00:00:04,Baltimore Ravens,away,0.575,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758758405,2025-09-25 00:00:05,Kansas City Chiefs,home,0.425,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758801608,2025-09-25 12:00:08,Baltimore Ravens,away,0.57,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758801613,2025-09-25 12:00:13,Kansas City Chiefs,home,0.43,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758844805,2025-09-26 00:00:05,Baltimore Ravens,away,0.575,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758844808,2025-09-26 00:00:08,Kansas City Chiefs,home,0.425,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758888005,2025-09-26 12:00:05,Kansas City Chiefs,home,0.425,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758888015,2025-09-26 12:00:15,Baltimore Ravens,away,0.575,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758931205,2025-09-27 00:00:05,Kansas City Chiefs,home,0.435,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758931209,2025-09-27 00:00:09,Baltimore Ravens,away,0.565,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758974404,2025-09-27 12:00:04,Baltimore Ravens,away,0.565,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1758974415,2025-09-27 12:00:15,Kansas City Chiefs,home,0.435,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1759017605,2025-09-28 00:00:05,Baltimore Ravens,away,0.575,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1759017612,2025-09-28 00:00:12,Kansas City Chiefs,home,0.425,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1759060810,2025-09-28 12:00:10,Kansas City Chiefs,home,0.425,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1759060814,2025-09-28 12:00:14,Baltimore Ravens,away,0.575,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1759104008,2025-09-29 00:00:08,Kansas City Chiefs,home,0.9995,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs
+1759104009,2025-09-29 00:00:09,Baltimore Ravens,away,0.0005,4,2025-09-28,Baltimore Ravens,Kansas City Chiefs

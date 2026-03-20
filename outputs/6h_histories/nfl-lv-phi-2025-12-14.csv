@@ -1,0 +1,25 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765238419,2025-12-09 00:00:19,Philadelphia Eagles,home,0.515,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765238431,2025-12-09 00:00:31,Las Vegas Raiders,away,0.485,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765281608,2025-12-09 12:00:08,Philadelphia Eagles,home,0.51,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765281620,2025-12-09 12:00:20,Las Vegas Raiders,away,0.49,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765324809,2025-12-10 00:00:09,Philadelphia Eagles,home,0.52,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765324818,2025-12-10 00:00:18,Las Vegas Raiders,away,0.48,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765368010,2025-12-10 12:00:10,Philadelphia Eagles,home,0.495,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765368037,2025-12-10 12:00:37,Las Vegas Raiders,away,0.505,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765411209,2025-12-11 00:00:09,Philadelphia Eagles,home,0.895,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765411219,2025-12-11 00:00:19,Las Vegas Raiders,away,0.105,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765454409,2025-12-11 12:00:09,Philadelphia Eagles,home,0.495,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765454421,2025-12-11 12:00:21,Las Vegas Raiders,away,0.505,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765497608,2025-12-12 00:00:08,Philadelphia Eagles,home,0.485,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765497619,2025-12-12 00:00:19,Las Vegas Raiders,away,0.515,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765540808,2025-12-12 12:00:08,Philadelphia Eagles,home,0.485,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765540822,2025-12-12 12:00:22,Las Vegas Raiders,away,0.515,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765584009,2025-12-13 00:00:09,Philadelphia Eagles,home,0.485,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765584022,2025-12-13 00:00:22,Las Vegas Raiders,away,0.515,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765627210,2025-12-13 12:00:10,Philadelphia Eagles,home,0.485,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765627225,2025-12-13 12:00:25,Las Vegas Raiders,away,0.515,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765670409,2025-12-14 00:00:09,Philadelphia Eagles,home,0.785,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765670423,2025-12-14 00:00:23,Las Vegas Raiders,away,0.215,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765713609,2025-12-14 12:00:09,Philadelphia Eagles,home,0.785,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles
+1765713623,2025-12-14 12:00:23,Las Vegas Raiders,away,0.215,15,2025-12-14,Las Vegas Raiders,Philadelphia Eagles

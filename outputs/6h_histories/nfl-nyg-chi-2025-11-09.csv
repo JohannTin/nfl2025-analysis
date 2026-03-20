@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1762084805,2025-11-02 12:00:05,New York Giants,away,0.39,10,2025-11-09,New York Giants,Chicago Bears
+1762084827,2025-11-02 12:00:27,Chicago Bears,home,0.61,10,2025-11-09,New York Giants,Chicago Bears
+1762128004,2025-11-03 00:00:04,New York Giants,away,0.39,10,2025-11-09,New York Giants,Chicago Bears
+1762128021,2025-11-03 00:00:21,Chicago Bears,home,0.61,10,2025-11-09,New York Giants,Chicago Bears
+1762171205,2025-11-03 12:00:05,New York Giants,away,0.365,10,2025-11-09,New York Giants,Chicago Bears
+1762171227,2025-11-03 12:00:27,Chicago Bears,home,0.635,10,2025-11-09,New York Giants,Chicago Bears
+1762214405,2025-11-04 00:00:05,New York Giants,away,0.365,10,2025-11-09,New York Giants,Chicago Bears
+1762214421,2025-11-04 00:00:21,Chicago Bears,home,0.635,10,2025-11-09,New York Giants,Chicago Bears
+1762257606,2025-11-04 12:00:06,New York Giants,away,0.36,10,2025-11-09,New York Giants,Chicago Bears
+1762257630,2025-11-04 12:00:30,Chicago Bears,home,0.64,10,2025-11-09,New York Giants,Chicago Bears
+1762300805,2025-11-05 00:00:05,New York Giants,away,0.365,10,2025-11-09,New York Giants,Chicago Bears
+1762300824,2025-11-05 00:00:24,Chicago Bears,home,0.635,10,2025-11-09,New York Giants,Chicago Bears
+1762344006,2025-11-05 12:00:06,New York Giants,away,0.355,10,2025-11-09,New York Giants,Chicago Bears
+1762344031,2025-11-05 12:00:31,Chicago Bears,home,0.645,10,2025-11-09,New York Giants,Chicago Bears
+1762387204,2025-11-06 00:00:04,New York Giants,away,0.335,10,2025-11-09,New York Giants,Chicago Bears
+1762387214,2025-11-06 00:00:14,Chicago Bears,home,0.665,10,2025-11-09,New York Giants,Chicago Bears
+1762430405,2025-11-06 12:00:05,New York Giants,away,0.325,10,2025-11-09,New York Giants,Chicago Bears
+1762430433,2025-11-06 12:00:33,Chicago Bears,home,0.675,10,2025-11-09,New York Giants,Chicago Bears
+1762473605,2025-11-07 00:00:05,New York Giants,away,0.325,10,2025-11-09,New York Giants,Chicago Bears
+1762473623,2025-11-07 00:00:23,Chicago Bears,home,0.675,10,2025-11-09,New York Giants,Chicago Bears
+1762516806,2025-11-07 12:00:06,New York Giants,away,0.325,10,2025-11-09,New York Giants,Chicago Bears
+1762516832,2025-11-07 12:00:32,Chicago Bears,home,0.675,10,2025-11-09,New York Giants,Chicago Bears
+1762560006,2025-11-08 00:00:06,New York Giants,away,0.325,10,2025-11-09,New York Giants,Chicago Bears
+1762560015,2025-11-08 00:00:15,Chicago Bears,home,0.675,10,2025-11-09,New York Giants,Chicago Bears
+1762603220,2025-11-08 12:00:20,New York Giants,away,0.335,10,2025-11-09,New York Giants,Chicago Bears
+1762603242,2025-11-08 12:00:42,Chicago Bears,home,0.665,10,2025-11-09,New York Giants,Chicago Bears
+1762646418,2025-11-09 00:00:18,New York Giants,away,0.325,10,2025-11-09,New York Giants,Chicago Bears
+1762646435,2025-11-09 00:00:35,Chicago Bears,home,0.675,10,2025-11-09,New York Giants,Chicago Bears
+1762689605,2025-11-09 12:00:05,New York Giants,away,0.325,10,2025-11-09,New York Giants,Chicago Bears
+1762689628,2025-11-09 12:00:28,Chicago Bears,home,0.675,10,2025-11-09,New York Giants,Chicago Bears
+1762732805,2025-11-10 00:00:05,New York Giants,away,0.0005,10,2025-11-09,New York Giants,Chicago Bears
+1762732815,2025-11-10 00:00:15,Chicago Bears,home,0.9995,10,2025-11-09,New York Giants,Chicago Bears

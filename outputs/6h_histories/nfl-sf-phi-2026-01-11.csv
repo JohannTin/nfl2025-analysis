@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1767657618,2026-01-06 00:00:18,San Francisco 49ers,away,0.325,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1767657622,2026-01-06 00:00:22,Philadelphia Eagles,home,0.675,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1767700815,2026-01-06 12:00:15,San Francisco 49ers,away,0.335,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1767700819,2026-01-06 12:00:19,Philadelphia Eagles,home,0.665,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1767744015,2026-01-07 00:00:15,San Francisco 49ers,away,0.335,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1767744019,2026-01-07 00:00:19,Philadelphia Eagles,home,0.665,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1767787219,2026-01-07 12:00:19,San Francisco 49ers,away,0.33,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1767787223,2026-01-07 12:00:23,Philadelphia Eagles,home,0.67,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1767830431,2026-01-08 00:00:31,San Francisco 49ers,away,0.325,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1767830435,2026-01-08 00:00:35,Philadelphia Eagles,home,0.675,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1767873626,2026-01-08 12:00:26,San Francisco 49ers,away,0.325,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1767873636,2026-01-08 12:00:36,Philadelphia Eagles,home,0.675,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1767916816,2026-01-09 00:00:16,San Francisco 49ers,away,0.315,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1767916819,2026-01-09 00:00:19,Philadelphia Eagles,home,0.685,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1767960030,2026-01-09 12:00:30,San Francisco 49ers,away,0.315,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1767960034,2026-01-09 12:00:34,Philadelphia Eagles,home,0.685,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1768003217,2026-01-10 00:00:17,San Francisco 49ers,away,0.305,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1768003221,2026-01-10 00:00:21,Philadelphia Eagles,home,0.695,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1768046418,2026-01-10 12:00:18,San Francisco 49ers,away,0.305,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1768046423,2026-01-10 12:00:23,Philadelphia Eagles,home,0.695,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1768089615,2026-01-11 00:00:15,San Francisco 49ers,away,0.295,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1768089618,2026-01-11 00:00:18,Philadelphia Eagles,home,0.705,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1768132814,2026-01-11 12:00:14,San Francisco 49ers,away,0.305,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1768132818,2026-01-11 12:00:18,Philadelphia Eagles,home,0.695,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1768176017,2026-01-12 00:00:17,San Francisco 49ers,away,0.41,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles
+1768176020,2026-01-12 00:00:20,Philadelphia Eagles,home,0.59,WC,2026-01-11,San Francisco 49ers,Philadelphia Eagles

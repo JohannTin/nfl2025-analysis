@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1758456002,2025-09-21 12:00:02,Los Angeles Rams,home,0.67,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758456021,2025-09-21 12:00:21,Indianapolis Colts,away,0.33,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758499204,2025-09-22 00:00:04,Los Angeles Rams,home,0.655,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758499216,2025-09-22 00:00:16,Indianapolis Colts,away,0.345,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758542412,2025-09-22 12:00:12,Los Angeles Rams,home,0.63,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758542417,2025-09-22 12:00:17,Indianapolis Colts,away,0.37,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758585608,2025-09-23 00:00:08,Los Angeles Rams,home,0.64,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758585610,2025-09-23 00:00:10,Indianapolis Colts,away,0.36,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758628808,2025-09-23 12:00:08,Los Angeles Rams,home,0.645,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758628812,2025-09-23 12:00:12,Indianapolis Colts,away,0.355,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758672003,2025-09-24 00:00:03,Indianapolis Colts,away,0.375,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758672015,2025-09-24 00:00:15,Los Angeles Rams,home,0.625,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758715212,2025-09-24 12:00:12,Los Angeles Rams,home,0.625,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758715215,2025-09-24 12:00:15,Indianapolis Colts,away,0.375,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758758405,2025-09-25 00:00:05,Los Angeles Rams,home,0.625,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758758407,2025-09-25 00:00:07,Indianapolis Colts,away,0.375,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758801611,2025-09-25 12:00:11,Indianapolis Colts,away,0.375,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758801615,2025-09-25 12:00:15,Los Angeles Rams,home,0.625,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758844808,2025-09-26 00:00:08,Indianapolis Colts,away,0.375,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758844811,2025-09-26 00:00:11,Los Angeles Rams,home,0.625,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758888005,2025-09-26 12:00:05,Los Angeles Rams,home,0.625,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758888011,2025-09-26 12:00:11,Indianapolis Colts,away,0.375,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758931204,2025-09-27 00:00:04,Los Angeles Rams,home,0.625,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758931207,2025-09-27 00:00:07,Indianapolis Colts,away,0.375,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758974407,2025-09-27 12:00:07,Los Angeles Rams,home,0.625,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1758974410,2025-09-27 12:00:10,Indianapolis Colts,away,0.375,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1759017607,2025-09-28 00:00:07,Los Angeles Rams,home,0.625,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1759017608,2025-09-28 00:00:08,Indianapolis Colts,away,0.375,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1759060805,2025-09-28 12:00:05,Los Angeles Rams,home,0.63,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1759060807,2025-09-28 12:00:07,Indianapolis Colts,away,0.37,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1759104006,2025-09-29 00:00:06,Los Angeles Rams,home,0.9995,4,2025-09-28,Indianapolis Colts,Los Angeles Rams
+1759104007,2025-09-29 00:00:07,Indianapolis Colts,away,0.0005,4,2025-09-28,Indianapolis Colts,Los Angeles Rams

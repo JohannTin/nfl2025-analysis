@@ -1,0 +1,24 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028818,2025-11-25 00:00:18,Miami Dolphins,home,0.72,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764028825,2025-11-25 00:00:25,New Orleans Saints,away,0.28,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764072024,2025-11-25 12:00:24,Miami Dolphins,home,0.715,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764072034,2025-11-25 12:00:34,New Orleans Saints,away,0.285,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764115215,2025-11-26 00:00:15,Miami Dolphins,home,0.715,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764115220,2025-11-26 00:00:20,New Orleans Saints,away,0.285,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764158438,2025-11-26 12:00:38,Miami Dolphins,home,0.71,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764158449,2025-11-26 12:00:49,New Orleans Saints,away,0.29,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764201619,2025-11-27 00:00:19,Miami Dolphins,home,0.71,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764201625,2025-11-27 00:00:25,New Orleans Saints,away,0.29,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764244829,2025-11-27 12:00:29,Miami Dolphins,home,0.705,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764244840,2025-11-27 12:00:40,New Orleans Saints,away,0.295,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764288018,2025-11-28 00:00:18,Miami Dolphins,home,0.71,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764288023,2025-11-28 00:00:23,New Orleans Saints,away,0.29,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764331228,2025-11-28 12:00:28,Miami Dolphins,home,0.705,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764331240,2025-11-28 12:00:40,New Orleans Saints,away,0.295,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764374423,2025-11-29 00:00:23,Miami Dolphins,home,0.695,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764374433,2025-11-29 00:00:33,New Orleans Saints,away,0.305,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764417628,2025-11-29 12:00:28,Miami Dolphins,home,0.695,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764417641,2025-11-29 12:00:41,New Orleans Saints,away,0.305,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764460818,2025-11-30 00:00:18,Miami Dolphins,home,0.705,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764460824,2025-11-30 00:00:24,New Orleans Saints,away,0.295,13,2025-11-30,New Orleans Saints,Miami Dolphins
+1764504054,2025-11-30 12:00:54,Miami Dolphins,home,0.695,13,2025-11-30,New Orleans Saints,Miami Dolphins

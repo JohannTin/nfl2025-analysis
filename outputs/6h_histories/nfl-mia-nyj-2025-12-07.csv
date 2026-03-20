@@ -1,0 +1,53 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028809,2025-11-25 00:00:09,Miami Dolphins,away,0.68,14,2025-12-07,Miami Dolphins,New York Jets
+1764028822,2025-11-25 00:00:22,New York Jets,home,0.32,14,2025-12-07,Miami Dolphins,New York Jets
+1764072011,2025-11-25 12:00:11,Miami Dolphins,away,0.685,14,2025-12-07,Miami Dolphins,New York Jets
+1764072029,2025-11-25 12:00:29,New York Jets,home,0.315,14,2025-12-07,Miami Dolphins,New York Jets
+1764115209,2025-11-26 00:00:09,Miami Dolphins,away,0.58,14,2025-12-07,Miami Dolphins,New York Jets
+1764115217,2025-11-26 00:00:17,New York Jets,home,0.42,14,2025-12-07,Miami Dolphins,New York Jets
+1764158426,2025-11-26 12:00:26,Miami Dolphins,away,0.58,14,2025-12-07,Miami Dolphins,New York Jets
+1764158444,2025-11-26 12:00:44,New York Jets,home,0.42,14,2025-12-07,Miami Dolphins,New York Jets
+1764201610,2025-11-27 00:00:10,Miami Dolphins,away,0.58,14,2025-12-07,Miami Dolphins,New York Jets
+1764201623,2025-11-27 00:00:23,New York Jets,home,0.42,14,2025-12-07,Miami Dolphins,New York Jets
+1764244814,2025-11-27 12:00:14,Miami Dolphins,away,0.395,14,2025-12-07,Miami Dolphins,New York Jets
+1764244835,2025-11-27 12:00:35,New York Jets,home,0.605,14,2025-12-07,Miami Dolphins,New York Jets
+1764288010,2025-11-28 00:00:10,Miami Dolphins,away,0.615,14,2025-12-07,Miami Dolphins,New York Jets
+1764288020,2025-11-28 00:00:20,New York Jets,home,0.385,14,2025-12-07,Miami Dolphins,New York Jets
+1764331213,2025-11-28 12:00:13,Miami Dolphins,away,0.575,14,2025-12-07,Miami Dolphins,New York Jets
+1764331233,2025-11-28 12:00:33,New York Jets,home,0.425,14,2025-12-07,Miami Dolphins,New York Jets
+1764374412,2025-11-29 00:00:12,Miami Dolphins,away,0.575,14,2025-12-07,Miami Dolphins,New York Jets
+1764374428,2025-11-29 00:00:28,New York Jets,home,0.425,14,2025-12-07,Miami Dolphins,New York Jets
+1764417614,2025-11-29 12:00:14,Miami Dolphins,away,0.58,14,2025-12-07,Miami Dolphins,New York Jets
+1764417635,2025-11-29 12:00:35,New York Jets,home,0.42,14,2025-12-07,Miami Dolphins,New York Jets
+1764460810,2025-11-30 00:00:10,Miami Dolphins,away,0.58,14,2025-12-07,Miami Dolphins,New York Jets
+1764460821,2025-11-30 00:00:21,New York Jets,home,0.42,14,2025-12-07,Miami Dolphins,New York Jets
+1764504039,2025-11-30 12:00:39,Miami Dolphins,away,0.575,14,2025-12-07,Miami Dolphins,New York Jets
+1764504059,2025-11-30 12:00:59,New York Jets,home,0.425,14,2025-12-07,Miami Dolphins,New York Jets
+1764547210,2025-12-01 00:00:10,Miami Dolphins,away,0.575,14,2025-12-07,Miami Dolphins,New York Jets
+1764547224,2025-12-01 00:00:24,New York Jets,home,0.425,14,2025-12-07,Miami Dolphins,New York Jets
+1764590422,2025-12-01 12:00:22,Miami Dolphins,away,0.58,14,2025-12-07,Miami Dolphins,New York Jets
+1764590441,2025-12-01 12:00:41,New York Jets,home,0.42,14,2025-12-07,Miami Dolphins,New York Jets
+1764633608,2025-12-02 00:00:08,Miami Dolphins,away,0.575,14,2025-12-07,Miami Dolphins,New York Jets
+1764633616,2025-12-02 00:00:16,New York Jets,home,0.425,14,2025-12-07,Miami Dolphins,New York Jets
+1764676813,2025-12-02 12:00:13,Miami Dolphins,away,0.57,14,2025-12-07,Miami Dolphins,New York Jets
+1764676830,2025-12-02 12:00:30,New York Jets,home,0.43,14,2025-12-07,Miami Dolphins,New York Jets
+1764720011,2025-12-03 00:00:11,Miami Dolphins,away,0.58,14,2025-12-07,Miami Dolphins,New York Jets
+1764720025,2025-12-03 00:00:25,New York Jets,home,0.42,14,2025-12-07,Miami Dolphins,New York Jets
+1764763212,2025-12-03 12:00:12,Miami Dolphins,away,0.58,14,2025-12-07,Miami Dolphins,New York Jets
+1764763233,2025-12-03 12:00:33,New York Jets,home,0.42,14,2025-12-07,Miami Dolphins,New York Jets
+1764806409,2025-12-04 00:00:09,Miami Dolphins,away,0.575,14,2025-12-07,Miami Dolphins,New York Jets
+1764806416,2025-12-04 00:00:16,New York Jets,home,0.425,14,2025-12-07,Miami Dolphins,New York Jets
+1764849614,2025-12-04 12:00:14,Miami Dolphins,away,0.58,14,2025-12-07,Miami Dolphins,New York Jets
+1764849633,2025-12-04 12:00:33,New York Jets,home,0.42,14,2025-12-07,Miami Dolphins,New York Jets
+1764892810,2025-12-05 00:00:10,Miami Dolphins,away,0.575,14,2025-12-07,Miami Dolphins,New York Jets
+1764892818,2025-12-05 00:00:18,New York Jets,home,0.425,14,2025-12-07,Miami Dolphins,New York Jets
+1764936010,2025-12-05 12:00:10,Miami Dolphins,away,0.575,14,2025-12-07,Miami Dolphins,New York Jets
+1764936021,2025-12-05 12:00:21,New York Jets,home,0.425,14,2025-12-07,Miami Dolphins,New York Jets
+1764979210,2025-12-06 00:00:10,Miami Dolphins,away,0.575,14,2025-12-07,Miami Dolphins,New York Jets
+1764979219,2025-12-06 00:00:19,New York Jets,home,0.425,14,2025-12-07,Miami Dolphins,New York Jets
+1765022411,2025-12-06 12:00:11,Miami Dolphins,away,0.575,14,2025-12-07,Miami Dolphins,New York Jets
+1765022420,2025-12-06 12:00:20,New York Jets,home,0.425,14,2025-12-07,Miami Dolphins,New York Jets
+1765065623,2025-12-07 00:00:23,Miami Dolphins,away,0.565,14,2025-12-07,Miami Dolphins,New York Jets
+1765065632,2025-12-07 00:00:32,New York Jets,home,0.435,14,2025-12-07,Miami Dolphins,New York Jets
+1765108810,2025-12-07 12:00:10,Miami Dolphins,away,0.565,14,2025-12-07,Miami Dolphins,New York Jets
+1765108823,2025-12-07 12:00:23,New York Jets,home,0.435,14,2025-12-07,Miami Dolphins,New York Jets

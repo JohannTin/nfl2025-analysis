@@ -1,0 +1,21 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1760875208,2025-10-19 12:00:08,Minnesota Vikings,away,0.415,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1760875220,2025-10-19 12:00:20,Los Angeles Chargers,home,0.585,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1760918414,2025-10-20 00:00:14,Minnesota Vikings,away,0.44,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1760918423,2025-10-20 00:00:23,Los Angeles Chargers,home,0.56,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1760961609,2025-10-20 12:00:09,Los Angeles Chargers,home,0.56,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1760961622,2025-10-20 12:00:22,Minnesota Vikings,away,0.44,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1761004813,2025-10-21 00:00:13,Los Angeles Chargers,home,0.6,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1761004820,2025-10-21 00:00:20,Minnesota Vikings,away,0.4,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1761048018,2025-10-21 12:00:18,Los Angeles Chargers,home,0.605,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1761048020,2025-10-21 12:00:20,Minnesota Vikings,away,0.395,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1761091223,2025-10-22 00:00:23,Los Angeles Chargers,home,0.625,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1761091227,2025-10-22 00:00:27,Minnesota Vikings,away,0.375,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1761134432,2025-10-22 12:00:32,Los Angeles Chargers,home,0.635,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1761134438,2025-10-22 12:00:38,Minnesota Vikings,away,0.365,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1761177612,2025-10-23 00:00:12,Los Angeles Chargers,home,0.625,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1761177613,2025-10-23 00:00:13,Minnesota Vikings,away,0.375,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1761220822,2025-10-23 12:00:22,Los Angeles Chargers,home,0.615,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1761220826,2025-10-23 12:00:26,Minnesota Vikings,away,0.385,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1761264019,2025-10-24 00:00:19,Los Angeles Chargers,home,0.625,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers
+1761264023,2025-10-24 00:00:23,Minnesota Vikings,away,0.375,8,2025-10-23,Minnesota Vikings,Los Angeles Chargers

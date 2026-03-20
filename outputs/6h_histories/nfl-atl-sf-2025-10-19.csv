@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1760270405,2025-10-12 12:00:05,Atlanta Falcons,away,0.355,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760270421,2025-10-12 12:00:21,San Francisco 49ers,home,0.645,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760313613,2025-10-13 00:00:13,San Francisco 49ers,home,0.6,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760313616,2025-10-13 00:00:16,Atlanta Falcons,away,0.4,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760356814,2025-10-13 12:00:14,San Francisco 49ers,home,0.595,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760356817,2025-10-13 12:00:17,Atlanta Falcons,away,0.405,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760400015,2025-10-14 00:00:15,San Francisco 49ers,home,0.61,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760400016,2025-10-14 00:00:16,Atlanta Falcons,away,0.39,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760443211,2025-10-14 12:00:11,Atlanta Falcons,away,0.435,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760443224,2025-10-14 12:00:24,San Francisco 49ers,home,0.565,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760486414,2025-10-15 00:00:14,San Francisco 49ers,home,0.555,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760486417,2025-10-15 00:00:17,Atlanta Falcons,away,0.445,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760529609,2025-10-15 12:00:09,Atlanta Falcons,away,0.445,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760529619,2025-10-15 12:00:19,San Francisco 49ers,home,0.555,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760572815,2025-10-16 00:00:15,Atlanta Falcons,away,0.455,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760572821,2025-10-16 00:00:21,San Francisco 49ers,home,0.545,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760616012,2025-10-16 12:00:12,San Francisco 49ers,home,0.545,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760616015,2025-10-16 12:00:15,Atlanta Falcons,away,0.455,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760659207,2025-10-17 00:00:07,San Francisco 49ers,home,0.545,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760659208,2025-10-17 00:00:08,Atlanta Falcons,away,0.455,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760702419,2025-10-17 12:00:19,San Francisco 49ers,home,0.545,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760702420,2025-10-17 12:00:20,Atlanta Falcons,away,0.455,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760745604,2025-10-18 00:00:04,Atlanta Falcons,away,0.455,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760745622,2025-10-18 00:00:22,San Francisco 49ers,home,0.545,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760788814,2025-10-18 12:00:14,San Francisco 49ers,home,0.545,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760788832,2025-10-18 12:00:32,Atlanta Falcons,away,0.455,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760832003,2025-10-19 00:00:03,San Francisco 49ers,home,0.545,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760832017,2025-10-19 00:00:17,Atlanta Falcons,away,0.455,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760875203,2025-10-19 12:00:03,San Francisco 49ers,home,0.555,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760875203,2025-10-19 12:00:03,Atlanta Falcons,away,0.445,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760918410,2025-10-20 00:00:10,Atlanta Falcons,away,0.505,7,2025-10-19,Atlanta Falcons,San Francisco 49ers
+1760918410,2025-10-20 00:00:10,San Francisco 49ers,home,0.495,7,2025-10-19,Atlanta Falcons,San Francisco 49ers

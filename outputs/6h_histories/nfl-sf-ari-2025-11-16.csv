@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1762689611,2025-11-09 12:00:11,San Francisco 49ers,away,0.535,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1762689617,2025-11-09 12:00:17,Arizona Cardinals,home,0.465,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1762732808,2025-11-10 00:00:08,San Francisco 49ers,away,0.6,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1762732810,2025-11-10 00:00:10,Arizona Cardinals,home,0.4,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1762776011,2025-11-10 12:00:11,San Francisco 49ers,away,0.58,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1762776016,2025-11-10 12:00:16,Arizona Cardinals,home,0.42,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1762819212,2025-11-11 00:00:12,San Francisco 49ers,away,0.565,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1762819216,2025-11-11 00:00:16,Arizona Cardinals,home,0.435,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1762862427,2025-11-11 12:00:27,San Francisco 49ers,away,0.575,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1762862432,2025-11-11 12:00:32,Arizona Cardinals,home,0.425,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1762905611,2025-11-12 00:00:11,San Francisco 49ers,away,0.575,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1762905614,2025-11-12 00:00:14,Arizona Cardinals,home,0.425,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1762948813,2025-11-12 12:00:13,San Francisco 49ers,away,0.575,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1762948818,2025-11-12 12:00:18,Arizona Cardinals,home,0.425,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1762992010,2025-11-13 00:00:10,San Francisco 49ers,away,0.585,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1762992014,2025-11-13 00:00:14,Arizona Cardinals,home,0.415,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763035213,2025-11-13 12:00:13,San Francisco 49ers,away,0.585,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763035219,2025-11-13 12:00:19,Arizona Cardinals,home,0.415,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763078410,2025-11-14 00:00:10,San Francisco 49ers,away,0.595,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763078413,2025-11-14 00:00:13,Arizona Cardinals,home,0.405,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763121614,2025-11-14 12:00:14,San Francisco 49ers,away,0.605,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763121620,2025-11-14 12:00:20,Arizona Cardinals,home,0.395,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763164812,2025-11-15 00:00:12,San Francisco 49ers,away,0.605,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763164816,2025-11-15 00:00:16,Arizona Cardinals,home,0.395,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763208015,2025-11-15 12:00:15,San Francisco 49ers,away,0.605,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763208022,2025-11-15 12:00:22,Arizona Cardinals,home,0.395,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763251209,2025-11-16 00:00:09,San Francisco 49ers,away,0.625,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763251211,2025-11-16 00:00:11,Arizona Cardinals,home,0.375,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763294412,2025-11-16 12:00:12,San Francisco 49ers,away,0.635,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763294419,2025-11-16 12:00:19,Arizona Cardinals,home,0.365,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763337611,2025-11-17 00:00:11,San Francisco 49ers,away,0.9995,11,2025-11-16,San Francisco 49ers,Arizona Cardinals
+1763337615,2025-11-17 00:00:15,Arizona Cardinals,home,0.0005,11,2025-11-16,San Francisco 49ers,Arizona Cardinals

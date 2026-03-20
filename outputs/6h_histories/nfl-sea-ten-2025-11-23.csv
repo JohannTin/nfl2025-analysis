@@ -1,0 +1,25 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1763424015,2025-11-18 00:00:15,Tennessee Titans,home,0.5,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763424017,2025-11-18 00:00:17,Seattle Seahawks,away,0.5,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763467225,2025-11-18 12:00:25,Tennessee Titans,home,0.5,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763467231,2025-11-18 12:00:31,Seattle Seahawks,away,0.5,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763510422,2025-11-19 00:00:22,Tennessee Titans,home,0.46,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763510427,2025-11-19 00:00:27,Seattle Seahawks,away,0.54,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763553629,2025-11-19 12:00:29,Tennessee Titans,home,0.54,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763553634,2025-11-19 12:00:34,Seattle Seahawks,away,0.46,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763596814,2025-11-20 00:00:14,Tennessee Titans,home,0.205,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763596817,2025-11-20 00:00:17,Seattle Seahawks,away,0.795,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763640016,2025-11-20 12:00:16,Tennessee Titans,home,0.205,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763640018,2025-11-20 12:00:18,Seattle Seahawks,away,0.795,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763683224,2025-11-21 00:00:24,Tennessee Titans,home,0.2,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763683229,2025-11-21 00:00:29,Seattle Seahawks,away,0.8,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763726416,2025-11-21 12:00:16,Tennessee Titans,home,0.2,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763726419,2025-11-21 12:00:19,Seattle Seahawks,away,0.8,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763769616,2025-11-22 00:00:16,Tennessee Titans,home,0.205,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763769618,2025-11-22 00:00:18,Seattle Seahawks,away,0.795,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763812816,2025-11-22 12:00:16,Tennessee Titans,home,0.2,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763812818,2025-11-22 12:00:18,Seattle Seahawks,away,0.8,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763856017,2025-11-23 00:00:17,Tennessee Titans,home,0.245,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763856020,2025-11-23 00:00:20,Seattle Seahawks,away,0.755,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763899215,2025-11-23 12:00:15,Tennessee Titans,home,0.255,12,2025-11-23,Seattle Seahawks,Tennessee Titans
+1763899218,2025-11-23 12:00:18,Seattle Seahawks,away,0.745,12,2025-11-23,Seattle Seahawks,Tennessee Titans

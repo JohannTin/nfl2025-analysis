@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1759060807,2025-09-28 12:00:07,Seattle Seahawks,home,0.565,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759060812,2025-09-28 12:00:12,Tampa Bay Buccaneers,away,0.435,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759104006,2025-09-29 00:00:06,Seattle Seahawks,home,0.575,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759104008,2025-09-29 00:00:08,Tampa Bay Buccaneers,away,0.425,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759147204,2025-09-29 12:00:04,Seattle Seahawks,home,0.585,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759147209,2025-09-29 12:00:09,Tampa Bay Buccaneers,away,0.415,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759190404,2025-09-30 00:00:04,Seattle Seahawks,home,0.625,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759190412,2025-09-30 00:00:12,Tampa Bay Buccaneers,away,0.375,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759233609,2025-09-30 12:00:09,Tampa Bay Buccaneers,away,0.375,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759233616,2025-09-30 12:00:16,Seattle Seahawks,home,0.625,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759276802,2025-10-01 00:00:02,Tampa Bay Buccaneers,away,0.375,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759276803,2025-10-01 00:00:03,Seattle Seahawks,home,0.625,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759320006,2025-10-01 12:00:06,Tampa Bay Buccaneers,away,0.375,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759320012,2025-10-01 12:00:12,Seattle Seahawks,home,0.625,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759363202,2025-10-02 00:00:02,Tampa Bay Buccaneers,away,0.375,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759363207,2025-10-02 00:00:07,Seattle Seahawks,home,0.625,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759406410,2025-10-02 12:00:10,Seattle Seahawks,home,0.635,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759406410,2025-10-02 12:00:10,Tampa Bay Buccaneers,away,0.365,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759449602,2025-10-03 00:00:02,Seattle Seahawks,home,0.635,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759449602,2025-10-03 00:00:02,Tampa Bay Buccaneers,away,0.365,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759492805,2025-10-03 12:00:05,Seattle Seahawks,home,0.64,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759492813,2025-10-03 12:00:13,Tampa Bay Buccaneers,away,0.36,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759536007,2025-10-04 00:00:07,Tampa Bay Buccaneers,away,0.355,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759536010,2025-10-04 00:00:10,Seattle Seahawks,home,0.645,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759579206,2025-10-04 12:00:06,Tampa Bay Buccaneers,away,0.355,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759579218,2025-10-04 12:00:18,Seattle Seahawks,home,0.645,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759622405,2025-10-05 00:00:05,Seattle Seahawks,home,0.635,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759622407,2025-10-05 00:00:07,Tampa Bay Buccaneers,away,0.365,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759665606,2025-10-05 12:00:06,Seattle Seahawks,home,0.645,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759665609,2025-10-05 12:00:09,Tampa Bay Buccaneers,away,0.355,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759708802,2025-10-06 00:00:02,Seattle Seahawks,home,0.0005,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks
+1759708805,2025-10-06 00:00:05,Tampa Bay Buccaneers,away,0.9995,5,2025-10-05,Tampa Bay Buccaneers,Seattle Seahawks

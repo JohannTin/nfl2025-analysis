@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1760875208,2025-10-19 12:00:08,New England Patriots,home,0.735,8,2025-10-26,Cleveland Browns,New England Patriots
+1760875220,2025-10-19 12:00:20,Cleveland Browns,away,0.265,8,2025-10-26,Cleveland Browns,New England Patriots
+1760918414,2025-10-20 00:00:14,New England Patriots,home,0.72,8,2025-10-26,Cleveland Browns,New England Patriots
+1760918423,2025-10-20 00:00:23,Cleveland Browns,away,0.28,8,2025-10-26,Cleveland Browns,New England Patriots
+1760961609,2025-10-20 12:00:09,Cleveland Browns,away,0.225,8,2025-10-26,Cleveland Browns,New England Patriots
+1760961624,2025-10-20 12:00:24,New England Patriots,home,0.775,8,2025-10-26,Cleveland Browns,New England Patriots
+1761004803,2025-10-21 00:00:03,New England Patriots,home,0.765,8,2025-10-26,Cleveland Browns,New England Patriots
+1761004813,2025-10-21 00:00:13,Cleveland Browns,away,0.235,8,2025-10-26,Cleveland Browns,New England Patriots
+1761048015,2025-10-21 12:00:15,New England Patriots,home,0.765,8,2025-10-26,Cleveland Browns,New England Patriots
+1761048017,2025-10-21 12:00:17,Cleveland Browns,away,0.235,8,2025-10-26,Cleveland Browns,New England Patriots
+1761091220,2025-10-22 00:00:20,Cleveland Browns,away,0.24,8,2025-10-26,Cleveland Browns,New England Patriots
+1761091222,2025-10-22 00:00:22,New England Patriots,home,0.76,8,2025-10-26,Cleveland Browns,New England Patriots
+1761134428,2025-10-22 12:00:28,Cleveland Browns,away,0.24,8,2025-10-26,Cleveland Browns,New England Patriots
+1761134431,2025-10-22 12:00:31,New England Patriots,home,0.76,8,2025-10-26,Cleveland Browns,New England Patriots
+1761177610,2025-10-23 00:00:10,Cleveland Browns,away,0.235,8,2025-10-26,Cleveland Browns,New England Patriots
+1761177611,2025-10-23 00:00:11,New England Patriots,home,0.765,8,2025-10-26,Cleveland Browns,New England Patriots
+1761220817,2025-10-23 12:00:17,Cleveland Browns,away,0.235,8,2025-10-26,Cleveland Browns,New England Patriots
+1761220820,2025-10-23 12:00:20,New England Patriots,home,0.765,8,2025-10-26,Cleveland Browns,New England Patriots
+1761264016,2025-10-24 00:00:16,Cleveland Browns,away,0.235,8,2025-10-26,Cleveland Browns,New England Patriots
+1761264018,2025-10-24 00:00:18,New England Patriots,home,0.765,8,2025-10-26,Cleveland Browns,New England Patriots
+1761307221,2025-10-24 12:00:21,Cleveland Browns,away,0.235,8,2025-10-26,Cleveland Browns,New England Patriots
+1761307223,2025-10-24 12:00:23,New England Patriots,home,0.765,8,2025-10-26,Cleveland Browns,New England Patriots
+1761350415,2025-10-25 00:00:15,Cleveland Browns,away,0.235,8,2025-10-26,Cleveland Browns,New England Patriots
+1761350416,2025-10-25 00:00:16,New England Patriots,home,0.765,8,2025-10-26,Cleveland Browns,New England Patriots
+1761393622,2025-10-25 12:00:22,Cleveland Browns,away,0.235,8,2025-10-26,Cleveland Browns,New England Patriots
+1761393624,2025-10-25 12:00:24,New England Patriots,home,0.765,8,2025-10-26,Cleveland Browns,New England Patriots
+1761436818,2025-10-26 00:00:18,Cleveland Browns,away,0.235,8,2025-10-26,Cleveland Browns,New England Patriots
+1761436820,2025-10-26 00:00:20,New England Patriots,home,0.765,8,2025-10-26,Cleveland Browns,New England Patriots
+1761480024,2025-10-26 12:00:24,Cleveland Browns,away,0.245,8,2025-10-26,Cleveland Browns,New England Patriots
+1761480026,2025-10-26 12:00:26,New England Patriots,home,0.755,8,2025-10-26,Cleveland Browns,New England Patriots

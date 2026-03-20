@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1757246417,2025-09-07 12:00:17,Buffalo Bills,away,0.775,2,2025-09-14,Buffalo Bills,New York Jets
+1757246431,2025-09-07 12:00:31,New York Jets,home,0.225,2,2025-09-14,Buffalo Bills,New York Jets
+1757289609,2025-09-08 00:00:09,Buffalo Bills,away,0.73,2,2025-09-14,Buffalo Bills,New York Jets
+1757289612,2025-09-08 00:00:12,New York Jets,home,0.27,2,2025-09-14,Buffalo Bills,New York Jets
+1757332810,2025-09-08 12:00:10,New York Jets,home,0.24,2,2025-09-14,Buffalo Bills,New York Jets
+1757332820,2025-09-08 12:00:20,Buffalo Bills,away,0.76,2,2025-09-14,Buffalo Bills,New York Jets
+1757376003,2025-09-09 00:00:03,New York Jets,home,0.26,2,2025-09-14,Buffalo Bills,New York Jets
+1757376009,2025-09-09 00:00:09,Buffalo Bills,away,0.74,2,2025-09-14,Buffalo Bills,New York Jets
+1757419220,2025-09-09 12:00:20,New York Jets,home,0.26,2,2025-09-14,Buffalo Bills,New York Jets
+1757419224,2025-09-09 12:00:24,Buffalo Bills,away,0.74,2,2025-09-14,Buffalo Bills,New York Jets
+1757462406,2025-09-10 00:00:06,New York Jets,home,0.26,2,2025-09-14,Buffalo Bills,New York Jets
+1757462408,2025-09-10 00:00:08,Buffalo Bills,away,0.74,2,2025-09-14,Buffalo Bills,New York Jets
+1757505611,2025-09-10 12:00:11,New York Jets,home,0.265,2,2025-09-14,Buffalo Bills,New York Jets
+1757505616,2025-09-10 12:00:16,Buffalo Bills,away,0.735,2,2025-09-14,Buffalo Bills,New York Jets
+1757548802,2025-09-11 00:00:02,Buffalo Bills,away,0.74,2,2025-09-14,Buffalo Bills,New York Jets
+1757548808,2025-09-11 00:00:08,New York Jets,home,0.26,2,2025-09-14,Buffalo Bills,New York Jets
+1757592012,2025-09-11 12:00:12,Buffalo Bills,away,0.735,2,2025-09-14,Buffalo Bills,New York Jets
+1757592017,2025-09-11 12:00:17,New York Jets,home,0.265,2,2025-09-14,Buffalo Bills,New York Jets
+1757635205,2025-09-12 00:00:05,New York Jets,home,0.27,2,2025-09-14,Buffalo Bills,New York Jets
+1757635227,2025-09-12 00:00:27,Buffalo Bills,away,0.73,2,2025-09-14,Buffalo Bills,New York Jets
+1757678418,2025-09-12 12:00:18,New York Jets,home,0.275,2,2025-09-14,Buffalo Bills,New York Jets
+1757678433,2025-09-12 12:00:33,Buffalo Bills,away,0.725,2,2025-09-14,Buffalo Bills,New York Jets
+1757721605,2025-09-13 00:00:05,New York Jets,home,0.265,2,2025-09-14,Buffalo Bills,New York Jets
+1757721610,2025-09-13 00:00:10,Buffalo Bills,away,0.735,2,2025-09-14,Buffalo Bills,New York Jets
+1757764822,2025-09-13 12:00:22,New York Jets,home,0.265,2,2025-09-14,Buffalo Bills,New York Jets
+1757764831,2025-09-13 12:00:31,Buffalo Bills,away,0.735,2,2025-09-14,Buffalo Bills,New York Jets
+1757808015,2025-09-14 00:00:15,Buffalo Bills,away,0.725,2,2025-09-14,Buffalo Bills,New York Jets
+1757808016,2025-09-14 00:00:16,New York Jets,home,0.275,2,2025-09-14,Buffalo Bills,New York Jets
+1757851202,2025-09-14 12:00:02,New York Jets,home,0.285,2,2025-09-14,Buffalo Bills,New York Jets
+1757851215,2025-09-14 12:00:15,Buffalo Bills,away,0.715,2,2025-09-14,Buffalo Bills,New York Jets

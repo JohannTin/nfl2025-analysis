@@ -1,0 +1,57 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765238420,2025-12-09 00:00:20,Houston Texans,home,0.6,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765238427,2025-12-09 00:00:27,Las Vegas Raiders,away,0.4,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765281609,2025-12-09 12:00:09,Houston Texans,home,0.77,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765281617,2025-12-09 12:00:17,Las Vegas Raiders,away,0.23,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765324810,2025-12-10 00:00:10,Houston Texans,home,0.82,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765324815,2025-12-10 00:00:15,Las Vegas Raiders,away,0.18,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765368013,2025-12-10 12:00:13,Houston Texans,home,0.835,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765368029,2025-12-10 12:00:29,Las Vegas Raiders,away,0.165,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765411210,2025-12-11 00:00:10,Houston Texans,home,0.825,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765411216,2025-12-11 00:00:16,Las Vegas Raiders,away,0.175,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765454411,2025-12-11 12:00:11,Houston Texans,home,0.845,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765454418,2025-12-11 12:00:18,Las Vegas Raiders,away,0.155,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765497610,2025-12-12 00:00:10,Houston Texans,home,0.84,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765497616,2025-12-12 00:00:16,Las Vegas Raiders,away,0.16,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765540810,2025-12-12 12:00:10,Houston Texans,home,0.835,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765540819,2025-12-12 12:00:19,Las Vegas Raiders,away,0.165,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765584011,2025-12-13 00:00:11,Houston Texans,home,0.835,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765584019,2025-12-13 00:00:19,Las Vegas Raiders,away,0.165,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765627211,2025-12-13 12:00:11,Houston Texans,home,0.835,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765627221,2025-12-13 12:00:21,Las Vegas Raiders,away,0.165,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765670411,2025-12-14 00:00:11,Houston Texans,home,0.83,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765670420,2025-12-14 00:00:20,Las Vegas Raiders,away,0.17,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765713610,2025-12-14 12:00:10,Houston Texans,home,0.835,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765713619,2025-12-14 12:00:19,Las Vegas Raiders,away,0.165,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765756811,2025-12-15 00:00:11,Houston Texans,home,0.88,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765756822,2025-12-15 00:00:22,Las Vegas Raiders,away,0.12,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765800009,2025-12-15 12:00:09,Houston Texans,home,0.895,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765800018,2025-12-15 12:00:18,Las Vegas Raiders,away,0.105,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765843209,2025-12-16 00:00:09,Houston Texans,home,0.895,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765843218,2025-12-16 00:00:18,Las Vegas Raiders,away,0.105,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765886421,2025-12-16 12:00:21,Houston Texans,home,0.905,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765886431,2025-12-16 12:00:31,Las Vegas Raiders,away,0.095,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765929606,2025-12-17 00:00:06,Houston Texans,home,0.895,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765929615,2025-12-17 00:00:15,Las Vegas Raiders,away,0.105,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765929631,2025-12-17 00:00:31,Houston Texans,home,0.895,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765929636,2025-12-17 00:00:36,Las Vegas Raiders,away,0.105,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765972810,2025-12-17 12:00:10,Houston Texans,home,0.9,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1765972826,2025-12-17 12:00:26,Las Vegas Raiders,away,0.1,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766016020,2025-12-18 00:00:20,Houston Texans,home,0.895,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766016026,2025-12-18 00:00:26,Las Vegas Raiders,away,0.105,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766059210,2025-12-18 12:00:10,Houston Texans,home,0.895,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766059216,2025-12-18 12:00:16,Las Vegas Raiders,away,0.105,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766102411,2025-12-19 00:00:11,Houston Texans,home,0.895,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766102417,2025-12-19 00:00:17,Las Vegas Raiders,away,0.105,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766145611,2025-12-19 12:00:11,Houston Texans,home,0.895,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766145619,2025-12-19 12:00:19,Las Vegas Raiders,away,0.105,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766188810,2025-12-20 00:00:10,Houston Texans,home,0.895,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766188816,2025-12-20 00:00:16,Las Vegas Raiders,away,0.105,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766232010,2025-12-20 12:00:10,Houston Texans,home,0.895,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766232020,2025-12-20 12:00:20,Las Vegas Raiders,away,0.105,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766275210,2025-12-21 00:00:10,Houston Texans,home,0.895,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766275217,2025-12-21 00:00:17,Las Vegas Raiders,away,0.105,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766318409,2025-12-21 12:00:09,Houston Texans,home,0.895,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766318417,2025-12-21 12:00:17,Las Vegas Raiders,away,0.105,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766361609,2025-12-22 00:00:09,Houston Texans,home,0.965,16,2025-12-21,Las Vegas Raiders,Houston Texans
+1766361617,2025-12-22 00:00:17,Las Vegas Raiders,away,0.035,16,2025-12-21,Las Vegas Raiders,Houston Texans

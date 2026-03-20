@@ -1,0 +1,55 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028805,2025-11-25 00:00:05,Las Vegas Raiders,home,0.32,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764028816,2025-11-25 00:00:16,Denver Broncos,away,0.68,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764072005,2025-11-25 12:00:05,Las Vegas Raiders,home,0.255,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764072019,2025-11-25 12:00:19,Denver Broncos,away,0.745,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764115206,2025-11-26 00:00:06,Las Vegas Raiders,home,0.265,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764115213,2025-11-26 00:00:13,Denver Broncos,away,0.735,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764158419,2025-11-26 12:00:19,Las Vegas Raiders,home,0.565,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764158435,2025-11-26 12:00:35,Denver Broncos,away,0.435,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764201605,2025-11-27 00:00:05,Las Vegas Raiders,home,0.26,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764201616,2025-11-27 00:00:16,Denver Broncos,away,0.74,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764244805,2025-11-27 12:00:05,Las Vegas Raiders,home,0.265,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764244824,2025-11-27 12:00:24,Denver Broncos,away,0.735,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764288006,2025-11-28 00:00:06,Las Vegas Raiders,home,0.2,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764288015,2025-11-28 00:00:15,Denver Broncos,away,0.8,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764331206,2025-11-28 12:00:06,Las Vegas Raiders,home,0.235,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764331223,2025-11-28 12:00:23,Denver Broncos,away,0.765,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764374406,2025-11-29 00:00:06,Las Vegas Raiders,home,0.2,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764374420,2025-11-29 00:00:20,Denver Broncos,away,0.8,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764417606,2025-11-29 12:00:06,Las Vegas Raiders,home,0.2,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764417624,2025-11-29 12:00:24,Denver Broncos,away,0.8,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764460806,2025-11-30 00:00:06,Las Vegas Raiders,home,0.205,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764460815,2025-11-30 00:00:15,Denver Broncos,away,0.795,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764504032,2025-11-30 12:00:32,Las Vegas Raiders,home,0.205,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764504049,2025-11-30 12:00:49,Denver Broncos,away,0.795,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764547205,2025-12-01 00:00:05,Las Vegas Raiders,home,0.24,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764547217,2025-12-01 00:00:17,Denver Broncos,away,0.76,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764590415,2025-12-01 12:00:15,Las Vegas Raiders,home,0.21,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764590432,2025-12-01 12:00:32,Denver Broncos,away,0.79,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764633605,2025-12-02 00:00:05,Las Vegas Raiders,home,0.195,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764633612,2025-12-02 00:00:12,Denver Broncos,away,0.805,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764676805,2025-12-02 12:00:05,Las Vegas Raiders,home,0.195,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764676821,2025-12-02 12:00:21,Denver Broncos,away,0.805,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764720006,2025-12-03 00:00:06,Las Vegas Raiders,home,0.215,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764720018,2025-12-03 00:00:18,Denver Broncos,away,0.785,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764763206,2025-12-03 12:00:06,Las Vegas Raiders,home,0.215,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764763224,2025-12-03 12:00:24,Denver Broncos,away,0.785,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764806407,2025-12-04 00:00:07,Las Vegas Raiders,home,0.215,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764806413,2025-12-04 00:00:13,Denver Broncos,away,0.785,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764849606,2025-12-04 12:00:06,Las Vegas Raiders,home,0.215,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764849623,2025-12-04 12:00:23,Denver Broncos,away,0.785,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764892806,2025-12-05 00:00:06,Las Vegas Raiders,home,0.21,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764892814,2025-12-05 00:00:14,Denver Broncos,away,0.79,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764936005,2025-12-05 12:00:05,Las Vegas Raiders,home,0.215,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764936015,2025-12-05 12:00:15,Denver Broncos,away,0.785,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764979206,2025-12-06 00:00:06,Las Vegas Raiders,home,0.22,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1764979215,2025-12-06 00:00:15,Denver Broncos,away,0.78,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1765022408,2025-12-06 12:00:08,Las Vegas Raiders,home,0.215,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1765022416,2025-12-06 12:00:16,Denver Broncos,away,0.785,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1765065619,2025-12-07 00:00:19,Las Vegas Raiders,home,0.215,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1765065628,2025-12-07 00:00:28,Denver Broncos,away,0.785,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1765108805,2025-12-07 12:00:05,Las Vegas Raiders,home,0.205,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1765108817,2025-12-07 12:00:17,Denver Broncos,away,0.795,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1765152018,2025-12-08 00:00:18,Las Vegas Raiders,home,0.0005,14,2025-12-07,Denver Broncos,Las Vegas Raiders
+1765152027,2025-12-08 00:00:27,Denver Broncos,away,0.9995,14,2025-12-07,Denver Broncos,Las Vegas Raiders

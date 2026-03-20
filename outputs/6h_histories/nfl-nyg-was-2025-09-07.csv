@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1756641606,2025-08-31 12:00:06,Washington Commanders,home,0.715,1,2025-09-07,New York Giants,Washington Commanders
+1756641621,2025-08-31 12:00:21,New York Giants,away,0.285,1,2025-09-07,New York Giants,Washington Commanders
+1756684805,2025-09-01 00:00:05,Washington Commanders,home,0.705,1,2025-09-07,New York Giants,Washington Commanders
+1756684809,2025-09-01 00:00:09,New York Giants,away,0.295,1,2025-09-07,New York Giants,Washington Commanders
+1756728002,2025-09-01 12:00:02,Washington Commanders,home,0.705,1,2025-09-07,New York Giants,Washington Commanders
+1756728020,2025-09-01 12:00:20,New York Giants,away,0.295,1,2025-09-07,New York Giants,Washington Commanders
+1756771207,2025-09-02 00:00:07,Washington Commanders,home,0.7,1,2025-09-07,New York Giants,Washington Commanders
+1756771216,2025-09-02 00:00:16,New York Giants,away,0.3,1,2025-09-07,New York Giants,Washington Commanders
+1756814409,2025-09-02 12:00:09,Washington Commanders,home,0.705,1,2025-09-07,New York Giants,Washington Commanders
+1756814412,2025-09-02 12:00:12,New York Giants,away,0.295,1,2025-09-07,New York Giants,Washington Commanders
+1756857614,2025-09-03 00:00:14,Washington Commanders,home,0.705,1,2025-09-07,New York Giants,Washington Commanders
+1756857616,2025-09-03 00:00:16,New York Giants,away,0.295,1,2025-09-07,New York Giants,Washington Commanders
+1756900821,2025-09-03 12:00:21,New York Giants,away,0.285,1,2025-09-07,New York Giants,Washington Commanders
+1756900821,2025-09-03 12:00:21,Washington Commanders,home,0.715,1,2025-09-07,New York Giants,Washington Commanders
+1756944009,2025-09-04 00:00:09,New York Giants,away,0.285,1,2025-09-07,New York Giants,Washington Commanders
+1756944009,2025-09-04 00:00:09,Washington Commanders,home,0.715,1,2025-09-07,New York Giants,Washington Commanders
+1756987213,2025-09-04 12:00:13,Washington Commanders,home,0.715,1,2025-09-07,New York Giants,Washington Commanders
+1756987213,2025-09-04 12:00:13,New York Giants,away,0.285,1,2025-09-07,New York Giants,Washington Commanders
+1757030403,2025-09-05 00:00:03,Washington Commanders,home,0.705,1,2025-09-07,New York Giants,Washington Commanders
+1757030405,2025-09-05 00:00:05,New York Giants,away,0.295,1,2025-09-07,New York Giants,Washington Commanders
+1757073622,2025-09-05 12:00:22,Washington Commanders,home,0.705,1,2025-09-07,New York Giants,Washington Commanders
+1757073629,2025-09-05 12:00:29,New York Giants,away,0.295,1,2025-09-07,New York Giants,Washington Commanders
+1757116808,2025-09-06 00:00:08,Washington Commanders,home,0.705,1,2025-09-07,New York Giants,Washington Commanders
+1757116814,2025-09-06 00:00:14,New York Giants,away,0.295,1,2025-09-07,New York Giants,Washington Commanders
+1757160015,2025-09-06 12:00:15,Washington Commanders,home,0.715,1,2025-09-07,New York Giants,Washington Commanders
+1757160020,2025-09-06 12:00:20,New York Giants,away,0.285,1,2025-09-07,New York Giants,Washington Commanders
+1757203208,2025-09-07 00:00:08,Washington Commanders,home,0.715,1,2025-09-07,New York Giants,Washington Commanders
+1757203210,2025-09-07 00:00:10,New York Giants,away,0.285,1,2025-09-07,New York Giants,Washington Commanders
+1757246413,2025-09-07 12:00:13,New York Giants,away,0.295,1,2025-09-07,New York Giants,Washington Commanders
+1757246417,2025-09-07 12:00:17,Washington Commanders,home,0.705,1,2025-09-07,New York Giants,Washington Commanders

@@ -1,0 +1,61 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765152025,2025-12-08 00:00:25,Baltimore Ravens,home,0.5,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765152029,2025-12-08 00:00:29,New England Patriots,away,0.5,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765195225,2025-12-08 12:00:25,Baltimore Ravens,home,0.4,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765195231,2025-12-08 12:00:31,New England Patriots,away,0.6,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765238422,2025-12-09 00:00:22,Baltimore Ravens,home,0.4,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765238427,2025-12-09 00:00:27,New England Patriots,away,0.6,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765281611,2025-12-09 12:00:11,Baltimore Ravens,home,0.385,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765281616,2025-12-09 12:00:16,New England Patriots,away,0.615,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765324811,2025-12-10 00:00:11,Baltimore Ravens,home,0.525,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765324814,2025-12-10 00:00:14,New England Patriots,away,0.475,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765368018,2025-12-10 12:00:18,Baltimore Ravens,home,0.55,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765368028,2025-12-10 12:00:28,New England Patriots,away,0.45,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765411211,2025-12-11 00:00:11,Baltimore Ravens,home,0.55,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765411215,2025-12-11 00:00:15,New England Patriots,away,0.45,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765454413,2025-12-11 12:00:13,Baltimore Ravens,home,0.535,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765454417,2025-12-11 12:00:17,New England Patriots,away,0.465,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765497612,2025-12-12 00:00:12,Baltimore Ravens,home,0.515,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765497615,2025-12-12 00:00:15,New England Patriots,away,0.485,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765540813,2025-12-12 12:00:13,Baltimore Ravens,home,0.52,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765540817,2025-12-12 12:00:17,New England Patriots,away,0.48,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765584013,2025-12-13 00:00:13,Baltimore Ravens,home,0.52,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765584018,2025-12-13 00:00:18,New England Patriots,away,0.48,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765627214,2025-12-13 12:00:14,Baltimore Ravens,home,0.52,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765627220,2025-12-13 12:00:20,New England Patriots,away,0.48,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765670413,2025-12-14 00:00:13,Baltimore Ravens,home,0.52,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765670418,2025-12-14 00:00:18,New England Patriots,away,0.48,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765713613,2025-12-14 12:00:13,Baltimore Ravens,home,0.515,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765713618,2025-12-14 12:00:18,New England Patriots,away,0.485,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765756814,2025-12-15 00:00:14,Baltimore Ravens,home,0.545,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765756820,2025-12-15 00:00:20,New England Patriots,away,0.455,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765800012,2025-12-15 12:00:12,Baltimore Ravens,home,0.56,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765800017,2025-12-15 12:00:17,New England Patriots,away,0.44,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765843212,2025-12-16 00:00:12,Baltimore Ravens,home,0.575,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765843217,2025-12-16 00:00:17,New England Patriots,away,0.425,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765886424,2025-12-16 12:00:24,Baltimore Ravens,home,0.595,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765886430,2025-12-16 12:00:30,New England Patriots,away,0.405,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765929609,2025-12-17 00:00:09,Baltimore Ravens,home,0.595,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765929614,2025-12-17 00:00:14,New England Patriots,away,0.405,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765929633,2025-12-17 00:00:33,Baltimore Ravens,home,0.595,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765929635,2025-12-17 00:00:35,New England Patriots,away,0.405,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765972813,2025-12-17 12:00:13,Baltimore Ravens,home,0.59,16,2025-12-21,New England Patriots,Baltimore Ravens
+1765972823,2025-12-17 12:00:23,New England Patriots,away,0.41,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766016021,2025-12-18 00:00:21,Baltimore Ravens,home,0.585,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766016025,2025-12-18 00:00:25,New England Patriots,away,0.415,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766059212,2025-12-18 12:00:12,Baltimore Ravens,home,0.585,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766059216,2025-12-18 12:00:16,New England Patriots,away,0.415,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766102412,2025-12-19 00:00:12,Baltimore Ravens,home,0.585,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766102416,2025-12-19 00:00:16,New England Patriots,away,0.415,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766145613,2025-12-19 12:00:13,Baltimore Ravens,home,0.59,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766145618,2025-12-19 12:00:18,New England Patriots,away,0.41,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766188812,2025-12-20 00:00:12,Baltimore Ravens,home,0.595,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766188816,2025-12-20 00:00:16,New England Patriots,away,0.405,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766232013,2025-12-20 12:00:13,Baltimore Ravens,home,0.595,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766232019,2025-12-20 12:00:19,New England Patriots,away,0.405,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766275212,2025-12-21 00:00:12,Baltimore Ravens,home,0.605,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766275216,2025-12-21 00:00:16,New England Patriots,away,0.395,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766318411,2025-12-21 12:00:11,Baltimore Ravens,home,0.625,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766318416,2025-12-21 12:00:16,New England Patriots,away,0.375,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766361612,2025-12-22 00:00:12,Baltimore Ravens,home,0.635,16,2025-12-21,New England Patriots,Baltimore Ravens
+1766361616,2025-12-22 00:00:16,New England Patriots,away,0.365,16,2025-12-21,New England Patriots,Baltimore Ravens

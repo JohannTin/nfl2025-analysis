@@ -1,0 +1,25 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028809,2025-11-25 00:00:09,Cleveland Browns,home,0.365,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764028817,2025-11-25 00:00:17,San Francisco 49ers,away,0.635,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764072011,2025-11-25 12:00:11,Cleveland Browns,home,0.315,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764072022,2025-11-25 12:00:22,San Francisco 49ers,away,0.685,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764115209,2025-11-26 00:00:09,Cleveland Browns,home,0.31,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764115214,2025-11-26 00:00:14,San Francisco 49ers,away,0.69,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764158424,2025-11-26 12:00:24,Cleveland Browns,home,0.31,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764158437,2025-11-26 12:00:37,San Francisco 49ers,away,0.69,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764201609,2025-11-27 00:00:09,Cleveland Browns,home,0.315,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764201618,2025-11-27 00:00:18,San Francisco 49ers,away,0.685,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764244814,2025-11-27 12:00:14,Cleveland Browns,home,0.32,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764244827,2025-11-27 12:00:27,San Francisco 49ers,away,0.68,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764288009,2025-11-28 00:00:09,Cleveland Browns,home,0.325,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764288016,2025-11-28 00:00:16,San Francisco 49ers,away,0.675,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764331213,2025-11-28 12:00:13,Cleveland Browns,home,0.325,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764331226,2025-11-28 12:00:26,San Francisco 49ers,away,0.675,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764374412,2025-11-29 00:00:12,Cleveland Browns,home,0.315,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764374422,2025-11-29 00:00:22,San Francisco 49ers,away,0.685,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764417612,2025-11-29 12:00:12,Cleveland Browns,home,0.315,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764417627,2025-11-29 12:00:27,San Francisco 49ers,away,0.685,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764460809,2025-11-30 00:00:09,Cleveland Browns,home,0.305,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764460817,2025-11-30 00:00:17,San Francisco 49ers,away,0.695,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764504038,2025-11-30 12:00:38,Cleveland Browns,home,0.295,13,2025-11-30,San Francisco 49ers,Cleveland Browns
+1764504051,2025-11-30 12:00:51,San Francisco 49ers,away,0.705,13,2025-11-30,San Francisco 49ers,Cleveland Browns

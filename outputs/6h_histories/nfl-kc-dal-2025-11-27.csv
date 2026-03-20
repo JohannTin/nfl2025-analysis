@@ -1,0 +1,15 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028807,2025-11-25 00:00:07,Kansas City Chiefs,away,0.615,13,2025-11-27,Kansas City Chiefs,Dallas Cowboys
+1764028824,2025-11-25 00:00:24,Dallas Cowboys,home,0.385,13,2025-11-27,Kansas City Chiefs,Dallas Cowboys
+1764072008,2025-11-25 12:00:08,Kansas City Chiefs,away,0.615,13,2025-11-27,Kansas City Chiefs,Dallas Cowboys
+1764072033,2025-11-25 12:00:33,Dallas Cowboys,home,0.385,13,2025-11-27,Kansas City Chiefs,Dallas Cowboys
+1764115208,2025-11-26 00:00:08,Kansas City Chiefs,away,0.615,13,2025-11-27,Kansas City Chiefs,Dallas Cowboys
+1764115219,2025-11-26 00:00:19,Dallas Cowboys,home,0.385,13,2025-11-27,Kansas City Chiefs,Dallas Cowboys
+1764158423,2025-11-26 12:00:23,Kansas City Chiefs,away,0.625,13,2025-11-27,Kansas City Chiefs,Dallas Cowboys
+1764158448,2025-11-26 12:00:48,Dallas Cowboys,home,0.375,13,2025-11-27,Kansas City Chiefs,Dallas Cowboys
+1764201609,2025-11-27 00:00:09,Kansas City Chiefs,away,0.625,13,2025-11-27,Kansas City Chiefs,Dallas Cowboys
+1764201625,2025-11-27 00:00:25,Dallas Cowboys,home,0.375,13,2025-11-27,Kansas City Chiefs,Dallas Cowboys
+1764244811,2025-11-27 12:00:11,Kansas City Chiefs,away,0.625,13,2025-11-27,Kansas City Chiefs,Dallas Cowboys
+1764244839,2025-11-27 12:00:39,Dallas Cowboys,home,0.375,13,2025-11-27,Kansas City Chiefs,Dallas Cowboys
+1764288009,2025-11-28 00:00:09,Kansas City Chiefs,away,0.445,13,2025-11-27,Kansas City Chiefs,Dallas Cowboys
+1764288023,2025-11-28 00:00:23,Dallas Cowboys,home,0.555,13,2025-11-27,Kansas City Chiefs,Dallas Cowboys

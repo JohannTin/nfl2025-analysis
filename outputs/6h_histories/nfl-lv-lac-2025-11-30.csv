@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028808,2025-11-25 00:00:08,Las Vegas Raiders,away,0.185,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764028815,2025-11-25 00:00:15,Los Angeles Chargers,home,0.815,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764072008,2025-11-25 12:00:08,Las Vegas Raiders,away,0.19,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764072019,2025-11-25 12:00:19,Los Angeles Chargers,home,0.81,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764115208,2025-11-26 00:00:08,Las Vegas Raiders,away,0.19,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764115213,2025-11-26 00:00:13,Los Angeles Chargers,home,0.81,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764158423,2025-11-26 12:00:23,Las Vegas Raiders,away,0.185,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764158435,2025-11-26 12:00:35,Los Angeles Chargers,home,0.815,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764201609,2025-11-27 00:00:09,Las Vegas Raiders,away,0.175,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764201616,2025-11-27 00:00:16,Los Angeles Chargers,home,0.825,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764244811,2025-11-27 12:00:11,Las Vegas Raiders,away,0.185,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764244824,2025-11-27 12:00:24,Los Angeles Chargers,home,0.815,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764288009,2025-11-28 00:00:09,Las Vegas Raiders,away,0.18,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764288015,2025-11-28 00:00:15,Los Angeles Chargers,home,0.82,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764331211,2025-11-28 12:00:11,Las Vegas Raiders,away,0.185,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764331223,2025-11-28 12:00:23,Los Angeles Chargers,home,0.815,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764374410,2025-11-29 00:00:10,Las Vegas Raiders,away,0.185,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764374420,2025-11-29 00:00:20,Los Angeles Chargers,home,0.815,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764417611,2025-11-29 12:00:11,Las Vegas Raiders,away,0.185,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764417623,2025-11-29 12:00:23,Los Angeles Chargers,home,0.815,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764460808,2025-11-30 00:00:08,Las Vegas Raiders,away,0.185,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764460815,2025-11-30 00:00:15,Los Angeles Chargers,home,0.815,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764504037,2025-11-30 12:00:37,Las Vegas Raiders,away,0.175,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764504048,2025-11-30 12:00:48,Los Angeles Chargers,home,0.825,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764547208,2025-12-01 00:00:08,Las Vegas Raiders,away,0.005,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers
+1764547216,2025-12-01 00:00:16,Los Angeles Chargers,home,0.995,13,2025-11-30,Las Vegas Raiders,Los Angeles Chargers

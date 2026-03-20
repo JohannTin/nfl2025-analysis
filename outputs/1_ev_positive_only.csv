@@ -1,0 +1,1569 @@
+week,team,side,book,espn_prob,ml,ev,won
+WC,Chicago Bears,home,bet365,0.457,1300,539.8000000000001,True
+10,Arizona Cardinals,away,draftkings,0.35100000000000003,1300,391.4000000000001,False
+2,New York Jets,home,draftkings,0.35200000000000004,1200,357.6,False
+2,New York Jets,home,fanduel,0.35200000000000004,1100,322.40000000000003,False
+3,Miami Dolphins,away,draftkings,0.23399999999999999,1600,297.79999999999995,False
+18,Green Bay Packers,away,betmgm,0.598,550,288.7,False
+18,Green Bay Packers,away,draftkings,0.598,525,273.75,False
+WC,Carolina Panthers,home,bet365,0.265,1300,271.0,False
+17,Kansas City Chiefs,home,betway,0.436,750,270.6,False
+17,Kansas City Chiefs,home,draftkings,0.436,750,270.6,False
+17,Kansas City Chiefs,home,fanduel,0.436,750,270.6,False
+18,Green Bay Packers,away,fanduel,0.598,500,258.8,False
+18,Green Bay Packers,away,caesars,0.598,475,243.85000000000002,False
+10,Arizona Cardinals,away,fanduel,0.35100000000000003,870,240.47,False
+18,Green Bay Packers,away,si,0.598,450,228.89999999999998,False
+3,Miami Dolphins,away,fanduel,0.23399999999999999,1300,227.6,False
+17,Kansas City Chiefs,home,si,0.436,650,226.99999999999997,False
+17,Kansas City Chiefs,home,caesars,0.436,650,226.99999999999997,False
+17,Kansas City Chiefs,home,betmgm,0.436,650,226.99999999999997,False
+17,Kansas City Chiefs,home,bet365,0.436,625,216.1,False
+18,Los Angeles Chargers,away,draftkings,0.299,950,213.95,False
+18,Green Bay Packers,away,betway,0.598,425,213.95,False
+18,Los Angeles Chargers,away,fanduel,0.299,900,198.99999999999994,False
+18,Los Angeles Chargers,away,si,0.299,850,184.04999999999995,False
+18,Los Angeles Chargers,away,betmgm,0.299,850,184.04999999999995,False
+2,Cleveland Browns,away,draftkings,0.20199999999999999,1300,182.79999999999995,False
+5,Cincinnati Bengals,home,fanduel,0.23800000000000002,1060,176.08000000000004,False
+2,Cleveland Browns,away,fanduel,0.20199999999999999,1200,162.59999999999997,False
+5,Cincinnati Bengals,home,draftkings,0.23800000000000002,1000,161.8,False
+18,Los Angeles Chargers,away,caesars,0.299,750,154.14999999999998,False
+18,Los Angeles Chargers,away,betway,0.299,750,154.14999999999998,False
+12,New York Giants,away,fanduel,0.289,750,145.64999999999998,False
+12,New York Giants,away,si,0.289,750,145.64999999999998,False
+12,New York Giants,away,draftkings,0.289,700,131.2,False
+12,New York Giants,away,betmgm,0.289,700,131.2,False
+13,Minnesota Vikings,away,fanduel,0.316,630,130.68,False
+11,New York Jets,away,draftkings,0.31,625,124.75,False
+12,New York Giants,away,caesars,0.289,675,123.97499999999998,False
+9,New Orleans Saints,away,draftkings,0.139,1500,122.40000000000003,False
+13,Minnesota Vikings,away,betway,0.316,600,121.2,False
+18,Green Bay Packers,away,bet365,0.598,265,118.27,False
+12,New York Giants,away,betway,0.289,650,116.74999999999999,False
+15,Indianapolis Colts,away,betmgm,0.28600000000000003,650,114.50000000000004,False
+2,Carolina Panthers,away,draftkings,0.341,520,111.42000000000002,False
+2,Carolina Panthers,away,fanduel,0.341,520,111.42000000000002,False
+18,Arizona Cardinals,away,fanduel,0.21600000000000003,870,109.52000000000001,False
+11,New York Jets,away,betmgm,0.31,575,109.25,False
+11,New York Jets,away,si,0.31,575,109.25,False
+4,Dallas Cowboys,home,draftkings,0.402,420,109.04,False
+9,New Orleans Saints,away,fanduel,0.139,1400,108.50000000000003,False
+15,Indianapolis Colts,away,draftkings,0.28600000000000003,625,107.35000000000004,False
+17,Washington Commanders,home,betmgm,0.431,380,106.88000000000001,False
+17,Washington Commanders,home,draftkings,0.431,380,106.88000000000001,False
+17,Washington Commanders,home,si,0.431,380,106.88000000000001,False
+16,Tennessee Titans,home,bet365,0.317,550,106.04999999999998,True
+13,Minnesota Vikings,away,si,0.316,550,105.40000000000002,False
+13,Minnesota Vikings,away,betmgm,0.316,550,105.40000000000002,False
+13,Minnesota Vikings,away,caesars,0.316,550,105.40000000000002,False
+17,Washington Commanders,home,betway,0.431,375,104.72500000000001,False
+13,Cincinnati Bengals,away,bet365,0.325,525,103.125,True
+17,Washington Commanders,home,fanduel,0.431,370,102.57000000000001,False
+1,Detroit Lions,away,draftkings,0.5,305,102.5,True
+11,New York Jets,away,caesars,0.31,550,101.5,False
+11,New York Jets,away,betway,0.31,550,101.5,False
+4,Dallas Cowboys,home,fanduel,0.402,400,101.00000000000001,False
+11,New York Jets,away,fanduel,0.31,540,98.4,False
+17,Washington Commanders,home,caesars,0.431,360,98.26,False
+13,Minnesota Vikings,away,draftkings,0.316,520,95.92,False
+18,Arizona Cardinals,away,draftkings,0.21600000000000003,800,94.4,False
+12,Cincinnati Bengals,home,draftkings,0.46,320,93.20000000000002,False
+16,Las Vegas Raiders,away,betway,0.19699999999999998,875,92.07499999999996,False
+12,Cincinnati Bengals,home,betmgm,0.46,310,88.6,False
+12,Cincinnati Bengals,home,si,0.46,310,88.6,False
+1,Detroit Lions,away,fanduel,0.5,275,87.5,True
+16,Las Vegas Raiders,away,draftkings,0.19699999999999998,850,87.14999999999998,False
+12,Cincinnati Bengals,home,caesars,0.46,305,86.30000000000001,False
+11,New York Jets,away,bet365,0.31,500,86.0,False
+15,Indianapolis Colts,away,caesars,0.28600000000000003,550,85.90000000000002,False
+3,Tennessee Titans,home,fanduel,0.337,450,85.35000000000001,False
+12,Cincinnati Bengals,home,fanduel,0.46,300,84.0,False
+8,Carolina Panthers,home,si,0.43799999999999994,320,83.95999999999997,False
+18,Arizona Cardinals,away,caesars,0.21600000000000003,750,83.60000000000002,False
+4,New Orleans Saints,away,betway,0.193,850,83.35000000000002,False
+4,New Orleans Saints,away,caesars,0.193,850,83.35000000000002,False
+4,New Orleans Saints,away,si,0.193,850,83.35000000000002,False
+4,New Orleans Saints,away,betmgm,0.193,850,83.35000000000002,False
+17,Washington Commanders,home,bet365,0.431,325,83.175,False
+15,Indianapolis Colts,away,fanduel,0.28600000000000003,540,83.04000000000003,False
+18,Miami Dolphins,away,fanduel,0.201,810,82.91000000000001,False
+13,New York Giants,away,fanduel,0.406,350,82.70000000000002,False
+12,New York Jets,away,betmgm,0.20199999999999999,800,81.79999999999998,False
+18,Miami Dolphins,away,draftkings,0.201,800,80.90000000000002,False
+8,Carolina Panthers,home,betmgm,0.43799999999999994,310,79.57999999999997,False
+12,Cincinnati Bengals,home,betway,0.46,290,79.4,False
+16,Las Vegas Raiders,away,fanduel,0.19699999999999998,810,79.26999999999998,False
+1,Tampa Bay Buccaneers,away,fanduel,0.542,230,78.86000000000001,True
+16,Washington Commanders,home,draftkings,0.447,300,78.8,False
+16,Washington Commanders,home,betway,0.447,300,78.8,False
+16,Washington Commanders,home,fanduel,0.447,300,78.8,False
+8,Carolina Panthers,home,caesars,0.43799999999999994,305,77.38999999999997,False
+16,Las Vegas Raiders,away,betmgm,0.19699999999999998,800,77.29999999999998,False
+9,Miami Dolphins,home,fanduel,0.377,370,77.19000000000001,False
+2,New Orleans Saints,home,bet365,0.478,270,76.86,False
+3,Tennessee Titans,home,draftkings,0.337,420,75.24000000000002,False
+8,Carolina Panthers,home,draftkings,0.43799999999999994,300,75.19999999999997,False
+8,Carolina Panthers,home,betway,0.43799999999999994,300,75.19999999999997,False
+8,Carolina Panthers,home,fanduel,0.43799999999999994,300,75.19999999999997,False
+16,Washington Commanders,home,caesars,0.447,290,74.33,False
+12,Tennessee Titans,home,draftkings,0.24,625,74.0,False
+12,Tennessee Titans,home,si,0.24,625,74.0,False
+4,New Orleans Saints,away,bet365,0.193,800,73.70000000000002,False
+15,Indianapolis Colts,away,betway,0.28600000000000003,505,73.03000000000002,False
+18,Arizona Cardinals,away,betmgm,0.21600000000000003,700,72.80000000000001,False
+18,Arizona Cardinals,away,si,0.21600000000000003,700,72.80000000000001,False
+18,Arizona Cardinals,away,betway,0.21600000000000003,700,72.80000000000001,False
+14,Arizona Cardinals,home,fanduel,0.337,410,71.87000000000002,False
+12,New York Jets,away,bet365,0.20199999999999999,750,71.69999999999999,False
+12,New York Jets,away,fanduel,0.20199999999999999,750,71.69999999999999,False
+12,New York Jets,away,caesars,0.20199999999999999,750,71.69999999999999,False
+15,Indianapolis Colts,away,si,0.28600000000000003,500,71.60000000000004,False
+8,Carolina Panthers,home,bet365,0.43799999999999994,290,70.81999999999998,False
+1,Tampa Bay Buccaneers,away,draftkings,0.542,215,70.73,True
+15,Tennessee Titans,away,betway,0.16899999999999998,909,70.52099999999999,False
+5,Baltimore Ravens,home,draftkings,0.515,230,69.95,False
+16,Washington Commanders,home,betmgm,0.447,280,69.86,False
+9,Miami Dolphins,home,betmgm,0.377,350,69.64999999999999,False
+9,Miami Dolphins,home,si,0.377,350,69.64999999999999,False
+9,Miami Dolphins,home,betway,0.377,350,69.64999999999999,False
+9,Miami Dolphins,home,caesars,0.377,350,69.64999999999999,False
+8,Tennessee Titans,away,fanduel,0.168,900,68.00000000000001,False
+8,Tennessee Titans,away,betmgm,0.168,900,68.00000000000001,False
+8,Tennessee Titans,away,betway,0.168,900,68.00000000000001,False
+8,Tennessee Titans,away,si,0.168,900,68.00000000000001,False
+12,Tennessee Titans,home,betway,0.24,600,68.0,False
+6,Baltimore Ravens,home,betway,0.42,300,68.0,False
+12,Tennessee Titans,home,betmgm,0.24,600,68.0,False
+16,Washington Commanders,home,si,0.447,275,67.625,False
+16,Las Vegas Raiders,away,si,0.19699999999999998,750,67.44999999999996,False
+8,Atlanta Falcons,home,bet365,0.631,165,67.215,False
+10,Washington Commanders,home,draftkings,0.34700000000000003,380,66.56000000000002,False
+13,New York Giants,away,betway,0.406,310,66.46000000000001,False
+12,New York Giants,away,bet365,0.289,475,66.17499999999997,False
+18,Indianapolis Colts,away,caesars,0.316,425,65.90000000000002,False
+14,Arizona Cardinals,home,si,0.337,390,65.13000000000001,False
+15,Atlanta Falcons,away,si,0.366,350,64.69999999999999,True
+9,Carolina Panthers,away,draftkings,0.22699999999999998,625,64.575,True
+3,Miami Dolphins,away,si,0.23399999999999999,600,63.79999999999998,False
+3,Miami Dolphins,away,betmgm,0.23399999999999999,600,63.79999999999998,False
+6,Arizona Cardinals,away,si,0.34299999999999997,375,62.925,False
+6,Arizona Cardinals,away,betmgm,0.34299999999999997,375,62.925,False
+11,Tennessee Titans,home,bet365,0.38299999999999995,325,62.77499999999998,False
+13,New York Giants,away,bet365,0.406,300,62.40000000000001,False
+13,New York Giants,away,draftkings,0.406,300,62.40000000000001,False
+12,Tennessee Titans,home,caesars,0.24,575,62.0,False
+14,Arizona Cardinals,home,caesars,0.337,380,61.760000000000005,False
+12,New York Jets,away,betway,0.20199999999999999,700,61.599999999999966,False
+12,New York Jets,away,si,0.20199999999999999,700,61.599999999999966,False
+18,Indianapolis Colts,away,fanduel,0.316,410,61.16000000000001,False
+13,Las Vegas Raiders,away,draftkings,0.293,450,61.14999999999999,False
+13,Las Vegas Raiders,away,fanduel,0.293,450,61.14999999999999,False
+10,San Francisco 49ers,home,si,0.495,225,60.875,False
+10,San Francisco 49ers,home,betmgm,0.495,225,60.875,False
+18,Miami Dolphins,away,caesars,0.201,700,60.800000000000026,False
+12,Tennessee Titans,home,fanduel,0.24,570,60.79999999999998,False
+9,Miami Dolphins,home,bet365,0.377,325,60.22500000000001,False
+9,Miami Dolphins,home,draftkings,0.377,325,60.22500000000001,False
+14,Arizona Cardinals,home,betway,0.337,375,60.07500000000002,False
+14,Arizona Cardinals,home,betmgm,0.337,375,60.07500000000002,False
+14,Arizona Cardinals,home,bet365,0.337,375,60.07500000000002,False
+18,New York Giants,home,bet365,0.515,210,59.650000000000006,True
+7,Las Vegas Raiders,away,si,0.212,650,58.999999999999986,False
+7,Las Vegas Raiders,away,betmgm,0.212,650,58.999999999999986,False
+9,Carolina Panthers,away,betmgm,0.22699999999999998,600,58.89999999999999,True
+9,Carolina Panthers,away,betway,0.22699999999999998,600,58.89999999999999,True
+9,Carolina Panthers,away,caesars,0.22699999999999998,600,58.89999999999999,True
+14,Arizona Cardinals,home,draftkings,0.337,370,58.390000000000015,False
+18,Indianapolis Colts,away,bet365,0.316,400,58.000000000000014,False
+18,Indianapolis Colts,away,draftkings,0.316,400,58.000000000000014,False
+18,Indianapolis Colts,away,si,0.316,400,58.000000000000014,False
+18,Indianapolis Colts,away,betmgm,0.316,400,58.000000000000014,False
+16,Las Vegas Raiders,away,caesars,0.19699999999999998,700,57.599999999999966,False
+6,Baltimore Ravens,home,betmgm,0.42,275,57.49999999999999,False
+6,Baltimore Ravens,home,si,0.42,275,57.49999999999999,False
+9,Carolina Panthers,away,fanduel,0.22699999999999998,590,56.62999999999998,True
+15,Las Vegas Raiders,away,draftkings,0.21600000000000003,625,56.60000000000002,False
+12,New York Jets,away,draftkings,0.20199999999999999,675,56.54999999999998,False
+10,Washington Commanders,home,si,0.34700000000000003,350,56.15000000000002,False
+10,Washington Commanders,home,betway,0.34700000000000003,350,56.15000000000002,False
+6,Cincinnati Bengals,away,betmgm,0.195,700,56.0,False
+6,Cincinnati Bengals,away,betway,0.195,700,56.0,False
+6,Cincinnati Bengals,away,si,0.195,700,56.0,False
+10,San Francisco 49ers,home,fanduel,0.495,215,55.925,False
+18,Miami Dolphins,away,si,0.201,675,55.77500000000002,False
+18,Miami Dolphins,away,betmgm,0.201,675,55.77500000000002,False
+7,Arizona Cardinals,home,draftkings,0.389,300,55.6,False
+7,Arizona Cardinals,home,betway,0.389,300,55.6,False
+18,Indianapolis Colts,away,betway,0.316,390,54.84,False
+6,Arizona Cardinals,away,draftkings,0.34299999999999997,350,54.34999999999998,False
+6,Arizona Cardinals,away,betway,0.34299999999999997,350,54.34999999999998,False
+13,New York Giants,away,betmgm,0.406,280,54.28000000000001,False
+13,New York Giants,away,si,0.406,280,54.28000000000001,False
+13,New York Giants,away,caesars,0.406,280,54.28000000000001,False
+8,Washington Commanders,away,betway,0.257,500,54.2,False
+10,San Francisco 49ers,home,draftkings,0.495,210,53.45,False
+10,San Francisco 49ers,home,caesars,0.495,210,53.45,False
+10,San Francisco 49ers,home,betway,0.495,210,53.45,False
+15,Las Vegas Raiders,away,fanduel,0.21600000000000003,610,53.360000000000014,False
+6,Baltimore Ravens,home,caesars,0.42,265,53.29999999999999,False
+9,Carolina Panthers,away,si,0.22699999999999998,575,53.22499999999998,True
+7,New York Giants,away,bet365,0.34,350,53.00000000000003,False
+7,New York Giants,away,betway,0.34,350,53.00000000000003,False
+7,New York Giants,away,si,0.34,350,53.00000000000003,False
+DIV,Houston Texans,away,caesars,0.588,160,52.879999999999995,False
+DIV,Houston Texans,away,fanduel,0.588,160,52.879999999999995,False
+10,Washington Commanders,home,caesars,0.34700000000000003,340,52.68000000000001,False
+10,Washington Commanders,home,betmgm,0.34700000000000003,340,52.68000000000001,False
+3,Miami Dolphins,away,bet365,0.23399999999999999,550,52.099999999999994,False
+3,Miami Dolphins,away,betway,0.23399999999999999,550,52.099999999999994,False
+3,Miami Dolphins,away,caesars,0.23399999999999999,550,52.099999999999994,False
+18,Tennessee Titans,away,fanduel,0.22699999999999998,570,52.08999999999999,False
+15,Arizona Cardinals,away,draftkings,0.27399999999999997,455,52.06999999999999,False
+4,Dallas Cowboys,home,caesars,0.402,278,51.956,False
+2,Cleveland Browns,away,betmgm,0.20199999999999999,650,51.49999999999997,False
+2,Cleveland Browns,away,si,0.20199999999999999,650,51.49999999999997,False
+15,Las Vegas Raiders,away,betway,0.21600000000000003,600,51.20000000000002,False
+15,Las Vegas Raiders,away,caesars,0.21600000000000003,600,51.20000000000002,False
+8,Tennessee Titans,away,caesars,0.168,800,51.2,False
+8,Tennessee Titans,away,draftkings,0.168,800,51.2,False
+6,Arizona Cardinals,away,fanduel,0.34299999999999997,340,50.91999999999999,False
+6,Arizona Cardinals,away,caesars,0.34299999999999997,340,50.91999999999999,False
+4,Dallas Cowboys,home,si,0.402,275,50.750000000000014,False
+4,Dallas Cowboys,home,betmgm,0.402,275,50.750000000000014,False
+18,Miami Dolphins,away,betway,0.201,650,50.750000000000014,False
+5,Minnesota Vikings,away,fanduel,0.679,122,50.738000000000014,True
+15,Arizona Cardinals,away,fanduel,0.27399999999999997,450,50.69999999999999,False
+4,New Orleans Saints,away,fanduel,0.193,680,50.54000000000002,False
+8,Miami Dolphins,away,si,0.366,310,50.059999999999995,True
+12,Tennessee Titans,home,bet365,0.24,525,50.0,False
+DIV,Houston Texans,away,si,0.588,155,49.94,False
+DIV,Houston Texans,away,betmgm,0.588,155,49.94,False
+3,Los Angeles Rams,away,draftkings,0.41600000000000004,260,49.76000000000001,False
+7,New York Giants,away,betmgm,0.34,340,49.60000000000002,False
+7,New York Giants,away,fanduel,0.34,340,49.60000000000002,False
+5,Baltimore Ravens,home,fanduel,0.515,190,49.35000000000001,False
+10,Washington Commanders,home,fanduel,0.34700000000000003,330,49.21000000000001,False
+7,Las Vegas Raiders,away,draftkings,0.212,600,48.400000000000006,False
+7,Las Vegas Raiders,away,betway,0.212,600,48.400000000000006,False
+2,New York Jets,home,bet365,0.35200000000000004,320,47.84000000000002,False
+7,Arizona Cardinals,home,caesars,0.389,280,47.82,False
+8,Washington Commanders,away,bet365,0.257,475,47.775000000000006,False
+8,Washington Commanders,away,si,0.257,475,47.775000000000006,False
+8,Washington Commanders,away,betmgm,0.257,475,47.775000000000006,False
+18,Tennessee Titans,away,caesars,0.22699999999999998,550,47.55,False
+18,Tennessee Titans,away,draftkings,0.22699999999999998,550,47.55,False
+18,Tennessee Titans,away,betmgm,0.22699999999999998,550,47.55,False
+18,Tennessee Titans,away,si,0.22699999999999998,550,47.55,False
+14,Atlanta Falcons,home,betmgm,0.38799999999999996,280,47.439999999999976,False
+14,Atlanta Falcons,home,si,0.38799999999999996,280,47.439999999999976,False
+14,Atlanta Falcons,home,draftkings,0.38799999999999996,280,47.439999999999976,False
+8,New York Giants,away,fanduel,0.355,315,47.32499999999999,False
+9,Tennessee Titans,home,draftkings,0.258,470,47.06,False
+DIV,Houston Texans,away,betway,0.588,150,46.999999999999986,False
+DIV,Houston Texans,away,draftkings,0.588,150,46.999999999999986,False
+5,Las Vegas Raiders,away,betway,0.36700000000000005,300,46.80000000000001,False
+4,Dallas Cowboys,home,betway,0.402,265,46.730000000000004,False
+4,Dallas Cowboys,home,bet365,0.402,265,46.730000000000004,False
+13,Las Vegas Raiders,away,caesars,0.293,400,46.499999999999986,False
+13,Las Vegas Raiders,away,betmgm,0.293,400,46.499999999999986,False
+8,Miami Dolphins,away,betway,0.366,300,46.4,True
+7,Las Vegas Raiders,away,fanduel,0.212,590,46.28,False
+6,Cincinnati Bengals,away,bet365,0.195,650,46.25,False
+13,Cincinnati Bengals,away,fanduel,0.325,350,46.25,True
+7,New York Giants,away,draftkings,0.34,330,46.20000000000002,False
+7,New York Giants,away,caesars,0.34,330,46.20000000000002,False
+6,Cleveland Browns,away,fanduel,0.365,300,46.0,False
+7,Arizona Cardinals,home,si,0.389,275,45.87500000000001,False
+7,Arizona Cardinals,home,betmgm,0.389,275,45.87500000000001,False
+15,Las Vegas Raiders,away,bet365,0.21600000000000003,575,45.80000000000001,False
+WC,Carolina Panthers,home,betway,0.265,450,45.75,False
+WC,Carolina Panthers,home,fanduel,0.265,450,45.75,False
+3,Los Angeles Rams,away,fanduel,0.41600000000000004,250,45.600000000000016,False
+8,New York Giants,away,si,0.355,310,45.55,False
+8,New York Giants,away,betmgm,0.355,310,45.55,False
+11,Tennessee Titans,home,draftkings,0.38299999999999995,280,45.53999999999998,False
+5,New Orleans Saints,home,fanduel,0.5329999999999999,172,44.97599999999998,True
+1,Tennessee Titans,away,betway,0.305,375,44.875,False
+1,Tennessee Titans,away,betmgm,0.305,375,44.875,False
+1,Tennessee Titans,away,bet365,0.305,375,44.875,False
+4,New Orleans Saints,away,draftkings,0.193,650,44.750000000000014,False
+15,Arizona Cardinals,away,betmgm,0.27399999999999997,425,43.849999999999994,False
+11,New York Giants,home,si,0.359,300,43.599999999999994,False
+11,New York Giants,home,caesars,0.359,300,43.599999999999994,False
+11,New York Giants,home,betmgm,0.359,300,43.599999999999994,False
+11,New York Giants,home,betway,0.359,300,43.599999999999994,False
+13,Las Vegas Raiders,away,betway,0.293,390,43.56999999999999,False
+13,Las Vegas Raiders,away,si,0.293,390,43.56999999999999,False
+3,New Orleans Saints,away,bet365,0.35,310,43.5,False
+3,New Orleans Saints,away,si,0.35,310,43.5,False
+3,New Orleans Saints,away,betmgm,0.35,310,43.5,False
+5,Las Vegas Raiders,away,si,0.36700000000000005,290,43.130000000000024,False
+5,Las Vegas Raiders,away,betmgm,0.36700000000000005,290,43.130000000000024,False
+13,Cincinnati Bengals,away,betmgm,0.325,340,43.0,True
+14,Las Vegas Raiders,home,betmgm,0.31,360,42.599999999999994,False
+14,Las Vegas Raiders,home,draftkings,0.31,360,42.599999999999994,False
+14,Las Vegas Raiders,home,fanduel,0.31,360,42.599999999999994,False
+5,Minnesota Vikings,away,draftkings,0.679,110,42.59000000000002,True
+15,Arizona Cardinals,away,betway,0.27399999999999997,420,42.47999999999999,False
+8,New York Giants,away,bet365,0.355,300,42.0,False
+8,New York Giants,away,draftkings,0.355,300,42.0,False
+12,Tampa Bay Buccaneers,away,fanduel,0.355,300,42.0,False
+12,Tampa Bay Buccaneers,away,betmgm,0.355,300,42.0,False
+8,New York Giants,away,betway,0.355,300,42.0,False
+7,Arizona Cardinals,home,fanduel,0.389,265,41.98500000000001,False
+16,Pittsburgh Steelers,away,betway,0.327,334,41.91799999999999,True
+14,Atlanta Falcons,home,fanduel,0.38799999999999996,265,41.61999999999998,False
+14,Atlanta Falcons,home,betway,0.38799999999999996,265,41.61999999999998,False
+2,Cleveland Browns,away,betway,0.20199999999999999,600,41.39999999999998,False
+6,Cincinnati Bengals,away,caesars,0.195,625,41.375,False
+8,Washington Commanders,away,caesars,0.257,450,41.35000000000001,False
+5,New England Patriots,away,si,0.313,350,40.849999999999994,True
+5,New England Patriots,away,betway,0.313,350,40.849999999999994,True
+5,New England Patriots,away,betmgm,0.313,350,40.849999999999994,True
+16,Pittsburgh Steelers,away,draftkings,0.327,330,40.61,True
+13,Chicago Bears,away,betway,0.34,313,40.420000000000016,True
+15,Las Vegas Raiders,away,si,0.21600000000000003,550,40.400000000000006,False
+15,Las Vegas Raiders,away,betmgm,0.21600000000000003,550,40.400000000000006,False
+12,Cincinnati Bengals,home,bet365,0.46,205,40.3,False
+1,Tennessee Titans,away,si,0.305,360,40.3,False
+8,New York Giants,away,caesars,0.355,295,40.224999999999994,False
+10,New York Giants,away,betway,0.49200000000000005,185,40.22000000000001,False
+10,New York Giants,away,caesars,0.49200000000000005,185,40.22000000000001,False
+3,New Orleans Saints,away,betway,0.35,300,40.0,False
+1,Dallas Cowboys,away,betway,0.311,350,39.94999999999999,False
+1,Dallas Cowboys,away,si,0.311,350,39.94999999999999,False
+15,Arizona Cardinals,away,caesars,0.27399999999999997,410,39.739999999999995,False
+14,Atlanta Falcons,home,caesars,0.38799999999999996,260,39.679999999999986,False
+10,Miami Dolphins,home,fanduel,0.297,370,39.58999999999999,True
+14,Las Vegas Raiders,home,caesars,0.31,350,39.5,False
+14,Las Vegas Raiders,home,si,0.31,350,39.5,False
+9,Tennessee Titans,home,caesars,0.258,440,39.32000000000001,False
+WC,Carolina Panthers,home,caesars,0.265,425,39.125,False
+WC,Carolina Panthers,home,si,0.265,425,39.125,False
+WC,Carolina Panthers,home,betmgm,0.265,425,39.125,False
+8,Miami Dolphins,away,betmgm,0.366,280,39.080000000000005,True
+8,Miami Dolphins,away,draftkings,0.366,280,39.080000000000005,True
+8,Miami Dolphins,away,caesars,0.366,280,39.080000000000005,True
+5,San Francisco 49ers,away,betmgm,0.309,350,39.05,True
+5,San Francisco 49ers,away,betway,0.309,350,39.05,True
+5,San Francisco 49ers,away,si,0.309,350,39.05,True
+17,Indianapolis Colts,home,draftkings,0.479,190,38.90999999999999,False
+6,Baltimore Ravens,home,fanduel,0.42,230,38.59999999999999,False
+5,New Orleans Saints,home,draftkings,0.5329999999999999,160,38.57999999999998,True
+16,Washington Commanders,home,bet365,0.447,210,38.57000000000001,False
+3,Detroit Lions,away,bet365,0.433,220,38.56000000000001,True
+12,Tampa Bay Buccaneers,away,si,0.355,290,38.44999999999999,False
+12,Tampa Bay Buccaneers,away,betway,0.355,290,38.44999999999999,False
+3,New Orleans Saints,away,caesars,0.35,295,38.25,False
+11,New York Giants,home,fanduel,0.359,285,38.215,False
+7,Las Vegas Raiders,away,caesars,0.212,550,37.8,False
+10,New York Giants,away,draftkings,0.49200000000000005,180,37.760000000000005,False
+10,New York Giants,away,betmgm,0.49200000000000005,180,37.760000000000005,False
+10,New York Giants,away,si,0.49200000000000005,180,37.760000000000005,False
+14,Atlanta Falcons,home,bet365,0.38799999999999996,255,37.739999999999974,False
+5,Las Vegas Raiders,away,caesars,0.36700000000000005,275,37.625000000000014,False
+5,Las Vegas Raiders,away,bet365,0.36700000000000005,275,37.625000000000014,False
+11,Tampa Bay Buccaneers,away,betmgm,0.382,260,37.52000000000001,False
+11,Tampa Bay Buccaneers,away,si,0.382,260,37.52000000000001,False
+16,Pittsburgh Steelers,away,caesars,0.327,320,37.33999999999999,True
+8,Miami Dolphins,away,fanduel,0.366,275,37.24999999999999,True
+15,Arizona Cardinals,away,si,0.27399999999999997,400,36.999999999999986,False
+4,Kansas City Chiefs,home,draftkings,0.498,175,36.95,True
+9,Tennessee Titans,home,fanduel,0.258,430,36.739999999999995,False
+12,Tampa Bay Buccaneers,away,draftkings,0.355,285,36.675,False
+12,Tampa Bay Buccaneers,away,caesars,0.355,285,36.675,False
+13,Cincinnati Bengals,away,caesars,0.325,320,36.5,True
+2,Cleveland Browns,away,caesars,0.20199999999999999,575,36.34999999999998,False
+18,Detroit Lions,away,caesars,0.545,150,36.25000000000001,True
+18,Detroit Lions,away,betway,0.545,150,36.25000000000001,True
+18,Tennessee Titans,away,bet365,0.22699999999999998,500,36.19999999999999,False
+18,Tennessee Titans,away,betway,0.22699999999999998,500,36.19999999999999,False
+5,New England Patriots,away,caesars,0.313,335,36.155,True
+8,Chicago Bears,away,bet365,0.39399999999999996,245,35.92999999999998,False
+10,New York Giants,away,fanduel,0.49200000000000005,176,35.792000000000016,False
+16,Pittsburgh Steelers,away,fanduel,0.327,315,35.705,True
+9,Tennessee Titans,home,betmgm,0.258,425,35.45,False
+9,Tennessee Titans,home,si,0.258,425,35.45,False
+9,Tennessee Titans,home,betway,0.258,425,35.45,False
+10,New York Jets,home,betmgm,0.645,110,35.45,True
+10,New York Jets,home,betway,0.645,110,35.45,True
+10,New York Jets,home,draftkings,0.645,110,35.45,True
+10,New York Jets,home,si,0.645,110,35.45,True
+10,New York Jets,home,caesars,0.645,110,35.45,True
+10,New York Jets,home,fanduel,0.645,110,35.45,True
+1,Seattle Seahawks,home,draftkings,0.45899999999999996,195,35.404999999999994,False
+11,Cincinnati Bengals,away,bet365,0.41,230,35.29999999999999,False
+10,Jacksonville Jaguars,away,bet365,0.552,145,35.24000000000001,False
+DIV,Houston Texans,away,bet365,0.588,130,35.239999999999995,False
+2,Indianapolis Colts,home,fanduel,0.512,164,35.168000000000006,True
+18,Detroit Lions,away,fanduel,0.545,148,35.16000000000002,True
+WC,Carolina Panthers,home,draftkings,0.265,410,35.150000000000006,False
+4,Carolina Panthers,away,draftkings,0.429,215,35.135000000000005,False
+14,Las Vegas Raiders,home,betway,0.31,335,34.849999999999994,False
+5,San Francisco 49ers,away,caesars,0.309,335,34.41499999999999,True
+6,Baltimore Ravens,home,draftkings,0.42,220,34.399999999999984,False
+3,Detroit Lions,away,caesars,0.433,210,34.23,True
+1,Tennessee Titans,away,caesars,0.305,340,34.2,False
+17,Indianapolis Colts,home,bet365,0.479,180,34.12,False
+17,Indianapolis Colts,home,fanduel,0.479,180,34.12,False
+16,Pittsburgh Steelers,away,si,0.327,310,34.06999999999999,True
+16,Pittsburgh Steelers,away,betmgm,0.327,310,34.06999999999999,True
+11,Cincinnati Bengals,away,betway,0.41,227,34.069999999999986,False
+4,Washington Commanders,away,fanduel,0.5489999999999999,144,33.955999999999975,False
+17,Atlanta Falcons,home,bet365,0.282,375,33.94999999999999,True
+1,Kansas City Chiefs,away,draftkings,0.57,135,33.94999999999998,False
+4,Cincinnati Bengals,away,betmgm,0.27899999999999997,380,33.91999999999997,False
+4,Cincinnati Bengals,away,si,0.27899999999999997,380,33.91999999999997,False
+17,Philadelphia Eagles,away,fanduel,0.531,152,33.812000000000005,True
+7,New Orleans Saints,away,bet365,0.39899999999999997,235,33.66499999999999,False
+10,Miami Dolphins,home,si,0.297,350,33.64999999999998,True
+10,Miami Dolphins,home,betway,0.297,350,33.64999999999998,True
+10,Miami Dolphins,home,betmgm,0.297,350,33.64999999999998,True
+13,Cincinnati Bengals,away,si,0.325,310,33.25,True
+17,Indianapolis Colts,home,caesars,0.479,178,33.162,False
+5,New England Patriots,away,bet365,0.313,325,33.02499999999999,True
+15,New York Giants,home,betway,0.604,120,32.88,False
+17,Philadelphia Eagles,away,si,0.531,150,32.75000000000001,True
+1,New Orleans Saints,home,si,0.39,240,32.60000000000001,False
+4,Cincinnati Bengals,away,betway,0.27899999999999997,375,32.52499999999998,False
+14,Tennessee Titans,away,betway,0.48100000000000004,175,32.27500000000002,True
+1,Dallas Cowboys,away,bet365,0.311,325,32.175,False
+1,Dallas Cowboys,away,betmgm,0.311,325,32.175,False
+8,New York Jets,away,betmgm,0.413,220,32.160000000000004,True
+8,New York Jets,away,fanduel,0.413,220,32.160000000000004,True
+8,New York Jets,away,betway,0.413,220,32.160000000000004,True
+8,New York Jets,away,si,0.413,220,32.160000000000004,True
+18,Detroit Lions,away,draftkings,0.545,142,31.890000000000008,True
+18,New Orleans Saints,away,betway,0.45,193,31.85,False
+13,Las Vegas Raiders,away,bet365,0.293,350,31.849999999999994,False
+4,Washington Commanders,away,draftkings,0.5489999999999999,140,31.759999999999977,False
+17,Indianapolis Colts,home,betway,0.479,175,31.725,False
+17,Philadelphia Eagles,away,betway,0.531,148,31.68800000000001,True
+4,Kansas City Chiefs,home,fanduel,0.498,164,31.471999999999994,True
+WC,San Francisco 49ers,away,draftkings,0.431,205,31.455000000000013,True
+5,San Francisco 49ers,away,bet365,0.309,325,31.32499999999999,True
+17,Philadelphia Eagles,away,caesars,0.531,147,31.157000000000004,True
+1,Kansas City Chiefs,away,fanduel,0.57,130,31.099999999999987,False
+1,Kansas City Chiefs,away,caesars,0.57,130,31.099999999999987,False
+13,Chicago Bears,away,fanduel,0.34,285,30.90000000000002,True
+4,Carolina Panthers,away,fanduel,0.429,205,30.845,False
+18,Detroit Lions,away,betmgm,0.545,140,30.80000000000002,True
+18,Detroit Lions,away,si,0.545,140,30.80000000000002,True
+10,Miami Dolphins,home,caesars,0.297,340,30.67999999999998,True
+13,Washington Commanders,home,draftkings,0.37799999999999995,245,30.409999999999975,False
+7,Tampa Bay Buccaneers,away,betmgm,0.38299999999999995,240,30.219999999999985,False
+7,Tampa Bay Buccaneers,away,si,0.38299999999999995,240,30.219999999999985,False
+14,Las Vegas Raiders,home,bet365,0.31,320,30.200000000000003,False
+8,New York Jets,away,caesars,0.413,215,30.095000000000006,True
+17,Philadelphia Eagles,away,betmgm,0.531,145,30.095000000000006,True
+8,New York Jets,away,draftkings,0.413,215,30.095000000000006,True
+3,Cleveland Browns,home,si,0.289,350,30.049999999999983,True
+3,Cleveland Browns,home,draftkings,0.289,350,30.049999999999983,True
+3,Cleveland Browns,home,betway,0.289,350,30.049999999999983,True
+3,Cleveland Browns,home,betmgm,0.289,350,30.049999999999983,True
+13,Cincinnati Bengals,away,betway,0.325,300,30.0,True
+13,Cincinnati Bengals,away,draftkings,0.325,300,30.0,True
+3,Detroit Lions,away,si,0.433,200,29.9,True
+3,Detroit Lions,away,betway,0.433,200,29.9,True
+3,Detroit Lions,away,betmgm,0.433,200,29.9,True
+14,Tennessee Titans,away,draftkings,0.48100000000000004,170,29.87000000000002,True
+10,Arizona Cardinals,away,caesars,0.35100000000000003,270,29.870000000000005,False
+3,Las Vegas Raiders,away,fanduel,0.41200000000000003,215,29.780000000000015,False
+18,New Orleans Saints,away,fanduel,0.45,188,29.6,False
+17,Indianapolis Colts,home,si,0.479,170,29.32999999999999,False
+17,Indianapolis Colts,home,betmgm,0.479,170,29.32999999999999,False
+WC,San Francisco 49ers,away,betmgm,0.431,200,29.30000000000001,True
+WC,San Francisco 49ers,away,betway,0.431,200,29.30000000000001,True
+WC,San Francisco 49ers,away,si,0.431,200,29.30000000000001,True
+WC,San Francisco 49ers,away,bet365,0.431,200,29.30000000000001,True
+11,New York Giants,home,draftkings,0.359,260,29.24000000000001,False
+13,Chicago Bears,away,caesars,0.34,280,29.200000000000017,True
+13,Chicago Bears,away,betmgm,0.34,280,29.200000000000017,True
+13,Chicago Bears,away,si,0.34,280,29.200000000000017,True
+3,Carolina Panthers,home,si,0.43,200,28.999999999999993,True
+3,Carolina Panthers,home,betway,0.43,200,28.999999999999993,True
+3,Carolina Panthers,home,betmgm,0.43,200,28.999999999999993,True
+14,Tennessee Titans,away,caesars,0.48100000000000004,168,28.908000000000015,True
+14,Tennessee Titans,away,fanduel,0.48100000000000004,168,28.908000000000015,True
+WC,San Francisco 49ers,away,caesars,0.431,199,28.869000000000014,True
+4,Carolina Panthers,away,si,0.429,200,28.700000000000003,False
+4,Carolina Panthers,away,betway,0.429,200,28.700000000000003,False
+4,Carolina Panthers,away,betmgm,0.429,200,28.700000000000003,False
+4,Carolina Panthers,away,bet365,0.429,200,28.700000000000003,False
+13,Washington Commanders,home,betmgm,0.37799999999999995,240,28.519999999999975,False
+2,Chicago Bears,away,betmgm,0.37799999999999995,240,28.519999999999975,False
+13,Washington Commanders,home,bet365,0.37799999999999995,240,28.519999999999975,False
+2,Chicago Bears,away,si,0.37799999999999995,240,28.519999999999975,False
+13,Washington Commanders,home,fanduel,0.37799999999999995,240,28.519999999999975,False
+13,Washington Commanders,home,si,0.37799999999999995,240,28.519999999999975,False
+17,Philadelphia Eagles,away,draftkings,0.531,142,28.502000000000002,True
+4,Cincinnati Bengals,away,caesars,0.27899999999999997,360,28.339999999999975,False
+18,New York Giants,home,betway,0.515,149,28.235,True
+10,Arizona Cardinals,away,betway,0.35100000000000003,265,28.11500000000001,False
+16,Las Vegas Raiders,away,bet365,0.19699999999999998,550,28.049999999999983,False
+2,Indianapolis Colts,home,draftkings,0.512,150,28.0,True
+2,Indianapolis Colts,home,bet365,0.512,150,28.0,True
+2,Carolina Panthers,away,betmgm,0.341,275,27.875,False
+9,Washington Commanders,home,caesars,0.568,125,27.799999999999997,False
+9,Washington Commanders,home,betmgm,0.568,125,27.799999999999997,False
+9,Washington Commanders,home,betway,0.568,125,27.799999999999997,False
+9,Washington Commanders,home,bet365,0.568,125,27.799999999999997,False
+9,Washington Commanders,home,si,0.568,125,27.799999999999997,False
+10,Las Vegas Raiders,away,bet365,0.26899999999999996,375,27.774999999999977,False
+10,Las Vegas Raiders,away,betway,0.26899999999999996,375,27.774999999999977,False
+6,Cleveland Browns,away,draftkings,0.365,250,27.75,False
+4,Tennessee Titans,away,bet365,0.304,320,27.680000000000007,False
+15,Detroit Lions,away,betway,0.405,215,27.575000000000003,False
+15,Detroit Lions,away,fanduel,0.405,215,27.575000000000003,False
+1,Dallas Cowboys,away,fanduel,0.311,310,27.50999999999999,False
+1,Dallas Cowboys,away,caesars,0.311,310,27.50999999999999,False
+13,Chicago Bears,away,bet365,0.34,275,27.500000000000014,True
+14,Tennessee Titans,away,si,0.48100000000000004,165,27.465000000000018,True
+14,Tennessee Titans,away,betmgm,0.48100000000000004,165,27.465000000000018,True
+9,Washington Commanders,home,draftkings,0.568,124,27.231999999999985,False
+7,Las Vegas Raiders,away,bet365,0.212,500,27.200000000000003,False
+18,New Orleans Saints,away,caesars,0.45,182,26.9,False
+15,Tennessee Titans,away,bet365,0.16899999999999998,650,26.75,False
+WC,San Francisco 49ers,away,fanduel,0.431,194,26.714000000000013,True
+8,Baltimore Ravens,home,draftkings,0.603,110,26.629999999999995,True
+13,Washington Commanders,home,caesars,0.37799999999999995,235,26.629999999999974,False
+4,Carolina Panthers,away,caesars,0.429,195,26.555000000000007,False
+16,Cincinnati Bengals,away,bet365,0.703,-125,26.539999999999992,True
+9,New York Giants,home,bet365,0.562,125,26.450000000000003,False
+11,Tampa Bay Buccaneers,away,betway,0.382,231,26.442000000000007,False
+13,Minnesota Vikings,away,bet365,0.316,300,26.400000000000006,False
+10,Arizona Cardinals,away,betmgm,0.35100000000000003,260,26.36,False
+10,Arizona Cardinals,away,si,0.35100000000000003,260,26.36,False
+4,Washington Commanders,away,bet365,0.5489999999999999,130,26.269999999999982,False
+2,Cleveland Browns,away,bet365,0.20199999999999999,525,26.249999999999986,False
+16,New York Giants,home,si,0.561,125,26.22500000000001,False
+16,New York Giants,home,betmgm,0.561,125,26.22500000000001,False
+10,Miami Dolphins,home,bet365,0.297,325,26.22499999999998,True
+10,Miami Dolphins,home,draftkings,0.297,325,26.22499999999998,True
+18,New York Giants,home,si,0.515,145,26.174999999999997,True
+2,Carolina Panthers,away,caesars,0.341,270,26.17,False
+11,Tampa Bay Buccaneers,away,fanduel,0.382,230,26.060000000000002,False
+11,Tampa Bay Buccaneers,away,caesars,0.382,230,26.060000000000002,False
+9,New York Giants,home,draftkings,0.562,124,25.888000000000005,False
+16,New York Giants,home,draftkings,0.561,124,25.664000000000016,False
+11,New York Giants,home,bet365,0.359,250,25.650000000000006,False
+15,Detroit Lions,away,caesars,0.405,210,25.55000000000001,False
+4,Cleveland Browns,away,si,0.228,450,25.400000000000006,False
+4,Cleveland Browns,away,betmgm,0.228,450,25.400000000000006,False
+17,Arizona Cardinals,away,fanduel,0.321,290,25.189999999999998,False
+1,Houston Texans,away,draftkings,0.439,185,25.11500000000001,False
+16,New York Giants,home,caesars,0.561,123,25.10300000000001,False
+16,New York Giants,home,betway,0.561,123,25.10300000000001,False
+14,Tennessee Titans,away,bet365,0.48100000000000004,160,25.060000000000016,True
+15,Tennessee Titans,away,fanduel,0.16899999999999998,640,25.060000000000002,False
+1,New York Giants,away,fanduel,0.32899999999999996,280,25.019999999999982,False
+9,Washington Commanders,home,fanduel,0.568,120,24.959999999999994,False
+5,Cincinnati Bengals,home,betmgm,0.23800000000000002,425,24.950000000000003,False
+5,Cincinnati Bengals,home,betway,0.23800000000000002,425,24.950000000000003,False
+9,Carolina Panthers,away,bet365,0.22699999999999998,450,24.849999999999994,True
+1,New Orleans Saints,home,betway,0.39,220,24.799999999999997,False
+17,Philadelphia Eagles,away,bet365,0.531,135,24.785000000000004,True
+5,Las Vegas Raiders,away,fanduel,0.36700000000000005,240,24.780000000000015,False
+2,Chicago Bears,away,fanduel,0.37799999999999995,230,24.739999999999974,False
+3,Carolina Panthers,home,caesars,0.43,190,24.699999999999996,True
+4,Tennessee Titans,away,betmgm,0.304,310,24.64,False
+4,Tennessee Titans,away,si,0.304,310,24.64,False
+16,Arizona Cardinals,home,fanduel,0.537,132,24.584000000000003,False
+16,New York Giants,home,fanduel,0.561,122,24.542000000000016,False
+9,Minnesota Vikings,away,betmgm,0.249,400,24.5,True
+11,Tennessee Titans,home,si,0.38299999999999995,225,24.47499999999998,False
+7,Tampa Bay Buccaneers,away,caesars,0.38299999999999995,225,24.47499999999998,False
+11,Tennessee Titans,home,betmgm,0.38299999999999995,225,24.47499999999998,False
+2,Carolina Panthers,away,si,0.341,265,24.465000000000003,False
+2,Carolina Panthers,away,betway,0.341,265,24.465000000000003,False
+15,Atlanta Falcons,away,betmgm,0.366,240,24.440000000000005,True
+6,Cleveland Browns,away,betway,0.365,240,24.099999999999994,False
+2,Chicago Bears,away,caesars,0.37799999999999995,228,23.983999999999973,False
+8,Minnesota Vikings,away,betmgm,0.488,154,23.951999999999998,False
+18,Pittsburgh Steelers,home,si,0.42,195,23.899999999999984,True
+17,Carolina Panthers,home,betmgm,0.344,260,23.83999999999999,False
+17,Carolina Panthers,home,si,0.344,260,23.83999999999999,False
+17,Carolina Panthers,home,fanduel,0.344,260,23.83999999999999,False
+17,Carolina Panthers,home,betway,0.344,260,23.83999999999999,False
+15,New York Giants,home,bet365,0.604,105,23.819999999999993,False
+10,Las Vegas Raiders,away,draftkings,0.26899999999999996,360,23.73999999999998,False
+WC,Los Angeles Chargers,away,betway,0.45299999999999996,173,23.668999999999997,False
+9,New York Giants,home,caesars,0.562,120,23.640000000000015,False
+9,New York Giants,home,fanduel,0.562,120,23.640000000000015,False
+9,New York Giants,home,si,0.562,120,23.640000000000015,False
+9,New York Giants,home,betmgm,0.562,120,23.640000000000015,False
+18,New York Giants,home,betmgm,0.515,140,23.60000000000001,True
+18,New York Giants,home,caesars,0.515,140,23.60000000000001,True
+18,New York Giants,home,draftkings,0.515,140,23.60000000000001,True
+4,Washington Commanders,away,caesars,0.5489999999999999,125,23.524999999999977,False
+4,Washington Commanders,away,betway,0.5489999999999999,125,23.524999999999977,False
+18,Pittsburgh Steelers,home,fanduel,0.42,194,23.479999999999997,True
+16,Indianapolis Colts,home,bet365,0.39799999999999996,210,23.37999999999999,False
+11,Tennessee Titans,home,betway,0.38299999999999995,222,23.325999999999993,False
+14,Cincinnati Bengals,away,fanduel,0.368,235,23.28,False
+14,Cincinnati Bengals,away,bet365,0.368,235,23.28,False
+15,Cincinnati Bengals,home,fanduel,0.485,154,23.189999999999998,False
+4,Tennessee Titans,away,caesars,0.304,305,23.120000000000005,False
+8,Baltimore Ravens,home,fanduel,0.603,104,23.011999999999993,True
+11,Cincinnati Bengals,away,fanduel,0.41,200,22.999999999999993,False
+11,Cincinnati Bengals,away,betmgm,0.41,200,22.999999999999993,False
+11,Cincinnati Bengals,away,si,0.41,200,22.999999999999993,False
+3,Carolina Panthers,home,fanduel,0.43,186,22.979999999999997,True
+13,Washington Commanders,home,betway,0.37799999999999995,225,22.849999999999973,False
+1,Carolina Panthers,away,draftkings,0.409,200,22.700000000000003,False
+1,Carolina Panthers,away,fanduel,0.409,200,22.700000000000003,False
+18,New York Giants,home,fanduel,0.515,138,22.570000000000007,True
+7,Tampa Bay Buccaneers,away,draftkings,0.38299999999999995,220,22.559999999999988,False
+7,Tampa Bay Buccaneers,away,betway,0.38299999999999995,220,22.559999999999988,False
+3,Carolina Panthers,home,bet365,0.43,185,22.54999999999999,True
+15,Tennessee Titans,away,draftkings,0.16899999999999998,625,22.52499999999999,False
+9,New York Giants,home,betway,0.562,118,22.516000000000005,False
+3,New Orleans Saints,away,draftkings,0.35,250,22.5,False
+4,Los Angeles Chargers,away,fanduel,0.75,-158,22.468354430379748,False
+WC,Los Angeles Chargers,away,draftkings,0.45299999999999996,170,22.309999999999988,False
+WC,Los Angeles Chargers,away,si,0.45299999999999996,170,22.309999999999988,False
+WC,Los Angeles Chargers,away,betmgm,0.45299999999999996,170,22.309999999999988,False
+6,Cleveland Browns,away,caesars,0.365,235,22.27499999999999,False
+11,Tampa Bay Buccaneers,away,draftkings,0.382,220,22.24000000000001,False
+5,Tampa Bay Buccaneers,away,si,0.461,165,22.165000000000006,True
+9,Atlanta Falcons,away,fanduel,0.349,250,22.14999999999999,False
+1,Minnesota Vikings,away,draftkings,0.479,155,22.14499999999999,True
+1,Minnesota Vikings,away,fanduel,0.479,155,22.14499999999999,True
+17,Carolina Panthers,home,caesars,0.344,255,22.11999999999999,False
+10,New Orleans Saints,away,draftkings,0.33899999999999997,260,22.039999999999978,True
+9,Minnesota Vikings,away,caesars,0.249,390,22.010000000000005,True
+9,Minnesota Vikings,away,si,0.249,390,22.010000000000005,True
+8,Minnesota Vikings,away,caesars,0.488,150,22.0,False
+8,Minnesota Vikings,away,draftkings,0.488,150,22.0,False
+8,Minnesota Vikings,away,betway,0.488,150,22.0,False
+8,Minnesota Vikings,away,si,0.488,150,22.0,False
+17,Arizona Cardinals,away,betmgm,0.321,280,21.97999999999999,False
+17,Arizona Cardinals,away,si,0.321,280,21.97999999999999,False
+3,New York Giants,home,betway,0.33399999999999996,265,21.909999999999982,False
+WC,Los Angeles Chargers,away,caesars,0.45299999999999996,169,21.856999999999985,False
+8,Dallas Cowboys,away,betmgm,0.435,180,21.800000000000004,False
+8,Dallas Cowboys,away,si,0.435,180,21.800000000000004,False
+6,Baltimore Ravens,home,bet365,0.42,190,21.79999999999999,False
+18,Pittsburgh Steelers,home,betmgm,0.42,190,21.79999999999999,True
+4,Tennessee Titans,away,betway,0.304,300,21.60000000000001,False
+15,Detroit Lions,away,si,0.405,200,21.5,False
+15,Detroit Lions,away,betmgm,0.405,200,21.5,False
+14,Cincinnati Bengals,away,si,0.368,230,21.439999999999998,False
+14,Cincinnati Bengals,away,draftkings,0.368,230,21.439999999999998,False
+14,Cincinnati Bengals,away,betway,0.368,230,21.439999999999998,False
+14,Cincinnati Bengals,away,betmgm,0.368,230,21.439999999999998,False
+18,Pittsburgh Steelers,home,caesars,0.42,189,21.37999999999999,True
+3,Cleveland Browns,home,caesars,0.289,320,21.37999999999998,True
+1,Dallas Cowboys,away,draftkings,0.311,290,21.289999999999992,False
+3,Detroit Lions,away,fanduel,0.433,180,21.240000000000002,True
+10,Las Vegas Raiders,away,betmgm,0.26899999999999996,350,21.049999999999983,False
+10,Las Vegas Raiders,away,fanduel,0.26899999999999996,350,21.049999999999983,False
+10,Las Vegas Raiders,away,si,0.26899999999999996,350,21.049999999999983,False
+15,Minnesota Vikings,away,draftkings,0.384,215,20.96,True
+2,Chicago Bears,away,betway,0.37799999999999995,220,20.959999999999972,False
+2,Chicago Bears,away,draftkings,0.37799999999999995,220,20.959999999999972,False
+6,Cincinnati Bengals,away,fanduel,0.195,520,20.900000000000006,False
+1,New Orleans Saints,home,betmgm,0.39,210,20.900000000000006,False
+16,Arizona Cardinals,home,betmgm,0.537,125,20.825000000000003,False
+16,Arizona Cardinals,home,si,0.537,125,20.825000000000003,False
+15,New York Giants,home,si,0.604,100,20.799999999999997,False
+5,Tampa Bay Buccaneers,away,caesars,0.461,162,20.78200000000001,True
+15,Atlanta Falcons,away,caesars,0.366,230,20.779999999999994,True
+15,Atlanta Falcons,away,draftkings,0.366,230,20.779999999999994,True
+4,Washington Commanders,away,betmgm,0.5489999999999999,120,20.779999999999987,False
+4,Washington Commanders,away,si,0.5489999999999999,120,20.779999999999987,False
+6,Tennessee Titans,away,bet365,0.355,240,20.69999999999999,False
+7,San Francisco 49ers,home,betmgm,0.618,-105,20.657142857142844,True
+7,San Francisco 49ers,home,betway,0.618,-105,20.657142857142844,True
+7,San Francisco 49ers,home,caesars,0.618,-105,20.657142857142844,True
+7,San Francisco 49ers,home,si,0.618,-105,20.657142857142844,True
+7,Tampa Bay Buccaneers,away,fanduel,0.38299999999999995,215,20.644999999999982,False
+10,New York Giants,away,bet365,0.49200000000000005,145,20.540000000000006,False
+WC,Los Angeles Chargers,away,fanduel,0.45299999999999996,166,20.49799999999999,False
+6,Cleveland Browns,away,si,0.365,230,20.450000000000003,False
+6,Cleveland Browns,away,betmgm,0.365,230,20.450000000000003,False
+17,Carolina Panthers,home,bet365,0.344,250,20.39999999999999,False
+17,Arizona Cardinals,away,draftkings,0.321,275,20.375,False
+17,Arizona Cardinals,away,caesars,0.321,275,20.375,False
+5,Dallas Cowboys,away,draftkings,0.573,110,20.32999999999999,True
+5,Dallas Cowboys,away,si,0.573,110,20.32999999999999,True
+16,Arizona Cardinals,home,betway,0.537,124,20.28800000000001,False
+16,Arizona Cardinals,home,caesars,0.537,124,20.28800000000001,False
+8,Minnesota Vikings,away,fanduel,0.488,146,20.048000000000002,False
+WC,Los Angeles Chargers,away,bet365,0.45299999999999996,165,20.044999999999987,False
+7,Houston Texans,away,betmgm,0.489,145,19.805,False
+7,Houston Texans,away,betway,0.489,145,19.805,False
+7,Houston Texans,away,si,0.489,145,19.805,False
+7,Houston Texans,away,caesars,0.489,145,19.805,False
+4,Cleveland Browns,away,bet365,0.228,425,19.700000000000003,False
+18,Pittsburgh Steelers,home,betway,0.42,185,19.699999999999996,True
+8,Dallas Cowboys,away,caesars,0.435,175,19.625000000000007,False
+14,Cincinnati Bengals,away,caesars,0.368,225,19.599999999999994,False
+15,Detroit Lions,away,draftkings,0.405,195,19.47500000000001,False
+15,Cleveland Browns,away,bet365,0.281,325,19.42500000000001,False
+6,New York Jets,home,draftkings,0.29100000000000004,310,19.310000000000016,False
+6,New York Jets,home,fanduel,0.29100000000000004,310,19.310000000000016,False
+11,Cincinnati Bengals,away,caesars,0.41,191,19.309999999999995,False
+18,New Orleans Saints,away,betmgm,0.45,165,19.249999999999993,False
+18,New Orleans Saints,away,si,0.45,165,19.249999999999993,False
+3,New Orleans Saints,away,fanduel,0.35,240,19.0,False
+5,Cincinnati Bengals,home,si,0.23800000000000002,400,19.0,False
+5,Cincinnati Bengals,home,caesars,0.23800000000000002,400,19.0,False
+1,Tennessee Titans,away,draftkings,0.305,290,18.950000000000003,False
+18,Arizona Cardinals,away,bet365,0.21600000000000003,450,18.80000000000001,False
+18,New Orleans Saints,away,draftkings,0.45,164,18.79999999999999,False
+13,Tennessee Titans,home,bet365,0.321,270,18.769999999999996,False
+11,Tennessee Titans,home,fanduel,0.38299999999999995,210,18.72999999999999,False
+17,Carolina Panthers,home,draftkings,0.344,245,18.67999999999998,False
+4,Cincinnati Bengals,away,bet365,0.27899999999999997,325,18.57499999999999,False
+3,Los Angeles Rams,away,bet365,0.41600000000000004,185,18.56000000000001,False
+2,Pittsburgh Steelers,home,fanduel,0.61,-106,18.547169811320757,False
+11,Tampa Bay Buccaneers,away,bet365,0.382,210,18.42,False
+8,Dallas Cowboys,away,fanduel,0.435,172,18.32,False
+15,Tennessee Titans,away,betmgm,0.16899999999999998,600,18.299999999999997,False
+15,Tennessee Titans,away,si,0.16899999999999998,600,18.299999999999997,False
+16,New Orleans Saints,home,bet365,0.775,-190,18.28947368421053,True
+9,Minnesota Vikings,away,betway,0.249,375,18.275000000000006,True
+3,Carolina Panthers,home,draftkings,0.43,175,18.249999999999993,True
+9,New Orleans Saints,away,betway,0.139,750,18.15000000000002,False
+9,New Orleans Saints,away,si,0.139,750,18.15000000000002,False
+16,Arizona Cardinals,home,draftkings,0.537,120,18.14,False
+16,Green Bay Packers,away,si,0.59,100,18.0,False
+SB,New England Patriots,home,si,0.4,195,18.0,False
+SB,New England Patriots,home,betmgm,0.4,195,18.0,False
+16,Green Bay Packers,away,betmgm,0.59,100,18.0,False
+1,Baltimore Ravens,away,draftkings,0.502,135,17.97,False
+2,New York Jets,home,caesars,0.35200000000000004,235,17.920000000000016,False
+5,Tennessee Titans,away,betway,0.262,350,17.900000000000006,True
+4,Los Angeles Chargers,away,draftkings,0.75,-175,17.857142857142854,False
+15,Cincinnati Bengals,home,caesars,0.485,143,17.855000000000004,False
+17,Arizona Cardinals,away,betway,0.321,267,17.807000000000002,False
+SB,New England Patriots,home,fanduel,0.4,194,17.60000000000001,False
+18,Pittsburgh Steelers,home,draftkings,0.42,180,17.599999999999987,True
+5,Tampa Bay Buccaneers,away,betway,0.461,155,17.555000000000007,True
+5,Tampa Bay Buccaneers,away,betmgm,0.461,155,17.555000000000007,True
+7,San Francisco 49ers,home,fanduel,0.618,-111,17.475675675675667,True
+5,Dallas Cowboys,away,caesars,0.573,105,17.46499999999999,True
+5,Dallas Cowboys,away,betmgm,0.573,105,17.46499999999999,True
+8,Dallas Cowboys,away,bet365,0.435,170,17.45000000000001,False
+2,Jacksonville Jaguars,away,bet365,0.39799999999999996,195,17.40999999999999,False
+7,Houston Texans,away,draftkings,0.489,140,17.359999999999992,False
+8,Cleveland Browns,away,betway,0.293,300,17.19999999999999,False
+17,Arizona Cardinals,away,bet365,0.321,265,17.164999999999992,False
+CC,Denver Broncos,home,bet365,0.426,175,17.14999999999999,False
+CC,Denver Broncos,home,si,0.426,175,17.14999999999999,False
+12,Dallas Cowboys,home,bet365,0.426,175,17.14999999999999,True
+CC,Denver Broncos,home,betmgm,0.426,175,17.14999999999999,False
+CC,Denver Broncos,home,caesars,0.426,175,17.14999999999999,False
+15,Minnesota Vikings,away,caesars,0.384,205,17.119999999999997,True
+15,Atlanta Falcons,away,fanduel,0.366,220,17.119999999999997,True
+15,Atlanta Falcons,away,betway,0.366,220,17.119999999999997,True
+6,Cincinnati Bengals,away,draftkings,0.195,500,17.0,False
+1,New Orleans Saints,home,bet365,0.39,200,17.0,False
+14,Chicago Bears,away,betway,0.312,275,17.0,False
+12,Carolina Panthers,away,fanduel,0.272,330,16.960000000000008,False
+3,New York Giants,home,caesars,0.33399999999999996,250,16.899999999999977,False
+5,Dallas Cowboys,away,fanduel,0.573,104,16.891999999999996,True
+3,New England Patriots,home,fanduel,0.491,138,16.857999999999997,False
+11,Cincinnati Bengals,away,draftkings,0.41,185,16.849999999999987,False
+16,Green Bay Packers,away,fanduel,0.59,-102,16.843137254901954,False
+16,Green Bay Packers,away,draftkings,0.59,-102,16.843137254901954,False
+16,Green Bay Packers,away,caesars,0.59,-102,16.843137254901954,False
+11,Tennessee Titans,home,caesars,0.38299999999999995,205,16.814999999999984,False
+15,Cleveland Browns,away,fanduel,0.281,315,16.615000000000023,False
+4,Indianapolis Colts,away,caesars,0.445,162,16.59000000000001,False
+1,Carolina Panthers,away,betmgm,0.409,185,16.564999999999998,False
+1,Carolina Panthers,away,caesars,0.409,185,16.564999999999998,False
+1,Carolina Panthers,away,betway,0.409,185,16.564999999999998,False
+1,Carolina Panthers,away,si,0.409,185,16.564999999999998,False
+1,Carolina Panthers,away,bet365,0.409,185,16.564999999999998,False
+6,New York Jets,home,betway,0.29100000000000004,300,16.40000000000002,False
+6,New York Jets,home,si,0.29100000000000004,300,16.40000000000002,False
+6,New York Jets,home,betmgm,0.29100000000000004,300,16.40000000000002,False
+6,New York Jets,home,caesars,0.29100000000000004,300,16.40000000000002,False
+15,Cincinnati Bengals,home,betmgm,0.485,140,16.39999999999999,False
+15,Cincinnati Bengals,home,si,0.485,140,16.39999999999999,False
+7,Houston Texans,away,fanduel,0.489,138,16.381999999999998,False
+4,Tampa Bay Buccaneers,home,caesars,0.444,162,16.32799999999999,False
+12,New Orleans Saints,home,bet365,0.447,160,16.22,False
+2,New York Jets,home,betmgm,0.35200000000000004,230,16.16000000000001,False
+10,New York Jets,home,bet365,0.645,-125,16.1,True
+SB,New England Patriots,home,bet365,0.4,190,16.0,False
+SB,New England Patriots,home,caesars,0.4,190,16.0,False
+SB,New England Patriots,home,draftkings,0.4,190,16.0,False
+11,Carolina Panthers,away,betway,0.40700000000000003,185,15.995000000000005,True
+11,Carolina Panthers,away,si,0.40700000000000003,185,15.995000000000005,True
+10,Atlanta Falcons,away,bet365,0.305,280,15.899999999999991,False
+1,Tennessee Titans,away,fanduel,0.305,280,15.899999999999991,False
+8,Cleveland Browns,away,draftkings,0.293,295,15.734999999999985,False
+10,Las Vegas Raiders,away,caesars,0.26899999999999996,330,15.669999999999973,False
+DIV,Chicago Bears,home,betway,0.419,176,15.644000000000005,False
+13,Chicago Bears,away,draftkings,0.34,240,15.600000000000023,True
+18,Washington Commanders,away,bet365,0.272,325,15.600000000000009,True
+3,Cleveland Browns,home,fanduel,0.289,300,15.59999999999998,True
+15,Minnesota Vikings,away,betway,0.384,201,15.583999999999996,True
+17,New York Jets,home,fanduel,0.156,640,15.440000000000012,False
+17,New York Jets,home,betway,0.156,640,15.440000000000012,False
+4,Tampa Bay Buccaneers,home,betmgm,0.444,160,15.439999999999998,False
+4,Tampa Bay Buccaneers,home,bet365,0.444,160,15.439999999999998,False
+4,Tampa Bay Buccaneers,home,si,0.444,160,15.439999999999998,False
+18,San Francisco 49ers,home,fanduel,0.489,136,15.404000000000003,False
+5,Denver Broncos,away,bet365,0.391,195,15.345000000000006,True
+8,Dallas Cowboys,away,betway,0.435,165,15.275000000000013,False
+3,New York Giants,home,bet365,0.33399999999999996,245,15.229999999999976,False
+15,Cleveland Browns,away,betmgm,0.281,310,15.210000000000022,False
+7,Miami Dolphins,away,bet365,0.512,125,15.200000000000003,False
+15,Minnesota Vikings,away,si,0.384,200,15.199999999999996,True
+15,Minnesota Vikings,away,betmgm,0.384,200,15.199999999999996,True
+16,Green Bay Packers,away,betway,0.59,-105,15.190476190476183,False
+12,Las Vegas Raiders,home,bet365,0.6509999999999999,-130,15.176923076923075,False
+9,Atlanta Falcons,away,draftkings,0.349,230,15.169999999999987,False
+2,Tennessee Titans,home,fanduel,0.32899999999999996,250,15.149999999999977,False
+CC,Denver Broncos,home,draftkings,0.426,170,15.019999999999996,False
+7,Arizona Cardinals,home,bet365,0.389,195,14.755000000000003,False
+5,Carolina Panthers,home,draftkings,0.512,124,14.688000000000002,True
+7,Miami Dolphins,away,draftkings,0.512,124,14.688000000000002,False
+7,Miami Dolphins,away,fanduel,0.512,124,14.688000000000002,False
+8,Minnesota Vikings,away,bet365,0.488,135,14.679999999999993,False
+9,New Orleans Saints,away,betmgm,0.139,725,14.675000000000011,False
+9,Chicago Bears,away,draftkings,0.546,110,14.660000000000004,True
+15,Los Angeles Chargers,away,betway,0.337,240,14.580000000000013,True
+15,Los Angeles Chargers,away,fanduel,0.337,240,14.580000000000013,True
+9,Minnesota Vikings,away,draftkings,0.249,360,14.540000000000006,True
+15,Cincinnati Bengals,home,draftkings,0.485,136,14.459999999999994,False
+2,New York Jets,home,si,0.35200000000000004,225,14.400000000000006,False
+6,New York Giants,home,betway,0.254,350,14.300000000000011,True
+7,Tennessee Titans,home,betmgm,0.336,240,14.240000000000009,False
+7,Tennessee Titans,home,betway,0.336,240,14.240000000000009,False
+7,Tennessee Titans,home,si,0.336,240,14.240000000000009,False
+1,Houston Texans,away,fanduel,0.439,160,14.14,False
+15,Tennessee Titans,away,caesars,0.16899999999999998,575,14.075000000000003,False
+2,Pittsburgh Steelers,home,draftkings,0.61,-115,14.043478260869563,False
+4,Cleveland Browns,away,caesars,0.228,400,14.0,False
+SB,New England Patriots,home,betway,0.4,185,14.0,False
+4,Cleveland Browns,away,betway,0.228,400,14.0,False
+11,Carolina Panthers,away,fanduel,0.40700000000000003,180,13.960000000000008,True
+11,San Francisco 49ers,away,bet365,0.633,-125,13.939999999999998,True
+18,San Francisco 49ers,home,betway,0.489,133,13.93699999999999,False
+17,Chicago Bears,away,betway,0.386,195,13.869999999999997,False
+2,Tampa Bay Buccaneers,away,fanduel,0.499,128,13.771999999999998,True
+11,Denver Broncos,home,betway,0.39899999999999997,185,13.715000000000003,True
+7,New Orleans Saints,away,betway,0.39899999999999997,185,13.715000000000003,False
+12,Tampa Bay Buccaneers,away,bet365,0.355,220,13.599999999999994,False
+3,New York Giants,home,si,0.33399999999999996,240,13.559999999999988,False
+3,New York Giants,home,betmgm,0.33399999999999996,240,13.559999999999988,False
+16,Los Angeles Rams,away,si,0.528,115,13.52000000000001,False
+4,Indianapolis Colts,away,bet365,0.445,155,13.475000000000001,False
+4,Indianapolis Colts,away,betway,0.445,155,13.475000000000001,False
+4,Indianapolis Colts,away,si,0.445,155,13.475000000000001,False
+4,Indianapolis Colts,away,betmgm,0.445,155,13.475000000000001,False
+11,Chicago Bears,away,betway,0.48700000000000004,133,13.47100000000001,True
+15,Atlanta Falcons,away,bet365,0.366,210,13.46,True
+16,Indianapolis Colts,home,betmgm,0.39799999999999996,185,13.429999999999986,False
+16,Indianapolis Colts,home,draftkings,0.39799999999999996,185,13.429999999999986,False
+16,Indianapolis Colts,home,betway,0.39799999999999996,185,13.429999999999986,False
+16,Indianapolis Colts,home,si,0.39799999999999996,185,13.429999999999986,False
+11,Denver Broncos,home,fanduel,0.39899999999999997,184,13.316000000000003,True
+5,Washington Commanders,away,draftkings,0.41200000000000003,175,13.300000000000011,True
+5,Baltimore Ravens,home,bet365,0.515,120,13.300000000000004,False
+5,Baltimore Ravens,home,caesars,0.515,120,13.300000000000004,False
+15,Minnesota Vikings,away,bet365,0.384,195,13.279999999999994,True
+4,Tampa Bay Buccaneers,home,betway,0.444,155,13.219999999999999,False
+6,Cleveland Browns,away,bet365,0.365,210,13.149999999999991,False
+DIV,Chicago Bears,home,si,0.419,170,13.13000000000001,False
+DIV,Chicago Bears,home,betmgm,0.419,170,13.13000000000001,False
+DIV,Chicago Bears,home,draftkings,0.419,170,13.13000000000001,False
+17,New York Jets,home,caesars,0.156,625,13.100000000000009,False
+17,New York Jets,home,draftkings,0.156,625,13.100000000000009,False
+16,Indianapolis Colts,home,fanduel,0.39799999999999996,184,13.03199999999999,False
+4,Indianapolis Colts,away,draftkings,0.445,154,13.030000000000008,False
+7,Cincinnati Bengals,home,betway,0.353,220,12.959999999999994,True
+13,Arizona Cardinals,away,bet365,0.353,220,12.959999999999994,False
+18,Philadelphia Eagles,home,draftkings,0.726,-180,12.933333333333334,False
+18,Philadelphia Eagles,home,si,0.726,-180,12.933333333333334,False
+15,Minnesota Vikings,away,fanduel,0.384,194,12.895999999999994,True
+CC,Denver Broncos,home,betway,0.426,165,12.889999999999986,False
+8,Cleveland Browns,away,caesars,0.293,285,12.804999999999993,False
+17,Atlanta Falcons,home,betway,0.282,300,12.799999999999997,True
+12,Atlanta Falcons,away,betmgm,0.55,105,12.750000000000014,True
+12,Atlanta Falcons,away,si,0.55,105,12.750000000000014,True
+3,Cleveland Browns,home,bet365,0.289,290,12.70999999999998,True
+2,New York Jets,home,betway,0.35200000000000004,220,12.640000000000015,False
+7,Miami Dolphins,away,si,0.512,120,12.64,False
+7,Miami Dolphins,away,betmgm,0.512,120,12.64,False
+7,Miami Dolphins,away,caesars,0.512,120,12.64,False
+7,Tennessee Titans,home,caesars,0.336,235,12.560000000000016,False
+18,Philadelphia Eagles,home,caesars,0.726,-182,12.490109890109888,False
+18,San Francisco 49ers,home,caesars,0.489,130,12.469999999999999,False
+7,Houston Texans,away,bet365,0.489,130,12.469999999999999,False
+18,San Francisco 49ers,home,bet365,0.489,130,12.469999999999999,False
+18,San Francisco 49ers,home,draftkings,0.489,130,12.469999999999999,False
+CC,Denver Broncos,home,fanduel,0.426,164,12.463999999999999,False
+1,Seattle Seahawks,home,fanduel,0.45899999999999996,145,12.454999999999991,False
+15,Cleveland Browns,away,caesars,0.281,300,12.40000000000002,False
+15,Cleveland Browns,away,betway,0.281,300,12.40000000000002,False
+15,Cleveland Browns,away,si,0.281,300,12.40000000000002,False
+2,New Orleans Saints,home,caesars,0.478,135,12.329999999999998,False
+2,New Orleans Saints,home,betmgm,0.478,135,12.329999999999998,False
+2,New Orleans Saints,home,betway,0.478,135,12.329999999999998,False
+2,New Orleans Saints,home,si,0.478,135,12.329999999999998,False
+3,Los Angeles Rams,away,caesars,0.41600000000000004,170,12.320000000000014,False
+6,Chicago Bears,away,fanduel,0.35100000000000003,220,12.320000000000007,True
+6,Chicago Bears,away,betway,0.35100000000000003,220,12.320000000000007,True
+14,Chicago Bears,away,caesars,0.312,260,12.320000000000007,False
+14,Chicago Bears,away,fanduel,0.312,260,12.320000000000007,False
+DIV,Chicago Bears,home,caesars,0.419,168,12.292000000000002,False
+DIV,Chicago Bears,home,fanduel,0.419,168,12.292000000000002,False
+2,Tampa Bay Buccaneers,away,si,0.499,125,12.274999999999999,True
+5,Baltimore Ravens,home,si,0.515,118,12.270000000000003,False
+5,Baltimore Ravens,home,betmgm,0.515,118,12.270000000000003,False
+6,San Francisco 49ers,away,fanduel,0.42200000000000004,166,12.25200000000001,False
+16,New York Giants,home,bet365,0.561,100,12.200000000000017,False
+18,Los Angeles Chargers,away,bet365,0.299,275,12.124999999999986,False
+9,Minnesota Vikings,away,fanduel,0.249,350,12.050000000000011,True
+4,Kansas City Chiefs,home,betmgm,0.498,125,12.049999999999997,True
+4,Kansas City Chiefs,home,betway,0.498,125,12.049999999999997,True
+4,Kansas City Chiefs,home,si,0.498,125,12.049999999999997,True
+4,Kansas City Chiefs,home,bet365,0.498,125,12.049999999999997,True
+7,Indianapolis Colts,away,si,0.48700000000000004,130,12.010000000000012,True
+2,Minnesota Vikings,home,fanduel,0.645,-136,11.926470588235297,False
+5,Dallas Cowboys,away,betway,0.573,-105,11.87142857142856,True
+18,Philadelphia Eagles,home,betmgm,0.726,-185,11.84324324324324,False
+16,Indianapolis Colts,home,caesars,0.39799999999999996,181,11.837999999999987,False
+14,New Orleans Saints,away,draftkings,0.26,330,11.799999999999997,True
+11,Denver Broncos,home,si,0.39899999999999997,180,11.719999999999999,True
+11,Denver Broncos,home,draftkings,0.39899999999999997,180,11.719999999999999,True
+11,Denver Broncos,home,betmgm,0.39899999999999997,180,11.719999999999999,True
+12,Atlanta Falcons,away,caesars,0.55,103,11.650000000000013,True
+18,Philadelphia Eagles,home,fanduel,0.726,-186,11.632258064516119,False
+15,Cincinnati Bengals,home,betway,0.485,130,11.549999999999997,False
+12,Carolina Panthers,away,draftkings,0.272,310,11.52000000000001,False
+5,Denver Broncos,away,betmgm,0.391,185,11.43500000000001,True
+5,Denver Broncos,away,caesars,0.391,185,11.43500000000001,True
+5,Denver Broncos,away,betway,0.391,185,11.43500000000001,True
+5,Denver Broncos,away,si,0.391,185,11.43500000000001,True
+17,Atlanta Falcons,home,fanduel,0.282,295,11.39,True
+17,Atlanta Falcons,home,draftkings,0.282,295,11.39,True
+15,Detroit Lions,away,bet365,0.405,175,11.375,False
+5,Tennessee Titans,away,betmgm,0.262,325,11.350000000000009,True
+5,Tennessee Titans,away,bet365,0.262,325,11.350000000000009,True
+5,Tennessee Titans,away,si,0.262,325,11.350000000000009,True
+8,Cleveland Browns,away,si,0.293,280,11.33999999999999,False
+8,Cleveland Browns,away,betmgm,0.293,280,11.33999999999999,False
+11,Denver Broncos,home,caesars,0.39899999999999997,179,11.320999999999998,True
+9,New England Patriots,home,bet365,0.649,-140,11.257142857142867,True
+9,New Orleans Saints,away,caesars,0.139,700,11.200000000000017,False
+4,Pittsburgh Steelers,home,fanduel,0.42100000000000004,164,11.144000000000013,True
+11,Carolina Panthers,away,caesars,0.40700000000000003,173,11.111000000000004,True
+7,Tampa Bay Buccaneers,away,bet365,0.38299999999999995,190,11.069999999999993,False
+DIV,Chicago Bears,home,bet365,0.419,165,11.034999999999997,False
+4,Tampa Bay Buccaneers,home,draftkings,0.444,150,10.999999999999986,False
+15,Cleveland Browns,away,draftkings,0.281,295,10.995000000000019,False
+7,Tennessee Titans,home,draftkings,0.336,230,10.88000000000001,False
+12,Indianapolis Colts,away,si,0.382,190,10.780000000000001,False
+14,Chicago Bears,away,si,0.312,255,10.760000000000005,False
+11,Washington Commanders,away,draftkings,0.48100000000000004,130,10.630000000000017,False
+2,Minnesota Vikings,home,draftkings,0.645,-140,10.571428571428577,False
+4,Kansas City Chiefs,home,caesars,0.498,122,10.555999999999997,True
+1,Baltimore Ravens,away,fanduel,0.502,120,10.440000000000005,False
+5,Washington Commanders,away,fanduel,0.41200000000000003,168,10.416000000000011,True
+18,Philadelphia Eagles,home,betway,0.726,-192,10.412499999999998,False
+12,Houston Texans,home,caesars,0.36200000000000004,205,10.410000000000018,True
+10,Jacksonville Jaguars,away,fanduel,0.552,100,10.400000000000006,False
+16,Cleveland Browns,home,fanduel,0.19699999999999998,460,10.319999999999979,False
+13,Carolina Panthers,home,betmgm,0.21,425,10.25,True
+11,Detroit Lions,away,si,0.49,125,10.25,False
+11,Detroit Lions,away,betmgm,0.49,125,10.25,False
+13,Carolina Panthers,home,caesars,0.21,425,10.25,True
+3,Los Angeles Rams,away,betmgm,0.41600000000000004,165,10.240000000000002,False
+3,Los Angeles Rams,away,si,0.41600000000000004,165,10.240000000000002,False
+3,Los Angeles Rams,away,betway,0.41600000000000004,165,10.240000000000002,False
+12,Carolina Panthers,away,caesars,0.272,305,10.16000000000001,False
+5,Tennessee Titans,away,fanduel,0.262,320,10.040000000000006,True
+5,Tennessee Titans,away,caesars,0.262,320,10.040000000000006,True
+7,Dallas Cowboys,home,bet365,0.489,125,10.024999999999999,True
+18,San Francisco 49ers,home,si,0.489,125,10.024999999999999,False
+18,San Francisco 49ers,home,betmgm,0.489,125,10.024999999999999,False
+12,Indianapolis Colts,away,fanduel,0.382,188,10.016000000000005,False
+17,Chicago Bears,away,draftkings,0.386,185,10.009999999999998,False
+17,Chicago Bears,away,betmgm,0.386,185,10.009999999999998,False
+17,Chicago Bears,away,si,0.386,185,10.009999999999998,False
+12,Atlanta Falcons,away,betway,0.55,100,10.000000000000014,True
+17,Atlanta Falcons,home,caesars,0.282,290,9.97999999999999,True
+17,Atlanta Falcons,home,si,0.282,290,9.97999999999999,True
+2,New Orleans Saints,home,draftkings,0.478,130,9.939999999999998,False
+11,Carolina Panthers,away,betmgm,0.40700000000000003,170,9.89,True
+8,Cleveland Browns,away,fanduel,0.293,275,9.874999999999986,False
+16,Los Angeles Rams,away,fanduel,0.528,108,9.824000000000005,False
+2,Tampa Bay Buccaneers,away,betway,0.499,120,9.780000000000001,True
+2,Tampa Bay Buccaneers,away,betmgm,0.499,120,9.780000000000001,True
+2,Tampa Bay Buccaneers,away,caesars,0.499,120,9.780000000000001,True
+14,Philadelphia Eagles,away,betmgm,0.5870000000000001,-115,9.74347826086958,False
+14,Philadelphia Eagles,away,si,0.5870000000000001,-115,9.74347826086958,False
+14,Philadelphia Eagles,away,bet365,0.5870000000000001,-115,9.74347826086958,False
+10,Minnesota Vikings,home,betway,0.37200000000000005,195,9.740000000000016,False
+3,Cincinnati Bengals,away,draftkings,0.43200000000000005,154,9.728000000000009,False
+7,New Orleans Saints,away,si,0.39899999999999997,175,9.724999999999994,False
+6,San Francisco 49ers,away,draftkings,0.42200000000000004,160,9.720000000000013,False
+6,San Francisco 49ers,away,betmgm,0.42200000000000004,160,9.720000000000013,False
+6,San Francisco 49ers,away,si,0.42200000000000004,160,9.720000000000013,False
+13,Green Bay Packers,away,si,0.457,140,9.680000000000014,True
+9,Tennessee Titans,home,bet365,0.258,325,9.650000000000006,False
+17,Chicago Bears,away,fanduel,0.386,184,9.624000000000002,False
+2,Chicago Bears,away,bet365,0.37799999999999995,190,9.619999999999983,False
+11,Chicago Bears,away,betmgm,0.48700000000000004,125,9.575000000000017,True
+7,Indianapolis Colts,away,betmgm,0.48700000000000004,125,9.575000000000017,True
+11,Chicago Bears,away,si,0.48700000000000004,125,9.575000000000017,True
+13,San Francisco 49ers,away,draftkings,0.778,-245,9.55510204081633,True
+15,Los Angeles Chargers,away,caesars,0.337,225,9.525000000000006,True
+15,Los Angeles Chargers,away,si,0.337,225,9.525000000000006,True
+15,Los Angeles Chargers,away,betmgm,0.337,225,9.525000000000006,True
+14,Pittsburgh Steelers,away,draftkings,0.337,225,9.525000000000006,True
+3,Tennessee Titans,home,si,0.337,225,9.525000000000006,False
+3,Tennessee Titans,home,betmgm,0.337,225,9.525000000000006,False
+14,Pittsburgh Steelers,away,si,0.337,225,9.525000000000006,True
+14,Pittsburgh Steelers,away,betmgm,0.337,225,9.525000000000006,True
+14,Pittsburgh Steelers,away,caesars,0.337,225,9.525000000000006,True
+4,Indianapolis Colts,away,fanduel,0.445,146,9.470000000000006,False
+4,Chicago Bears,away,bet365,0.509,115,9.435000000000002,True
+7,Cincinnati Bengals,home,fanduel,0.353,210,9.429999999999993,True
+10,Minnesota Vikings,home,fanduel,0.37200000000000005,194,9.368000000000016,False
+7,San Francisco 49ers,home,draftkings,0.618,-130,9.338461538461544,True
+16,Cleveland Browns,home,betway,0.19699999999999998,455,9.33499999999998,False
+16,Los Angeles Rams,away,caesars,0.528,107,9.296000000000006,False
+5,New Orleans Saints,home,bet365,0.5329999999999999,105,9.26499999999998,True
+4,Tampa Bay Buccaneers,home,fanduel,0.444,146,9.22399999999999,False
+6,New York Giants,home,fanduel,0.254,330,9.220000000000013,True
+1,New Orleans Saints,home,caesars,0.39,180,9.200000000000003,False
+14,New Orleans Saints,away,betway,0.26,320,9.200000000000003,True
+18,Las Vegas Raiders,home,draftkings,0.39,180,9.200000000000003,True
+14,Chicago Bears,away,bet365,0.312,250,9.200000000000003,False
+17,New York Jets,home,betmgm,0.156,600,9.200000000000003,False
+8,Tennessee Titans,away,bet365,0.168,550,9.200000000000003,False
+15,Cincinnati Bengals,home,bet365,0.485,125,9.125,False
+11,Chicago Bears,away,caesars,0.48700000000000004,124,9.088000000000015,True
+11,Chicago Bears,away,fanduel,0.48700000000000004,124,9.088000000000015,True
+11,Las Vegas Raiders,home,betmgm,0.40399999999999997,170,9.079999999999984,False
+11,Las Vegas Raiders,home,caesars,0.40399999999999997,170,9.079999999999984,False
+18,Tampa Bay Buccaneers,home,draftkings,0.6629999999999999,-155,9.074193548387079,True
+18,Detroit Lions,away,bet365,0.545,100,9.000000000000014,True
+4,Arizona Cardinals,home,betway,0.519,110,8.990000000000002,False
+13,San Francisco 49ers,away,betmgm,0.778,-250,8.920000000000005,True
+13,San Francisco 49ers,away,si,0.778,-250,8.920000000000005,True
+16,Jacksonville Jaguars,away,betway,0.414,163,8.88199999999999,True
+14,Philadelphia Eagles,away,caesars,0.5870000000000001,-117,8.870940170940187,False
+12,Indianapolis Colts,away,bet365,0.382,185,8.870000000000005,False
+12,Indianapolis Colts,away,caesars,0.382,185,8.870000000000005,False
+12,Indianapolis Colts,away,betmgm,0.382,185,8.870000000000005,False
+12,Indianapolis Colts,away,draftkings,0.382,185,8.870000000000005,False
+12,Buffalo Bills,away,bet365,0.635,-140,8.857142857142861,False
+17,Chicago Bears,away,caesars,0.386,182,8.851999999999997,False
+6,Chicago Bears,away,draftkings,0.35100000000000003,210,8.810000000000002,True
+10,Arizona Cardinals,away,bet365,0.35100000000000003,210,8.810000000000002,False
+12,Carolina Panthers,away,betway,0.272,300,8.800000000000011,False
+15,Seattle Seahawks,home,bet365,0.7120000000000001,-190,8.673684210526321,True
+12,Houston Texans,home,betmgm,0.36200000000000004,200,8.600000000000016,True
+12,Houston Texans,home,si,0.36200000000000004,200,8.600000000000016,True
+12,Houston Texans,home,betway,0.36200000000000004,200,8.600000000000016,True
+1,New York Giants,away,caesars,0.32899999999999996,230,8.569999999999979,False
+1,New York Giants,away,betmgm,0.32899999999999996,230,8.569999999999979,False
+1,New York Giants,away,bet365,0.32899999999999996,230,8.569999999999979,False
+12,Pittsburgh Steelers,away,draftkings,0.47200000000000003,130,8.560000000000002,False
+7,New Orleans Saints,away,fanduel,0.39899999999999997,172,8.528000000000006,False
+14,Philadelphia Eagles,away,fanduel,0.5870000000000001,-118,8.445762711864418,False
+12,Jacksonville Jaguars,away,bet365,0.542,100,8.400000000000006,True
+16,Cleveland Browns,home,si,0.19699999999999998,450,8.34999999999998,False
+16,Cleveland Browns,home,betmgm,0.19699999999999998,450,8.34999999999998,False
+10,Jacksonville Jaguars,away,caesars,0.552,-104,8.27692307692309,False
+5,Las Vegas Raiders,away,draftkings,0.36700000000000005,195,8.265000000000015,False
+16,Los Angeles Rams,away,betway,0.528,105,8.240000000000009,False
+16,Los Angeles Rams,away,betmgm,0.528,105,8.240000000000009,False
+11,Washington Commanders,away,betmgm,0.48100000000000004,125,8.225000000000016,False
+1,Las Vegas Raiders,away,si,0.48100000000000004,125,8.225000000000016,True
+1,Las Vegas Raiders,away,caesars,0.48100000000000004,125,8.225000000000016,True
+1,Las Vegas Raiders,away,betmgm,0.48100000000000004,125,8.225000000000016,True
+11,Washington Commanders,away,si,0.48100000000000004,125,8.225000000000016,False
+11,Washington Commanders,away,betway,0.48100000000000004,125,8.225000000000016,False
+1,Las Vegas Raiders,away,betway,0.48100000000000004,125,8.225000000000016,True
+1,Las Vegas Raiders,away,bet365,0.48100000000000004,125,8.225000000000016,True
+16,Kansas City Chiefs,away,betmgm,0.6809999999999999,-170,8.158823529411755,False
+16,Kansas City Chiefs,away,si,0.6809999999999999,-170,8.158823529411755,False
+1,New England Patriots,home,fanduel,0.515,110,8.149999999999999,False
+3,Arizona Cardinals,away,caesars,0.515,110,8.149999999999999,False
+5,Baltimore Ravens,home,betway,0.515,110,8.149999999999999,False
+1,New England Patriots,home,draftkings,0.515,110,8.149999999999999,False
+12,Pittsburgh Steelers,away,betway,0.47200000000000003,129,8.088000000000001,False
+12,Pittsburgh Steelers,away,caesars,0.47200000000000003,129,8.088000000000001,False
+13,Indianapolis Colts,home,betway,0.6659999999999999,-161,7.966459627329179,False
+6,New York Giants,home,bet365,0.254,325,7.950000000000003,True
+16,Pittsburgh Steelers,away,bet365,0.327,230,7.909999999999997,True
+14,New Orleans Saints,away,fanduel,0.26,315,7.900000000000006,True
+10,Minnesota Vikings,home,caesars,0.37200000000000005,190,7.880000000000017,False
+WC,Pittsburgh Steelers,home,fanduel,0.461,134,7.874000000000009,False
+13,Green Bay Packers,away,draftkings,0.457,136,7.852000000000011,True
+14,Pittsburgh Steelers,away,bet365,0.337,220,7.840000000000003,True
+3,Tennessee Titans,home,betway,0.337,220,7.840000000000003,False
+10,Jacksonville Jaguars,away,si,0.552,-105,7.771428571428572,False
+18,Tampa Bay Buccaneers,home,betmgm,0.6629999999999999,-160,7.737499999999983,True
+7,New Orleans Saints,away,caesars,0.39899999999999997,170,7.730000000000004,False
+13,San Francisco 49ers,away,caesars,0.778,-260,7.723076923076931,True
+9,Denver Broncos,away,betmgm,0.501,115,7.715000000000003,True
+16,Los Angeles Chargers,away,bet365,0.501,115,7.715000000000003,True
+16,Kansas City Chiefs,away,fanduel,0.6809999999999999,-172,7.693023255813948,False
+16,Kansas City Chiefs,away,betway,0.6809999999999999,-172,7.693023255813948,False
+14,Chicago Bears,away,draftkings,0.312,245,7.640000000000001,False
+14,Philadelphia Eagles,away,draftkings,0.5870000000000001,-120,7.6166666666666885,False
+6,San Francisco 49ers,away,betway,0.42200000000000004,155,7.610000000000014,False
+6,San Francisco 49ers,away,caesars,0.42200000000000004,155,7.610000000000014,False
+13,Tennessee Titans,home,fanduel,0.321,235,7.534999999999997,False
+16,Arizona Cardinals,home,bet365,0.537,100,7.400000000000006,False
+13,Green Bay Packers,away,betway,0.457,135,7.39500000000001,True
+13,Green Bay Packers,away,betmgm,0.457,135,7.39500000000001,True
+13,Green Bay Packers,away,caesars,0.457,135,7.39500000000001,True
+18,Las Vegas Raiders,home,bet365,0.39,175,7.25,True
+2,Kansas City Chiefs,home,betmgm,0.523,105,7.215000000000003,False
+9,Denver Broncos,away,fanduel,0.501,114,7.213999999999999,True
+16,New England Patriots,away,fanduel,0.39399999999999996,172,7.167999999999978,True
+17,Atlanta Falcons,home,betmgm,0.282,280,7.159999999999997,True
+8,Pittsburgh Steelers,home,bet365,0.456,135,7.159999999999997,False
+13,San Francisco 49ers,away,fanduel,0.778,-265,7.158490566037742,True
+7,Indianapolis Colts,away,draftkings,0.48700000000000004,120,7.140000000000015,True
+11,Chicago Bears,away,bet365,0.48700000000000004,120,7.140000000000015,True
+7,Indianapolis Colts,away,caesars,0.48700000000000004,120,7.140000000000015,True
+9,Chicago Bears,away,fanduel,0.546,-104,7.1000000000000085,True
+13,Atlanta Falcons,away,bet365,0.595,-125,7.099999999999994,False
+2,Dallas Cowboys,home,bet365,0.659,-160,7.087500000000006,True
+11,Las Vegas Raiders,home,si,0.40399999999999997,165,7.059999999999988,False
+6,Chicago Bears,away,caesars,0.35100000000000003,205,7.055000000000007,True
+13,Indianapolis Colts,home,betmgm,0.6659999999999999,-165,6.963636363636354,False
+13,Indianapolis Colts,home,si,0.6659999999999999,-165,6.963636363636354,False
+8,Cleveland Browns,away,bet365,0.293,265,6.944999999999993,False
+1,New York Giants,away,si,0.32899999999999996,225,6.924999999999983,False
+4,Chicago Bears,away,fanduel,0.509,110,6.890000000000001,True
+4,Chicago Bears,away,betway,0.509,110,6.890000000000001,True
+4,Chicago Bears,away,caesars,0.509,110,6.890000000000001,True
+4,Jacksonville Jaguars,away,draftkings,0.375,185,6.875,True
+16,Kansas City Chiefs,away,caesars,0.6809999999999999,-176,6.793181818181807,False
+12,Houston Texans,home,draftkings,0.36200000000000004,195,6.790000000000013,True
+2,Tampa Bay Buccaneers,away,draftkings,0.499,114,6.786000000000001,True
+10,Atlanta Falcons,away,draftkings,0.305,250,6.75,False
+1,Pittsburgh Steelers,away,draftkings,0.593,-125,6.739999999999995,True
+18,Tampa Bay Buccaneers,home,caesars,0.6629999999999999,-164,6.7268292682926685,True
+13,Indianapolis Colts,home,draftkings,0.6659999999999999,-166,6.720481927710836,False
+16,Los Angeles Rams,away,draftkings,0.528,102,6.656000000000006,False
+13,San Francisco 49ers,away,betway,0.778,-270,6.614814814814821,True
+14,New Orleans Saints,away,si,0.26,310,6.6000000000000085,True
+14,New Orleans Saints,away,betmgm,0.26,310,6.6000000000000085,True
+14,New Orleans Saints,away,bet365,0.26,310,6.6000000000000085,True
+17,Miami Dolphins,home,fanduel,0.33299999999999996,220,6.559999999999988,True
+WC,Pittsburgh Steelers,home,caesars,0.461,131,6.491000000000014,False
+18,Tampa Bay Buccaneers,home,betway,0.6629999999999999,-165,6.48181818181817,True
+18,Tampa Bay Buccaneers,home,si,0.6629999999999999,-165,6.48181818181817,True
+7,Minnesota Vikings,home,caesars,0.47100000000000003,126,6.446000000000012,False
+9,Atlanta Falcons,away,si,0.349,205,6.444999999999993,False
+9,Houston Texans,home,si,0.495,115,6.424999999999997,False
+10,San Francisco 49ers,home,bet365,0.495,115,6.424999999999997,False
+5,New England Patriots,away,fanduel,0.313,240,6.420000000000002,True
+5,New England Patriots,away,draftkings,0.313,240,6.420000000000002,True
+4,Arizona Cardinals,home,betmgm,0.519,105,6.395000000000003,False
+4,Arizona Cardinals,home,si,0.519,105,6.395000000000003,False
+16,New England Patriots,away,draftkings,0.39399999999999996,170,6.379999999999981,True
+16,Cleveland Browns,home,draftkings,0.19699999999999998,440,6.379999999999981,False
+12,Pittsburgh Steelers,away,betmgm,0.47200000000000003,125,6.200000000000003,False
+12,Pittsburgh Steelers,away,si,0.47200000000000003,125,6.200000000000003,False
+7,Indianapolis Colts,away,fanduel,0.48700000000000004,118,6.166000000000018,True
+15,Los Angeles Chargers,away,draftkings,0.337,215,6.155000000000001,True
+2,Seattle Seahawks,away,si,0.386,175,6.149999999999999,True
+2,Seattle Seahawks,away,caesars,0.386,175,6.149999999999999,True
+17,Chicago Bears,away,bet365,0.386,175,6.149999999999999,False
+14,Chicago Bears,away,betmgm,0.312,240,6.079999999999998,False
+WC,Pittsburgh Steelers,home,si,0.461,130,6.030000000000008,False
+WC,Pittsburgh Steelers,home,draftkings,0.461,130,6.030000000000008,False
+WC,Pittsburgh Steelers,home,bet365,0.461,130,6.030000000000008,False
+13,Green Bay Packers,away,fanduel,0.457,132,6.024000000000015,True
+10,Minnesota Vikings,home,si,0.37200000000000005,185,6.020000000000017,False
+10,Minnesota Vikings,home,betmgm,0.37200000000000005,185,6.020000000000017,False
+16,Cincinnati Bengals,away,caesars,0.703,-197,5.985279187817255,True
+9,Las Vegas Raiders,home,bet365,0.451,135,5.985000000000014,False
+9,Cincinnati Bengals,home,betway,0.451,135,5.985000000000014,False
+7,Miami Dolphins,away,betway,0.512,107,5.984000000000002,False
+2,Philadelphia Eagles,away,fanduel,0.473,124,5.951999999999991,True
+13,Tennessee Titans,home,betmgm,0.321,230,5.929999999999993,False
+7,Cincinnati Bengals,home,draftkings,0.353,200,5.8999999999999915,True
+7,Cincinnati Bengals,home,si,0.353,200,5.8999999999999915,True
+7,Cincinnati Bengals,home,betmgm,0.353,200,5.8999999999999915,True
+3,Cincinnati Bengals,away,caesars,0.43200000000000005,145,5.8400000000000105,False
+7,Atlanta Falcons,away,bet365,0.37799999999999995,180,5.839999999999982,False
+16,Cincinnati Bengals,away,fanduel,0.703,-198,5.805050505050502,True
+13,Indianapolis Colts,home,caesars,0.6659999999999999,-170,5.776470588235284,False
+18,Tampa Bay Buccaneers,home,fanduel,0.6629999999999999,-168,5.764285714285698,True
+15,Miami Dolphins,away,betmgm,0.39899999999999997,165,5.734999999999999,False
+6,Miami Dolphins,home,betway,0.39899999999999997,165,5.734999999999999,False
+7,New Orleans Saints,away,betmgm,0.39899999999999997,165,5.734999999999999,False
+15,New Orleans Saints,home,fanduel,0.47200000000000003,124,5.7280000000000015,True
+15,New Orleans Saints,home,draftkings,0.47200000000000003,124,5.7280000000000015,True
+14,Philadelphia Eagles,away,betway,0.5870000000000001,-125,5.660000000000018,False
+15,Buffalo Bills,away,bet365,0.541,-105,5.62380952380952,True
+5,Minnesota Vikings,away,si,0.679,-180,5.622222222222234,True
+WC,Buffalo Bills,away,fanduel,0.498,112,5.575999999999993,True
+3,Arizona Cardinals,away,si,0.515,105,5.575000000000003,False
+3,Arizona Cardinals,away,betway,0.515,105,5.575000000000003,False
+3,Arizona Cardinals,away,betmgm,0.515,105,5.575000000000003,False
+3,Arizona Cardinals,away,bet365,0.515,105,5.575000000000003,False
+3,New York Jets,away,betway,0.289,265,5.484999999999985,False
+14,Pittsburgh Steelers,away,betway,0.337,213,5.481000000000009,True
+16,Cincinnati Bengals,away,betmgm,0.703,-200,5.449999999999996,True
+16,Cincinnati Bengals,away,si,0.703,-200,5.449999999999996,True
+WC,Jacksonville Jaguars,home,bet365,0.502,110,5.420000000000002,False
+6,Tampa Bay Buccaneers,home,bet365,0.575,-120,5.416666666666664,True
+10,Jacksonville Jaguars,away,betway,0.552,-110,5.38181818181819,False
+10,Jacksonville Jaguars,away,betmgm,0.552,-110,5.38181818181819,False
+6,Jacksonville Jaguars,home,fanduel,0.49700000000000005,112,5.3640000000000185,False
+1,Houston Texans,away,si,0.439,140,5.3600000000000065,False
+1,Houston Texans,away,caesars,0.439,140,5.3600000000000065,False
+1,Houston Texans,away,betmgm,0.439,140,5.3600000000000065,False
+1,Houston Texans,away,betway,0.439,140,5.3600000000000065,False
+1,Houston Texans,away,bet365,0.439,140,5.3600000000000065,False
+11,Detroit Lions,away,betway,0.49,115,5.350000000000001,False
+11,Detroit Lions,away,caesars,0.49,115,5.350000000000001,False
+3,Denver Broncos,away,draftkings,0.43,145,5.349999999999994,False
+11,Washington Commanders,away,caesars,0.48100000000000004,119,5.339000000000013,False
+2,Las Vegas Raiders,home,caesars,0.402,162,5.324000000000012,False
+14,New Orleans Saints,away,caesars,0.26,305,5.299999999999997,True
+18,Las Vegas Raiders,home,si,0.39,170,5.299999999999997,True
+6,Chicago Bears,away,betmgm,0.35100000000000003,200,5.299999999999997,True
+18,Las Vegas Raiders,home,betmgm,0.39,170,5.299999999999997,True
+6,Chicago Bears,away,si,0.35100000000000003,200,5.299999999999997,True
+1,New York Giants,away,betway,0.32899999999999996,220,5.279999999999987,False
+9,Denver Broncos,away,caesars,0.501,110,5.210000000000001,True
+9,Denver Broncos,away,bet365,0.501,110,5.210000000000001,True
+13,Pittsburgh Steelers,home,bet365,0.397,165,5.2050000000000125,False
+16,Jacksonville Jaguars,away,si,0.414,154,5.155999999999992,True
+16,Jacksonville Jaguars,away,betmgm,0.414,154,5.155999999999992,True
+13,Green Bay Packers,away,bet365,0.457,130,5.110000000000014,True
+10,New Orleans Saints,away,fanduel,0.33899999999999997,210,5.089999999999989,True
+2,New England Patriots,away,bet365,0.467,125,5.07500000000001,True
+13,Carolina Panthers,home,betway,0.21,400,5.0,True
+13,Carolina Panthers,home,si,0.21,400,5.0,True
+13,Carolina Panthers,home,fanduel,0.21,400,5.0,True
+12,Houston Texans,home,fanduel,0.36200000000000004,190,4.980000000000025,True
+2,Indianapolis Colts,home,betmgm,0.512,105,4.960000000000001,True
+2,Indianapolis Colts,home,betway,0.512,105,4.960000000000001,True
+16,Kansas City Chiefs,away,draftkings,0.6809999999999999,-185,4.910810810810801,False
+17,Pittsburgh Steelers,away,draftkings,0.6970000000000001,-198,4.902020202020214,False
+17,Miami Dolphins,home,draftkings,0.33299999999999996,215,4.894999999999996,True
+8,Pittsburgh Steelers,home,draftkings,0.456,130,4.8799999999999955,False
+2,Tampa Bay Buccaneers,away,bet365,0.499,110,4.789999999999999,True
+9,Kansas City Chiefs,away,bet365,0.5820000000000001,-125,4.760000000000012,False
+16,Carolina Panthers,home,betway,0.442,137,4.753999999999998,True
+9,Atlanta Falcons,away,betway,0.349,200,4.699999999999989,False
+9,Atlanta Falcons,away,betmgm,0.349,200,4.699999999999989,False
+9,Atlanta Falcons,away,caesars,0.349,200,4.699999999999989,False
+16,New Orleans Saints,home,betmgm,0.775,-285,4.692982456140353,True
+16,New Orleans Saints,home,si,0.775,-285,4.692982456140353,True
+1,Los Angeles Chargers,home,bet365,0.42700000000000005,145,4.615000000000009,True
+1,Los Angeles Chargers,home,betway,0.42700000000000005,145,4.615000000000009,True
+2,Kansas City Chiefs,home,si,0.523,100,4.6000000000000085,False
+2,Kansas City Chiefs,home,caesars,0.523,100,4.6000000000000085,False
+2,Kansas City Chiefs,home,betway,0.523,100,4.6000000000000085,False
+16,Cincinnati Bengals,away,draftkings,0.703,-205,4.592682926829262,True
+WC,Buffalo Bills,away,si,0.498,110,4.579999999999998,True
+2,Pittsburgh Steelers,home,bet365,0.61,-140,4.571428571428569,False
+12,Las Vegas Raiders,home,caesars,0.6509999999999999,-165,4.554545454545448,False
+12,Las Vegas Raiders,home,betmgm,0.6509999999999999,-165,4.554545454545448,False
+1,Cincinnati Bengals,away,draftkings,0.6509999999999999,-165,4.554545454545448,True
+12,Las Vegas Raiders,home,si,0.6509999999999999,-165,4.554545454545448,False
+17,Pittsburgh Steelers,away,fanduel,0.6970000000000001,-200,4.550000000000008,False
+17,Pittsburgh Steelers,away,betway,0.6970000000000001,-200,4.550000000000008,False
+17,Pittsburgh Steelers,away,bet365,0.6970000000000001,-200,4.550000000000008,False
+2,Las Vegas Raiders,home,draftkings,0.402,160,4.52000000000001,False
+18,Las Vegas Raiders,home,caesars,0.39,168,4.519999999999996,True
+10,Jacksonville Jaguars,away,draftkings,0.552,-112,4.485714285714295,False
+3,Tennessee Titans,home,bet365,0.337,210,4.470000000000013,False
+14,Pittsburgh Steelers,away,fanduel,0.337,210,4.470000000000013,True
+7,Washington Commanders,away,fanduel,0.507,106,4.442,False
+16,New England Patriots,away,betway,0.39399999999999996,165,4.409999999999982,True
+11,Los Angeles Chargers,away,bet365,0.58,-125,4.3999999999999915,False
+4,Chicago Bears,away,betmgm,0.509,105,4.344999999999999,True
+4,Chicago Bears,away,si,0.509,105,4.344999999999999,True
+4,Chicago Bears,away,draftkings,0.509,105,4.344999999999999,True
+16,Jacksonville Jaguars,away,caesars,0.414,152,4.327999999999989,True
+13,Tennessee Titans,home,caesars,0.321,225,4.325000000000003,False
+13,Tennessee Titans,home,si,0.321,225,4.325000000000003,False
+13,Tennessee Titans,home,betway,0.321,225,4.325000000000003,False
+2,Washington Commanders,away,caesars,0.40399999999999997,158,4.231999999999985,False
+2,Seattle Seahawks,away,betmgm,0.386,170,4.220000000000006,True
+16,Los Angeles Chargers,away,betway,0.501,108,4.207999999999998,True
+7,Tennessee Titans,home,bet365,0.336,210,4.160000000000011,False
+7,Tennessee Titans,home,fanduel,0.336,210,4.160000000000011,False
+17,Las Vegas Raiders,home,bet365,0.434,140,4.1599999999999895,False
+17,Las Vegas Raiders,home,draftkings,0.434,140,4.1599999999999895,False
+6,New York Giants,home,si,0.254,310,4.140000000000001,True
+6,New York Giants,home,betmgm,0.254,310,4.140000000000001,True
+7,Cincinnati Bengals,home,caesars,0.353,195,4.134999999999991,True
+12,Las Vegas Raiders,home,betway,0.6509999999999999,-167,4.082035928143696,False
+WC,Buffalo Bills,away,caesars,0.498,109,4.081999999999994,True
+3,New York Jets,away,si,0.289,260,4.039999999999992,False
+3,New York Jets,away,betmgm,0.289,260,4.039999999999992,False
+3,New York Jets,away,bet365,0.289,260,4.039999999999992,False
+13,Indianapolis Colts,home,fanduel,0.6659999999999999,-178,4.015730337078644,False
+6,Detroit Lions,away,fanduel,0.452,130,3.960000000000001,False
+14,New York Jets,home,fanduel,0.46,126,3.960000000000001,False
+9,Houston Texans,home,betway,0.495,110,3.950000000000003,False
+13,New Orleans Saints,away,fanduel,0.315,230,3.950000000000003,False
+7,Washington Commanders,away,draftkings,0.507,105,3.9350000000000023,False
+7,Washington Commanders,away,betmgm,0.507,105,3.9350000000000023,False
+7,Washington Commanders,away,betway,0.507,105,3.9350000000000023,False
+7,Washington Commanders,away,si,0.507,105,3.9350000000000023,False
+11,Washington Commanders,away,fanduel,0.48100000000000004,116,3.896000000000015,False
+15,New Orleans Saints,home,si,0.47200000000000003,120,3.8399999999999963,True
+15,New Orleans Saints,home,caesars,0.47200000000000003,120,3.8399999999999963,True
+15,New Orleans Saints,home,bet365,0.47200000000000003,120,3.8399999999999963,True
+15,New Orleans Saints,home,betmgm,0.47200000000000003,120,3.8399999999999963,True
+15,New Orleans Saints,home,betway,0.47200000000000003,120,3.8399999999999963,True
+4,Arizona Cardinals,home,bet365,0.519,100,3.799999999999997,False
+4,Arizona Cardinals,home,caesars,0.519,100,3.799999999999997,False
+11,Miami Dolphins,home,bet365,0.519,100,3.799999999999997,True
+15,Miami Dolphins,away,si,0.39899999999999997,160,3.740000000000002,False
+15,Miami Dolphins,away,caesars,0.39899999999999997,160,3.740000000000002,False
+7,New Orleans Saints,away,draftkings,0.39899999999999997,160,3.740000000000002,False
+17,Tennessee Titans,home,bet365,0.494,110,3.739999999999995,False
+9,Cincinnati Bengals,home,si,0.451,130,3.730000000000011,False
+9,Cincinnati Bengals,home,caesars,0.451,130,3.730000000000011,False
+9,Cincinnati Bengals,home,betmgm,0.451,130,3.730000000000011,False
+WC,Pittsburgh Steelers,home,betway,0.461,125,3.7250000000000085,False
+WC,Pittsburgh Steelers,home,betmgm,0.461,125,3.7250000000000085,False
+10,Atlanta Falcons,away,betway,0.305,240,3.700000000000003,False
+10,Atlanta Falcons,away,betmgm,0.305,240,3.700000000000003,False
+3,Cincinnati Bengals,away,betmgm,0.43200000000000005,140,3.680000000000007,False
+3,Cincinnati Bengals,away,betway,0.43200000000000005,140,3.680000000000007,False
+3,Cincinnati Bengals,away,si,0.43200000000000005,140,3.680000000000007,False
+9,Kansas City Chiefs,away,betway,0.5820000000000001,-128,3.668750000000017,False
+5,Minnesota Vikings,away,betway,0.679,-190,3.636842105263163,True
+7,Minnesota Vikings,home,draftkings,0.47100000000000003,120,3.6200000000000117,False
+7,Minnesota Vikings,home,bet365,0.47100000000000003,120,3.6200000000000117,False
+7,Minnesota Vikings,home,si,0.47100000000000003,120,3.6200000000000117,False
+7,Minnesota Vikings,home,betway,0.47100000000000003,120,3.6200000000000117,False
+7,Minnesota Vikings,home,betmgm,0.47100000000000003,120,3.6200000000000117,False
+16,New Orleans Saints,home,draftkings,0.775,-298,3.5067114093959795,True
+9,Indianapolis Colts,away,bet365,0.575,-125,3.499999999999993,False
+1,Tampa Bay Buccaneers,away,caesars,0.542,-110,3.472727272727276,True
+1,Tampa Bay Buccaneers,away,bet365,0.542,-110,3.472727272727276,True
+1,Tampa Bay Buccaneers,away,betway,0.542,-110,3.472727272727276,True
+16,Carolina Panthers,home,fanduel,0.442,134,3.4279999999999973,True
+16,Cleveland Browns,home,caesars,0.19699999999999998,425,3.424999999999983,False
+5,Carolina Panthers,home,fanduel,0.512,102,3.4240000000000066,True
+10,Green Bay Packers,home,draftkings,0.517,100,3.4000000000000057,False
+6,Atlanta Falcons,home,caesars,0.376,175,3.3999999999999986,True
+3,Minnesota Vikings,home,bet365,0.564,-120,3.3999999999999915,True
+10,New Orleans Saints,away,caesars,0.33899999999999997,205,3.394999999999982,True
+9,Pittsburgh Steelers,home,si,0.42200000000000004,145,3.3900000000000077,True
+9,Pittsburgh Steelers,home,betmgm,0.42200000000000004,145,3.3900000000000077,True
+9,Pittsburgh Steelers,home,draftkings,0.42200000000000004,145,3.3900000000000077,True
+9,Pittsburgh Steelers,home,betway,0.42200000000000004,145,3.3900000000000077,True
+11,Carolina Panthers,away,draftkings,0.40700000000000003,154,3.378000000000007,True
+12,Carolina Panthers,away,si,0.272,280,3.3600000000000136,False
+12,Carolina Panthers,away,betmgm,0.272,280,3.3600000000000136,False
+18,Las Vegas Raiders,home,betway,0.39,165,3.3500000000000085,True
+16,Cincinnati Bengals,away,betway,0.703,-213,3.304694835680749,True
+2,New Orleans Saints,home,fanduel,0.478,116,3.2479999999999976,False
+7,Indianapolis Colts,away,betway,0.48700000000000004,112,3.244000000000014,True
+17,Miami Dolphins,home,caesars,0.33299999999999996,210,3.2299999999999898,True
+5,Denver Broncos,away,fanduel,0.391,164,3.2239999999999966,True
+16,Baltimore Ravens,home,bet365,0.602,-140,3.1999999999999957,False
+12,Indianapolis Colts,away,betway,0.382,170,3.1400000000000006,False
+5,Dallas Cowboys,away,bet365,0.573,-125,3.1399999999999935,True
+18,Buffalo Bills,home,fanduel,0.91,-752,3.101063829787238,True
+18,Buffalo Bills,home,si,0.91,-752,3.101063829787238,True
+4,Los Angeles Chargers,away,caesars,0.75,-267,3.08988764044944,False
+8,Pittsburgh Steelers,home,fanduel,0.456,126,3.0559999999999974,False
+17,Pittsburgh Steelers,away,caesars,0.6970000000000001,-209,3.049282296650727,False
+14,New York Jets,home,draftkings,0.46,124,3.039999999999999,False
+14,New York Jets,home,caesars,0.46,124,3.039999999999999,False
+11,Las Vegas Raiders,home,bet365,0.40399999999999997,155,3.019999999999989,False
+1,Minnesota Vikings,away,betmgm,0.479,115,2.9849999999999994,True
+6,Carolina Panthers,home,bet365,0.396,160,2.960000000000001,True
+4,New York Jets,away,si,0.43799999999999994,135,2.9299999999999926,False
+4,New York Jets,away,betmgm,0.43799999999999994,135,2.9299999999999926,False
+11,Detroit Lions,away,draftkings,0.49,110,2.8999999999999986,False
+8,New Orleans Saints,home,bet365,0.34299999999999997,200,2.8999999999999915,False
+17,Pittsburgh Steelers,away,si,0.6970000000000001,-210,2.890476190476196,False
+6,New York Giants,home,caesars,0.254,305,2.8700000000000045,True
+8,San Francisco 49ers,away,fanduel,0.43200000000000005,138,2.8160000000000096,False
+3,Cincinnati Bengals,away,fanduel,0.43200000000000005,138,2.8160000000000096,False
+3,Tennessee Titans,home,caesars,0.337,205,2.785000000000011,False
+13,Miami Dolphins,home,bet365,0.685,-200,2.750000000000007,True
+13,Tennessee Titans,home,draftkings,0.321,220,2.719999999999999,False
+9,Denver Broncos,away,draftkings,0.501,105,2.7049999999999983,True
+14,Jacksonville Jaguars,home,bet365,0.43700000000000006,135,2.6950000000000074,True
+2,Jacksonville Jaguars,away,caesars,0.39799999999999996,158,2.6839999999999833,False
+16,Jacksonville Jaguars,away,fanduel,0.414,148,2.67199999999999,True
+2,Minnesota Vikings,home,caesars,0.645,-169,2.665680473372781,False
+8,Pittsburgh Steelers,home,caesars,0.456,125,2.5999999999999943,False
+8,Pittsburgh Steelers,home,si,0.456,125,2.5999999999999943,False
+8,Pittsburgh Steelers,home,betway,0.456,125,2.5999999999999943,False
+8,Pittsburgh Steelers,home,betmgm,0.456,125,2.5999999999999943,False
+15,Jacksonville Jaguars,home,bet365,0.868,-552,2.524637681159419,True
+2,Las Vegas Raiders,home,betway,0.402,155,2.510000000000005,False
+2,Las Vegas Raiders,home,si,0.402,155,2.510000000000005,False
+2,Las Vegas Raiders,home,betmgm,0.402,155,2.510000000000005,False
+1,Detroit Lions,away,bet365,0.5,105,2.5,True
+1,Detroit Lions,away,betmgm,0.5,105,2.5,True
+1,Los Angeles Chargers,home,si,0.42700000000000005,140,2.480000000000011,True
+17,Baltimore Ravens,away,betway,0.436,135,2.4599999999999937,True
+2,Minnesota Vikings,home,betway,0.645,-170,2.441176470588239,False
+2,Minnesota Vikings,home,si,0.645,-170,2.441176470588239,False
+16,New England Patriots,away,caesars,0.39399999999999996,160,2.4399999999999835,True
+17,Las Vegas Raiders,home,fanduel,0.434,136,2.4239999999999924,False
+2,Indianapolis Colts,home,caesars,0.512,100,2.4000000000000057,True
+2,Indianapolis Colts,home,si,0.512,100,2.4000000000000057,True
+18,Buffalo Bills,home,bet365,0.91,-800,2.3750000000000036,True
+18,Buffalo Bills,home,betmgm,0.91,-800,2.3750000000000036,True
+18,Buffalo Bills,home,draftkings,0.91,-800,2.3750000000000036,True
+18,Buffalo Bills,home,caesars,0.91,-800,2.3750000000000036,True
+5,Minnesota Vikings,away,caesars,0.679,-197,2.367005076142135,True
+16,New Orleans Saints,home,betway,0.775,-312,2.3397435897435948,True
+10,Minnesota Vikings,home,draftkings,0.37200000000000005,175,2.3000000000000185,False
+2,Seattle Seahawks,away,betway,0.386,165,2.2900000000000063,True
+4,Los Angeles Chargers,away,bet365,0.75,-275,2.2727272727272734,False
+4,Los Angeles Chargers,away,si,0.75,-275,2.2727272727272734,False
+4,Los Angeles Chargers,away,betmgm,0.75,-275,2.2727272727272734,False
+11,Chicago Bears,away,draftkings,0.48700000000000004,110,2.2700000000000173,True
+8,Dallas Cowboys,away,draftkings,0.435,135,2.2250000000000085,False
+16,Los Angeles Chargers,away,fanduel,0.501,104,2.2040000000000006,True
+5,Tennessee Titans,away,draftkings,0.262,290,2.180000000000007,True
+10,Atlanta Falcons,away,caesars,0.305,235,2.174999999999997,False
+6,Detroit Lions,away,caesars,0.452,126,2.151999999999994,False
+13,San Francisco 49ers,away,bet365,0.778,-320,2.1125000000000043,True
+WC,Buffalo Bills,away,betmgm,0.498,105,2.0899999999999963,True
+WC,Buffalo Bills,away,betway,0.498,105,2.0899999999999963,True
+1,Cleveland Browns,home,si,0.34600000000000003,195,2.0700000000000074,False
+15,New York Giants,home,betmgm,0.604,-145,2.055172413793102,False
+4,Jacksonville Jaguars,away,fanduel,0.375,172,2.0,True
+17,Las Vegas Raiders,home,betway,0.434,135,1.9899999999999878,False
+17,Las Vegas Raiders,home,si,0.434,135,1.9899999999999878,False
+17,Las Vegas Raiders,home,betmgm,0.434,135,1.9899999999999878,False
+2,Tennessee Titans,home,draftkings,0.32899999999999996,210,1.9899999999999807,False
+2,Tennessee Titans,home,caesars,0.32899999999999996,210,1.9899999999999807,False
+CC,Los Angeles Rams,away,betway,0.455,124,1.9200000000000088,False
+11,Detroit Lions,away,fanduel,0.49,108,1.9200000000000017,False
+5,Minnesota Vikings,away,betmgm,0.679,-200,1.8500000000000085,True
+11,Los Angeles Rams,home,bet365,0.611,-150,1.8333333333333286,True
+16,New Orleans Saints,home,caesars,0.775,-319,1.7946708463949896,True
+16,New Orleans Saints,home,fanduel,0.775,-319,1.7946708463949896,True
+6,Chicago Bears,away,bet365,0.35100000000000003,190,1.7900000000000063,True
+11,Carolina Panthers,away,bet365,0.40700000000000003,150,1.750000000000007,True
+6,Miami Dolphins,home,betmgm,0.39899999999999997,155,1.7449999999999974,False
+6,Miami Dolphins,home,si,0.39899999999999997,155,1.7449999999999974,False
+6,Miami Dolphins,home,bet365,0.39899999999999997,155,1.7449999999999974,False
+7,Minnesota Vikings,home,fanduel,0.47100000000000003,116,1.7360000000000113,False
+6,Detroit Lions,away,si,0.452,125,1.6999999999999957,False
+6,Detroit Lions,away,betmgm,0.452,125,1.6999999999999957,False
+10,New Orleans Saints,away,si,0.33899999999999997,200,1.6999999999999886,True
+10,New Orleans Saints,away,betmgm,0.33899999999999997,200,1.6999999999999886,True
+2,New York Giants,away,betmgm,0.33899999999999997,200,1.6999999999999886,False
+2,New York Giants,away,betway,0.33899999999999997,200,1.6999999999999886,False
+15,New England Patriots,home,betway,0.456,123,1.6879999999999953,False
+16,Carolina Panthers,home,caesars,0.442,130,1.6599999999999966,True
+16,Carolina Panthers,home,betmgm,0.442,130,1.6599999999999966,True
+16,Carolina Panthers,home,draftkings,0.442,130,1.6599999999999966,True
+16,Carolina Panthers,home,si,0.442,130,1.6599999999999966,True
+8,Cincinnati Bengals,home,bet365,0.584,-135,1.659259259259258,False
+1,Pittsburgh Steelers,away,fanduel,0.593,-140,1.6571428571428513,True
+6,New York Giants,home,draftkings,0.254,300,1.6000000000000085,True
+17,Miami Dolphins,home,si,0.33299999999999996,205,1.5649999999999835,True
+17,Miami Dolphins,home,bet365,0.33299999999999996,205,1.5649999999999835,True
+15,New York Jets,away,draftkings,0.131,675,1.5249999999999915,False
+6,Atlanta Falcons,home,si,0.376,170,1.5200000000000031,True
+6,Atlanta Falcons,home,draftkings,0.376,170,1.5200000000000031,True
+6,Atlanta Falcons,home,betmgm,0.376,170,1.5200000000000031,True
+6,Atlanta Falcons,home,bet365,0.376,170,1.5200000000000031,True
+2,Jacksonville Jaguars,away,betmgm,0.39799999999999996,155,1.4899999999999878,False
+2,Jacksonville Jaguars,away,si,0.39799999999999996,155,1.4899999999999878,False
+2,Jacksonville Jaguars,away,betway,0.39799999999999996,155,1.4899999999999878,False
+16,Jacksonville Jaguars,away,draftkings,0.414,145,1.4299999999999855,True
+7,Washington Commanders,away,caesars,0.507,100,1.4000000000000057,False
+17,New York Jets,home,si,0.156,550,1.4000000000000057,False
+5,Carolina Panthers,home,si,0.512,-102,1.3960784313725512,True
+5,Carolina Panthers,home,betmgm,0.512,-102,1.3960784313725512,True
+12,Dallas Cowboys,home,betway,0.426,138,1.387999999999991,True
+17,Pittsburgh Steelers,away,betmgm,0.6970000000000001,-220,1.3818181818181898,False
+2,Minnesota Vikings,home,betmgm,0.645,-175,1.357142857142854,False
+15,Miami Dolphins,away,draftkings,0.39899999999999997,154,1.3460000000000036,False
+6,Miami Dolphins,home,draftkings,0.39899999999999997,154,1.3460000000000036,False
+1,Tampa Bay Buccaneers,away,si,0.542,-115,1.3304347826087053,True
+4,Arizona Cardinals,home,draftkings,0.519,-105,1.328571428571422,False
+2,Las Vegas Raiders,home,fanduel,0.402,152,1.3040000000000092,False
+1,Buffalo Bills,home,si,0.494,105,1.269999999999996,True
+18,New Orleans Saints,away,bet365,0.45,125,1.249999999999993,False
+14,New York Jets,home,betmgm,0.46,120,1.2000000000000028,False
+14,New York Jets,home,si,0.46,120,1.2000000000000028,False
+14,New York Jets,home,bet365,0.46,120,1.2000000000000028,False
+3,New York Jets,away,caesars,0.289,250,1.1499999999999915,False
+2,Jacksonville Jaguars,away,fanduel,0.39799999999999996,154,1.0919999999999845,False
+11,Dallas Cowboys,away,fanduel,0.593,-142,1.0605633802816854,True
+10,New Orleans Saints,away,betway,0.33899999999999997,198,1.0219999999999914,True
+18,Buffalo Bills,home,betway,0.91,-909,1.0110011001100165,True
+12,Pittsburgh Steelers,away,fanduel,0.47200000000000003,114,1.0080000000000027,False
+2,Washington Commanders,away,si,0.40399999999999997,150,0.9999999999999858,False
+2,Washington Commanders,away,betmgm,0.40399999999999997,150,0.9999999999999858,False
+2,Washington Commanders,away,betway,0.40399999999999997,150,0.9999999999999858,False
+5,New York Giants,away,si,0.46299999999999997,118,0.9339999999999904,False
+5,New York Giants,away,betmgm,0.46299999999999997,118,0.9339999999999904,False
+14,Houston Texans,away,caesars,0.348,190,0.9199999999999875,True
+5,Carolina Panthers,home,caesars,0.512,-103,0.9087378640776791,True
+16,Los Angeles Rams,away,bet365,0.528,-110,0.8000000000000043,False
+6,Atlanta Falcons,home,fanduel,0.376,168,0.7680000000000007,True
+7,Jacksonville Jaguars,home,bet365,0.40299999999999997,150,0.75,False
+14,New York Jets,home,betway,0.46,119,0.740000000000002,False
+4,New York Jets,away,caesars,0.43799999999999994,130,0.7399999999999878,False
+4,New York Jets,away,bet365,0.43799999999999994,130,0.7399999999999878,False
+16,Los Angeles Chargers,away,caesars,0.501,101,0.7010000000000005,True
+17,Las Vegas Raiders,home,caesars,0.434,132,0.6879999999999882,False
+9,Kansas City Chiefs,away,caesars,0.5820000000000001,-137,0.6817518248175318,False
+6,New Orleans Saints,home,draftkings,0.387,160,0.6200000000000045,False
+2,Atlanta Falcons,away,bet365,0.353,185,0.6049999999999898,True
+7,Cincinnati Bengals,home,bet365,0.353,185,0.6049999999999898,True
+WC,Buffalo Bills,away,draftkings,0.498,102,0.5959999999999965,True
+6,Miami Dolphins,home,fanduel,0.39899999999999997,152,0.5480000000000018,False
+15,Miami Dolphins,away,fanduel,0.39899999999999997,152,0.5480000000000018,False
+3,Arizona Cardinals,away,draftkings,0.515,-105,0.5476190476190439,False
+12,Dallas Cowboys,home,draftkings,0.426,136,0.5359999999999943,True
+15,Green Bay Packers,away,betway,0.531,-112,0.5107142857142932,False
+8,Baltimore Ravens,home,caesars,0.603,-150,0.4999999999999929,True
+8,Baltimore Ravens,home,betmgm,0.603,-150,0.4999999999999929,True
+8,Baltimore Ravens,home,si,0.603,-150,0.4999999999999929,True
+8,Baltimore Ravens,home,betway,0.603,-150,0.4999999999999929,True
+10,Green Bay Packers,home,fanduel,0.517,-106,0.47358490566038114,False
+16,New England Patriots,away,betmgm,0.39399999999999996,155,0.46999999999998465,True
+16,New England Patriots,away,si,0.39399999999999996,155,0.46999999999998465,True
+11,Detroit Lions,away,bet365,0.49,105,0.44999999999999574,False
+9,Pittsburgh Steelers,home,fanduel,0.42200000000000004,138,0.43600000000000705,True
+2,New England Patriots,away,si,0.467,115,0.40500000000001535,True
+1,Baltimore Ravens,away,betmgm,0.502,100,0.4000000000000057,False
+1,Baltimore Ravens,away,bet365,0.502,100,0.4000000000000057,False
+1,Baltimore Ravens,away,caesars,0.502,100,0.4000000000000057,False
+2,New York Giants,away,caesars,0.33899999999999997,196,0.3439999999999799,False
+11,Los Angeles Chargers,away,betway,0.58,-137,0.3357664233576543,False
+4,Tennessee Titans,away,draftkings,0.304,230,0.3200000000000074,False
+4,Tennessee Titans,away,fanduel,0.304,230,0.3200000000000074,False
+15,New England Patriots,home,draftkings,0.456,120,0.3199999999999932,False
+4,Cleveland Browns,away,draftkings,0.228,340,0.3199999999999932,False
+4,Cleveland Browns,away,fanduel,0.228,340,0.3199999999999932,False
+14,Washington Commanders,away,betway,0.504,-101,0.30099009900990126,False
+7,Carolina Panthers,away,fanduel,0.511,-104,0.23461538461538822,True
+5,Minnesota Vikings,away,bet365,0.679,-210,0.23333333333333428,True
+14,Houston Texans,away,fanduel,0.348,188,0.22399999999998954,True
+16,Los Angeles Chargers,away,betmgm,0.501,100,0.20000000000000284,True
+16,Los Angeles Chargers,away,si,0.501,100,0.20000000000000284,True
+3,New York Giants,home,draftkings,0.33399999999999996,200,0.19999999999998863,False
+11,Dallas Cowboys,away,draftkings,0.593,-145,0.1965517241379331,True
+3,Houston Texans,away,fanduel,0.46799999999999997,114,0.15199999999999392,False
+3,Los Angeles Chargers,home,fanduel,0.5660000000000001,-130,0.13846153846155573,True
+5,Washington Commanders,away,caesars,0.41200000000000003,143,0.11600000000000676,True
+12,Dallas Cowboys,home,betmgm,0.426,135,0.10999999999999233,True
+CC,Los Angeles Rams,away,draftkings,0.455,120,0.10000000000000853,False
+9,Chicago Bears,away,bet365,0.546,-120,0.10000000000000853,True
+CC,Los Angeles Rams,away,bet365,0.455,120,0.10000000000000853,False
+4,San Francisco 49ers,home,bet365,0.623,-165,0.05757575757575495,False

@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765843205,2025-12-16 00:00:05,Minnesota Vikings,away,0.495,16,2025-12-21,Minnesota Vikings,New York Giants
+1765843218,2025-12-16 00:00:18,New York Giants,home,0.505,16,2025-12-21,Minnesota Vikings,New York Giants
+1765886417,2025-12-16 12:00:17,Minnesota Vikings,away,0.59,16,2025-12-21,Minnesota Vikings,New York Giants
+1765886431,2025-12-16 12:00:31,New York Giants,home,0.41,16,2025-12-21,Minnesota Vikings,New York Giants
+1765929602,2025-12-17 00:00:02,Minnesota Vikings,away,0.59,16,2025-12-21,Minnesota Vikings,New York Giants
+1765929615,2025-12-17 00:00:15,New York Giants,home,0.41,16,2025-12-21,Minnesota Vikings,New York Giants
+1765929630,2025-12-17 00:00:30,Minnesota Vikings,away,0.59,16,2025-12-21,Minnesota Vikings,New York Giants
+1765929636,2025-12-17 00:00:36,New York Giants,home,0.41,16,2025-12-21,Minnesota Vikings,New York Giants
+1765972807,2025-12-17 12:00:07,Minnesota Vikings,away,0.615,16,2025-12-21,Minnesota Vikings,New York Giants
+1765972826,2025-12-17 12:00:26,New York Giants,home,0.385,16,2025-12-21,Minnesota Vikings,New York Giants
+1766016017,2025-12-18 00:00:17,Minnesota Vikings,away,0.615,16,2025-12-21,Minnesota Vikings,New York Giants
+1766016026,2025-12-18 00:00:26,New York Giants,home,0.385,16,2025-12-21,Minnesota Vikings,New York Giants
+1766059207,2025-12-18 12:00:07,Minnesota Vikings,away,0.585,16,2025-12-21,Minnesota Vikings,New York Giants
+1766059217,2025-12-18 12:00:17,New York Giants,home,0.415,16,2025-12-21,Minnesota Vikings,New York Giants
+1766102407,2025-12-19 00:00:07,Minnesota Vikings,away,0.63,16,2025-12-21,Minnesota Vikings,New York Giants
+1766102417,2025-12-19 00:00:17,New York Giants,home,0.37,16,2025-12-21,Minnesota Vikings,New York Giants
+1766145608,2025-12-19 12:00:08,Minnesota Vikings,away,0.64,16,2025-12-21,Minnesota Vikings,New York Giants
+1766145619,2025-12-19 12:00:19,New York Giants,home,0.36,16,2025-12-21,Minnesota Vikings,New York Giants
+1766188807,2025-12-20 00:00:07,Minnesota Vikings,away,0.64,16,2025-12-21,Minnesota Vikings,New York Giants
+1766188817,2025-12-20 00:00:17,New York Giants,home,0.36,16,2025-12-21,Minnesota Vikings,New York Giants
+1766232006,2025-12-20 12:00:06,Minnesota Vikings,away,0.625,16,2025-12-21,Minnesota Vikings,New York Giants
+1766232020,2025-12-20 12:00:20,New York Giants,home,0.375,16,2025-12-21,Minnesota Vikings,New York Giants
+1766275207,2025-12-21 00:00:07,Minnesota Vikings,away,0.565,16,2025-12-21,Minnesota Vikings,New York Giants
+1766275217,2025-12-21 00:00:17,New York Giants,home,0.435,16,2025-12-21,Minnesota Vikings,New York Giants
+1766318406,2025-12-21 12:00:06,Minnesota Vikings,away,0.56,16,2025-12-21,Minnesota Vikings,New York Giants
+1766318417,2025-12-21 12:00:17,New York Giants,home,0.44,16,2025-12-21,Minnesota Vikings,New York Giants

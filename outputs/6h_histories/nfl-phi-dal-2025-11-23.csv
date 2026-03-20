@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1763424005,2025-11-18 00:00:05,Philadelphia Eagles,away,0.495,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763424008,2025-11-18 00:00:08,Dallas Cowboys,home,0.505,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763467204,2025-11-18 12:00:04,Philadelphia Eagles,away,0.445,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763467210,2025-11-18 12:00:10,Dallas Cowboys,home,0.555,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763510405,2025-11-19 00:00:05,Philadelphia Eagles,away,0.68,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763510409,2025-11-19 00:00:09,Dallas Cowboys,home,0.32,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763553605,2025-11-19 12:00:05,Philadelphia Eagles,away,0.68,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763553611,2025-11-19 12:00:11,Dallas Cowboys,home,0.32,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763596805,2025-11-20 00:00:05,Philadelphia Eagles,away,0.685,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763596807,2025-11-20 00:00:07,Dallas Cowboys,home,0.315,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763640005,2025-11-20 12:00:05,Philadelphia Eagles,away,0.68,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763640008,2025-11-20 12:00:08,Dallas Cowboys,home,0.32,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763683205,2025-11-21 00:00:05,Philadelphia Eagles,away,0.68,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763683209,2025-11-21 00:00:09,Dallas Cowboys,home,0.32,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763726405,2025-11-21 12:00:05,Philadelphia Eagles,away,0.68,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763726408,2025-11-21 12:00:08,Dallas Cowboys,home,0.32,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763769605,2025-11-22 00:00:05,Philadelphia Eagles,away,0.685,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763769608,2025-11-22 00:00:08,Dallas Cowboys,home,0.315,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763812806,2025-11-22 12:00:06,Philadelphia Eagles,away,0.68,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763812808,2025-11-22 12:00:08,Dallas Cowboys,home,0.32,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763856005,2025-11-23 00:00:05,Philadelphia Eagles,away,0.68,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763856008,2025-11-23 00:00:08,Dallas Cowboys,home,0.32,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763899204,2025-11-23 12:00:04,Philadelphia Eagles,away,0.57,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763899208,2025-11-23 12:00:08,Dallas Cowboys,home,0.43,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763942408,2025-11-24 00:00:08,Philadelphia Eagles,away,0.9995,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys
+1763942411,2025-11-24 00:00:11,Dallas Cowboys,home,0.0005,12,2025-11-23,Philadelphia Eagles,Dallas Cowboys

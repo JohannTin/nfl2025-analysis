@@ -1,0 +1,24 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1768867223,2026-01-20 00:00:23,Los Angeles Rams,away,0.425,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1768867225,2026-01-20 00:00:25,Seattle Seahawks,home,0.575,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1768910424,2026-01-20 12:00:24,Los Angeles Rams,away,0.425,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1768910426,2026-01-20 12:00:26,Seattle Seahawks,home,0.575,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1768953625,2026-01-21 00:00:25,Los Angeles Rams,away,0.42,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1768953627,2026-01-21 00:00:27,Seattle Seahawks,home,0.58,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1768996848,2026-01-21 12:00:48,Los Angeles Rams,away,0.425,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1768996852,2026-01-21 12:00:52,Seattle Seahawks,home,0.575,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1769040036,2026-01-22 00:00:36,Los Angeles Rams,away,0.425,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1769040041,2026-01-22 00:00:41,Seattle Seahawks,home,0.575,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1769083254,2026-01-22 12:00:54,Los Angeles Rams,away,0.425,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1769083258,2026-01-22 12:00:58,Seattle Seahawks,home,0.575,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1769126442,2026-01-23 00:00:42,Los Angeles Rams,away,0.435,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1769126444,2026-01-23 00:00:44,Seattle Seahawks,home,0.565,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1769169657,2026-01-23 12:00:57,Los Angeles Rams,away,0.435,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1769212839,2026-01-24 00:00:39,Los Angeles Rams,away,0.435,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1769212842,2026-01-24 00:00:42,Seattle Seahawks,home,0.565,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1769256038,2026-01-24 12:00:38,Los Angeles Rams,away,0.445,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1769256043,2026-01-24 12:00:43,Seattle Seahawks,home,0.555,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1769299245,2026-01-25 00:00:45,Los Angeles Rams,away,0.435,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1769299247,2026-01-25 00:00:47,Seattle Seahawks,home,0.565,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1769385644,2026-01-26 00:00:44,Los Angeles Rams,away,0.335,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks
+1769385647,2026-01-26 00:00:47,Seattle Seahawks,home,0.665,CC,2026-01-25,Los Angeles Rams,Seattle Seahawks

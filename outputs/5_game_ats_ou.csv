@@ -1,0 +1,286 @@
+week,away_team,home_team,winner,opener_away_spread,actual_margin,ats_away_cover,ats_home_cover,ats_push,opener_total_line,actual_total,over_hit,under_hit,ou_push
+1,Dallas Cowboys,Philadelphia Eagles,Philadelphia Eagles,7.0,-4,True,False,False,46.0,44,False,True,False
+1,Kansas City Chiefs,Los Angeles Chargers,Los Angeles Chargers,-3.0,-6,False,True,False,45.0,48,True,False,False
+1,Carolina Panthers,Jacksonville Jaguars,Jacksonville Jaguars,3.0,-16,False,True,False,46.0,36,False,True,False
+1,Pittsburgh Steelers,New York Jets,Pittsburgh Steelers,-3.0,2,False,True,False,38.5,66,True,False,False
+1,Cincinnati Bengals,Cleveland Browns,Cincinnati Bengals,-5.5,1,False,True,False,46.5,33,False,True,False
+1,Miami Dolphins,Indianapolis Colts,Indianapolis Colts,2.0,-25,False,True,False,47.0,41,False,True,False
+1,Arizona Cardinals,New Orleans Saints,Arizona Cardinals,-6.0,7,True,False,False,42.5,33,False,True,False
+1,Tampa Bay Buccaneers,Atlanta Falcons,Tampa Bay Buccaneers,-1.5,3,True,False,False,48.5,43,False,True,False
+1,New York Giants,Washington Commanders,Washington Commanders,6.5,-15,False,True,False,45.5,27,False,True,False
+1,Las Vegas Raiders,New England Patriots,Las Vegas Raiders,3.0,7,True,False,False,42.5,33,False,True,False
+1,Tennessee Titans,Denver Broncos,Denver Broncos,7.5,-8,False,True,False,41.5,32,False,True,False
+1,San Francisco 49ers,Seattle Seahawks,San Francisco 49ers,-2.5,4,True,False,False,45.0,30,False,True,False
+1,Houston Texans,Los Angeles Rams,Los Angeles Rams,2.5,-5,False,True,False,44.5,23,False,True,False
+1,Detroit Lions,Green Bay Packers,Detroit Lions,1.5,11,True,False,False,49.5,15,False,True,False
+1,Baltimore Ravens,Buffalo Bills,Buffalo Bills,1.0,-1,False,False,True,52.0,81,True,False,False
+1,Minnesota Vikings,Chicago Bears,Minnesota Vikings,-1.5,3,True,False,False,43.0,51,True,False,False
+2,Washington Commanders,Green Bay Packers,Green Bay Packers,2.5,-9,False,True,False,48.5,45,False,True,False
+2,Buffalo Bills,New York Jets,Buffalo Bills,-8.5,20,True,False,False,44.5,40,False,True,False
+2,Chicago Bears,Detroit Lions,Detroit Lions,4.5,-31,False,True,False,48.5,73,True,False,False
+2,Cleveland Browns,Baltimore Ravens,Baltimore Ravens,12.5,-24,False,True,False,44.5,58,True,False,False
+2,Jacksonville Jaguars,Cincinnati Bengals,Cincinnati Bengals,5.5,-4,True,False,False,49.5,58,True,False,False
+2,New England Patriots,Miami Dolphins,New England Patriots,2.5,6,True,False,False,45.5,60,True,False,False
+2,New York Giants,Dallas Cowboys,Dallas Cowboys,3.0,-3,False,False,True,44.5,77,True,False,False
+2,Los Angeles Rams,Tennessee Titans,Los Angeles Rams,-5.5,14,True,False,False,45.5,52,True,False,False
+2,Seattle Seahawks,Pittsburgh Steelers,Seattle Seahawks,2.5,14,True,False,False,40.5,48,True,False,False
+2,San Francisco 49ers,New Orleans Saints,San Francisco 49ers,-7.0,5,False,True,False,44.5,47,True,False,False
+2,Carolina Panthers,Arizona Cardinals,Arizona Cardinals,4.5,-5,False,True,False,46.5,49,True,False,False
+2,Denver Broncos,Indianapolis Colts,Indianapolis Colts,-3.5,-1,False,True,False,44.5,57,True,False,False
+2,Philadelphia Eagles,Kansas City Chiefs,Philadelphia Eagles,1.5,3,True,False,False,45.5,37,False,True,False
+2,Atlanta Falcons,Minnesota Vikings,Atlanta Falcons,4.5,16,True,False,False,42.5,28,False,True,False
+2,Tampa Bay Buccaneers,Houston Texans,Tampa Bay Buccaneers,1.5,1,True,False,False,46.5,39,False,True,False
+2,Los Angeles Chargers,Las Vegas Raiders,Los Angeles Chargers,-3.0,11,True,False,False,44.5,29,False,True,False
+3,Miami Dolphins,Buffalo Bills,Buffalo Bills,10.0,-10,False,False,True,47.5,52,True,False,False
+3,Atlanta Falcons,Carolina Panthers,Carolina Panthers,-1.5,-30,False,True,False,44.5,30,False,True,False
+3,Cincinnati Bengals,Minnesota Vikings,Minnesota Vikings,1.5,-38,False,True,False,47.5,58,True,False,False
+3,Indianapolis Colts,Tennessee Titans,Indianapolis Colts,1.5,21,True,False,False,43.5,61,True,False,False
+3,Green Bay Packers,Cleveland Browns,Cleveland Browns,-6.5,-3,False,True,False,43.0,23,False,True,False
+3,Houston Texans,Jacksonville Jaguars,Jacksonville Jaguars,1.5,-7,False,True,False,42.5,27,False,True,False
+3,New York Jets,Tampa Bay Buccaneers,Tampa Bay Buccaneers,5.5,-2,True,False,False,45.0,56,True,False,False
+3,Pittsburgh Steelers,New England Patriots,Pittsburgh Steelers,-1.0,7,True,False,False,44.5,35,False,True,False
+3,Las Vegas Raiders,Washington Commanders,Washington Commanders,6.0,-17,False,True,False,47.5,65,True,False,False
+3,Los Angeles Rams,Philadelphia Eagles,Philadelphia Eagles,4.0,-7,False,True,False,45.0,59,True,False,False
+3,Denver Broncos,Los Angeles Chargers,Los Angeles Chargers,1.5,-3,False,True,False,43.5,43,False,True,False
+3,New Orleans Saints,Seattle Seahawks,Seattle Seahawks,6.0,-31,False,True,False,41.5,57,True,False,False
+3,Arizona Cardinals,San Francisco 49ers,San Francisco 49ers,-2.5,-1,False,True,False,44.5,31,False,True,False
+3,Dallas Cowboys,Chicago Bears,Chicago Bears,1.5,-17,False,True,False,46.0,45,False,True,False
+3,Kansas City Chiefs,New York Giants,Kansas City Chiefs,-5.5,13,True,False,False,44.5,31,False,True,False
+3,Detroit Lions,Baltimore Ravens,Detroit Lions,6.0,8,True,False,False,53.5,68,True,False,False
+4,Seattle Seahawks,Arizona Cardinals,Seattle Seahawks,2.5,3,True,False,False,43.5,43,False,True,False
+4,Minnesota Vikings,Pittsburgh Steelers,Pittsburgh Steelers,2.0,-3,False,True,False,42.0,45,True,False,False
+4,Carolina Panthers,New England Patriots,New England Patriots,5.5,-29,False,True,False,43.0,55,True,False,False
+4,Cleveland Browns,Detroit Lions,Detroit Lions,10.0,-24,False,True,False,46.5,44,False,True,False
+4,New Orleans Saints,Buffalo Bills,Buffalo Bills,14.5,-12,True,False,False,48.0,50,True,False,False
+4,Tennessee Titans,Houston Texans,Houston Texans,7.5,-26,False,True,False,40.0,26,False,True,False
+4,Philadelphia Eagles,Tampa Bay Buccaneers,Philadelphia Eagles,-3.5,6,True,False,False,44.0,56,True,False,False
+4,Los Angeles Chargers,New York Giants,New York Giants,-5.5,-3,False,True,False,45.0,39,False,True,False
+4,Washington Commanders,Atlanta Falcons,Atlanta Falcons,-1.5,-7,False,True,False,45.0,61,True,False,False
+4,Indianapolis Colts,Los Angeles Rams,Los Angeles Rams,3.5,-7,False,True,False,50.0,47,False,True,False
+4,Jacksonville Jaguars,San Francisco 49ers,Jacksonville Jaguars,3.0,5,True,False,False,47.0,47,False,False,True
+4,Chicago Bears,Las Vegas Raiders,Chicago Bears,2.0,1,True,False,False,49.0,49,False,False,True
+4,Baltimore Ravens,Kansas City Chiefs,Kansas City Chiefs,-2.5,-17,False,True,False,49.0,57,True,False,False
+4,Green Bay Packers,Dallas Cowboys,Green Bay Packers,-4.5,0,False,True,False,48.5,80,True,False,False
+4,New York Jets,Miami Dolphins,Miami Dolphins,2.5,-6,False,True,False,45.0,48,True,False,False
+4,Cincinnati Bengals,Denver Broncos,Denver Broncos,6.5,-25,False,True,False,45.0,31,False,True,False
+5,San Francisco 49ers,Los Angeles Rams,San Francisco 49ers,3.0,3,True,False,False,47.0,49,True,False,False
+5,Minnesota Vikings,Cleveland Browns,Minnesota Vikings,-4.5,4,False,True,False,38.5,38,False,True,False
+5,Dallas Cowboys,New York Jets,Dallas Cowboys,-1.5,15,True,False,False,48.5,59,True,False,False
+5,Denver Broncos,Philadelphia Eagles,Denver Broncos,5.5,4,True,False,False,43.5,38,False,True,False
+5,Houston Texans,Baltimore Ravens,Houston Texans,9.5,34,True,False,False,45.5,54,True,False,False
+5,Miami Dolphins,Carolina Panthers,Carolina Panthers,1.5,-3,False,True,False,46.5,51,True,False,False
+5,New York Giants,New Orleans Saints,New Orleans Saints,-1.5,-12,False,True,False,41.5,40,False,True,False
+5,Las Vegas Raiders,Indianapolis Colts,Indianapolis Colts,6.5,-34,False,True,False,47.5,46,False,True,False
+5,Tennessee Titans,Arizona Cardinals,Tennessee Titans,7.5,1,True,False,False,41.5,43,True,False,False
+5,Tampa Bay Buccaneers,Seattle Seahawks,Tampa Bay Buccaneers,1.5,3,True,False,False,44.5,73,True,False,False
+5,Detroit Lions,Cincinnati Bengals,Detroit Lions,-7.5,13,True,False,False,49.5,61,True,False,False
+5,Washington Commanders,Los Angeles Chargers,Washington Commanders,3.0,17,True,False,False,48.5,37,False,True,False
+5,New England Patriots,Buffalo Bills,New England Patriots,8.5,3,True,False,False,49.5,43,False,True,False
+5,Kansas City Chiefs,Jacksonville Jaguars,Jacksonville Jaguars,-3.5,-3,False,True,False,45.5,59,True,False,False
+6,Philadelphia Eagles,New York Giants,New York Giants,-7.5,-17,False,True,False,42.5,51,True,False,False
+6,Denver Broncos,New York Jets,Denver Broncos,-6.5,2,False,True,False,43.5,24,False,True,False
+6,Cleveland Browns,Pittsburgh Steelers,Pittsburgh Steelers,6.5,-14,False,True,False,38.5,32,False,True,False
+6,Arizona Cardinals,Indianapolis Colts,Indianapolis Colts,7.5,-4,True,False,False,46.5,58,True,False,False
+6,Dallas Cowboys,Carolina Panthers,Carolina Panthers,-3.5,-3,False,True,False,47.5,57,True,False,False
+6,Los Angeles Rams,Baltimore Ravens,Los Angeles Rams,-7.5,14,True,False,False,43.5,20,False,True,False
+6,Los Angeles Chargers,Miami Dolphins,Los Angeles Chargers,-1.5,2,True,False,False,45.5,56,True,False,False
+6,Seattle Seahawks,Jacksonville Jaguars,Seattle Seahawks,1.5,8,True,False,False,44.5,32,False,True,False
+6,San Francisco 49ers,Tampa Bay Buccaneers,Tampa Bay Buccaneers,1.5,-11,False,True,False,47.5,49,True,False,False
+6,Tennessee Titans,Las Vegas Raiders,Las Vegas Raiders,6.5,-10,False,True,False,41.5,30,False,True,False
+6,Cincinnati Bengals,Green Bay Packers,Green Bay Packers,13.5,-9,True,False,False,44.5,45,True,False,False
+6,New England Patriots,New Orleans Saints,New England Patriots,-3.5,6,True,False,False,45.5,44,False,True,False
+6,Detroit Lions,Kansas City Chiefs,Kansas City Chiefs,1.5,-13,False,True,False,48.5,47,False,True,False
+6,Buffalo Bills,Atlanta Falcons,Atlanta Falcons,-5.5,-10,False,True,False,49.5,38,False,True,False
+6,Chicago Bears,Washington Commanders,Chicago Bears,4.5,1,True,False,False,49.5,49,False,True,False
+7,Pittsburgh Steelers,Cincinnati Bengals,Cincinnati Bengals,-4.5,-2,False,True,False,42.5,64,True,False,False
+7,Los Angeles Rams,Jacksonville Jaguars,Los Angeles Rams,-3.5,28,True,False,False,44.5,42,False,True,False
+7,Carolina Panthers,New York Jets,Carolina Panthers,-1.0,7,True,False,False,44.5,19,False,True,False
+7,Miami Dolphins,Cleveland Browns,Cleveland Browns,2.5,-25,False,True,False,41.5,37,False,True,False
+7,New Orleans Saints,Chicago Bears,Chicago Bears,6.5,-12,False,True,False,45.5,40,False,True,False
+7,New England Patriots,Tennessee Titans,New England Patriots,-6.5,18,True,False,False,42.5,44,True,False,False
+7,Philadelphia Eagles,Minnesota Vikings,Philadelphia Eagles,-1.5,6,True,False,False,43.5,50,True,False,False
+7,Las Vegas Raiders,Kansas City Chiefs,Kansas City Chiefs,10.5,-31,False,True,False,44.5,31,False,True,False
+7,Indianapolis Colts,Los Angeles Chargers,Indianapolis Colts,1.5,14,True,False,False,48.5,62,True,False,False
+7,New York Giants,Denver Broncos,Denver Broncos,8.5,-1,True,False,False,40.5,65,True,False,False
+7,Green Bay Packers,Arizona Cardinals,Green Bay Packers,-5.0,4,False,True,False,44.5,50,True,False,False
+7,Washington Commanders,Dallas Cowboys,Dallas Cowboys,-2.5,-22,False,True,False,52.0,66,True,False,False
+7,Atlanta Falcons,San Francisco 49ers,San Francisco 49ers,4.5,-10,False,True,False,45.5,30,False,True,False
+7,Tampa Bay Buccaneers,Detroit Lions,Detroit Lions,4.5,-15,False,True,False,53.5,33,False,True,False
+7,Houston Texans,Seattle Seahawks,Seattle Seahawks,2.5,-8,False,True,False,41.5,46,True,False,False
+8,Minnesota Vikings,Los Angeles Chargers,Los Angeles Chargers,3.0,-27,False,True,False,42.5,47,True,False,False
+8,Buffalo Bills,Carolina Panthers,Buffalo Bills,-7.5,31,True,False,False,48.5,49,True,False,False
+8,Chicago Bears,Baltimore Ravens,Baltimore Ravens,6.5,-14,False,True,False,49.5,46,False,True,False
+8,Cleveland Browns,New England Patriots,New England Patriots,6.5,-19,False,True,False,40.5,45,True,False,False
+8,Miami Dolphins,Atlanta Falcons,Miami Dolphins,-5.5,24,True,False,False,44.0,44,False,False,True
+8,New York Giants,Philadelphia Eagles,Philadelphia Eagles,7.5,-18,False,True,False,44.5,58,True,False,False
+8,New York Jets,Cincinnati Bengals,New York Jets,2.5,1,True,False,False,42.5,77,True,False,False
+8,San Francisco 49ers,Houston Texans,Houston Texans,1.5,-11,False,True,False,41.5,41,False,True,False
+8,Tampa Bay Buccaneers,New Orleans Saints,Tampa Bay Buccaneers,-5.5,20,True,False,False,47.5,26,False,True,False
+8,Dallas Cowboys,Denver Broncos,Denver Broncos,4.5,-20,False,True,False,47.5,68,True,False,False
+8,Tennessee Titans,Indianapolis Colts,Indianapolis Colts,11.5,-24,False,True,False,45.5,52,True,False,False
+8,Green Bay Packers,Pittsburgh Steelers,Green Bay Packers,-3.0,10,True,False,False,43.5,60,True,False,False
+8,Washington Commanders,Kansas City Chiefs,Kansas City Chiefs,5.5,-21,False,True,False,50.5,35,False,True,False
+9,Baltimore Ravens,Miami Dolphins,Baltimore Ravens,-8.0,22,True,False,False,49.5,34,False,True,False
+9,Atlanta Falcons,New England Patriots,New England Patriots,2.5,-1,True,False,False,45.5,47,True,False,False
+9,Carolina Panthers,Green Bay Packers,Carolina Panthers,10.5,3,True,False,False,44.5,29,False,True,False
+9,Chicago Bears,Cincinnati Bengals,Chicago Bears,-1.5,5,True,False,False,48.5,89,True,False,False
+9,Indianapolis Colts,Pittsburgh Steelers,Pittsburgh Steelers,1.5,-7,False,True,False,49.5,47,False,True,False
+9,Denver Broncos,Houston Texans,Denver Broncos,-1.5,3,True,False,False,38.5,33,False,True,False
+9,Minnesota Vikings,Detroit Lions,Minnesota Vikings,7.5,3,True,False,False,48.5,51,True,False,False
+9,Los Angeles Chargers,Tennessee Titans,Los Angeles Chargers,-9.5,7,False,True,False,43.5,47,True,False,False
+9,San Francisco 49ers,New York Giants,San Francisco 49ers,-3.0,10,True,False,False,46.5,58,True,False,False
+9,Jacksonville Jaguars,Las Vegas Raiders,Jacksonville Jaguars,-1.5,1,False,True,False,44.5,59,True,False,False
+9,New Orleans Saints,Los Angeles Rams,Los Angeles Rams,11.5,-24,False,True,False,45.0,44,False,True,False
+9,Kansas City Chiefs,Buffalo Bills,Buffalo Bills,-1.5,-7,False,True,False,50.5,49,False,True,False
+9,Seattle Seahawks,Washington Commanders,Seattle Seahawks,-2.5,24,True,False,False,46.5,52,True,False,False
+9,Arizona Cardinals,Dallas Cowboys,Arizona Cardinals,3.0,10,True,False,False,52.5,44,False,True,False
+10,Las Vegas Raiders,Denver Broncos,Denver Broncos,9.5,-3,True,False,False,41.5,17,False,True,False
+10,Atlanta Falcons,Indianapolis Colts,Indianapolis Colts,7.0,-6,True,False,False,48.5,56,True,False,False
+10,Buffalo Bills,Miami Dolphins,Miami Dolphins,-8.5,-17,False,True,False,49.5,43,False,True,False
+10,Cleveland Browns,New York Jets,New York Jets,-1.5,-7,False,True,False,38.0,47,True,False,False
+10,Jacksonville Jaguars,Houston Texans,Houston Texans,1.5,-7,False,True,False,41.5,65,True,False,False
+10,New Orleans Saints,Carolina Panthers,New Orleans Saints,3.5,10,True,False,False,38.5,24,False,True,False
+10,New England Patriots,Tampa Bay Buccaneers,New England Patriots,1.5,5,True,False,False,47.5,51,True,False,False
+10,New York Giants,Chicago Bears,Chicago Bears,3.0,-4,False,True,False,46.5,44,False,True,False
+10,Baltimore Ravens,Minnesota Vikings,Baltimore Ravens,-3.5,8,True,False,False,46.5,46,False,True,False
+10,Arizona Cardinals,Seattle Seahawks,Seattle Seahawks,6.0,-22,False,True,False,44.5,66,True,False,False
+10,Detroit Lions,Washington Commanders,Detroit Lions,-3.5,22,True,False,False,49.0,66,True,False,False
+10,Los Angeles Rams,San Francisco 49ers,Los Angeles Rams,-2.5,16,True,False,False,48.5,68,True,False,False
+10,Pittsburgh Steelers,Los Angeles Chargers,Los Angeles Chargers,3.5,-15,False,True,False,46.5,35,False,True,False
+10,Philadelphia Eagles,Green Bay Packers,Philadelphia Eagles,3.0,3,True,False,False,45.5,17,False,True,False
+11,New York Jets,New England Patriots,New England Patriots,10.5,-13,False,True,False,46.5,41,False,True,False
+11,Washington Commanders,Miami Dolphins,Miami Dolphins,1.5,-3,False,True,False,45.5,29,False,True,False
+11,Carolina Panthers,Atlanta Falcons,Carolina Panthers,3.5,3,True,False,False,44.5,57,True,False,False
+11,Chicago Bears,Minnesota Vikings,Chicago Bears,2.5,2,True,False,False,47.5,36,False,True,False
+11,Cincinnati Bengals,Pittsburgh Steelers,Pittsburgh Steelers,5.5,-22,False,True,False,50.0,46,False,True,False
+11,Green Bay Packers,New York Giants,Green Bay Packers,-7.0,7,False,False,True,42.5,47,True,False,False
+11,Houston Texans,Tennessee Titans,Houston Texans,-7.0,3,False,True,False,38.5,29,False,True,False
+11,Los Angeles Chargers,Jacksonville Jaguars,Jacksonville Jaguars,-1.5,-29,False,True,False,44.5,41,False,True,False
+11,Tampa Bay Buccaneers,Buffalo Bills,Buffalo Bills,6.0,-12,False,True,False,50.5,76,True,False,False
+11,Seattle Seahawks,Los Angeles Rams,Los Angeles Rams,3.5,-2,True,False,False,47.5,40,False,True,False
+11,San Francisco 49ers,Arizona Cardinals,San Francisco 49ers,-1.5,19,True,False,False,47.5,63,True,False,False
+11,Kansas City Chiefs,Denver Broncos,Denver Broncos,-2.5,-3,False,True,False,45.5,41,False,True,False
+11,Baltimore Ravens,Cleveland Browns,Baltimore Ravens,-7.5,7,False,True,False,41.5,39,False,True,False
+11,Detroit Lions,Philadelphia Eagles,Philadelphia Eagles,1.5,-7,False,True,False,46.5,25,False,True,False
+11,Dallas Cowboys,Las Vegas Raiders,Dallas Cowboys,-3.5,17,True,False,False,49.5,49,False,True,False
+12,Buffalo Bills,Houston Texans,Houston Texans,-2.5,-4,False,True,False,44.5,42,False,True,False
+12,Indianapolis Colts,Kansas City Chiefs,Kansas City Chiefs,4.5,-3,True,False,False,50.5,43,False,True,False
+12,Minnesota Vikings,Green Bay Packers,Green Bay Packers,6.5,-17,False,True,False,43.5,29,False,True,False
+12,New England Patriots,Cincinnati Bengals,New England Patriots,-5.5,6,True,False,False,50.5,46,False,True,False
+12,New York Giants,Detroit Lions,Detroit Lions,10.5,-7,True,False,False,49.5,61,True,False,False
+12,New York Jets,Baltimore Ravens,Baltimore Ravens,14.5,-13,True,False,False,44.5,33,False,True,False
+12,Pittsburgh Steelers,Chicago Bears,Chicago Bears,1.5,-3,False,True,False,46.5,59,True,False,False
+12,Seattle Seahawks,Tennessee Titans,Seattle Seahawks,-12.5,6,False,True,False,43.5,54,True,False,False
+12,Cleveland Browns,Las Vegas Raiders,Cleveland Browns,2.0,14,True,False,False,37.5,34,False,True,False
+12,Jacksonville Jaguars,Arizona Cardinals,Jacksonville Jaguars,1.0,3,True,False,False,46.5,51,True,False,False
+12,Atlanta Falcons,New Orleans Saints,Atlanta Falcons,-3.5,14,True,False,False,41.5,34,False,True,False
+12,Philadelphia Eagles,Dallas Cowboys,Dallas Cowboys,-3.5,-3,False,True,False,50.5,45,False,True,False
+12,Tampa Bay Buccaneers,Los Angeles Rams,L.A. Rams,6.0,-27,False,True,False,49.5,41,False,True,False
+12,Carolina Panthers,San Francisco 49ers,San Francisco 49ers,6.5,-11,False,True,False,45.5,29,False,True,False
+13,Green Bay Packers,Detroit Lions,Green Bay Packers,3.0,7,True,False,False,48.5,55,True,False,False
+13,Kansas City Chiefs,Dallas Cowboys,Dallas Cowboys,-4.0,-3,False,True,False,51.5,59,True,False,False
+13,Cincinnati Bengals,Baltimore Ravens,Cincinnati Bengals,10.5,18,True,False,False,50.0,46,False,True,False
+13,Chicago Bears,Philadelphia Eagles,Chicago Bears,7.0,9,True,False,False,45.0,39,False,True,False
+13,Atlanta Falcons,New York Jets,New York Jets,-1.5,-3,False,True,False,39.0,51,True,False,False
+13,Arizona Cardinals,Tampa Bay Buccaneers,Tampa Bay Buccaneers,6.0,-3,True,False,False,49.5,37,False,True,False
+13,Houston Texans,Indianapolis Colts,Houston Texans,3.5,4,True,False,False,46.5,36,False,True,False
+13,Jacksonville Jaguars,Tennessee Titans,Jacksonville Jaguars,-7.0,22,True,False,False,42.5,28,False,True,False
+13,New Orleans Saints,Miami Dolphins,Miami Dolphins,4.5,-4,True,False,False,43.0,38,False,True,False
+13,Los Angeles Rams,Carolina Panthers,Carolina Panthers,-9.5,-3,False,True,False,45.5,59,True,False,False
+13,San Francisco 49ers,Cleveland Browns,San Francisco 49ers,-7.0,18,True,False,False,42.5,34,False,True,False
+13,Minnesota Vikings,Seattle Seahawks,Seattle Seahawks,11.5,-26,False,True,False,44.0,26,False,True,False
+13,Buffalo Bills,Pittsburgh Steelers,Buffalo Bills,-3.5,19,True,False,False,47.0,33,False,True,False
+13,Las Vegas Raiders,Los Angeles Chargers,Los Angeles Chargers,8.5,-17,False,True,False,42.5,45,True,False,False
+13,Denver Broncos,Washington Commanders,Denver Broncos,-6.5,1,False,True,False,43.5,53,True,False,False
+13,New York Giants,New England Patriots,New England Patriots,7.5,-18,False,True,False,46.5,48,True,False,False
+14,Dallas Cowboys,Detroit Lions,Detroit Lions,5.5,-14,False,True,False,54.5,74,True,False,False
+14,Chicago Bears,Green Bay Packers,Green Bay Packers,6.5,-7,False,True,False,43.5,49,True,False,False
+14,Indianapolis Colts,Jacksonville Jaguars,Jacksonville Jaguars,-3.0,-17,False,True,False,48.5,55,True,False,False
+14,Miami Dolphins,New York Jets,Miami Dolphins,-3.0,24,True,False,False,42.0,44,True,False,False
+14,New Orleans Saints,Tampa Bay Buccaneers,New Orleans Saints,7.5,4,True,False,False,43.0,44,True,False,False
+14,Tennessee Titans,Cleveland Browns,Tennessee Titans,3.5,2,True,False,False,34.5,60,True,False,False
+14,Pittsburgh Steelers,Baltimore Ravens,Pittsburgh Steelers,6.5,5,True,False,False,47.5,49,True,False,False
+14,Seattle Seahawks,Atlanta Falcons,Seattle Seahawks,-7.5,28,True,False,False,44.0,46,True,False,False
+14,Washington Commanders,Minnesota Vikings,Minnesota Vikings,3.0,-31,False,True,False,42.5,31,False,True,False
+14,Denver Broncos,Las Vegas Raiders,Denver Broncos,-8.0,7,False,True,False,39.5,41,True,False,False
+14,Cincinnati Bengals,Buffalo Bills,Buffalo Bills,7.0,-5,True,False,False,53.5,73,True,False,False
+14,Los Angeles Rams,Arizona Cardinals,Los Angeles Rams,-8.5,28,True,False,False,47.5,62,True,False,False
+14,Houston Texans,Kansas City Chiefs,Houston Texans,5.5,10,True,False,False,42.5,30,False,True,False
+14,Philadelphia Eagles,Los Angeles Chargers,Los Angeles Chargers,-2.5,-3,False,True,False,44.0,41,False,True,False
+15,Atlanta Falcons,Tampa Bay Buccaneers,Atlanta Falcons,5.5,1,True,False,False,44.0,57,True,False,False
+15,Buffalo Bills,New England Patriots,Buffalo Bills,-1.5,4,True,False,False,48.5,66,True,False,False
+15,Cleveland Browns,Chicago Bears,Chicago Bears,7.5,-28,False,True,False,39.5,34,False,True,False
+15,Arizona Cardinals,Houston Texans,Houston Texans,9.5,-20,False,True,False,43.5,60,True,False,False
+15,New York Jets,Jacksonville Jaguars,Jacksonville Jaguars,13.5,-28,False,True,False,40.5,68,True,False,False
+15,Las Vegas Raiders,Philadelphia Eagles,Philadelphia Eagles,12.5,-31,False,True,False,39.5,31,False,True,False
+15,Baltimore Ravens,Cincinnati Bengals,Baltimore Ravens,-2.5,24,True,False,False,51.5,24,False,True,False
+15,Los Angeles Chargers,Kansas City Chiefs,Los Angeles Chargers,5.5,3,True,False,False,41.5,29,False,True,False
+15,Washington Commanders,New York Giants,Washington Commanders,-1.5,8,True,False,False,47.5,50,True,False,False
+15,Carolina Panthers,New Orleans Saints,New Orleans Saints,-2.5,-3,False,True,False,39.5,37,False,True,False
+15,Indianapolis Colts,Seattle Seahawks,Seattle Seahawks,4.0,-2,True,False,False,46.5,34,False,True,False
+15,Detroit Lions,Los Angeles Rams,Los Angeles Rams,6.0,-7,False,True,False,50.5,75,True,False,False
+15,Green Bay Packers,Denver Broncos,Denver Broncos,-1.5,-8,False,True,False,42.5,60,True,False,False
+15,Tennessee Titans,San Francisco 49ers,San Francisco 49ers,12.5,-13,False,True,False,44.0,61,True,False,False
+15,Minnesota Vikings,Dallas Cowboys,Minnesota Vikings,5.5,8,True,False,False,47.5,60,True,False,False
+15,Miami Dolphins,Pittsburgh Steelers,Pittsburgh Steelers,3.0,-13,False,True,False,42.5,43,True,False,False
+16,Los Angeles Rams,Seattle Seahawks,Seattle Seahawks,-1.0,-1,False,True,False,47.5,75,True,False,False
+16,Green Bay Packers,Chicago Bears,Chicago Bears,-3.0,-6,False,True,False,46.5,38,False,True,False
+16,Philadelphia Eagles,Washington Commanders,Philadelphia Eagles,-5.5,11,True,False,False,45.5,47,True,False,False
+16,Buffalo Bills,Cleveland Browns,Buffalo Bills,-10.5,3,False,True,False,41.5,43,True,False,False
+16,Kansas City Chiefs,Tennessee Titans,Tennessee Titans,-11.5,-17,False,True,False,41.5,35,False,True,False
+16,Minnesota Vikings,New York Giants,Minnesota Vikings,-2.5,3,True,False,False,43.5,29,False,True,False
+16,New England Patriots,Baltimore Ravens,New England Patriots,3.5,4,True,False,False,48.0,52,True,False,False
+16,New York Jets,New Orleans Saints,New Orleans Saints,6.5,-23,False,True,False,39.5,35,False,True,False
+16,Los Angeles Chargers,Dallas Cowboys,Los Angeles Chargers,1.5,17,True,False,False,48.5,51,True,False,False
+16,Tampa Bay Buccaneers,Carolina Panthers,Carolina Panthers,-3.0,-3,False,True,False,45.5,43,False,True,False
+16,Atlanta Falcons,Arizona Cardinals,Atlanta Falcons,-1.0,7,True,False,False,45.5,45,False,True,False
+16,Jacksonville Jaguars,Denver Broncos,Jacksonville Jaguars,3.0,14,True,False,False,43.5,54,True,False,False
+16,Pittsburgh Steelers,Detroit Lions,Pittsburgh Steelers,6.5,5,True,False,False,49.5,53,True,False,False
+16,Las Vegas Raiders,Houston Texans,Houston Texans,14.5,-2,True,False,False,37.5,44,True,False,False
+16,Cincinnati Bengals,Miami Dolphins,Cincinnati Bengals,-1.5,24,True,False,False,50.5,66,True,False,False
+16,San Francisco 49ers,Indianapolis Colts,San Francisco 49ers,-6.0,21,True,False,False,45.5,75,True,False,False
+17,Dallas Cowboys,Washington Commanders,Dallas Cowboys,-3.0,7,True,False,False,51.5,53,True,False,False
+17,Detroit Lions,Minnesota Vikings,Minnesota Vikings,-3.5,-13,False,True,False,48.5,33,False,True,False
+17,Denver Broncos,Kansas City Chiefs,Denver Broncos,-6.0,7,True,False,False,39.5,33,False,True,False
+17,Arizona Cardinals,Cincinnati Bengals,Cincinnati Bengals,5.5,-23,False,True,False,51.5,51,False,True,False
+17,Houston Texans,Los Angeles Chargers,Houston Texans,1.5,4,True,False,False,39.5,36,False,True,False
+17,Jacksonville Jaguars,Indianapolis Colts,Jacksonville Jaguars,-5.5,6,True,False,False,44.5,40,False,True,False
+17,New Orleans Saints,Tennessee Titans,New Orleans Saints,-2.0,8,True,False,False,38.5,60,True,False,False
+17,New England Patriots,New York Jets,New England Patriots,-9.5,32,True,False,False,44.0,52,True,False,False
+17,New York Giants,Las Vegas Raiders,New York Giants,-3.0,24,True,False,False,43.5,44,True,False,False
+17,Pittsburgh Steelers,Cleveland Browns,Cleveland Browns,-4.0,-7,False,True,False,35.5,19,False,True,False
+17,Baltimore Ravens,Green Bay Packers,Baltimore Ravens,3.0,17,True,False,False,46.5,65,True,False,False
+17,Seattle Seahawks,Carolina Panthers,Seattle Seahawks,-7.5,17,True,False,False,43.5,37,False,True,False
+17,Tampa Bay Buccaneers,Miami Dolphins,Miami Dolphins,-5.5,-3,False,True,False,47.0,37,False,True,False
+17,Philadelphia Eagles,Buffalo Bills,Philadelphia Eagles,3.0,1,True,False,False,45.5,25,False,True,False
+17,Chicago Bears,San Francisco 49ers,San Francisco 49ers,3.0,-4,False,True,False,50.5,80,True,False,False
+17,Los Angeles Rams,Atlanta Falcons,Atlanta Falcons,-8.5,-3,False,True,False,48.5,51,True,False,False
+18,Carolina Panthers,Tampa Bay Buccaneers,Tampa Bay Buccaneers,3.5,-2,True,False,False,43.5,30,False,True,False
+18,Cleveland Browns,Cincinnati Bengals,Cleveland Browns,7.0,2,True,False,False,43.5,38,False,True,False
+18,Indianapolis Colts,Houston Texans,Houston Texans,10.5,-8,True,False,False,39.5,68,True,False,False
+18,Arizona Cardinals,Los Angeles Rams,Los Angeles Rams,9.5,-17,False,True,False,47.5,57,True,False,False
+18,Dallas Cowboys,New York Giants,New York Giants,-5.5,-17,False,True,False,52.5,51,False,True,False
+18,Detroit Lions,Chicago Bears,Detroit Lions,1.5,3,True,False,False,49.5,35,False,True,False
+18,Green Bay Packers,Minnesota Vikings,Minnesota Vikings,7.0,-13,False,True,False,37.5,19,False,True,False
+18,Kansas City Chiefs,Las Vegas Raiders,Las Vegas Raiders,-4.5,-2,False,True,False,35.5,26,False,True,False
+18,Miami Dolphins,New England Patriots,New England Patriots,9.5,-28,False,True,False,46.5,48,True,False,False
+18,New Orleans Saints,Atlanta Falcons,Atlanta Falcons,2.5,-2,True,False,False,43.5,36,False,True,False
+18,New York Jets,Buffalo Bills,Buffalo Bills,13.0,-27,False,True,False,41.5,43,True,False,False
+18,Tennessee Titans,Jacksonville Jaguars,Jacksonville Jaguars,10.5,-34,False,True,False,44.5,48,True,False,False
+18,Baltimore Ravens,Pittsburgh Steelers,Pittsburgh Steelers,-3.0,-2,False,True,False,43.0,50,True,False,False
+18,Los Angeles Chargers,Denver Broncos,Denver Broncos,7.5,-16,False,True,False,39.0,22,False,True,False
+18,Seattle Seahawks,San Francisco 49ers,Seattle Seahawks,-1.0,10,True,False,False,48.5,16,False,True,False
+18,Washington Commanders,Philadelphia Eagles,Washington Commanders,9.5,7,True,False,False,38.5,41,True,False,False
+WC,Los Angeles Rams,Carolina Panthers,Los Angeles Rams,-10.0,3,False,True,False,46.5,65,True,False,False
+WC,Green Bay Packers,Chicago Bears,Chicago Bears,-1.0,-4,False,True,False,46.5,58,True,False,False
+WC,Buffalo Bills,Jacksonville Jaguars,Buffalo Bills,-1.0,3,True,False,False,51.5,51,False,True,False
+WC,San Francisco 49ers,Philadelphia Eagles,San Francisco 49ers,4.0,4,True,False,False,46.5,42,False,True,False
+WC,Los Angeles Chargers,New England Patriots,New England Patriots,3.5,-13,False,True,False,46.5,19,False,True,False
+WC,Houston Texans,Pittsburgh Steelers,Houston Texans,-2.5,24,True,False,False,39.5,36,False,True,False
+DIV,Buffalo Bills,Denver Broncos,Denver Broncos,-1.5,-3,False,True,False,47.0,63,True,False,False
+DIV,San Francisco 49ers,Seattle Seahawks,Seattle Seahawks,7.0,-35,False,True,False,45.5,47,True,False,False
+DIV,Houston Texans,New England Patriots,New England Patriots,2.5,-12,False,True,False,41.5,44,True,False,False
+DIV,Los Angeles Rams,Chicago Bears,Los Angeles Rams,-4.5,3,False,True,False,50.5,37,False,True,False
+CC,New England Patriots,Denver Broncos,New England Patriots,-4.5,3,False,True,False,40.5,17,False,True,False
+CC,Los Angeles Rams,Seattle Seahawks,Seattle Seahawks,2.5,-4,False,True,False,47.5,58,True,False,False
+SB,Seattle Seahawks,New England Patriots,Seattle Seahawks,-4.5,16,True,False,False,46.0,42,False,True,False

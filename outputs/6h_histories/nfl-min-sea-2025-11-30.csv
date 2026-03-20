@@ -1,0 +1,26 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028816,2025-11-25 00:00:16,Minnesota Vikings,away,0.18,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764028827,2025-11-25 00:00:27,Seattle Seahawks,home,0.82,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764072020,2025-11-25 12:00:20,Minnesota Vikings,away,0.175,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764072036,2025-11-25 12:00:36,Seattle Seahawks,home,0.825,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764115213,2025-11-26 00:00:13,Minnesota Vikings,away,0.15,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764115221,2025-11-26 00:00:21,Seattle Seahawks,home,0.85,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764158435,2025-11-26 12:00:35,Minnesota Vikings,away,0.155,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764158451,2025-11-26 12:00:51,Seattle Seahawks,home,0.845,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764201616,2025-11-27 00:00:16,Minnesota Vikings,away,0.135,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764201627,2025-11-27 00:00:27,Seattle Seahawks,home,0.865,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764244824,2025-11-27 12:00:24,Minnesota Vikings,away,0.13,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764244843,2025-11-27 12:00:43,Seattle Seahawks,home,0.87,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764288015,2025-11-28 00:00:15,Minnesota Vikings,away,0.125,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764288025,2025-11-28 00:00:25,Seattle Seahawks,home,0.875,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764331224,2025-11-28 12:00:24,Minnesota Vikings,away,0.135,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764331242,2025-11-28 12:00:42,Seattle Seahawks,home,0.865,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764374420,2025-11-29 00:00:20,Minnesota Vikings,away,0.135,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764374434,2025-11-29 00:00:34,Seattle Seahawks,home,0.865,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764417624,2025-11-29 12:00:24,Minnesota Vikings,away,0.135,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764417644,2025-11-29 12:00:44,Seattle Seahawks,home,0.865,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764460815,2025-11-30 00:00:15,Minnesota Vikings,away,0.145,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764460825,2025-11-30 00:00:25,Seattle Seahawks,home,0.855,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764504048,2025-11-30 12:00:48,Minnesota Vikings,away,0.135,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764547217,2025-12-01 00:00:17,Minnesota Vikings,away,0.0005,13,2025-11-30,Minnesota Vikings,Seattle Seahawks
+1764547230,2025-12-01 00:00:30,Seattle Seahawks,home,0.9995,13,2025-11-30,Minnesota Vikings,Seattle Seahawks

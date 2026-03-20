@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1757246425,2025-09-07 12:00:25,Los Angeles Rams,away,0.69,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757246427,2025-09-07 12:00:27,Tennessee Titans,home,0.31,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757289611,2025-09-08 00:00:11,Tennessee Titans,home,0.335,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757289617,2025-09-08 00:00:17,Los Angeles Rams,away,0.665,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757332818,2025-09-08 12:00:18,Tennessee Titans,home,0.31,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757332828,2025-09-08 12:00:28,Los Angeles Rams,away,0.69,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757376008,2025-09-09 00:00:08,Tennessee Titans,home,0.3,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757376013,2025-09-09 00:00:13,Los Angeles Rams,away,0.7,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757419216,2025-09-09 12:00:16,Los Angeles Rams,away,0.705,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757419218,2025-09-09 12:00:18,Tennessee Titans,home,0.295,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757462404,2025-09-10 00:00:04,Los Angeles Rams,away,0.7,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757462406,2025-09-10 00:00:06,Tennessee Titans,home,0.3,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757505609,2025-09-10 12:00:09,Los Angeles Rams,away,0.705,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757505611,2025-09-10 12:00:11,Tennessee Titans,home,0.295,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757548809,2025-09-11 00:00:09,Los Angeles Rams,away,0.695,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757548812,2025-09-11 00:00:12,Tennessee Titans,home,0.305,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757592005,2025-09-11 12:00:05,Los Angeles Rams,away,0.695,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757592031,2025-09-11 12:00:31,Tennessee Titans,home,0.305,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757635218,2025-09-12 00:00:18,Tennessee Titans,home,0.31,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757635223,2025-09-12 00:00:23,Los Angeles Rams,away,0.69,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757678415,2025-09-12 12:00:15,Los Angeles Rams,away,0.69,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757678429,2025-09-12 12:00:29,Tennessee Titans,home,0.31,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757721604,2025-09-13 00:00:04,Los Angeles Rams,away,0.695,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757721608,2025-09-13 00:00:08,Tennessee Titans,home,0.305,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757764814,2025-09-13 12:00:14,Los Angeles Rams,away,0.7,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757764820,2025-09-13 12:00:20,Tennessee Titans,home,0.3,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757808010,2025-09-14 00:00:10,Los Angeles Rams,away,0.7,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757808012,2025-09-14 00:00:12,Tennessee Titans,home,0.3,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757851210,2025-09-14 12:00:10,Los Angeles Rams,away,0.685,2,2025-09-14,Los Angeles Rams,Tennessee Titans
+1757851232,2025-09-14 12:00:32,Tennessee Titans,home,0.315,2,2025-09-14,Los Angeles Rams,Tennessee Titans

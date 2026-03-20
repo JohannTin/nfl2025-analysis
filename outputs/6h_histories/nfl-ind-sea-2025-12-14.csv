@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765238422,2025-12-09 00:00:22,Indianapolis Colts,away,0.52,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765238422,2025-12-09 00:00:22,Seattle Seahawks,home,0.48,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765281611,2025-12-09 12:00:11,Indianapolis Colts,away,0.51,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765281611,2025-12-09 12:00:11,Seattle Seahawks,home,0.49,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765324811,2025-12-10 00:00:11,Indianapolis Colts,away,0.52,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765324811,2025-12-10 00:00:11,Seattle Seahawks,home,0.48,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765368016,2025-12-10 12:00:16,Indianapolis Colts,away,0.485,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765368018,2025-12-10 12:00:18,Seattle Seahawks,home,0.515,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765411211,2025-12-11 00:00:11,Indianapolis Colts,away,0.5,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765411211,2025-12-11 00:00:11,Seattle Seahawks,home,0.5,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765454413,2025-12-11 12:00:13,Indianapolis Colts,away,0.51,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765454413,2025-12-11 12:00:13,Seattle Seahawks,home,0.49,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765497612,2025-12-12 00:00:12,Seattle Seahawks,home,0.515,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765497612,2025-12-12 00:00:12,Indianapolis Colts,away,0.485,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765540812,2025-12-12 12:00:12,Indianapolis Colts,away,0.5,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765540813,2025-12-12 12:00:13,Seattle Seahawks,home,0.5,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765584013,2025-12-13 00:00:13,Indianapolis Colts,away,0.5,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765584014,2025-12-13 00:00:14,Seattle Seahawks,home,0.5,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765627213,2025-12-13 12:00:13,Indianapolis Colts,away,0.5,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765627214,2025-12-13 12:00:14,Seattle Seahawks,home,0.5,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765670413,2025-12-14 00:00:13,Seattle Seahawks,home,0.785,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765670413,2025-12-14 00:00:13,Indianapolis Colts,away,0.215,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765713613,2025-12-14 12:00:13,Seattle Seahawks,home,0.795,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765713613,2025-12-14 12:00:13,Indianapolis Colts,away,0.205,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765756813,2025-12-15 00:00:13,Indianapolis Colts,away,0.9995,15,2025-12-14,Indianapolis Colts,Seattle Seahawks
+1765756814,2025-12-15 00:00:14,Seattle Seahawks,home,0.0005,15,2025-12-14,Indianapolis Colts,Seattle Seahawks

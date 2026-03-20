@@ -1,0 +1,59 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765152027,2025-12-08 00:00:27,Tampa Bay Buccaneers,away,0.43,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765152029,2025-12-08 00:00:29,Carolina Panthers,home,0.57,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765195228,2025-12-08 12:00:28,Tampa Bay Buccaneers,away,0.375,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765195231,2025-12-08 12:00:31,Carolina Panthers,home,0.625,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765238425,2025-12-09 00:00:25,Tampa Bay Buccaneers,away,0.39,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765238427,2025-12-09 00:00:27,Carolina Panthers,home,0.61,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765281614,2025-12-09 12:00:14,Tampa Bay Buccaneers,away,0.44,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765281616,2025-12-09 12:00:16,Carolina Panthers,home,0.56,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765324813,2025-12-10 00:00:13,Tampa Bay Buccaneers,away,0.47,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765324814,2025-12-10 00:00:14,Carolina Panthers,home,0.53,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765368024,2025-12-10 12:00:24,Tampa Bay Buccaneers,away,0.565,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765368027,2025-12-10 12:00:27,Carolina Panthers,home,0.435,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765411214,2025-12-11 00:00:14,Tampa Bay Buccaneers,away,0.57,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765411215,2025-12-11 00:00:15,Carolina Panthers,home,0.43,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765454416,2025-12-11 12:00:16,Tampa Bay Buccaneers,away,0.565,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765454417,2025-12-11 12:00:17,Carolina Panthers,home,0.435,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765497614,2025-12-12 00:00:14,Tampa Bay Buccaneers,away,0.565,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765497615,2025-12-12 00:00:15,Carolina Panthers,home,0.435,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765540815,2025-12-12 12:00:15,Tampa Bay Buccaneers,away,0.565,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765540817,2025-12-12 12:00:17,Carolina Panthers,home,0.435,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765584016,2025-12-13 00:00:16,Tampa Bay Buccaneers,away,0.57,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765584017,2025-12-13 00:00:17,Carolina Panthers,home,0.43,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765627217,2025-12-13 12:00:17,Tampa Bay Buccaneers,away,0.57,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765627219,2025-12-13 12:00:19,Carolina Panthers,home,0.43,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765670416,2025-12-14 00:00:16,Tampa Bay Buccaneers,away,0.555,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765670418,2025-12-14 00:00:18,Carolina Panthers,home,0.445,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765713616,2025-12-14 12:00:16,Tampa Bay Buccaneers,away,0.555,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765713618,2025-12-14 12:00:18,Carolina Panthers,home,0.445,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765756817,2025-12-15 00:00:17,Tampa Bay Buccaneers,away,0.525,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765756820,2025-12-15 00:00:20,Carolina Panthers,home,0.475,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765800015,2025-12-15 12:00:15,Tampa Bay Buccaneers,away,0.565,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765800016,2025-12-15 12:00:16,Carolina Panthers,home,0.435,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765843215,2025-12-16 00:00:15,Tampa Bay Buccaneers,away,0.595,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765843216,2025-12-16 00:00:16,Carolina Panthers,home,0.405,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765886428,2025-12-16 12:00:28,Tampa Bay Buccaneers,away,0.595,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765886430,2025-12-16 12:00:30,Carolina Panthers,home,0.405,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765929612,2025-12-17 00:00:12,Tampa Bay Buccaneers,away,0.595,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765929614,2025-12-17 00:00:14,Carolina Panthers,home,0.405,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765929634,2025-12-17 00:00:34,Tampa Bay Buccaneers,away,0.595,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765929635,2025-12-17 00:00:35,Carolina Panthers,home,0.405,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765972818,2025-12-17 12:00:18,Tampa Bay Buccaneers,away,0.595,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1765972822,2025-12-17 12:00:22,Carolina Panthers,home,0.405,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766016023,2025-12-18 00:00:23,Tampa Bay Buccaneers,away,0.595,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766016025,2025-12-18 00:00:25,Carolina Panthers,home,0.405,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766059214,2025-12-18 12:00:14,Tampa Bay Buccaneers,away,0.595,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766059216,2025-12-18 12:00:16,Carolina Panthers,home,0.405,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766102415,2025-12-19 00:00:15,Tampa Bay Buccaneers,away,0.59,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766102416,2025-12-19 00:00:16,Carolina Panthers,home,0.41,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766145616,2025-12-19 12:00:16,Tampa Bay Buccaneers,away,0.59,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766145617,2025-12-19 12:00:17,Carolina Panthers,home,0.41,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766188814,2025-12-20 00:00:14,Tampa Bay Buccaneers,away,0.595,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766188816,2025-12-20 00:00:16,Carolina Panthers,home,0.405,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766232016,2025-12-20 12:00:16,Tampa Bay Buccaneers,away,0.59,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766232019,2025-12-20 12:00:19,Carolina Panthers,home,0.41,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766275215,2025-12-21 00:00:15,Tampa Bay Buccaneers,away,0.595,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766275216,2025-12-21 00:00:16,Carolina Panthers,home,0.405,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766318414,2025-12-21 12:00:14,Tampa Bay Buccaneers,away,0.585,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers
+1766318416,2025-12-21 12:00:16,Carolina Panthers,home,0.415,16,2025-12-21,Tampa Bay Buccaneers,Carolina Panthers

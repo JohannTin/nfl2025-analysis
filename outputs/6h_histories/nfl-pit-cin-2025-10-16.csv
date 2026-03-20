@@ -1,0 +1,21 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1760270412,2025-10-12 12:00:12,Cincinnati Bengals,home,0.325,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760270421,2025-10-12 12:00:21,Pittsburgh Steelers,away,0.675,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760313605,2025-10-13 00:00:05,Cincinnati Bengals,home,0.295,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760313613,2025-10-13 00:00:13,Pittsburgh Steelers,away,0.705,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760356807,2025-10-13 12:00:07,Cincinnati Bengals,home,0.29,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760356825,2025-10-13 12:00:25,Pittsburgh Steelers,away,0.71,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760400006,2025-10-14 00:00:06,Pittsburgh Steelers,away,0.705,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760400010,2025-10-14 00:00:10,Cincinnati Bengals,home,0.295,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760443212,2025-10-14 12:00:12,Pittsburgh Steelers,away,0.705,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760443223,2025-10-14 12:00:23,Cincinnati Bengals,home,0.295,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760486411,2025-10-15 00:00:11,Cincinnati Bengals,home,0.295,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760486417,2025-10-15 00:00:17,Pittsburgh Steelers,away,0.705,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760529614,2025-10-15 12:00:14,Cincinnati Bengals,home,0.3,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760529625,2025-10-15 12:00:25,Pittsburgh Steelers,away,0.7,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760572810,2025-10-16 00:00:10,Pittsburgh Steelers,away,0.7,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760572818,2025-10-16 00:00:18,Cincinnati Bengals,home,0.3,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760616026,2025-10-16 12:00:26,Cincinnati Bengals,home,0.295,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760616026,2025-10-16 12:00:26,Pittsburgh Steelers,away,0.705,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760659204,2025-10-17 00:00:04,Cincinnati Bengals,home,0.315,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals
+1760659214,2025-10-17 00:00:14,Pittsburgh Steelers,away,0.685,7,2025-10-16,Pittsburgh Steelers,Cincinnati Bengals

@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1762084818,2025-11-02 12:00:18,Pittsburgh Steelers,away,0.36,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762084823,2025-11-02 12:00:23,Los Angeles Chargers,home,0.64,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762128014,2025-11-03 00:00:14,Pittsburgh Steelers,away,0.48,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762128018,2025-11-03 00:00:18,Los Angeles Chargers,home,0.52,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762171217,2025-11-03 12:00:17,Pittsburgh Steelers,away,0.405,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762171223,2025-11-03 12:00:23,Los Angeles Chargers,home,0.595,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762214415,2025-11-04 00:00:15,Pittsburgh Steelers,away,0.415,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762214418,2025-11-04 00:00:18,Los Angeles Chargers,home,0.585,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762257620,2025-11-04 12:00:20,Pittsburgh Steelers,away,0.415,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762257625,2025-11-04 12:00:25,Los Angeles Chargers,home,0.585,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762300816,2025-11-05 00:00:16,Pittsburgh Steelers,away,0.415,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762300820,2025-11-05 00:00:20,Los Angeles Chargers,home,0.585,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762344020,2025-11-05 12:00:20,Pittsburgh Steelers,away,0.415,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762344027,2025-11-05 12:00:27,Los Angeles Chargers,home,0.585,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762387210,2025-11-06 00:00:10,Pittsburgh Steelers,away,0.405,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762387212,2025-11-06 00:00:12,Los Angeles Chargers,home,0.595,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762430421,2025-11-06 12:00:21,Pittsburgh Steelers,away,0.41,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762430428,2025-11-06 12:00:28,Los Angeles Chargers,home,0.59,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762473616,2025-11-07 00:00:16,Pittsburgh Steelers,away,0.415,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762473620,2025-11-07 00:00:20,Los Angeles Chargers,home,0.585,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762516821,2025-11-07 12:00:21,Pittsburgh Steelers,away,0.415,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762516827,2025-11-07 12:00:27,Los Angeles Chargers,home,0.585,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762560011,2025-11-08 00:00:11,Pittsburgh Steelers,away,0.425,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762560013,2025-11-08 00:00:13,Los Angeles Chargers,home,0.575,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762603233,2025-11-08 12:00:33,Pittsburgh Steelers,away,0.425,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762603238,2025-11-08 12:00:38,Los Angeles Chargers,home,0.575,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762646428,2025-11-09 00:00:28,Pittsburgh Steelers,away,0.425,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762646432,2025-11-09 00:00:32,Los Angeles Chargers,home,0.575,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762689618,2025-11-09 12:00:18,Pittsburgh Steelers,away,0.425,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762689623,2025-11-09 12:00:23,Los Angeles Chargers,home,0.575,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762732811,2025-11-10 00:00:11,Pittsburgh Steelers,away,0.375,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers
+1762732814,2025-11-10 00:00:14,Los Angeles Chargers,home,0.625,10,2025-11-09,Pittsburgh Steelers,Los Angeles Chargers

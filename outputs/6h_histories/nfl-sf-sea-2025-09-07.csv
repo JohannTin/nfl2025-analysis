@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1756641615,2025-08-31 12:00:15,Seattle Seahawks,home,0.435,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756641621,2025-08-31 12:00:21,San Francisco 49ers,away,0.565,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756684807,2025-09-01 00:00:07,Seattle Seahawks,home,0.445,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756684809,2025-09-01 00:00:09,San Francisco 49ers,away,0.555,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756728002,2025-09-01 12:00:02,San Francisco 49ers,away,0.565,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756728010,2025-09-01 12:00:10,Seattle Seahawks,home,0.435,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756771207,2025-09-02 00:00:07,San Francisco 49ers,away,0.57,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756771211,2025-09-02 00:00:11,Seattle Seahawks,home,0.43,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756814407,2025-09-02 12:00:07,San Francisco 49ers,away,0.57,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756814417,2025-09-02 12:00:17,Seattle Seahawks,home,0.43,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756857607,2025-09-03 00:00:07,Seattle Seahawks,home,0.435,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756857614,2025-09-03 00:00:14,San Francisco 49ers,away,0.565,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756900812,2025-09-03 12:00:12,San Francisco 49ers,away,0.565,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756900816,2025-09-03 12:00:16,Seattle Seahawks,home,0.435,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756944004,2025-09-04 00:00:04,San Francisco 49ers,away,0.57,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756944006,2025-09-04 00:00:06,Seattle Seahawks,home,0.43,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756987208,2025-09-04 12:00:08,Seattle Seahawks,home,0.435,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1756987213,2025-09-04 12:00:13,San Francisco 49ers,away,0.565,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1757030404,2025-09-05 00:00:04,San Francisco 49ers,away,0.565,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1757030411,2025-09-05 00:00:11,Seattle Seahawks,home,0.435,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1757073606,2025-09-05 12:00:06,San Francisco 49ers,away,0.545,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1757073627,2025-09-05 12:00:27,Seattle Seahawks,home,0.455,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1757116810,2025-09-06 00:00:10,Seattle Seahawks,home,0.48,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1757116818,2025-09-06 00:00:18,San Francisco 49ers,away,0.52,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1757160002,2025-09-06 12:00:02,Seattle Seahawks,home,0.475,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1757160016,2025-09-06 12:00:16,San Francisco 49ers,away,0.525,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1757203209,2025-09-07 00:00:09,San Francisco 49ers,away,0.535,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1757203214,2025-09-07 00:00:14,Seattle Seahawks,home,0.465,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1757246408,2025-09-07 12:00:08,San Francisco 49ers,away,0.535,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1757246417,2025-09-07 12:00:17,Seattle Seahawks,home,0.465,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1757289613,2025-09-08 00:00:13,San Francisco 49ers,away,0.9995,1,2025-09-07,San Francisco 49ers,Seattle Seahawks
+1757289619,2025-09-08 00:00:19,Seattle Seahawks,home,0.0005,1,2025-09-07,San Francisco 49ers,Seattle Seahawks

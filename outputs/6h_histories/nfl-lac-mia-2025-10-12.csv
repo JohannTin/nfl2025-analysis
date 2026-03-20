@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1759665608,2025-10-05 12:00:08,Los Angeles Chargers,away,0.695,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1759665611,2025-10-05 12:00:11,Miami Dolphins,home,0.305,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1759708804,2025-10-06 00:00:04,Los Angeles Chargers,away,0.69,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1759708807,2025-10-06 00:00:07,Miami Dolphins,home,0.31,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1759752008,2025-10-06 12:00:08,Los Angeles Chargers,away,0.695,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1759752008,2025-10-06 12:00:08,Miami Dolphins,home,0.305,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1759795206,2025-10-07 00:00:06,Miami Dolphins,home,0.335,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1759795207,2025-10-07 00:00:07,Los Angeles Chargers,away,0.665,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1759838409,2025-10-07 12:00:09,Miami Dolphins,home,0.34,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1759838416,2025-10-07 12:00:16,Los Angeles Chargers,away,0.66,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1759881607,2025-10-08 00:00:07,Los Angeles Chargers,away,0.665,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1759881615,2025-10-08 00:00:15,Miami Dolphins,home,0.335,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1759924808,2025-10-08 12:00:08,Los Angeles Chargers,away,0.675,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1759924808,2025-10-08 12:00:08,Miami Dolphins,home,0.325,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1759968006,2025-10-09 00:00:06,Los Angeles Chargers,away,0.645,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1759968011,2025-10-09 00:00:11,Miami Dolphins,home,0.355,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1760011202,2025-10-09 12:00:02,Los Angeles Chargers,away,0.65,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1760011209,2025-10-09 12:00:09,Miami Dolphins,home,0.35,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1760054406,2025-10-10 00:00:06,Los Angeles Chargers,away,0.65,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1760054411,2025-10-10 00:00:11,Miami Dolphins,home,0.35,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1760097610,2025-10-10 12:00:10,Los Angeles Chargers,away,0.655,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1760097616,2025-10-10 12:00:16,Miami Dolphins,home,0.345,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1760140806,2025-10-11 00:00:06,Miami Dolphins,home,0.355,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1760140806,2025-10-11 00:00:06,Los Angeles Chargers,away,0.645,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1760184026,2025-10-11 12:00:26,Miami Dolphins,home,0.355,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1760184027,2025-10-11 12:00:27,Los Angeles Chargers,away,0.645,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1760227202,2025-10-12 00:00:02,Miami Dolphins,home,0.345,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1760227205,2025-10-12 00:00:05,Los Angeles Chargers,away,0.655,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1760270402,2025-10-12 12:00:02,Los Angeles Chargers,away,0.655,6,2025-10-12,Los Angeles Chargers,Miami Dolphins
+1760270421,2025-10-12 12:00:21,Miami Dolphins,home,0.345,6,2025-10-12,Los Angeles Chargers,Miami Dolphins

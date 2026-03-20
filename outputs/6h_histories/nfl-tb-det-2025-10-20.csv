@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1760356818,2025-10-13 12:00:18,Detroit Lions,home,0.645,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760356820,2025-10-13 12:00:20,Tampa Bay Buccaneers,away,0.355,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760400017,2025-10-14 00:00:17,Detroit Lions,home,0.675,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760400018,2025-10-14 00:00:18,Tampa Bay Buccaneers,away,0.325,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760443203,2025-10-14 12:00:03,Tampa Bay Buccaneers,away,0.325,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760443213,2025-10-14 12:00:13,Detroit Lions,home,0.675,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760486404,2025-10-15 00:00:04,Detroit Lions,home,0.685,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760486409,2025-10-15 00:00:09,Tampa Bay Buccaneers,away,0.315,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760529624,2025-10-15 12:00:24,Detroit Lions,home,0.685,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760529624,2025-10-15 12:00:24,Tampa Bay Buccaneers,away,0.315,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760572808,2025-10-16 00:00:08,Detroit Lions,home,0.685,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760572808,2025-10-16 00:00:08,Tampa Bay Buccaneers,away,0.315,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760616006,2025-10-16 12:00:06,Detroit Lions,home,0.695,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760616018,2025-10-16 12:00:18,Tampa Bay Buccaneers,away,0.305,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760659206,2025-10-17 00:00:06,Detroit Lions,home,0.695,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760659209,2025-10-17 00:00:09,Tampa Bay Buccaneers,away,0.305,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760702403,2025-10-17 12:00:03,Detroit Lions,home,0.695,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760702425,2025-10-17 12:00:25,Tampa Bay Buccaneers,away,0.305,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760745609,2025-10-18 00:00:09,Tampa Bay Buccaneers,away,0.295,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760745611,2025-10-18 00:00:11,Detroit Lions,home,0.705,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760788807,2025-10-18 12:00:07,Tampa Bay Buccaneers,away,0.295,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760788814,2025-10-18 12:00:14,Detroit Lions,home,0.705,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760832005,2025-10-19 00:00:05,Detroit Lions,home,0.715,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760832019,2025-10-19 00:00:19,Tampa Bay Buccaneers,away,0.285,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760875219,2025-10-19 12:00:19,Tampa Bay Buccaneers,away,0.285,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760875220,2025-10-19 12:00:20,Detroit Lions,home,0.715,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760918422,2025-10-20 00:00:22,Tampa Bay Buccaneers,away,0.29,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760918423,2025-10-20 00:00:23,Detroit Lions,home,0.71,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760961609,2025-10-20 12:00:09,Detroit Lions,home,0.705,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1760961609,2025-10-20 12:00:09,Tampa Bay Buccaneers,away,0.295,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1761004813,2025-10-21 00:00:13,Tampa Bay Buccaneers,away,0.195,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions
+1761004813,2025-10-21 00:00:13,Detroit Lions,home,0.805,7,2025-10-20,Tampa Bay Buccaneers,Detroit Lions

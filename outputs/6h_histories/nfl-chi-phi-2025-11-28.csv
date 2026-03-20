@@ -1,0 +1,19 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028812,2025-11-25 00:00:12,Philadelphia Eagles,home,0.74,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764028818,2025-11-25 00:00:18,Chicago Bears,away,0.26,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764072014,2025-11-25 12:00:14,Philadelphia Eagles,home,0.735,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764072024,2025-11-25 12:00:24,Chicago Bears,away,0.265,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764115211,2025-11-26 00:00:11,Philadelphia Eagles,home,0.74,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764115215,2025-11-26 00:00:15,Chicago Bears,away,0.26,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764158429,2025-11-26 12:00:29,Philadelphia Eagles,home,0.735,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764158439,2025-11-26 12:00:39,Chicago Bears,away,0.265,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764201613,2025-11-27 00:00:13,Philadelphia Eagles,home,0.745,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764201619,2025-11-27 00:00:19,Chicago Bears,away,0.255,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764244817,2025-11-27 12:00:17,Philadelphia Eagles,home,0.745,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764244829,2025-11-27 12:00:29,Chicago Bears,away,0.255,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764288012,2025-11-28 00:00:12,Philadelphia Eagles,home,0.745,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764288018,2025-11-28 00:00:18,Chicago Bears,away,0.255,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764331216,2025-11-28 12:00:16,Philadelphia Eagles,home,0.745,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764331228,2025-11-28 12:00:28,Chicago Bears,away,0.255,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764374414,2025-11-29 00:00:14,Philadelphia Eagles,home,0.0005,13,2025-11-28,Chicago Bears,Philadelphia Eagles
+1764374424,2025-11-29 00:00:24,Chicago Bears,away,0.9995,13,2025-11-28,Chicago Bears,Philadelphia Eagles

@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1757851210,2025-09-14 12:00:10,Los Angeles Rams,away,0.32,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1757851224,2025-09-14 12:00:24,Philadelphia Eagles,home,0.68,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1757894408,2025-09-15 00:00:08,Los Angeles Rams,away,0.32,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1757894413,2025-09-15 00:00:13,Philadelphia Eagles,home,0.68,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1757937607,2025-09-15 12:00:07,Los Angeles Rams,away,0.345,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1757937612,2025-09-15 12:00:12,Philadelphia Eagles,home,0.655,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1757980805,2025-09-16 00:00:05,Los Angeles Rams,away,0.375,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1757980820,2025-09-16 00:00:20,Philadelphia Eagles,home,0.625,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758024002,2025-09-16 12:00:02,Los Angeles Rams,away,0.365,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758024033,2025-09-16 12:00:33,Philadelphia Eagles,home,0.635,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758067206,2025-09-17 00:00:06,Philadelphia Eagles,home,0.635,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758067221,2025-09-17 00:00:21,Los Angeles Rams,away,0.365,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758110419,2025-09-17 12:00:19,Los Angeles Rams,away,0.365,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758110426,2025-09-17 12:00:26,Philadelphia Eagles,home,0.635,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758153611,2025-09-18 00:00:11,Los Angeles Rams,away,0.37,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758153612,2025-09-18 00:00:12,Philadelphia Eagles,home,0.63,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758196827,2025-09-18 12:00:27,Los Angeles Rams,away,0.365,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758196828,2025-09-18 12:00:28,Philadelphia Eagles,home,0.635,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758240004,2025-09-19 00:00:04,Philadelphia Eagles,home,0.63,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758240019,2025-09-19 00:00:19,Los Angeles Rams,away,0.37,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758283217,2025-09-19 12:00:17,Los Angeles Rams,away,0.37,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758283225,2025-09-19 12:00:25,Philadelphia Eagles,home,0.63,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758326408,2025-09-20 00:00:08,Los Angeles Rams,away,0.365,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758326412,2025-09-20 00:00:12,Philadelphia Eagles,home,0.635,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758369615,2025-09-20 12:00:15,Philadelphia Eagles,home,0.63,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758369626,2025-09-20 12:00:26,Los Angeles Rams,away,0.37,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758412804,2025-09-21 00:00:04,Philadelphia Eagles,home,0.625,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758412807,2025-09-21 00:00:07,Los Angeles Rams,away,0.375,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758456021,2025-09-21 12:00:21,Los Angeles Rams,away,0.365,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles
+1758456024,2025-09-21 12:00:24,Philadelphia Eagles,home,0.635,3,2025-09-21,Los Angeles Rams,Philadelphia Eagles

@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1757246402,2025-09-07 12:00:02,New York Giants,away,0.37,2,2025-09-14,New York Giants,Dallas Cowboys
+1757246405,2025-09-07 12:00:05,Dallas Cowboys,home,0.63,2,2025-09-14,New York Giants,Dallas Cowboys
+1757289609,2025-09-08 00:00:09,Dallas Cowboys,home,0.655,2,2025-09-14,New York Giants,Dallas Cowboys
+1757289613,2025-09-08 00:00:13,New York Giants,away,0.345,2,2025-09-14,New York Giants,Dallas Cowboys
+1757332802,2025-09-08 12:00:02,New York Giants,away,0.31,2,2025-09-14,New York Giants,Dallas Cowboys
+1757332814,2025-09-08 12:00:14,Dallas Cowboys,home,0.69,2,2025-09-14,New York Giants,Dallas Cowboys
+1757376004,2025-09-09 00:00:04,Dallas Cowboys,home,0.71,2,2025-09-14,New York Giants,Dallas Cowboys
+1757376015,2025-09-09 00:00:15,New York Giants,away,0.29,2,2025-09-14,New York Giants,Dallas Cowboys
+1757419218,2025-09-09 12:00:18,Dallas Cowboys,home,0.71,2,2025-09-14,New York Giants,Dallas Cowboys
+1757419224,2025-09-09 12:00:24,New York Giants,away,0.29,2,2025-09-14,New York Giants,Dallas Cowboys
+1757462406,2025-09-10 00:00:06,Dallas Cowboys,home,0.705,2,2025-09-14,New York Giants,Dallas Cowboys
+1757462408,2025-09-10 00:00:08,New York Giants,away,0.295,2,2025-09-14,New York Giants,Dallas Cowboys
+1757505611,2025-09-10 12:00:11,Dallas Cowboys,home,0.705,2,2025-09-14,New York Giants,Dallas Cowboys
+1757505614,2025-09-10 12:00:14,New York Giants,away,0.295,2,2025-09-14,New York Giants,Dallas Cowboys
+1757548802,2025-09-11 00:00:02,New York Giants,away,0.285,2,2025-09-14,New York Giants,Dallas Cowboys
+1757548814,2025-09-11 00:00:14,Dallas Cowboys,home,0.715,2,2025-09-14,New York Giants,Dallas Cowboys
+1757592005,2025-09-11 12:00:05,New York Giants,away,0.305,2,2025-09-14,New York Giants,Dallas Cowboys
+1757592007,2025-09-11 12:00:07,Dallas Cowboys,home,0.695,2,2025-09-14,New York Giants,Dallas Cowboys
+1757635221,2025-09-12 00:00:21,New York Giants,away,0.3,2,2025-09-14,New York Giants,Dallas Cowboys
+1757635224,2025-09-12 00:00:24,Dallas Cowboys,home,0.7,2,2025-09-14,New York Giants,Dallas Cowboys
+1757678420,2025-09-12 12:00:20,New York Giants,away,0.3,2,2025-09-14,New York Giants,Dallas Cowboys
+1757678427,2025-09-12 12:00:27,Dallas Cowboys,home,0.7,2,2025-09-14,New York Giants,Dallas Cowboys
+1757721606,2025-09-13 00:00:06,New York Giants,away,0.3,2,2025-09-14,New York Giants,Dallas Cowboys
+1757721608,2025-09-13 00:00:08,Dallas Cowboys,home,0.7,2,2025-09-14,New York Giants,Dallas Cowboys
+1757764803,2025-09-13 12:00:03,New York Giants,away,0.305,2,2025-09-14,New York Giants,Dallas Cowboys
+1757764820,2025-09-13 12:00:20,Dallas Cowboys,home,0.695,2,2025-09-14,New York Giants,Dallas Cowboys
+1757808019,2025-09-14 00:00:19,New York Giants,away,0.295,2,2025-09-14,New York Giants,Dallas Cowboys
+1757808022,2025-09-14 00:00:22,Dallas Cowboys,home,0.705,2,2025-09-14,New York Giants,Dallas Cowboys
+1757851217,2025-09-14 12:00:17,Dallas Cowboys,home,0.685,2,2025-09-14,New York Giants,Dallas Cowboys
+1757851232,2025-09-14 12:00:32,New York Giants,away,0.315,2,2025-09-14,New York Giants,Dallas Cowboys

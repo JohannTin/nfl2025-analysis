@@ -1,0 +1,17 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1763726409,2025-11-21 12:00:09,Carolina Panthers,away,0.245,12,2025-11-24,Carolina Panthers,San Francisco 49ers
+1763726422,2025-11-21 12:00:22,San Francisco 49ers,home,0.755,12,2025-11-24,Carolina Panthers,San Francisco 49ers
+1763769609,2025-11-22 00:00:09,Carolina Panthers,away,0.245,12,2025-11-24,Carolina Panthers,San Francisco 49ers
+1763769621,2025-11-22 00:00:21,San Francisco 49ers,home,0.755,12,2025-11-24,Carolina Panthers,San Francisco 49ers
+1763812809,2025-11-22 12:00:09,Carolina Panthers,away,0.245,12,2025-11-24,Carolina Panthers,San Francisco 49ers
+1763812821,2025-11-22 12:00:21,San Francisco 49ers,home,0.755,12,2025-11-24,Carolina Panthers,San Francisco 49ers
+1763856009,2025-11-23 00:00:09,Carolina Panthers,away,0.245,12,2025-11-24,Carolina Panthers,San Francisco 49ers
+1763856022,2025-11-23 00:00:22,San Francisco 49ers,home,0.755,12,2025-11-24,Carolina Panthers,San Francisco 49ers
+1763899208,2025-11-23 12:00:08,Carolina Panthers,away,0.245,12,2025-11-24,Carolina Panthers,San Francisco 49ers
+1763899220,2025-11-23 12:00:20,San Francisco 49ers,home,0.755,12,2025-11-24,Carolina Panthers,San Francisco 49ers
+1763942411,2025-11-24 00:00:11,Carolina Panthers,away,0.24,12,2025-11-24,Carolina Panthers,San Francisco 49ers
+1763942417,2025-11-24 00:00:17,San Francisco 49ers,home,0.76,12,2025-11-24,Carolina Panthers,San Francisco 49ers
+1763985607,2025-11-24 12:00:07,Carolina Panthers,away,0.235,12,2025-11-24,Carolina Panthers,San Francisco 49ers
+1763985614,2025-11-24 12:00:14,San Francisco 49ers,home,0.765,12,2025-11-24,Carolina Panthers,San Francisco 49ers
+1764028810,2025-11-25 00:00:10,Carolina Panthers,away,0.225,12,2025-11-24,Carolina Panthers,San Francisco 49ers
+1764028828,2025-11-25 00:00:28,San Francisco 49ers,home,0.775,12,2025-11-24,Carolina Panthers,San Francisco 49ers

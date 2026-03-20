@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1762689605,2025-11-09 12:00:05,Los Angeles Rams,home,0.565,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1762689615,2025-11-09 12:00:15,Seattle Seahawks,away,0.435,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1762732805,2025-11-10 00:00:05,Los Angeles Rams,home,0.57,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1762732809,2025-11-10 00:00:09,Seattle Seahawks,away,0.43,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1762776006,2025-11-10 12:00:06,Los Angeles Rams,home,0.565,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1762776014,2025-11-10 12:00:14,Seattle Seahawks,away,0.435,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1762819207,2025-11-11 00:00:07,Los Angeles Rams,home,0.585,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1762819214,2025-11-11 00:00:14,Seattle Seahawks,away,0.415,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1762862420,2025-11-11 12:00:20,Los Angeles Rams,home,0.58,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1762862430,2025-11-11 12:00:30,Seattle Seahawks,away,0.42,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1762905608,2025-11-12 00:00:08,Los Angeles Rams,home,0.605,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1762905614,2025-11-12 00:00:14,Seattle Seahawks,away,0.395,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1762948806,2025-11-12 12:00:06,Los Angeles Rams,home,0.6,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1762948817,2025-11-12 12:00:17,Seattle Seahawks,away,0.4,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1762992005,2025-11-13 00:00:05,Los Angeles Rams,home,0.61,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1762992012,2025-11-13 00:00:12,Seattle Seahawks,away,0.39,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763035206,2025-11-13 12:00:06,Los Angeles Rams,home,0.605,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763035218,2025-11-13 12:00:18,Seattle Seahawks,away,0.395,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763078406,2025-11-14 00:00:06,Los Angeles Rams,home,0.615,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763078412,2025-11-14 00:00:12,Seattle Seahawks,away,0.385,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763121606,2025-11-14 12:00:06,Los Angeles Rams,home,0.615,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763121618,2025-11-14 12:00:18,Seattle Seahawks,away,0.385,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763164806,2025-11-15 00:00:06,Los Angeles Rams,home,0.615,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763164814,2025-11-15 00:00:14,Seattle Seahawks,away,0.385,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763208006,2025-11-15 12:00:06,Los Angeles Rams,home,0.615,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763208019,2025-11-15 12:00:19,Seattle Seahawks,away,0.385,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763251206,2025-11-16 00:00:06,Los Angeles Rams,home,0.615,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763251210,2025-11-16 00:00:10,Seattle Seahawks,away,0.385,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763294406,2025-11-16 12:00:06,Los Angeles Rams,home,0.615,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763294417,2025-11-16 12:00:17,Seattle Seahawks,away,0.385,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763337605,2025-11-17 00:00:05,Los Angeles Rams,home,0.68,11,2025-11-16,Seattle Seahawks,Los Angeles Rams
+1763337613,2025-11-17 00:00:13,Seattle Seahawks,away,0.32,11,2025-11-16,Seattle Seahawks,Los Angeles Rams

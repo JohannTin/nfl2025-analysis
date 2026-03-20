@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1756641613,2025-08-31 12:00:13,Atlanta Falcons,home,0.45,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756641618,2025-08-31 12:00:18,Tampa Bay Buccaneers,away,0.55,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756684806,2025-09-01 00:00:06,Atlanta Falcons,home,0.45,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756684808,2025-09-01 00:00:08,Tampa Bay Buccaneers,away,0.55,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756728015,2025-09-01 12:00:15,Tampa Bay Buccaneers,away,0.55,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756728020,2025-09-01 12:00:20,Atlanta Falcons,home,0.45,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756771213,2025-09-02 00:00:13,Tampa Bay Buccaneers,away,0.55,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756771215,2025-09-02 00:00:15,Atlanta Falcons,home,0.45,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756814409,2025-09-02 12:00:09,Atlanta Falcons,home,0.45,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756814416,2025-09-02 12:00:16,Tampa Bay Buccaneers,away,0.55,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756857606,2025-09-03 00:00:06,Tampa Bay Buccaneers,away,0.555,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756857615,2025-09-03 00:00:15,Atlanta Falcons,home,0.445,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756900816,2025-09-03 12:00:16,Tampa Bay Buccaneers,away,0.555,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756900824,2025-09-03 12:00:24,Atlanta Falcons,home,0.445,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756944006,2025-09-04 00:00:06,Tampa Bay Buccaneers,away,0.55,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756944011,2025-09-04 00:00:11,Atlanta Falcons,home,0.45,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756987226,2025-09-04 12:00:26,Atlanta Falcons,home,0.455,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1756987226,2025-09-04 12:00:26,Tampa Bay Buccaneers,away,0.545,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1757030410,2025-09-05 00:00:10,Tampa Bay Buccaneers,away,0.535,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1757030410,2025-09-05 00:00:10,Atlanta Falcons,home,0.465,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1757073610,2025-09-05 12:00:10,Atlanta Falcons,home,0.465,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1757073616,2025-09-05 12:00:16,Tampa Bay Buccaneers,away,0.535,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1757116802,2025-09-06 00:00:02,Tampa Bay Buccaneers,away,0.51,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1757116819,2025-09-06 00:00:19,Atlanta Falcons,home,0.49,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1757160016,2025-09-06 12:00:16,Atlanta Falcons,home,0.485,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1757160016,2025-09-06 12:00:16,Tampa Bay Buccaneers,away,0.515,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1757203209,2025-09-07 00:00:09,Atlanta Falcons,home,0.49,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1757203209,2025-09-07 00:00:09,Tampa Bay Buccaneers,away,0.51,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1757246420,2025-09-07 12:00:20,Atlanta Falcons,home,0.495,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons
+1757246422,2025-09-07 12:00:22,Tampa Bay Buccaneers,away,0.505,1,2025-09-07,Tampa Bay Buccaneers,Atlanta Falcons

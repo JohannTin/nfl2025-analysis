@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1758456007,2025-09-21 12:00:07,Carolina Panthers,away,0.31,4,2025-09-28,Carolina Panthers,New England Patriots
+1758456024,2025-09-21 12:00:24,New England Patriots,home,0.69,4,2025-09-28,Carolina Panthers,New England Patriots
+1758499206,2025-09-22 00:00:06,Carolina Panthers,away,0.33,4,2025-09-28,Carolina Panthers,New England Patriots
+1758499218,2025-09-22 00:00:18,New England Patriots,home,0.67,4,2025-09-28,Carolina Panthers,New England Patriots
+1758542410,2025-09-22 12:00:10,Carolina Panthers,away,0.32,4,2025-09-28,Carolina Panthers,New England Patriots
+1758542415,2025-09-22 12:00:15,New England Patriots,home,0.68,4,2025-09-28,Carolina Panthers,New England Patriots
+1758585607,2025-09-23 00:00:07,Carolina Panthers,away,0.3,4,2025-09-28,Carolina Panthers,New England Patriots
+1758585609,2025-09-23 00:00:09,New England Patriots,home,0.7,4,2025-09-28,Carolina Panthers,New England Patriots
+1758628805,2025-09-23 12:00:05,New England Patriots,home,0.705,4,2025-09-28,Carolina Panthers,New England Patriots
+1758628822,2025-09-23 12:00:22,Carolina Panthers,away,0.295,4,2025-09-28,Carolina Panthers,New England Patriots
+1758672010,2025-09-24 00:00:10,New England Patriots,home,0.685,4,2025-09-28,Carolina Panthers,New England Patriots
+1758672016,2025-09-24 00:00:16,Carolina Panthers,away,0.315,4,2025-09-28,Carolina Panthers,New England Patriots
+1758715202,2025-09-24 12:00:02,Carolina Panthers,away,0.315,4,2025-09-28,Carolina Panthers,New England Patriots
+1758715202,2025-09-24 12:00:02,New England Patriots,home,0.685,4,2025-09-28,Carolina Panthers,New England Patriots
+1758758408,2025-09-25 00:00:08,New England Patriots,home,0.68,4,2025-09-28,Carolina Panthers,New England Patriots
+1758758408,2025-09-25 00:00:08,Carolina Panthers,away,0.32,4,2025-09-28,Carolina Panthers,New England Patriots
+1758801604,2025-09-25 12:00:04,New England Patriots,home,0.68,4,2025-09-28,Carolina Panthers,New England Patriots
+1758801611,2025-09-25 12:00:11,Carolina Panthers,away,0.32,4,2025-09-28,Carolina Panthers,New England Patriots
+1758844808,2025-09-26 00:00:08,Carolina Panthers,away,0.315,4,2025-09-28,Carolina Panthers,New England Patriots
+1758844814,2025-09-26 00:00:14,New England Patriots,home,0.685,4,2025-09-28,Carolina Panthers,New England Patriots
+1758888003,2025-09-26 12:00:03,Carolina Panthers,away,0.315,4,2025-09-28,Carolina Panthers,New England Patriots
+1758888010,2025-09-26 12:00:10,New England Patriots,home,0.685,4,2025-09-28,Carolina Panthers,New England Patriots
+1758931207,2025-09-27 00:00:07,New England Patriots,home,0.685,4,2025-09-28,Carolina Panthers,New England Patriots
+1758931211,2025-09-27 00:00:11,Carolina Panthers,away,0.315,4,2025-09-28,Carolina Panthers,New England Patriots
+1758974417,2025-09-27 12:00:17,Carolina Panthers,away,0.315,4,2025-09-28,Carolina Panthers,New England Patriots
+1758974418,2025-09-27 12:00:18,New England Patriots,home,0.685,4,2025-09-28,Carolina Panthers,New England Patriots
+1759017614,2025-09-28 00:00:14,Carolina Panthers,away,0.315,4,2025-09-28,Carolina Panthers,New England Patriots
+1759017616,2025-09-28 00:00:16,New England Patriots,home,0.685,4,2025-09-28,Carolina Panthers,New England Patriots
+1759060804,2025-09-28 12:00:04,New England Patriots,home,0.695,4,2025-09-28,Carolina Panthers,New England Patriots
+1759060809,2025-09-28 12:00:09,Carolina Panthers,away,0.305,4,2025-09-28,Carolina Panthers,New England Patriots

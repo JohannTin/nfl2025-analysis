@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1759665605,2025-10-05 12:00:05,Cincinnati Bengals,away,0.115,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1759665611,2025-10-05 12:00:11,Green Bay Packers,home,0.885,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1759708807,2025-10-06 00:00:07,Green Bay Packers,home,0.895,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1759708809,2025-10-06 00:00:09,Cincinnati Bengals,away,0.105,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1759752011,2025-10-06 12:00:11,Green Bay Packers,home,0.9,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1759752012,2025-10-06 12:00:12,Cincinnati Bengals,away,0.1,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1759795203,2025-10-07 00:00:03,Cincinnati Bengals,away,0.105,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1759795211,2025-10-07 00:00:11,Green Bay Packers,home,0.895,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1759838409,2025-10-07 12:00:09,Cincinnati Bengals,away,0.105,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1759838416,2025-10-07 12:00:16,Green Bay Packers,home,0.895,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1759881608,2025-10-08 00:00:08,Green Bay Packers,home,0.895,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1759881615,2025-10-08 00:00:15,Cincinnati Bengals,away,0.105,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1759924811,2025-10-08 12:00:11,Cincinnati Bengals,away,0.105,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1759924811,2025-10-08 12:00:11,Green Bay Packers,home,0.895,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1759968010,2025-10-09 00:00:10,Green Bay Packers,home,0.895,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1759968013,2025-10-09 00:00:13,Cincinnati Bengals,away,0.105,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760011213,2025-10-09 12:00:13,Green Bay Packers,home,0.895,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760011216,2025-10-09 12:00:16,Cincinnati Bengals,away,0.105,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760054414,2025-10-10 00:00:14,Green Bay Packers,home,0.895,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760054417,2025-10-10 00:00:17,Cincinnati Bengals,away,0.105,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760097604,2025-10-10 12:00:04,Cincinnati Bengals,away,0.115,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760097623,2025-10-10 12:00:23,Green Bay Packers,home,0.885,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760140807,2025-10-11 00:00:07,Cincinnati Bengals,away,0.1,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760140814,2025-10-11 00:00:14,Green Bay Packers,home,0.9,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760184016,2025-10-11 12:00:16,Cincinnati Bengals,away,0.105,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760184026,2025-10-11 12:00:26,Green Bay Packers,home,0.895,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760227204,2025-10-12 00:00:04,Green Bay Packers,home,0.895,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760227214,2025-10-12 00:00:14,Cincinnati Bengals,away,0.105,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760270412,2025-10-12 12:00:12,Green Bay Packers,home,0.895,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760270421,2025-10-12 12:00:21,Cincinnati Bengals,away,0.105,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760313605,2025-10-13 00:00:05,Green Bay Packers,home,0.9995,6,2025-10-12,Cincinnati Bengals,Green Bay Packers
+1760313612,2025-10-13 00:00:12,Cincinnati Bengals,away,0.0005,6,2025-10-12,Cincinnati Bengals,Green Bay Packers

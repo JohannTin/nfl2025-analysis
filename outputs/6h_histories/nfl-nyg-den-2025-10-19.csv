@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1760270418,2025-10-12 12:00:18,New York Giants,away,0.255,7,2025-10-19,New York Giants,Denver Broncos
+1760270424,2025-10-12 12:00:24,Denver Broncos,home,0.745,7,2025-10-19,New York Giants,Denver Broncos
+1760313610,2025-10-13 00:00:10,New York Giants,away,0.24,7,2025-10-19,New York Giants,Denver Broncos
+1760313614,2025-10-13 00:00:14,Denver Broncos,home,0.76,7,2025-10-19,New York Giants,Denver Broncos
+1760356803,2025-10-13 12:00:03,New York Giants,away,0.255,7,2025-10-19,New York Giants,Denver Broncos
+1760356818,2025-10-13 12:00:18,Denver Broncos,home,0.745,7,2025-10-19,New York Giants,Denver Broncos
+1760400008,2025-10-14 00:00:08,New York Giants,away,0.255,7,2025-10-19,New York Giants,Denver Broncos
+1760400017,2025-10-14 00:00:17,Denver Broncos,home,0.745,7,2025-10-19,New York Giants,Denver Broncos
+1760443215,2025-10-14 12:00:15,New York Giants,away,0.255,7,2025-10-19,New York Giants,Denver Broncos
+1760443225,2025-10-14 12:00:25,Denver Broncos,home,0.745,7,2025-10-19,New York Giants,Denver Broncos
+1760486405,2025-10-15 00:00:05,New York Giants,away,0.245,7,2025-10-19,New York Giants,Denver Broncos
+1760486416,2025-10-15 00:00:16,Denver Broncos,home,0.755,7,2025-10-19,New York Giants,Denver Broncos
+1760529613,2025-10-15 12:00:13,New York Giants,away,0.245,7,2025-10-19,New York Giants,Denver Broncos
+1760529624,2025-10-15 12:00:24,Denver Broncos,home,0.755,7,2025-10-19,New York Giants,Denver Broncos
+1760572808,2025-10-16 00:00:08,Denver Broncos,home,0.755,7,2025-10-19,New York Giants,Denver Broncos
+1760572818,2025-10-16 00:00:18,New York Giants,away,0.245,7,2025-10-19,New York Giants,Denver Broncos
+1760616024,2025-10-16 12:00:24,Denver Broncos,home,0.755,7,2025-10-19,New York Giants,Denver Broncos
+1760616024,2025-10-16 12:00:24,New York Giants,away,0.245,7,2025-10-19,New York Giants,Denver Broncos
+1760659211,2025-10-17 00:00:11,Denver Broncos,home,0.765,7,2025-10-19,New York Giants,Denver Broncos
+1760659212,2025-10-17 00:00:12,New York Giants,away,0.235,7,2025-10-19,New York Giants,Denver Broncos
+1760702422,2025-10-17 12:00:22,Denver Broncos,home,0.765,7,2025-10-19,New York Giants,Denver Broncos
+1760702424,2025-10-17 12:00:24,New York Giants,away,0.235,7,2025-10-19,New York Giants,Denver Broncos
+1760745606,2025-10-18 00:00:06,Denver Broncos,home,0.765,7,2025-10-19,New York Giants,Denver Broncos
+1760745608,2025-10-18 00:00:08,New York Giants,away,0.235,7,2025-10-19,New York Giants,Denver Broncos
+1760788821,2025-10-18 12:00:21,Denver Broncos,home,0.765,7,2025-10-19,New York Giants,Denver Broncos
+1760788822,2025-10-18 12:00:22,New York Giants,away,0.235,7,2025-10-19,New York Giants,Denver Broncos
+1760832009,2025-10-19 00:00:09,Denver Broncos,home,0.775,7,2025-10-19,New York Giants,Denver Broncos
+1760832011,2025-10-19 00:00:11,New York Giants,away,0.225,7,2025-10-19,New York Giants,Denver Broncos
+1760875206,2025-10-19 12:00:06,Denver Broncos,home,0.785,7,2025-10-19,New York Giants,Denver Broncos
+1760875212,2025-10-19 12:00:12,New York Giants,away,0.215,7,2025-10-19,New York Giants,Denver Broncos
+1760918412,2025-10-20 00:00:12,Denver Broncos,home,0.9995,7,2025-10-19,New York Giants,Denver Broncos
+1760918417,2025-10-20 00:00:17,New York Giants,away,0.0005,7,2025-10-19,New York Giants,Denver Broncos

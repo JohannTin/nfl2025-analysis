@@ -1,0 +1,29 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1761480011,2025-10-26 12:00:11,Los Angeles Chargers,away,0.435,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761480023,2025-10-26 12:00:23,Tennessee Titans,home,0.565,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761523209,2025-10-27 00:00:09,Los Angeles Chargers,away,0.825,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761523216,2025-10-27 00:00:16,Tennessee Titans,home,0.175,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761566410,2025-10-27 12:00:10,Los Angeles Chargers,away,0.825,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761566419,2025-10-27 12:00:19,Tennessee Titans,home,0.175,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761609610,2025-10-28 00:00:10,Los Angeles Chargers,away,0.825,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761609619,2025-10-28 00:00:19,Tennessee Titans,home,0.175,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761652808,2025-10-28 12:00:08,Los Angeles Chargers,away,0.82,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761652817,2025-10-28 12:00:17,Tennessee Titans,home,0.18,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761696010,2025-10-29 00:00:10,Los Angeles Chargers,away,0.81,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761696018,2025-10-29 00:00:18,Tennessee Titans,home,0.19,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761782409,2025-10-30 00:00:09,Los Angeles Chargers,away,0.815,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761782418,2025-10-30 00:00:18,Tennessee Titans,home,0.185,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761825609,2025-10-30 12:00:09,Los Angeles Chargers,away,0.815,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761825620,2025-10-30 12:00:20,Tennessee Titans,home,0.185,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761868807,2025-10-31 00:00:07,Los Angeles Chargers,away,0.815,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761868812,2025-10-31 00:00:12,Tennessee Titans,home,0.185,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761912010,2025-10-31 12:00:10,Los Angeles Chargers,away,0.815,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761912021,2025-10-31 12:00:21,Tennessee Titans,home,0.185,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761955209,2025-11-01 00:00:09,Los Angeles Chargers,away,0.825,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761955217,2025-11-01 00:00:17,Tennessee Titans,home,0.175,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761998411,2025-11-01 12:00:11,Los Angeles Chargers,away,0.825,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1761998423,2025-11-01 12:00:23,Tennessee Titans,home,0.175,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1762041608,2025-11-02 00:00:08,Los Angeles Chargers,away,0.815,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1762041614,2025-11-02 00:00:14,Tennessee Titans,home,0.185,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1762084809,2025-11-02 12:00:09,Los Angeles Chargers,away,0.815,9,2025-11-02,Los Angeles Chargers,Tennessee Titans
+1762084820,2025-11-02 12:00:20,Tennessee Titans,home,0.185,9,2025-11-02,Los Angeles Chargers,Tennessee Titans

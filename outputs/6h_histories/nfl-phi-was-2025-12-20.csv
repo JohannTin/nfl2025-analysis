@@ -1,0 +1,25 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765843213,2025-12-16 00:00:13,Philadelphia Eagles,away,0.51,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1765843217,2025-12-16 00:00:17,Washington Commanders,home,0.49,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1765886426,2025-12-16 12:00:26,Philadelphia Eagles,away,0.685,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1765886430,2025-12-16 12:00:30,Washington Commanders,home,0.315,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1765929610,2025-12-17 00:00:10,Philadelphia Eagles,away,0.71,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1765929614,2025-12-17 00:00:14,Washington Commanders,home,0.29,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1765929633,2025-12-17 00:00:33,Philadelphia Eagles,away,0.71,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1765929635,2025-12-17 00:00:35,Washington Commanders,home,0.29,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1765972814,2025-12-17 12:00:14,Philadelphia Eagles,away,0.715,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1765972823,2025-12-17 12:00:23,Washington Commanders,home,0.285,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1766016022,2025-12-18 00:00:22,Philadelphia Eagles,away,0.68,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1766016025,2025-12-18 00:00:25,Washington Commanders,home,0.32,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1766059213,2025-12-18 12:00:13,Philadelphia Eagles,away,0.62,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1766059216,2025-12-18 12:00:16,Washington Commanders,home,0.38,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1766102413,2025-12-19 00:00:13,Philadelphia Eagles,away,0.62,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1766102416,2025-12-19 00:00:16,Washington Commanders,home,0.38,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1766145614,2025-12-19 12:00:14,Philadelphia Eagles,away,0.665,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1766145618,2025-12-19 12:00:18,Washington Commanders,home,0.335,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1766188813,2025-12-20 00:00:13,Philadelphia Eagles,away,0.67,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1766188816,2025-12-20 00:00:16,Washington Commanders,home,0.33,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1766232014,2025-12-20 12:00:14,Philadelphia Eagles,away,0.665,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1766232019,2025-12-20 12:00:19,Washington Commanders,home,0.335,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1766275213,2025-12-21 00:00:13,Philadelphia Eagles,away,0.0005,16,2025-12-20,Philadelphia Eagles,Washington Commanders
+1766275216,2025-12-21 00:00:16,Washington Commanders,home,0.9995,16,2025-12-20,Philadelphia Eagles,Washington Commanders

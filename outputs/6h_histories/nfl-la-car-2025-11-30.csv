@@ -1,0 +1,26 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028805,2025-11-25 00:00:05,Los Angeles Rams,away,0.48,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764028827,2025-11-25 00:00:27,Carolina Panthers,home,0.52,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764072005,2025-11-25 12:00:05,Los Angeles Rams,away,0.46,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764072037,2025-11-25 12:00:37,Carolina Panthers,home,0.54,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764115206,2025-11-26 00:00:06,Los Angeles Rams,away,0.5,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764115221,2025-11-26 00:00:21,Carolina Panthers,home,0.5,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764158419,2025-11-26 12:00:19,Los Angeles Rams,away,0.495,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764158452,2025-11-26 12:00:52,Carolina Panthers,home,0.505,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764201605,2025-11-27 00:00:05,Los Angeles Rams,away,0.5,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764201628,2025-11-27 00:00:28,Carolina Panthers,home,0.5,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764244805,2025-11-27 12:00:05,Los Angeles Rams,away,0.5,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764244844,2025-11-27 12:00:44,Carolina Panthers,home,0.5,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764288006,2025-11-28 00:00:06,Los Angeles Rams,away,0.51,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764288025,2025-11-28 00:00:25,Carolina Panthers,home,0.49,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764331206,2025-11-28 12:00:06,Los Angeles Rams,away,0.505,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764331243,2025-11-28 12:00:43,Carolina Panthers,home,0.495,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764374406,2025-11-29 00:00:06,Los Angeles Rams,away,0.63,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764374436,2025-11-29 00:00:36,Carolina Panthers,home,0.37,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764417606,2025-11-29 12:00:06,Los Angeles Rams,away,0.72,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764417645,2025-11-29 12:00:45,Carolina Panthers,home,0.28,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764460806,2025-11-30 00:00:06,Los Angeles Rams,away,0.72,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764460826,2025-11-30 00:00:26,Carolina Panthers,home,0.28,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764504032,2025-11-30 12:00:32,Los Angeles Rams,away,0.735,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764547205,2025-12-01 00:00:05,Los Angeles Rams,away,0.9995,13,2025-11-30,Los Angeles Rams,Carolina Panthers
+1764547231,2025-12-01 00:00:31,Carolina Panthers,home,0.0005,13,2025-11-30,Los Angeles Rams,Carolina Panthers

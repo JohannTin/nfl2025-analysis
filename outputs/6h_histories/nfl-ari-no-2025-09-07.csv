@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1756641628,2025-08-31 12:00:28,Arizona Cardinals,away,0.725,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756641632,2025-08-31 12:00:32,New Orleans Saints,home,0.275,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756684811,2025-09-01 00:00:11,Arizona Cardinals,away,0.725,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756684813,2025-09-01 00:00:13,New Orleans Saints,home,0.275,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756728008,2025-09-01 12:00:08,Arizona Cardinals,away,0.725,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756728019,2025-09-01 12:00:19,New Orleans Saints,home,0.275,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756771209,2025-09-02 00:00:09,Arizona Cardinals,away,0.72,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756771215,2025-09-02 00:00:15,New Orleans Saints,home,0.28,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756814412,2025-09-02 12:00:12,Arizona Cardinals,away,0.72,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756814412,2025-09-02 12:00:12,New Orleans Saints,home,0.28,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756857602,2025-09-03 00:00:02,Arizona Cardinals,away,0.72,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756857616,2025-09-03 00:00:16,New Orleans Saints,home,0.28,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756900805,2025-09-03 12:00:05,Arizona Cardinals,away,0.72,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756900816,2025-09-03 12:00:16,New Orleans Saints,home,0.28,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756944006,2025-09-04 00:00:06,New Orleans Saints,home,0.28,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756944013,2025-09-04 00:00:13,Arizona Cardinals,away,0.72,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756987208,2025-09-04 12:00:08,Arizona Cardinals,away,0.725,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1756987218,2025-09-04 12:00:18,New Orleans Saints,home,0.275,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1757030403,2025-09-05 00:00:03,New Orleans Saints,home,0.28,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1757030411,2025-09-05 00:00:11,Arizona Cardinals,away,0.72,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1757073623,2025-09-05 12:00:23,Arizona Cardinals,away,0.72,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1757073629,2025-09-05 12:00:29,New Orleans Saints,home,0.28,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1757116809,2025-09-06 00:00:09,Arizona Cardinals,away,0.725,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1757116814,2025-09-06 00:00:14,New Orleans Saints,home,0.275,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1757160002,2025-09-06 12:00:02,Arizona Cardinals,away,0.72,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1757160027,2025-09-06 12:00:27,New Orleans Saints,home,0.28,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1757203213,2025-09-07 00:00:13,New Orleans Saints,home,0.275,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1757203215,2025-09-07 00:00:15,Arizona Cardinals,away,0.725,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1757246417,2025-09-07 12:00:17,Arizona Cardinals,away,0.725,1,2025-09-07,Arizona Cardinals,New Orleans Saints
+1757246422,2025-09-07 12:00:22,New Orleans Saints,home,0.275,1,2025-09-07,Arizona Cardinals,New Orleans Saints

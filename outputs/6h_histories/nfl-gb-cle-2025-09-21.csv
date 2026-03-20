@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1757851222,2025-09-14 12:00:22,Green Bay Packers,away,0.765,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1757851226,2025-09-14 12:00:26,Cleveland Browns,home,0.235,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1757894412,2025-09-15 00:00:12,Green Bay Packers,away,0.805,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1757894413,2025-09-15 00:00:13,Cleveland Browns,home,0.195,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1757937623,2025-09-15 12:00:23,Green Bay Packers,away,0.81,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1757937625,2025-09-15 12:00:25,Cleveland Browns,home,0.19,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1757980811,2025-09-16 00:00:11,Cleveland Browns,home,0.205,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1757980817,2025-09-16 00:00:17,Green Bay Packers,away,0.795,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758024012,2025-09-16 12:00:12,Green Bay Packers,away,0.8,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758024027,2025-09-16 12:00:27,Cleveland Browns,home,0.2,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758067212,2025-09-17 00:00:12,Green Bay Packers,away,0.785,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758067216,2025-09-17 00:00:16,Cleveland Browns,home,0.215,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758110410,2025-09-17 12:00:10,Green Bay Packers,away,0.785,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758110421,2025-09-17 12:00:21,Cleveland Browns,home,0.215,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758153605,2025-09-18 00:00:05,Cleveland Browns,home,0.215,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758153611,2025-09-18 00:00:11,Green Bay Packers,away,0.785,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758196812,2025-09-18 12:00:12,Cleveland Browns,home,0.21,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758196830,2025-09-18 12:00:30,Green Bay Packers,away,0.79,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758240002,2025-09-19 00:00:02,Cleveland Browns,home,0.21,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758240014,2025-09-19 00:00:14,Green Bay Packers,away,0.79,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758283225,2025-09-19 12:00:25,Green Bay Packers,away,0.795,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758283235,2025-09-19 12:00:35,Cleveland Browns,home,0.205,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758326413,2025-09-20 00:00:13,Green Bay Packers,away,0.795,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758326418,2025-09-20 00:00:18,Cleveland Browns,home,0.205,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758369610,2025-09-20 12:00:10,Green Bay Packers,away,0.795,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758369635,2025-09-20 12:00:35,Cleveland Browns,home,0.205,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758412802,2025-09-21 00:00:02,Green Bay Packers,away,0.795,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758412809,2025-09-21 00:00:09,Cleveland Browns,home,0.205,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758456007,2025-09-21 12:00:07,Cleveland Browns,home,0.205,3,2025-09-21,Green Bay Packers,Cleveland Browns
+1758456014,2025-09-21 12:00:14,Green Bay Packers,away,0.795,3,2025-09-21,Green Bay Packers,Cleveland Browns

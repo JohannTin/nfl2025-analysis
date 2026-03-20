@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1759147203,2025-09-29 12:00:03,Jacksonville Jaguars,home,0.405,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759147215,2025-09-29 12:00:15,Kansas City Chiefs,away,0.595,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759190406,2025-09-30 00:00:06,Jacksonville Jaguars,home,0.36,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759190408,2025-09-30 00:00:08,Kansas City Chiefs,away,0.64,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759233607,2025-09-30 12:00:07,Jacksonville Jaguars,home,0.365,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759233610,2025-09-30 12:00:10,Kansas City Chiefs,away,0.635,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759276804,2025-10-01 00:00:04,Jacksonville Jaguars,home,0.36,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759276808,2025-10-01 00:00:08,Kansas City Chiefs,away,0.64,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759320007,2025-10-01 12:00:07,Jacksonville Jaguars,home,0.355,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759320007,2025-10-01 12:00:07,Kansas City Chiefs,away,0.645,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759363203,2025-10-02 00:00:03,Jacksonville Jaguars,home,0.365,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759363204,2025-10-02 00:00:04,Kansas City Chiefs,away,0.635,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759406407,2025-10-02 12:00:07,Kansas City Chiefs,away,0.64,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759406416,2025-10-02 12:00:16,Jacksonville Jaguars,home,0.36,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759449607,2025-10-03 00:00:07,Jacksonville Jaguars,home,0.365,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759449611,2025-10-03 00:00:11,Kansas City Chiefs,away,0.635,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759492803,2025-10-03 12:00:03,Kansas City Chiefs,away,0.635,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759492806,2025-10-03 12:00:06,Jacksonville Jaguars,home,0.365,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759536003,2025-10-04 00:00:03,Jacksonville Jaguars,home,0.36,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759536009,2025-10-04 00:00:09,Kansas City Chiefs,away,0.64,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759579208,2025-10-04 12:00:08,Jacksonville Jaguars,home,0.365,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759579216,2025-10-04 12:00:16,Kansas City Chiefs,away,0.635,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759622405,2025-10-05 00:00:05,Kansas City Chiefs,away,0.635,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759622408,2025-10-05 00:00:08,Jacksonville Jaguars,home,0.365,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759665608,2025-10-05 12:00:08,Kansas City Chiefs,away,0.64,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759665610,2025-10-05 12:00:10,Jacksonville Jaguars,home,0.36,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759708804,2025-10-06 00:00:04,Kansas City Chiefs,away,0.635,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759708806,2025-10-06 00:00:06,Jacksonville Jaguars,home,0.365,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759752005,2025-10-06 12:00:05,Jacksonville Jaguars,home,0.36,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759752007,2025-10-06 12:00:07,Kansas City Chiefs,away,0.64,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759795205,2025-10-07 00:00:05,Jacksonville Jaguars,home,0.365,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars
+1759795207,2025-10-07 00:00:07,Kansas City Chiefs,away,0.635,5,2025-10-06,Kansas City Chiefs,Jacksonville Jaguars

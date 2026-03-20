@@ -1,0 +1,19 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1761480029,2025-10-26 12:00:29,Miami Dolphins,home,0.5,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761480032,2025-10-26 12:00:32,Baltimore Ravens,away,0.5,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761523219,2025-10-27 00:00:19,Miami Dolphins,home,0.225,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761523221,2025-10-27 00:00:21,Baltimore Ravens,away,0.775,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761566424,2025-10-27 12:00:24,Miami Dolphins,home,0.235,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761566426,2025-10-27 12:00:26,Baltimore Ravens,away,0.765,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761609624,2025-10-28 00:00:24,Miami Dolphins,home,0.225,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761609626,2025-10-28 00:00:26,Baltimore Ravens,away,0.775,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761652824,2025-10-28 12:00:24,Miami Dolphins,home,0.225,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761652826,2025-10-28 12:00:26,Baltimore Ravens,away,0.775,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761696022,2025-10-29 00:00:22,Miami Dolphins,home,0.215,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761696024,2025-10-29 00:00:24,Baltimore Ravens,away,0.785,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761782423,2025-10-30 00:00:23,Miami Dolphins,home,0.205,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761782424,2025-10-30 00:00:24,Baltimore Ravens,away,0.795,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761825628,2025-10-30 12:00:28,Miami Dolphins,home,0.215,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761825630,2025-10-30 12:00:30,Baltimore Ravens,away,0.785,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761868815,2025-10-31 00:00:15,Miami Dolphins,home,0.215,9,2025-10-30,Baltimore Ravens,Miami Dolphins
+1761868816,2025-10-31 00:00:16,Baltimore Ravens,away,0.785,9,2025-10-30,Baltimore Ravens,Miami Dolphins

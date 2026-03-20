@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1759060804,2025-09-28 12:00:04,Indianapolis Colts,home,0.71,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759060810,2025-09-28 12:00:10,Las Vegas Raiders,away,0.29,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759104006,2025-09-29 00:00:06,Indianapolis Colts,home,0.745,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759104008,2025-09-29 00:00:08,Las Vegas Raiders,away,0.255,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759147208,2025-09-29 12:00:08,Las Vegas Raiders,away,0.265,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759147217,2025-09-29 12:00:17,Indianapolis Colts,home,0.735,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759190409,2025-09-30 00:00:09,Indianapolis Colts,home,0.74,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759190412,2025-09-30 00:00:12,Las Vegas Raiders,away,0.26,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759233603,2025-09-30 12:00:03,Indianapolis Colts,home,0.745,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759233616,2025-09-30 12:00:16,Las Vegas Raiders,away,0.255,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759276802,2025-10-01 00:00:02,Las Vegas Raiders,away,0.265,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759276807,2025-10-01 00:00:07,Indianapolis Colts,home,0.735,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759320009,2025-10-01 12:00:09,Indianapolis Colts,home,0.735,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759320013,2025-10-01 12:00:13,Las Vegas Raiders,away,0.265,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759363204,2025-10-02 00:00:04,Indianapolis Colts,home,0.735,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759363208,2025-10-02 00:00:08,Las Vegas Raiders,away,0.265,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759406403,2025-10-02 12:00:03,Indianapolis Colts,home,0.735,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759406410,2025-10-02 12:00:10,Las Vegas Raiders,away,0.265,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759449602,2025-10-03 00:00:02,Las Vegas Raiders,away,0.265,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759449609,2025-10-03 00:00:09,Indianapolis Colts,home,0.735,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759492806,2025-10-03 12:00:06,Indianapolis Colts,home,0.735,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759492813,2025-10-03 12:00:13,Las Vegas Raiders,away,0.265,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759536003,2025-10-04 00:00:03,Indianapolis Colts,home,0.735,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759536007,2025-10-04 00:00:07,Las Vegas Raiders,away,0.265,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759579203,2025-10-04 12:00:03,Indianapolis Colts,home,0.735,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759579217,2025-10-04 12:00:17,Las Vegas Raiders,away,0.265,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759622405,2025-10-05 00:00:05,Las Vegas Raiders,away,0.245,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759622406,2025-10-05 00:00:06,Indianapolis Colts,home,0.755,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759665605,2025-10-05 12:00:05,Las Vegas Raiders,away,0.245,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts
+1759665610,2025-10-05 12:00:10,Indianapolis Colts,home,0.755,5,2025-10-05,Las Vegas Raiders,Indianapolis Colts

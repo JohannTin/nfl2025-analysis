@@ -1,0 +1,23 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1768348809,2026-01-14 00:00:09,Houston Texans,away,0.385,DIV,2026-01-18,Houston Texans,New England Patriots
+1768348813,2026-01-14 00:00:13,New England Patriots,home,0.615,DIV,2026-01-18,Houston Texans,New England Patriots
+1768392009,2026-01-14 12:00:09,Houston Texans,away,0.385,DIV,2026-01-18,Houston Texans,New England Patriots
+1768392013,2026-01-14 12:00:13,New England Patriots,home,0.615,DIV,2026-01-18,Houston Texans,New England Patriots
+1768435210,2026-01-15 00:00:10,Houston Texans,away,0.385,DIV,2026-01-18,Houston Texans,New England Patriots
+1768435214,2026-01-15 00:00:14,New England Patriots,home,0.615,DIV,2026-01-18,Houston Texans,New England Patriots
+1768478410,2026-01-15 12:00:10,Houston Texans,away,0.385,DIV,2026-01-18,Houston Texans,New England Patriots
+1768478414,2026-01-15 12:00:14,New England Patriots,home,0.615,DIV,2026-01-18,Houston Texans,New England Patriots
+1768521612,2026-01-16 00:00:12,Houston Texans,away,0.375,DIV,2026-01-18,Houston Texans,New England Patriots
+1768521616,2026-01-16 00:00:16,New England Patriots,home,0.625,DIV,2026-01-18,Houston Texans,New England Patriots
+1768564811,2026-01-16 12:00:11,Houston Texans,away,0.385,DIV,2026-01-18,Houston Texans,New England Patriots
+1768564814,2026-01-16 12:00:14,New England Patriots,home,0.615,DIV,2026-01-18,Houston Texans,New England Patriots
+1768608010,2026-01-17 00:00:10,Houston Texans,away,0.375,DIV,2026-01-18,Houston Texans,New England Patriots
+1768608015,2026-01-17 00:00:15,New England Patriots,home,0.625,DIV,2026-01-18,Houston Texans,New England Patriots
+1768651211,2026-01-17 12:00:11,Houston Texans,away,0.375,DIV,2026-01-18,Houston Texans,New England Patriots
+1768651215,2026-01-17 12:00:15,New England Patriots,home,0.625,DIV,2026-01-18,Houston Texans,New England Patriots
+1768694410,2026-01-18 00:00:10,Houston Texans,away,0.375,DIV,2026-01-18,Houston Texans,New England Patriots
+1768694417,2026-01-18 00:00:17,New England Patriots,home,0.625,DIV,2026-01-18,Houston Texans,New England Patriots
+1768737625,2026-01-18 12:00:25,Houston Texans,away,0.375,DIV,2026-01-18,Houston Texans,New England Patriots
+1768737629,2026-01-18 12:00:29,New England Patriots,home,0.625,DIV,2026-01-18,Houston Texans,New England Patriots
+1768780810,2026-01-19 00:00:10,Houston Texans,away,0.0005,DIV,2026-01-18,Houston Texans,New England Patriots
+1768780813,2026-01-19 00:00:13,New England Patriots,home,0.9995,DIV,2026-01-18,Houston Texans,New England Patriots

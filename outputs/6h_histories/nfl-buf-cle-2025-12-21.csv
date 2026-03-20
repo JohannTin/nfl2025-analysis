@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765843213,2025-12-16 00:00:13,Cleveland Browns,home,0.5,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1765843215,2025-12-16 00:00:15,Buffalo Bills,away,0.5,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1765886425,2025-12-16 12:00:25,Cleveland Browns,home,0.395,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1765886428,2025-12-16 12:00:28,Buffalo Bills,away,0.605,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1765929610,2025-12-17 00:00:10,Cleveland Browns,home,0.395,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1765929612,2025-12-17 00:00:12,Buffalo Bills,away,0.605,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1765929633,2025-12-17 00:00:33,Cleveland Browns,home,0.395,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1765929634,2025-12-17 00:00:34,Buffalo Bills,away,0.605,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1765972813,2025-12-17 12:00:13,Cleveland Browns,home,0.38,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1765972819,2025-12-17 12:00:19,Buffalo Bills,away,0.62,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766016022,2025-12-18 00:00:22,Cleveland Browns,home,0.38,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766016024,2025-12-18 00:00:24,Buffalo Bills,away,0.62,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766059213,2025-12-18 12:00:13,Cleveland Browns,home,0.375,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766059215,2025-12-18 12:00:15,Buffalo Bills,away,0.625,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766102413,2025-12-19 00:00:13,Cleveland Browns,home,0.305,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766102415,2025-12-19 00:00:15,Buffalo Bills,away,0.695,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766145614,2025-12-19 12:00:14,Cleveland Browns,home,0.26,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766145616,2025-12-19 12:00:16,Buffalo Bills,away,0.74,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766188812,2025-12-20 00:00:12,Cleveland Browns,home,0.245,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766188814,2025-12-20 00:00:14,Buffalo Bills,away,0.755,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766232014,2025-12-20 12:00:14,Cleveland Browns,home,0.27,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766232017,2025-12-20 12:00:17,Buffalo Bills,away,0.73,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766275213,2025-12-21 00:00:13,Cleveland Browns,home,0.275,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766275215,2025-12-21 00:00:15,Buffalo Bills,away,0.725,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766318412,2025-12-21 12:00:12,Cleveland Browns,home,0.285,16,2025-12-21,Buffalo Bills,Cleveland Browns
+1766318414,2025-12-21 12:00:14,Buffalo Bills,away,0.715,16,2025-12-21,Buffalo Bills,Cleveland Browns

@@ -1,0 +1,23 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1768348811,2026-01-14 00:00:11,Los Angeles Rams,away,0.645,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768348825,2026-01-14 00:00:25,Chicago Bears,home,0.355,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768392012,2026-01-14 12:00:12,Los Angeles Rams,away,0.645,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768392027,2026-01-14 12:00:27,Chicago Bears,home,0.355,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768435213,2026-01-15 00:00:13,Los Angeles Rams,away,0.645,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768435227,2026-01-15 00:00:27,Chicago Bears,home,0.355,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768478412,2026-01-15 12:00:12,Los Angeles Rams,away,0.645,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768478427,2026-01-15 12:00:27,Chicago Bears,home,0.355,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768521614,2026-01-16 00:00:14,Los Angeles Rams,away,0.645,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768521630,2026-01-16 00:00:30,Chicago Bears,home,0.355,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768564813,2026-01-16 12:00:13,Los Angeles Rams,away,0.645,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768564828,2026-01-16 12:00:28,Chicago Bears,home,0.355,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768608012,2026-01-17 00:00:12,Los Angeles Rams,away,0.645,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768608026,2026-01-17 00:00:26,Chicago Bears,home,0.355,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768651213,2026-01-17 12:00:13,Los Angeles Rams,away,0.645,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768651243,2026-01-17 12:00:43,Chicago Bears,home,0.355,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768694414,2026-01-18 00:00:14,Los Angeles Rams,away,0.645,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768694442,2026-01-18 00:00:42,Chicago Bears,home,0.355,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768737627,2026-01-18 12:00:27,Los Angeles Rams,away,0.655,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768737642,2026-01-18 12:00:42,Chicago Bears,home,0.345,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768780811,2026-01-19 00:00:11,Los Angeles Rams,away,0.765,DIV,2026-01-18,Los Angeles Rams,Chicago Bears
+1768780822,2026-01-19 00:00:22,Chicago Bears,home,0.235,DIV,2026-01-18,Los Angeles Rams,Chicago Bears

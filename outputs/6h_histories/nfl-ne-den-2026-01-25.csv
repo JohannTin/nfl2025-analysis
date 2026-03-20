@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1768867212,2026-01-20 00:00:12,Denver Broncos,home,0.315,CC,2026-01-25,New England Patriots,Denver Broncos
+1768867220,2026-01-20 00:00:20,New England Patriots,away,0.685,CC,2026-01-25,New England Patriots,Denver Broncos
+1768910413,2026-01-20 12:00:13,Denver Broncos,home,0.305,CC,2026-01-25,New England Patriots,Denver Broncos
+1768910421,2026-01-20 12:00:21,New England Patriots,away,0.695,CC,2026-01-25,New England Patriots,Denver Broncos
+1768953613,2026-01-21 00:00:13,Denver Broncos,home,0.315,CC,2026-01-25,New England Patriots,Denver Broncos
+1768953622,2026-01-21 00:00:22,New England Patriots,away,0.685,CC,2026-01-25,New England Patriots,Denver Broncos
+1768996826,2026-01-21 12:00:26,Denver Broncos,home,0.315,CC,2026-01-25,New England Patriots,Denver Broncos
+1768996843,2026-01-21 12:00:43,New England Patriots,away,0.685,CC,2026-01-25,New England Patriots,Denver Broncos
+1769040015,2026-01-22 00:00:15,Denver Broncos,home,0.315,CC,2026-01-25,New England Patriots,Denver Broncos
+1769040030,2026-01-22 00:00:30,New England Patriots,away,0.685,CC,2026-01-25,New England Patriots,Denver Broncos
+1769083229,2026-01-22 12:00:29,Denver Broncos,home,0.315,CC,2026-01-25,New England Patriots,Denver Broncos
+1769083248,2026-01-22 12:00:48,New England Patriots,away,0.685,CC,2026-01-25,New England Patriots,Denver Broncos
+1769126428,2026-01-23 00:00:28,Denver Broncos,home,0.325,CC,2026-01-25,New England Patriots,Denver Broncos
+1769126438,2026-01-23 00:00:38,New England Patriots,away,0.675,CC,2026-01-25,New England Patriots,Denver Broncos
+1769169618,2026-01-23 12:00:18,Denver Broncos,home,0.325,CC,2026-01-25,New England Patriots,Denver Broncos
+1769169648,2026-01-23 12:00:48,New England Patriots,away,0.675,CC,2026-01-25,New England Patriots,Denver Broncos
+1769212817,2026-01-24 00:00:17,Denver Broncos,home,0.335,CC,2026-01-25,New England Patriots,Denver Broncos
+1769212834,2026-01-24 00:00:34,New England Patriots,away,0.665,CC,2026-01-25,New England Patriots,Denver Broncos
+1769256017,2026-01-24 12:00:17,Denver Broncos,home,0.325,CC,2026-01-25,New England Patriots,Denver Broncos
+1769256033,2026-01-24 12:00:33,New England Patriots,away,0.675,CC,2026-01-25,New England Patriots,Denver Broncos
+1769299230,2026-01-25 00:00:30,Denver Broncos,home,0.335,CC,2026-01-25,New England Patriots,Denver Broncos
+1769299241,2026-01-25 00:00:41,New England Patriots,away,0.665,CC,2026-01-25,New England Patriots,Denver Broncos
+1769342420,2026-01-25 12:00:20,Denver Broncos,home,0.335,CC,2026-01-25,New England Patriots,Denver Broncos
+1769342451,2026-01-25 12:00:51,New England Patriots,away,0.665,CC,2026-01-25,New England Patriots,Denver Broncos
+1769385627,2026-01-26 00:00:27,Denver Broncos,home,0.0005,CC,2026-01-25,New England Patriots,Denver Broncos
+1769385640,2026-01-26 00:00:40,New England Patriots,away,0.9995,CC,2026-01-25,New England Patriots,Denver Broncos

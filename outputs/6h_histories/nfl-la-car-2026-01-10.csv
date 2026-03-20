@@ -1,0 +1,23 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1767657612,2026-01-06 00:00:12,Carolina Panthers,home,0.175,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1767657625,2026-01-06 00:00:25,Los Angeles Rams,away,0.825,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1767700809,2026-01-06 12:00:09,Carolina Panthers,home,0.175,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1767700823,2026-01-06 12:00:23,Los Angeles Rams,away,0.825,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1767744010,2026-01-07 00:00:10,Carolina Panthers,home,0.175,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1767744023,2026-01-07 00:00:23,Los Angeles Rams,away,0.825,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1767787214,2026-01-07 12:00:14,Carolina Panthers,home,0.17,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1767787227,2026-01-07 12:00:27,Los Angeles Rams,away,0.83,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1767830425,2026-01-08 00:00:25,Carolina Panthers,home,0.165,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1767830439,2026-01-08 00:00:39,Los Angeles Rams,away,0.835,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1767873611,2026-01-08 12:00:11,Carolina Panthers,home,0.175,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1767873645,2026-01-08 12:00:45,Los Angeles Rams,away,0.825,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1767916810,2026-01-09 00:00:10,Carolina Panthers,home,0.175,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1767916823,2026-01-09 00:00:23,Los Angeles Rams,away,0.825,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1767960023,2026-01-09 12:00:23,Carolina Panthers,home,0.175,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1767960037,2026-01-09 12:00:37,Los Angeles Rams,away,0.825,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1768003211,2026-01-10 00:00:11,Carolina Panthers,home,0.175,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1768003224,2026-01-10 00:00:24,Los Angeles Rams,away,0.825,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1768046409,2026-01-10 12:00:09,Carolina Panthers,home,0.175,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1768046427,2026-01-10 12:00:27,Los Angeles Rams,away,0.825,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1768089610,2026-01-11 00:00:10,Carolina Panthers,home,0.365,WC,2026-01-10,Los Angeles Rams,Carolina Panthers
+1768089621,2026-01-11 00:00:21,Los Angeles Rams,away,0.64,WC,2026-01-10,Los Angeles Rams,Carolina Panthers

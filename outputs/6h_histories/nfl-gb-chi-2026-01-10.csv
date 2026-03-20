@@ -1,0 +1,23 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1767657617,2026-01-06 00:00:17,Green Bay Packers,away,0.495,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1767657625,2026-01-06 00:00:25,Chicago Bears,home,0.505,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1767700814,2026-01-06 12:00:14,Green Bay Packers,away,0.505,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1767700823,2026-01-06 12:00:23,Chicago Bears,home,0.495,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1767744015,2026-01-07 00:00:15,Green Bay Packers,away,0.51,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1767744023,2026-01-07 00:00:23,Chicago Bears,home,0.49,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1767787219,2026-01-07 12:00:19,Green Bay Packers,away,0.525,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1767787227,2026-01-07 12:00:27,Chicago Bears,home,0.475,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1767830430,2026-01-08 00:00:30,Green Bay Packers,away,0.525,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1767830439,2026-01-08 00:00:39,Chicago Bears,home,0.475,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1767873624,2026-01-08 12:00:24,Green Bay Packers,away,0.525,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1767873646,2026-01-08 12:00:46,Chicago Bears,home,0.475,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1767916815,2026-01-09 00:00:15,Green Bay Packers,away,0.535,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1767916823,2026-01-09 00:00:23,Chicago Bears,home,0.465,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1767960029,2026-01-09 12:00:29,Green Bay Packers,away,0.535,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1767960037,2026-01-09 12:00:37,Chicago Bears,home,0.465,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1768003216,2026-01-10 00:00:16,Green Bay Packers,away,0.535,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1768003224,2026-01-10 00:00:24,Chicago Bears,home,0.465,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1768046416,2026-01-10 12:00:16,Green Bay Packers,away,0.535,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1768046427,2026-01-10 12:00:27,Chicago Bears,home,0.465,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1768089614,2026-01-11 00:00:14,Green Bay Packers,away,0.545,WC,2026-01-10,Green Bay Packers,Chicago Bears
+1768089621,2026-01-11 00:00:21,Chicago Bears,home,0.455,WC,2026-01-10,Green Bay Packers,Chicago Bears

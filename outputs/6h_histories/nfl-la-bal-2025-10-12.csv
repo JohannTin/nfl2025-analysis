@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1759665605,2025-10-05 12:00:05,Baltimore Ravens,home,0.335,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1759665611,2025-10-05 12:00:11,Los Angeles Rams,away,0.665,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1759708807,2025-10-06 00:00:07,Los Angeles Rams,away,0.65,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1759708809,2025-10-06 00:00:09,Baltimore Ravens,home,0.35,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1759752005,2025-10-06 12:00:05,Los Angeles Rams,away,0.77,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1759752007,2025-10-06 12:00:07,Baltimore Ravens,home,0.23,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1759795203,2025-10-07 00:00:03,Los Angeles Rams,away,0.785,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1759795211,2025-10-07 00:00:11,Baltimore Ravens,home,0.215,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1759838405,2025-10-07 12:00:05,Baltimore Ravens,home,0.22,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1759838414,2025-10-07 12:00:14,Los Angeles Rams,away,0.78,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1759881606,2025-10-08 00:00:06,Los Angeles Rams,away,0.765,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1759881612,2025-10-08 00:00:12,Baltimore Ravens,home,0.235,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1759924810,2025-10-08 12:00:10,Los Angeles Rams,away,0.765,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1759924815,2025-10-08 12:00:15,Baltimore Ravens,home,0.235,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1759968009,2025-10-09 00:00:09,Baltimore Ravens,home,0.225,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1759968014,2025-10-09 00:00:14,Los Angeles Rams,away,0.775,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1760011210,2025-10-09 12:00:10,Los Angeles Rams,away,0.765,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1760011216,2025-10-09 12:00:16,Baltimore Ravens,home,0.235,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1760054411,2025-10-10 00:00:11,Los Angeles Rams,away,0.775,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1760054417,2025-10-10 00:00:17,Baltimore Ravens,home,0.225,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1760097604,2025-10-10 12:00:04,Baltimore Ravens,home,0.225,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1760097615,2025-10-10 12:00:15,Los Angeles Rams,away,0.775,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1760140809,2025-10-11 00:00:09,Los Angeles Rams,away,0.775,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1760140813,2025-10-11 00:00:13,Baltimore Ravens,home,0.225,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1760184006,2025-10-11 12:00:06,Los Angeles Rams,away,0.775,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1760184022,2025-10-11 12:00:22,Baltimore Ravens,home,0.225,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1760227207,2025-10-12 00:00:07,Los Angeles Rams,away,0.765,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1760227218,2025-10-12 00:00:18,Baltimore Ravens,home,0.235,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1760270404,2025-10-12 12:00:04,Baltimore Ravens,home,0.24,6,2025-10-12,Los Angeles Rams,Baltimore Ravens
+1760270422,2025-10-12 12:00:22,Los Angeles Rams,away,0.76,6,2025-10-12,Los Angeles Rams,Baltimore Ravens

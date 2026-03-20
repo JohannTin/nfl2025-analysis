@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1757246402,2025-09-07 12:00:02,New England Patriots,away,0.41,2,2025-09-14,New England Patriots,Miami Dolphins
+1757246431,2025-09-07 12:00:31,Miami Dolphins,home,0.59,2,2025-09-14,New England Patriots,Miami Dolphins
+1757289613,2025-09-08 00:00:13,New England Patriots,away,0.445,2,2025-09-14,New England Patriots,Miami Dolphins
+1757289618,2025-09-08 00:00:18,Miami Dolphins,home,0.555,2,2025-09-14,New England Patriots,Miami Dolphins
+1757332810,2025-09-08 12:00:10,Miami Dolphins,home,0.54,2,2025-09-14,New England Patriots,Miami Dolphins
+1757332829,2025-09-08 12:00:29,New England Patriots,away,0.46,2,2025-09-14,New England Patriots,Miami Dolphins
+1757376003,2025-09-09 00:00:03,Miami Dolphins,home,0.52,2,2025-09-14,New England Patriots,Miami Dolphins
+1757376014,2025-09-09 00:00:14,New England Patriots,away,0.48,2,2025-09-14,New England Patriots,Miami Dolphins
+1757419202,2025-09-09 12:00:02,New England Patriots,away,0.48,2,2025-09-14,New England Patriots,Miami Dolphins
+1757419202,2025-09-09 12:00:02,Miami Dolphins,home,0.52,2,2025-09-14,New England Patriots,Miami Dolphins
+1757462413,2025-09-10 00:00:13,New England Patriots,away,0.475,2,2025-09-14,New England Patriots,Miami Dolphins
+1757462413,2025-09-10 00:00:13,Miami Dolphins,home,0.525,2,2025-09-14,New England Patriots,Miami Dolphins
+1757505622,2025-09-10 12:00:22,New England Patriots,away,0.48,2,2025-09-14,New England Patriots,Miami Dolphins
+1757505622,2025-09-10 12:00:22,Miami Dolphins,home,0.52,2,2025-09-14,New England Patriots,Miami Dolphins
+1757548810,2025-09-11 00:00:10,Miami Dolphins,home,0.52,2,2025-09-14,New England Patriots,Miami Dolphins
+1757548814,2025-09-11 00:00:14,New England Patriots,away,0.48,2,2025-09-14,New England Patriots,Miami Dolphins
+1757592019,2025-09-11 12:00:19,Miami Dolphins,home,0.52,2,2025-09-14,New England Patriots,Miami Dolphins
+1757592027,2025-09-11 12:00:27,New England Patriots,away,0.48,2,2025-09-14,New England Patriots,Miami Dolphins
+1757635207,2025-09-12 00:00:07,Miami Dolphins,home,0.525,2,2025-09-14,New England Patriots,Miami Dolphins
+1757635214,2025-09-12 00:00:14,New England Patriots,away,0.475,2,2025-09-14,New England Patriots,Miami Dolphins
+1757678427,2025-09-12 12:00:27,Miami Dolphins,home,0.545,2,2025-09-14,New England Patriots,Miami Dolphins
+1757678427,2025-09-12 12:00:27,New England Patriots,away,0.455,2,2025-09-14,New England Patriots,Miami Dolphins
+1757721607,2025-09-13 00:00:07,New England Patriots,away,0.45,2,2025-09-14,New England Patriots,Miami Dolphins
+1757721608,2025-09-13 00:00:08,Miami Dolphins,home,0.55,2,2025-09-14,New England Patriots,Miami Dolphins
+1757764822,2025-09-13 12:00:22,Miami Dolphins,home,0.545,2,2025-09-14,New England Patriots,Miami Dolphins
+1757764833,2025-09-13 12:00:33,New England Patriots,away,0.455,2,2025-09-14,New England Patriots,Miami Dolphins
+1757808007,2025-09-14 00:00:07,New England Patriots,away,0.445,2,2025-09-14,New England Patriots,Miami Dolphins
+1757808019,2025-09-14 00:00:19,Miami Dolphins,home,0.555,2,2025-09-14,New England Patriots,Miami Dolphins
+1757851220,2025-09-14 12:00:20,New England Patriots,away,0.445,2,2025-09-14,New England Patriots,Miami Dolphins
+1757851230,2025-09-14 12:00:30,Miami Dolphins,home,0.555,2,2025-09-14,New England Patriots,Miami Dolphins

@@ -1,0 +1,19 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1768348821,2026-01-14 00:00:21,San Francisco 49ers,away,0.245,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768348828,2026-01-14 00:00:28,Seattle Seahawks,home,0.755,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768392022,2026-01-14 12:00:22,San Francisco 49ers,away,0.245,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768392029,2026-01-14 12:00:29,Seattle Seahawks,home,0.755,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768435223,2026-01-15 00:00:23,San Francisco 49ers,away,0.245,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768435230,2026-01-15 00:00:30,Seattle Seahawks,home,0.755,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768478422,2026-01-15 12:00:22,San Francisco 49ers,away,0.245,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768478429,2026-01-15 12:00:29,Seattle Seahawks,home,0.755,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768521626,2026-01-16 00:00:26,San Francisco 49ers,away,0.255,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768521633,2026-01-16 00:00:33,Seattle Seahawks,home,0.745,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768564823,2026-01-16 12:00:23,San Francisco 49ers,away,0.255,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768564830,2026-01-16 12:00:30,Seattle Seahawks,home,0.745,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768608022,2026-01-17 00:00:22,San Francisco 49ers,away,0.255,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768608029,2026-01-17 00:00:29,Seattle Seahawks,home,0.745,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768651231,2026-01-17 12:00:31,San Francisco 49ers,away,0.255,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768651250,2026-01-17 12:00:50,Seattle Seahawks,home,0.745,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768694434,2026-01-18 00:00:34,San Francisco 49ers,away,0.285,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks
+1768694448,2026-01-18 00:00:48,Seattle Seahawks,home,0.715,DIV,2026-01-17,San Francisco 49ers,Seattle Seahawks

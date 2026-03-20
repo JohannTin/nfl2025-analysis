@@ -1,0 +1,25 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028823,2025-11-25 00:00:23,Tennessee Titans,home,0.25,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764028825,2025-11-25 00:00:25,Jacksonville Jaguars,away,0.75,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764072031,2025-11-25 12:00:31,Tennessee Titans,home,0.255,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764072034,2025-11-25 12:00:34,Jacksonville Jaguars,away,0.745,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764115218,2025-11-26 00:00:18,Tennessee Titans,home,0.26,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764115219,2025-11-26 00:00:19,Jacksonville Jaguars,away,0.74,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764158445,2025-11-26 12:00:45,Tennessee Titans,home,0.255,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764158448,2025-11-26 12:00:48,Jacksonville Jaguars,away,0.745,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764201623,2025-11-27 00:00:23,Tennessee Titans,home,0.26,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764201625,2025-11-27 00:00:25,Jacksonville Jaguars,away,0.74,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764244837,2025-11-27 12:00:37,Tennessee Titans,home,0.26,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764244839,2025-11-27 12:00:39,Jacksonville Jaguars,away,0.74,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764288021,2025-11-28 00:00:21,Tennessee Titans,home,0.27,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764288023,2025-11-28 00:00:23,Jacksonville Jaguars,away,0.73,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764331235,2025-11-28 12:00:35,Tennessee Titans,home,0.275,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764331239,2025-11-28 12:00:39,Jacksonville Jaguars,away,0.725,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764374430,2025-11-29 00:00:30,Tennessee Titans,home,0.275,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764374432,2025-11-29 00:00:32,Jacksonville Jaguars,away,0.725,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764417637,2025-11-29 12:00:37,Tennessee Titans,home,0.265,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764417641,2025-11-29 12:00:41,Jacksonville Jaguars,away,0.735,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764460822,2025-11-30 00:00:22,Tennessee Titans,home,0.285,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764460823,2025-11-30 00:00:23,Jacksonville Jaguars,away,0.715,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764547226,2025-12-01 00:00:26,Tennessee Titans,home,0.0005,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans
+1764547227,2025-12-01 00:00:27,Jacksonville Jaguars,away,0.9995,13,2025-11-30,Jacksonville Jaguars,Tennessee Titans

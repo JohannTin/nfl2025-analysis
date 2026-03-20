@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1763424017,2025-11-18 00:00:17,Atlanta Falcons,away,0.5,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763424018,2025-11-18 00:00:18,New Orleans Saints,home,0.5,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763467230,2025-11-18 12:00:30,Atlanta Falcons,away,0.45,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763467233,2025-11-18 12:00:33,New Orleans Saints,home,0.55,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763510425,2025-11-19 00:00:25,Atlanta Falcons,away,0.4,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763510428,2025-11-19 00:00:28,New Orleans Saints,home,0.6,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763553633,2025-11-19 12:00:33,Atlanta Falcons,away,0.24,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763553637,2025-11-19 12:00:37,New Orleans Saints,home,0.76,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763596816,2025-11-20 00:00:16,Atlanta Falcons,away,0.615,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763596818,2025-11-20 00:00:18,New Orleans Saints,home,0.385,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763640018,2025-11-20 12:00:18,Atlanta Falcons,away,0.615,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763640019,2025-11-20 12:00:19,New Orleans Saints,home,0.385,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763683228,2025-11-21 00:00:28,Atlanta Falcons,away,0.615,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763683230,2025-11-21 00:00:30,New Orleans Saints,home,0.385,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763726418,2025-11-21 12:00:18,Atlanta Falcons,away,0.615,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763726420,2025-11-21 12:00:20,New Orleans Saints,home,0.385,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763769618,2025-11-22 00:00:18,Atlanta Falcons,away,0.625,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763769619,2025-11-22 00:00:19,New Orleans Saints,home,0.375,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763812818,2025-11-22 12:00:18,Atlanta Falcons,away,0.625,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763812819,2025-11-22 12:00:19,New Orleans Saints,home,0.375,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763856019,2025-11-23 00:00:19,Atlanta Falcons,away,0.46,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763856020,2025-11-23 00:00:20,New Orleans Saints,home,0.54,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763899217,2025-11-23 12:00:17,Atlanta Falcons,away,0.46,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763899219,2025-11-23 12:00:19,New Orleans Saints,home,0.54,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763942416,2025-11-24 00:00:16,Atlanta Falcons,away,0.5005,12,2025-11-23,Atlanta Falcons,New Orleans Saints
+1763942417,2025-11-24 00:00:17,New Orleans Saints,home,0.4995,12,2025-11-23,Atlanta Falcons,New Orleans Saints

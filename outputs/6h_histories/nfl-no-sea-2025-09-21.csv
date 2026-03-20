@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1757851217,2025-09-14 12:00:17,New Orleans Saints,away,0.28,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1757851228,2025-09-14 12:00:28,Seattle Seahawks,home,0.72,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1757894410,2025-09-15 00:00:10,New Orleans Saints,away,0.225,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1757894414,2025-09-15 00:00:14,Seattle Seahawks,home,0.775,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1757937621,2025-09-15 12:00:21,Seattle Seahawks,home,0.775,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1757937625,2025-09-15 12:00:25,New Orleans Saints,away,0.225,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1757980810,2025-09-16 00:00:10,New Orleans Saints,away,0.23,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1757980825,2025-09-16 00:00:25,Seattle Seahawks,home,0.77,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758024014,2025-09-16 12:00:14,New Orleans Saints,away,0.23,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758024018,2025-09-16 12:00:18,Seattle Seahawks,home,0.77,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758067209,2025-09-17 00:00:09,Seattle Seahawks,home,0.775,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758067220,2025-09-17 00:00:20,New Orleans Saints,away,0.225,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758110407,2025-09-17 12:00:07,Seattle Seahawks,home,0.775,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758110414,2025-09-17 12:00:14,New Orleans Saints,away,0.225,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758153612,2025-09-18 00:00:12,Seattle Seahawks,home,0.77,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758153613,2025-09-18 00:00:13,New Orleans Saints,away,0.23,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758196808,2025-09-18 12:00:08,Seattle Seahawks,home,0.77,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758196828,2025-09-18 12:00:28,New Orleans Saints,away,0.23,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758240009,2025-09-19 00:00:09,Seattle Seahawks,home,0.765,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758240013,2025-09-19 00:00:13,New Orleans Saints,away,0.235,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758283221,2025-09-19 12:00:21,Seattle Seahawks,home,0.765,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758283229,2025-09-19 12:00:29,New Orleans Saints,away,0.235,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758326409,2025-09-20 00:00:09,Seattle Seahawks,home,0.765,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758326414,2025-09-20 00:00:14,New Orleans Saints,away,0.235,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758369613,2025-09-20 12:00:13,Seattle Seahawks,home,0.765,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758369617,2025-09-20 12:00:17,New Orleans Saints,away,0.235,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758412803,2025-09-21 00:00:03,Seattle Seahawks,home,0.765,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758412804,2025-09-21 00:00:04,New Orleans Saints,away,0.235,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758456007,2025-09-21 12:00:07,Seattle Seahawks,home,0.775,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758456012,2025-09-21 12:00:12,New Orleans Saints,away,0.225,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758499207,2025-09-22 00:00:07,Seattle Seahawks,home,0.9995,3,2025-09-21,New Orleans Saints,Seattle Seahawks
+1758499209,2025-09-22 00:00:09,New Orleans Saints,away,0.0005,3,2025-09-21,New Orleans Saints,Seattle Seahawks

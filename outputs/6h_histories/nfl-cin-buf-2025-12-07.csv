@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764633608,2025-12-02 00:00:08,Buffalo Bills,home,0.49,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764633619,2025-12-02 00:00:19,Cincinnati Bengals,away,0.51,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764676813,2025-12-02 12:00:13,Buffalo Bills,home,0.645,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764676837,2025-12-02 12:00:37,Cincinnati Bengals,away,0.355,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764720011,2025-12-03 00:00:11,Buffalo Bills,home,0.63,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764720031,2025-12-03 00:00:31,Cincinnati Bengals,away,0.37,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764763214,2025-12-03 12:00:14,Buffalo Bills,home,0.65,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764763242,2025-12-03 12:00:42,Cincinnati Bengals,away,0.35,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764806409,2025-12-04 00:00:09,Buffalo Bills,home,0.6,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764806419,2025-12-04 00:00:19,Cincinnati Bengals,away,0.4,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764849614,2025-12-04 12:00:14,Buffalo Bills,home,0.655,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764849642,2025-12-04 12:00:42,Cincinnati Bengals,away,0.345,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764892810,2025-12-05 00:00:10,Buffalo Bills,home,0.54,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764892821,2025-12-05 00:00:21,Cincinnati Bengals,away,0.46,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764936011,2025-12-05 12:00:11,Buffalo Bills,home,0.635,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764936025,2025-12-05 12:00:25,Cincinnati Bengals,away,0.365,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764979211,2025-12-06 00:00:11,Buffalo Bills,home,0.67,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1764979223,2025-12-06 00:00:23,Cincinnati Bengals,away,0.33,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1765022411,2025-12-06 12:00:11,Buffalo Bills,home,0.575,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1765022425,2025-12-06 12:00:25,Cincinnati Bengals,away,0.425,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1765065623,2025-12-07 00:00:23,Buffalo Bills,home,0.665,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1765065636,2025-12-07 00:00:36,Cincinnati Bengals,away,0.335,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1765108811,2025-12-07 12:00:11,Buffalo Bills,home,0.66,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1765108829,2025-12-07 12:00:29,Cincinnati Bengals,away,0.34,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1765152022,2025-12-08 00:00:22,Buffalo Bills,home,0.0005,14,2025-12-07,Cincinnati Bengals,Buffalo Bills
+1765152034,2025-12-08 00:00:34,Cincinnati Bengals,away,0.9995,14,2025-12-07,Cincinnati Bengals,Buffalo Bills

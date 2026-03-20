@@ -1,0 +1,57 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1769428815,2026-01-26 12:00:15,New England Patriots,home,0.325,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769428839,2026-01-26 12:00:39,Seattle Seahawks,away,0.675,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769472025,2026-01-27 00:00:25,New England Patriots,home,0.325,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769472038,2026-01-27 00:00:38,Seattle Seahawks,away,0.675,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769515214,2026-01-27 12:00:14,New England Patriots,home,0.325,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769515226,2026-01-27 12:00:26,Seattle Seahawks,away,0.675,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769558416,2026-01-28 00:00:16,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769558427,2026-01-28 00:00:27,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769601616,2026-01-28 12:00:16,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769601629,2026-01-28 12:00:29,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769644829,2026-01-29 00:00:29,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769644843,2026-01-29 00:00:43,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769688017,2026-01-29 12:00:17,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769688033,2026-01-29 12:00:33,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769731217,2026-01-30 00:00:17,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769731232,2026-01-30 00:00:32,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769774421,2026-01-30 12:00:21,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769774448,2026-01-30 12:00:48,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769817617,2026-01-31 00:00:17,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769817632,2026-01-31 00:00:32,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769860818,2026-01-31 12:00:18,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769860838,2026-01-31 12:00:38,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769904019,2026-02-01 00:00:19,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769904039,2026-02-01 00:00:39,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769947218,2026-02-01 12:00:18,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769947235,2026-02-01 12:00:35,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769990416,2026-02-02 00:00:16,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1769990431,2026-02-02 00:00:31,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770033616,2026-02-02 12:00:16,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770033635,2026-02-02 12:00:35,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770076816,2026-02-03 00:00:16,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770076834,2026-02-03 00:00:34,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770120018,2026-02-03 12:00:18,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770120041,2026-02-03 12:00:41,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770163228,2026-02-04 00:00:28,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770163244,2026-02-04 00:00:44,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770206418,2026-02-04 12:00:18,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770206436,2026-02-04 12:00:36,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770249615,2026-02-05 00:00:15,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770249629,2026-02-05 00:00:29,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770292817,2026-02-05 12:00:17,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770292840,2026-02-05 12:00:40,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770336018,2026-02-06 00:00:18,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770336038,2026-02-06 00:00:38,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770379218,2026-02-06 12:00:18,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770379240,2026-02-06 12:00:40,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770422421,2026-02-07 00:00:21,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770422446,2026-02-07 00:00:46,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770465619,2026-02-07 12:00:19,New England Patriots,home,0.325,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770465643,2026-02-07 12:00:43,Seattle Seahawks,away,0.675,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770508818,2026-02-08 00:00:18,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770508841,2026-02-08 00:00:41,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770552021,2026-02-08 12:00:21,New England Patriots,home,0.315,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770552055,2026-02-08 12:00:55,Seattle Seahawks,away,0.685,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770595218,2026-02-09 00:00:18,New England Patriots,home,0.31,SB,2026-02-08,Seattle Seahawks,New England Patriots
+1770595240,2026-02-09 00:00:40,Seattle Seahawks,away,0.69,SB,2026-02-08,Seattle Seahawks,New England Patriots

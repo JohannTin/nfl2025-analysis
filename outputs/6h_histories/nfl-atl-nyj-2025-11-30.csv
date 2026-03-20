@@ -1,0 +1,26 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028811,2025-11-25 00:00:11,New York Jets,home,0.44,13,2025-11-30,Atlanta Falcons,New York Jets
+1764028826,2025-11-25 00:00:26,Atlanta Falcons,away,0.56,13,2025-11-30,Atlanta Falcons,New York Jets
+1764072014,2025-11-25 12:00:14,New York Jets,home,0.44,13,2025-11-30,Atlanta Falcons,New York Jets
+1764072035,2025-11-25 12:00:35,Atlanta Falcons,away,0.56,13,2025-11-30,Atlanta Falcons,New York Jets
+1764115210,2025-11-26 00:00:10,New York Jets,home,0.435,13,2025-11-30,Atlanta Falcons,New York Jets
+1764115220,2025-11-26 00:00:20,Atlanta Falcons,away,0.565,13,2025-11-30,Atlanta Falcons,New York Jets
+1764158428,2025-11-26 12:00:28,New York Jets,home,0.44,13,2025-11-30,Atlanta Falcons,New York Jets
+1764158451,2025-11-26 12:00:51,Atlanta Falcons,away,0.56,13,2025-11-30,Atlanta Falcons,New York Jets
+1764201611,2025-11-27 00:00:11,New York Jets,home,0.435,13,2025-11-30,Atlanta Falcons,New York Jets
+1764201627,2025-11-27 00:00:27,Atlanta Falcons,away,0.565,13,2025-11-30,Atlanta Falcons,New York Jets
+1764244816,2025-11-27 12:00:16,New York Jets,home,0.435,13,2025-11-30,Atlanta Falcons,New York Jets
+1764244842,2025-11-27 12:00:42,Atlanta Falcons,away,0.565,13,2025-11-30,Atlanta Falcons,New York Jets
+1764288011,2025-11-28 00:00:11,New York Jets,home,0.44,13,2025-11-30,Atlanta Falcons,New York Jets
+1764288024,2025-11-28 00:00:24,Atlanta Falcons,away,0.56,13,2025-11-30,Atlanta Falcons,New York Jets
+1764331215,2025-11-28 12:00:15,New York Jets,home,0.435,13,2025-11-30,Atlanta Falcons,New York Jets
+1764331241,2025-11-28 12:00:41,Atlanta Falcons,away,0.565,13,2025-11-30,Atlanta Falcons,New York Jets
+1764374413,2025-11-29 00:00:13,New York Jets,home,0.435,13,2025-11-30,Atlanta Falcons,New York Jets
+1764374434,2025-11-29 00:00:34,Atlanta Falcons,away,0.565,13,2025-11-30,Atlanta Falcons,New York Jets
+1764417616,2025-11-29 12:00:16,New York Jets,home,0.425,13,2025-11-30,Atlanta Falcons,New York Jets
+1764417643,2025-11-29 12:00:43,Atlanta Falcons,away,0.575,13,2025-11-30,Atlanta Falcons,New York Jets
+1764460811,2025-11-30 00:00:11,New York Jets,home,0.415,13,2025-11-30,Atlanta Falcons,New York Jets
+1764460825,2025-11-30 00:00:25,Atlanta Falcons,away,0.585,13,2025-11-30,Atlanta Falcons,New York Jets
+1764504042,2025-11-30 12:00:42,New York Jets,home,0.385,13,2025-11-30,Atlanta Falcons,New York Jets
+1764547212,2025-12-01 00:00:12,New York Jets,home,0.9995,13,2025-11-30,Atlanta Falcons,New York Jets
+1764547229,2025-12-01 00:00:29,Atlanta Falcons,away,0.0005,13,2025-11-30,Atlanta Falcons,New York Jets

@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1758456002,2025-09-21 12:00:02,Green Bay Packers,away,0.7,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758456014,2025-09-21 12:00:14,Dallas Cowboys,home,0.3,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758499204,2025-09-22 00:00:04,Green Bay Packers,away,0.705,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758499211,2025-09-22 00:00:11,Dallas Cowboys,home,0.295,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758542420,2025-09-22 12:00:20,Green Bay Packers,away,0.72,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758542422,2025-09-22 12:00:22,Dallas Cowboys,home,0.28,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758585611,2025-09-23 00:00:11,Dallas Cowboys,home,0.255,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758585611,2025-09-23 00:00:11,Green Bay Packers,away,0.745,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758628805,2025-09-23 12:00:05,Green Bay Packers,away,0.745,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758628819,2025-09-23 12:00:19,Dallas Cowboys,home,0.255,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758672006,2025-09-24 00:00:06,Dallas Cowboys,home,0.255,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758672017,2025-09-24 00:00:17,Green Bay Packers,away,0.745,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758715211,2025-09-24 12:00:11,Green Bay Packers,away,0.75,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758715213,2025-09-24 12:00:13,Dallas Cowboys,home,0.25,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758758405,2025-09-25 00:00:05,Green Bay Packers,away,0.745,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758758406,2025-09-25 00:00:06,Dallas Cowboys,home,0.255,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758801606,2025-09-25 12:00:06,Dallas Cowboys,home,0.255,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758801611,2025-09-25 12:00:11,Green Bay Packers,away,0.745,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758844803,2025-09-26 00:00:03,Dallas Cowboys,home,0.25,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758844808,2025-09-26 00:00:08,Green Bay Packers,away,0.75,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758888007,2025-09-26 12:00:07,Dallas Cowboys,home,0.255,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758888008,2025-09-26 12:00:08,Green Bay Packers,away,0.745,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758931205,2025-09-27 00:00:05,Dallas Cowboys,home,0.255,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758931206,2025-09-27 00:00:06,Green Bay Packers,away,0.745,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758974407,2025-09-27 12:00:07,Dallas Cowboys,home,0.255,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1758974417,2025-09-27 12:00:17,Green Bay Packers,away,0.745,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1759017607,2025-09-28 00:00:07,Dallas Cowboys,home,0.26,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1759017615,2025-09-28 00:00:15,Green Bay Packers,away,0.74,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1759060807,2025-09-28 12:00:07,Dallas Cowboys,home,0.255,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1759060816,2025-09-28 12:00:16,Green Bay Packers,away,0.745,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1759104006,2025-09-29 00:00:06,Dallas Cowboys,home,0.255,4,2025-09-28,Green Bay Packers,Dallas Cowboys
+1759104010,2025-09-29 00:00:10,Green Bay Packers,away,0.745,4,2025-09-28,Green Bay Packers,Dallas Cowboys

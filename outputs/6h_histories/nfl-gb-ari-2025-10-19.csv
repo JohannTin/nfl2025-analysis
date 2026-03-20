@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1760270407,2025-10-12 12:00:07,Green Bay Packers,away,0.68,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760270414,2025-10-12 12:00:14,Arizona Cardinals,home,0.32,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760313607,2025-10-13 00:00:07,Arizona Cardinals,home,0.27,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760313616,2025-10-13 00:00:16,Green Bay Packers,away,0.73,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760356813,2025-10-13 12:00:13,Green Bay Packers,away,0.725,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760356813,2025-10-13 12:00:13,Arizona Cardinals,home,0.275,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760400014,2025-10-14 00:00:14,Green Bay Packers,away,0.725,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760400014,2025-10-14 00:00:14,Arizona Cardinals,home,0.275,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760443203,2025-10-14 12:00:03,Green Bay Packers,away,0.725,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760443210,2025-10-14 12:00:10,Arizona Cardinals,home,0.275,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760486415,2025-10-15 00:00:15,Arizona Cardinals,home,0.265,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760486416,2025-10-15 00:00:16,Green Bay Packers,away,0.735,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760529611,2025-10-15 12:00:11,Arizona Cardinals,home,0.265,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760529613,2025-10-15 12:00:13,Green Bay Packers,away,0.735,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760572816,2025-10-16 00:00:16,Arizona Cardinals,home,0.26,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760572818,2025-10-16 00:00:18,Green Bay Packers,away,0.74,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760616018,2025-10-16 12:00:18,Arizona Cardinals,home,0.26,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760616027,2025-10-16 12:00:27,Green Bay Packers,away,0.74,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760659206,2025-10-17 00:00:06,Arizona Cardinals,home,0.255,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760659214,2025-10-17 00:00:14,Green Bay Packers,away,0.745,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760702422,2025-10-17 12:00:22,Green Bay Packers,away,0.745,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760702425,2025-10-17 12:00:25,Arizona Cardinals,home,0.255,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760745605,2025-10-18 00:00:05,Green Bay Packers,away,0.745,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760745609,2025-10-18 00:00:09,Arizona Cardinals,home,0.255,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760788807,2025-10-18 12:00:07,Arizona Cardinals,home,0.245,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760788831,2025-10-18 12:00:31,Green Bay Packers,away,0.755,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760832016,2025-10-19 00:00:16,Green Bay Packers,away,0.755,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760832018,2025-10-19 00:00:18,Arizona Cardinals,home,0.245,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760875215,2025-10-19 12:00:15,Arizona Cardinals,home,0.245,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760875223,2025-10-19 12:00:23,Green Bay Packers,away,0.755,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760918405,2025-10-20 00:00:05,Green Bay Packers,away,0.9995,7,2025-10-19,Green Bay Packers,Arizona Cardinals
+1760918419,2025-10-20 00:00:19,Arizona Cardinals,home,0.0005,7,2025-10-19,Green Bay Packers,Arizona Cardinals

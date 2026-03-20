@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1763424005,2025-11-18 00:00:05,Tampa Bay Buccaneers,away,0.495,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763424010,2025-11-18 00:00:10,Los Angeles Rams,home,0.505,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763467204,2025-11-18 12:00:04,Tampa Bay Buccaneers,away,0.48,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763467216,2025-11-18 12:00:16,Los Angeles Rams,home,0.52,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763510405,2025-11-19 00:00:05,Tampa Bay Buccaneers,away,0.475,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763510414,2025-11-19 00:00:14,Los Angeles Rams,home,0.525,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763553605,2025-11-19 12:00:05,Tampa Bay Buccaneers,away,0.465,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763553618,2025-11-19 12:00:18,Los Angeles Rams,home,0.535,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763596805,2025-11-20 00:00:05,Tampa Bay Buccaneers,away,0.515,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763596810,2025-11-20 00:00:10,Los Angeles Rams,home,0.485,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763640005,2025-11-20 12:00:05,Tampa Bay Buccaneers,away,0.465,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763640011,2025-11-20 12:00:11,Los Angeles Rams,home,0.535,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763683205,2025-11-21 00:00:05,Tampa Bay Buccaneers,away,0.5,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763683215,2025-11-21 00:00:15,Los Angeles Rams,home,0.5,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763726405,2025-11-21 12:00:05,Tampa Bay Buccaneers,away,0.505,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763726411,2025-11-21 12:00:11,Los Angeles Rams,home,0.495,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763769605,2025-11-22 00:00:05,Tampa Bay Buccaneers,away,0.51,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763769611,2025-11-22 00:00:11,Los Angeles Rams,home,0.49,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763812806,2025-11-22 12:00:06,Tampa Bay Buccaneers,away,0.51,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763812811,2025-11-22 12:00:11,Los Angeles Rams,home,0.49,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763856005,2025-11-23 00:00:05,Tampa Bay Buccaneers,away,0.51,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763856011,2025-11-23 00:00:11,Los Angeles Rams,home,0.49,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763899204,2025-11-23 12:00:04,Tampa Bay Buccaneers,away,0.3,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763899211,2025-11-23 12:00:11,Los Angeles Rams,home,0.7,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763942408,2025-11-24 00:00:08,Tampa Bay Buccaneers,away,0.32,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams
+1763942412,2025-11-24 00:00:12,Los Angeles Rams,home,0.68,12,2025-11-23,Tampa Bay Buccaneers,Los Angeles Rams

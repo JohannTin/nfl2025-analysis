@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1761480011,2025-10-26 12:00:11,Jacksonville Jaguars,away,0.59,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761480031,2025-10-26 12:00:31,Las Vegas Raiders,home,0.41,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761523209,2025-10-27 00:00:09,Jacksonville Jaguars,away,0.61,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761523220,2025-10-27 00:00:20,Las Vegas Raiders,home,0.39,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761566410,2025-10-27 12:00:10,Jacksonville Jaguars,away,0.62,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761566425,2025-10-27 12:00:25,Las Vegas Raiders,home,0.38,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761609610,2025-10-28 00:00:10,Jacksonville Jaguars,away,0.615,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761609624,2025-10-28 00:00:24,Las Vegas Raiders,home,0.385,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761652808,2025-10-28 12:00:08,Jacksonville Jaguars,away,0.605,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761652824,2025-10-28 12:00:24,Las Vegas Raiders,home,0.395,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761696009,2025-10-29 00:00:09,Jacksonville Jaguars,away,0.615,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761696024,2025-10-29 00:00:24,Las Vegas Raiders,home,0.385,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761782409,2025-10-30 00:00:09,Jacksonville Jaguars,away,0.6,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761782424,2025-10-30 00:00:24,Las Vegas Raiders,home,0.4,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761825608,2025-10-30 12:00:08,Jacksonville Jaguars,away,0.6,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761825629,2025-10-30 12:00:29,Las Vegas Raiders,home,0.4,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761868807,2025-10-31 00:00:07,Jacksonville Jaguars,away,0.575,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761868815,2025-10-31 00:00:15,Las Vegas Raiders,home,0.425,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761912009,2025-10-31 12:00:09,Jacksonville Jaguars,away,0.585,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761912028,2025-10-31 12:00:28,Las Vegas Raiders,home,0.415,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761955209,2025-11-01 00:00:09,Jacksonville Jaguars,away,0.575,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761955223,2025-11-01 00:00:23,Las Vegas Raiders,home,0.425,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761998411,2025-11-01 12:00:11,Jacksonville Jaguars,away,0.565,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1761998432,2025-11-01 12:00:32,Las Vegas Raiders,home,0.435,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1762041608,2025-11-02 00:00:08,Jacksonville Jaguars,away,0.565,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1762041618,2025-11-02 00:00:18,Las Vegas Raiders,home,0.435,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1762084809,2025-11-02 12:00:09,Jacksonville Jaguars,away,0.555,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1762084828,2025-11-02 12:00:28,Las Vegas Raiders,home,0.445,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1762128007,2025-11-03 00:00:07,Jacksonville Jaguars,away,0.475,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders
+1762128023,2025-11-03 00:00:23,Las Vegas Raiders,home,0.525,9,2025-11-02,Jacksonville Jaguars,Las Vegas Raiders

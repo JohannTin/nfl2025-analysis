@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765238426,2025-12-09 00:00:26,San Francisco 49ers,home,0.525,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765238427,2025-12-09 00:00:27,Tennessee Titans,away,0.475,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765281615,2025-12-09 12:00:15,San Francisco 49ers,home,0.525,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765281617,2025-12-09 12:00:17,Tennessee Titans,away,0.475,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765324814,2025-12-10 00:00:14,San Francisco 49ers,home,0.52,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765324815,2025-12-10 00:00:15,Tennessee Titans,away,0.48,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765368025,2025-12-10 12:00:25,San Francisco 49ers,home,0.49,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765368029,2025-12-10 12:00:29,Tennessee Titans,away,0.51,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765411214,2025-12-11 00:00:14,San Francisco 49ers,home,0.5,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765411216,2025-12-11 00:00:16,Tennessee Titans,away,0.5,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765454416,2025-12-11 12:00:16,San Francisco 49ers,home,0.49,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765454418,2025-12-11 12:00:18,Tennessee Titans,away,0.51,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765497615,2025-12-12 00:00:15,San Francisco 49ers,home,0.51,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765497616,2025-12-12 00:00:16,Tennessee Titans,away,0.49,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765540816,2025-12-12 12:00:16,San Francisco 49ers,home,0.5,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765540818,2025-12-12 12:00:18,Tennessee Titans,away,0.5,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765584017,2025-12-13 00:00:17,San Francisco 49ers,home,0.5,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765584018,2025-12-13 00:00:18,Tennessee Titans,away,0.5,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765627218,2025-12-13 12:00:18,San Francisco 49ers,home,0.5,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765627220,2025-12-13 12:00:20,Tennessee Titans,away,0.5,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765670417,2025-12-14 00:00:17,San Francisco 49ers,home,0.77,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765670419,2025-12-14 00:00:19,Tennessee Titans,away,0.23,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765713617,2025-12-14 12:00:17,San Francisco 49ers,home,0.78,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765713619,2025-12-14 12:00:19,Tennessee Titans,away,0.22,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765756819,2025-12-15 00:00:19,San Francisco 49ers,home,0.9995,15,2025-12-14,Tennessee Titans,San Francisco 49ers
+1765756821,2025-12-15 00:00:21,Tennessee Titans,away,0.0005,15,2025-12-14,Tennessee Titans,San Francisco 49ers

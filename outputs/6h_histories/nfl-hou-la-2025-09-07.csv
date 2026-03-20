@@ -1,0 +1,23 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1756857606,2025-09-03 00:00:06,Los Angeles Rams,home,0.585,1,2025-09-07,Houston Texans,Los Angeles Rams
+1756857614,2025-09-03 00:00:14,Houston Texans,away,0.415,1,2025-09-07,Houston Texans,Los Angeles Rams
+1756900821,2025-09-03 12:00:21,Houston Texans,away,0.41,1,2025-09-07,Houston Texans,Los Angeles Rams
+1756900825,2025-09-03 12:00:25,Los Angeles Rams,home,0.59,1,2025-09-07,Houston Texans,Los Angeles Rams
+1756944009,2025-09-04 00:00:09,Houston Texans,away,0.41,1,2025-09-07,Houston Texans,Los Angeles Rams
+1756944012,2025-09-04 00:00:12,Los Angeles Rams,home,0.59,1,2025-09-07,Houston Texans,Los Angeles Rams
+1756987213,2025-09-04 12:00:13,Houston Texans,away,0.405,1,2025-09-07,Houston Texans,Los Angeles Rams
+1756987215,2025-09-04 12:00:15,Los Angeles Rams,home,0.595,1,2025-09-07,Houston Texans,Los Angeles Rams
+1757030412,2025-09-05 00:00:12,Los Angeles Rams,home,0.6,1,2025-09-07,Houston Texans,Los Angeles Rams
+1757030413,2025-09-05 00:00:13,Houston Texans,away,0.4,1,2025-09-07,Houston Texans,Los Angeles Rams
+1757073629,2025-09-05 12:00:29,Los Angeles Rams,home,0.605,1,2025-09-07,Houston Texans,Los Angeles Rams
+1757073631,2025-09-05 12:00:31,Houston Texans,away,0.395,1,2025-09-07,Houston Texans,Los Angeles Rams
+1757116814,2025-09-06 00:00:14,Los Angeles Rams,home,0.605,1,2025-09-07,Houston Texans,Los Angeles Rams
+1757116816,2025-09-06 00:00:16,Houston Texans,away,0.395,1,2025-09-07,Houston Texans,Los Angeles Rams
+1757160013,2025-09-06 12:00:13,Houston Texans,away,0.395,1,2025-09-07,Houston Texans,Los Angeles Rams
+1757160022,2025-09-06 12:00:22,Los Angeles Rams,home,0.605,1,2025-09-07,Houston Texans,Los Angeles Rams
+1757203207,2025-09-07 00:00:07,Houston Texans,away,0.395,1,2025-09-07,Houston Texans,Los Angeles Rams
+1757203211,2025-09-07 00:00:11,Los Angeles Rams,home,0.605,1,2025-09-07,Houston Texans,Los Angeles Rams
+1757246411,2025-09-07 12:00:11,Houston Texans,away,0.385,1,2025-09-07,Houston Texans,Los Angeles Rams
+1757246413,2025-09-07 12:00:13,Los Angeles Rams,home,0.615,1,2025-09-07,Houston Texans,Los Angeles Rams
+1757289609,2025-09-08 00:00:09,Los Angeles Rams,home,0.9995,1,2025-09-07,Houston Texans,Los Angeles Rams
+1757289616,2025-09-08 00:00:16,Houston Texans,away,0.0005,1,2025-09-07,Houston Texans,Los Angeles Rams

@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1759665606,2025-10-05 12:00:06,Las Vegas Raiders,home,0.72,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1759665609,2025-10-05 12:00:09,Tennessee Titans,away,0.28,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1759708802,2025-10-06 00:00:02,Las Vegas Raiders,home,0.715,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1759708805,2025-10-06 00:00:05,Tennessee Titans,away,0.285,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1759752002,2025-10-06 12:00:02,Tennessee Titans,away,0.305,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1759752002,2025-10-06 12:00:02,Las Vegas Raiders,home,0.695,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1759795202,2025-10-07 00:00:02,Las Vegas Raiders,home,0.68,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1759795209,2025-10-07 00:00:09,Tennessee Titans,away,0.32,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1759838407,2025-10-07 12:00:07,Las Vegas Raiders,home,0.675,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1759838412,2025-10-07 12:00:12,Tennessee Titans,away,0.325,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1759881604,2025-10-08 00:00:04,Tennessee Titans,away,0.315,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1759881613,2025-10-08 00:00:13,Las Vegas Raiders,home,0.685,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1759924815,2025-10-08 12:00:15,Tennessee Titans,away,0.305,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1759924818,2025-10-08 12:00:18,Las Vegas Raiders,home,0.695,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1759968010,2025-10-09 00:00:10,Las Vegas Raiders,home,0.67,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1759968012,2025-10-09 00:00:12,Tennessee Titans,away,0.33,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760011215,2025-10-09 12:00:15,Las Vegas Raiders,home,0.675,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760011221,2025-10-09 12:00:21,Tennessee Titans,away,0.325,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760054405,2025-10-10 00:00:05,Tennessee Titans,away,0.325,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760054415,2025-10-10 00:00:15,Las Vegas Raiders,home,0.675,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760097604,2025-10-10 12:00:04,Tennessee Titans,away,0.33,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760097616,2025-10-10 12:00:16,Las Vegas Raiders,home,0.67,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760140804,2025-10-11 00:00:04,Las Vegas Raiders,home,0.665,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760140815,2025-10-11 00:00:15,Tennessee Titans,away,0.335,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760184005,2025-10-11 12:00:05,Tennessee Titans,away,0.335,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760184025,2025-10-11 12:00:25,Las Vegas Raiders,home,0.665,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760227206,2025-10-12 00:00:06,Tennessee Titans,away,0.335,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760227219,2025-10-12 00:00:19,Las Vegas Raiders,home,0.665,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760270405,2025-10-12 12:00:05,Las Vegas Raiders,home,0.665,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760270423,2025-10-12 12:00:23,Tennessee Titans,away,0.335,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760313614,2025-10-13 00:00:14,Tennessee Titans,away,0.0005,6,2025-10-12,Tennessee Titans,Las Vegas Raiders
+1760313616,2025-10-13 00:00:16,Las Vegas Raiders,home,0.9995,6,2025-10-12,Tennessee Titans,Las Vegas Raiders

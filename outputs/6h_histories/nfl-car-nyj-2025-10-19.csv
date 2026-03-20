@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1760270408,2025-10-12 12:00:08,New York Jets,home,0.545,7,2025-10-19,Carolina Panthers,New York Jets
+1760270420,2025-10-12 12:00:20,Carolina Panthers,away,0.455,7,2025-10-19,Carolina Panthers,New York Jets
+1760313612,2025-10-13 00:00:12,Carolina Panthers,away,0.485,7,2025-10-19,Carolina Panthers,New York Jets
+1760313617,2025-10-13 00:00:17,New York Jets,home,0.515,7,2025-10-19,Carolina Panthers,New York Jets
+1760356803,2025-10-13 12:00:03,New York Jets,home,0.495,7,2025-10-19,Carolina Panthers,New York Jets
+1760356807,2025-10-13 12:00:07,Carolina Panthers,away,0.505,7,2025-10-19,Carolina Panthers,New York Jets
+1760400008,2025-10-14 00:00:08,New York Jets,home,0.455,7,2025-10-19,Carolina Panthers,New York Jets
+1760400010,2025-10-14 00:00:10,Carolina Panthers,away,0.545,7,2025-10-19,Carolina Panthers,New York Jets
+1760443218,2025-10-14 12:00:18,New York Jets,home,0.445,7,2025-10-19,Carolina Panthers,New York Jets
+1760443224,2025-10-14 12:00:24,Carolina Panthers,away,0.555,7,2025-10-19,Carolina Panthers,New York Jets
+1760486408,2025-10-15 00:00:08,Carolina Panthers,away,0.525,7,2025-10-19,Carolina Panthers,New York Jets
+1760486417,2025-10-15 00:00:17,New York Jets,home,0.475,7,2025-10-19,Carolina Panthers,New York Jets
+1760529617,2025-10-15 12:00:17,Carolina Panthers,away,0.52,7,2025-10-19,Carolina Panthers,New York Jets
+1760529620,2025-10-15 12:00:20,New York Jets,home,0.48,7,2025-10-19,Carolina Panthers,New York Jets
+1760572819,2025-10-16 00:00:19,Carolina Panthers,away,0.525,7,2025-10-19,Carolina Panthers,New York Jets
+1760572821,2025-10-16 00:00:21,New York Jets,home,0.475,7,2025-10-19,Carolina Panthers,New York Jets
+1760616025,2025-10-16 12:00:25,Carolina Panthers,away,0.515,7,2025-10-19,Carolina Panthers,New York Jets
+1760616030,2025-10-16 12:00:30,New York Jets,home,0.485,7,2025-10-19,Carolina Panthers,New York Jets
+1760659205,2025-10-17 00:00:05,Carolina Panthers,away,0.515,7,2025-10-19,Carolina Panthers,New York Jets
+1760659212,2025-10-17 00:00:12,New York Jets,home,0.485,7,2025-10-19,Carolina Panthers,New York Jets
+1760702412,2025-10-17 12:00:12,New York Jets,home,0.485,7,2025-10-19,Carolina Panthers,New York Jets
+1760702417,2025-10-17 12:00:17,Carolina Panthers,away,0.515,7,2025-10-19,Carolina Panthers,New York Jets
+1760745617,2025-10-18 00:00:17,New York Jets,home,0.485,7,2025-10-19,Carolina Panthers,New York Jets
+1760745620,2025-10-18 00:00:20,Carolina Panthers,away,0.515,7,2025-10-19,Carolina Panthers,New York Jets
+1760788807,2025-10-18 12:00:07,New York Jets,home,0.485,7,2025-10-19,Carolina Panthers,New York Jets
+1760788814,2025-10-18 12:00:14,Carolina Panthers,away,0.515,7,2025-10-19,Carolina Panthers,New York Jets
+1760832005,2025-10-19 00:00:05,Carolina Panthers,away,0.505,7,2025-10-19,Carolina Panthers,New York Jets
+1760832019,2025-10-19 00:00:19,New York Jets,home,0.495,7,2025-10-19,Carolina Panthers,New York Jets
+1760875215,2025-10-19 12:00:15,New York Jets,home,0.495,7,2025-10-19,Carolina Panthers,New York Jets
+1760875218,2025-10-19 12:00:18,Carolina Panthers,away,0.505,7,2025-10-19,Carolina Panthers,New York Jets

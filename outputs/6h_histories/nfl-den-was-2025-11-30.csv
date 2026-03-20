@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028811,2025-11-25 00:00:11,Washington Commanders,home,0.265,13,2025-11-30,Denver Broncos,Washington Commanders
+1764028818,2025-11-25 00:00:18,Denver Broncos,away,0.735,13,2025-11-30,Denver Broncos,Washington Commanders
+1764072014,2025-11-25 12:00:14,Washington Commanders,home,0.265,13,2025-11-30,Denver Broncos,Washington Commanders
+1764072023,2025-11-25 12:00:23,Denver Broncos,away,0.735,13,2025-11-30,Denver Broncos,Washington Commanders
+1764115210,2025-11-26 00:00:10,Washington Commanders,home,0.265,13,2025-11-30,Denver Broncos,Washington Commanders
+1764115215,2025-11-26 00:00:15,Denver Broncos,away,0.735,13,2025-11-30,Denver Broncos,Washington Commanders
+1764158428,2025-11-26 12:00:28,Washington Commanders,home,0.265,13,2025-11-30,Denver Broncos,Washington Commanders
+1764158437,2025-11-26 12:00:37,Denver Broncos,away,0.735,13,2025-11-30,Denver Broncos,Washington Commanders
+1764201611,2025-11-27 00:00:11,Washington Commanders,home,0.285,13,2025-11-30,Denver Broncos,Washington Commanders
+1764201618,2025-11-27 00:00:18,Denver Broncos,away,0.715,13,2025-11-30,Denver Broncos,Washington Commanders
+1764244816,2025-11-27 12:00:16,Washington Commanders,home,0.285,13,2025-11-30,Denver Broncos,Washington Commanders
+1764244828,2025-11-27 12:00:28,Denver Broncos,away,0.715,13,2025-11-30,Denver Broncos,Washington Commanders
+1764288011,2025-11-28 00:00:11,Washington Commanders,home,0.285,13,2025-11-30,Denver Broncos,Washington Commanders
+1764288017,2025-11-28 00:00:17,Denver Broncos,away,0.715,13,2025-11-30,Denver Broncos,Washington Commanders
+1764331215,2025-11-28 12:00:15,Washington Commanders,home,0.285,13,2025-11-30,Denver Broncos,Washington Commanders
+1764331227,2025-11-28 12:00:27,Denver Broncos,away,0.715,13,2025-11-30,Denver Broncos,Washington Commanders
+1764374414,2025-11-29 00:00:14,Washington Commanders,home,0.295,13,2025-11-30,Denver Broncos,Washington Commanders
+1764374423,2025-11-29 00:00:23,Denver Broncos,away,0.705,13,2025-11-30,Denver Broncos,Washington Commanders
+1764417616,2025-11-29 12:00:16,Washington Commanders,home,0.295,13,2025-11-30,Denver Broncos,Washington Commanders
+1764417627,2025-11-29 12:00:27,Denver Broncos,away,0.705,13,2025-11-30,Denver Broncos,Washington Commanders
+1764460811,2025-11-30 00:00:11,Washington Commanders,home,0.275,13,2025-11-30,Denver Broncos,Washington Commanders
+1764460817,2025-11-30 00:00:17,Denver Broncos,away,0.725,13,2025-11-30,Denver Broncos,Washington Commanders
+1764504042,2025-11-30 12:00:42,Washington Commanders,home,0.265,13,2025-11-30,Denver Broncos,Washington Commanders
+1764504052,2025-11-30 12:00:52,Denver Broncos,away,0.735,13,2025-11-30,Denver Broncos,Washington Commanders
+1764547212,2025-12-01 00:00:12,Washington Commanders,home,0.285,13,2025-11-30,Denver Broncos,Washington Commanders
+1764547220,2025-12-01 00:00:20,Denver Broncos,away,0.715,13,2025-11-30,Denver Broncos,Washington Commanders

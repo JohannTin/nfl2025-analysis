@@ -1,0 +1,25 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1763424008,2025-11-18 00:00:08,Detroit Lions,home,0.5,12,2025-11-23,New York Giants,Detroit Lions
+1763424015,2025-11-18 00:00:15,New York Giants,away,0.5,12,2025-11-23,New York Giants,Detroit Lions
+1763467211,2025-11-18 12:00:11,Detroit Lions,home,0.575,12,2025-11-23,New York Giants,Detroit Lions
+1763467226,2025-11-18 12:00:26,New York Giants,away,0.425,12,2025-11-23,New York Giants,Detroit Lions
+1763510410,2025-11-19 00:00:10,Detroit Lions,home,0.495,12,2025-11-23,New York Giants,Detroit Lions
+1763510422,2025-11-19 00:00:22,New York Giants,away,0.505,12,2025-11-23,New York Giants,Detroit Lions
+1763553612,2025-11-19 12:00:12,Detroit Lions,home,0.475,12,2025-11-23,New York Giants,Detroit Lions
+1763553629,2025-11-19 12:00:29,New York Giants,away,0.525,12,2025-11-23,New York Giants,Detroit Lions
+1763596808,2025-11-20 00:00:08,Detroit Lions,home,0.465,12,2025-11-23,New York Giants,Detroit Lions
+1763596814,2025-11-20 00:00:14,New York Giants,away,0.535,12,2025-11-23,New York Giants,Detroit Lions
+1763640009,2025-11-20 12:00:09,Detroit Lions,home,0.515,12,2025-11-23,New York Giants,Detroit Lions
+1763640016,2025-11-20 12:00:16,New York Giants,away,0.485,12,2025-11-23,New York Giants,Detroit Lions
+1763683211,2025-11-21 00:00:11,Detroit Lions,home,0.425,12,2025-11-23,New York Giants,Detroit Lions
+1763683224,2025-11-21 00:00:24,New York Giants,away,0.575,12,2025-11-23,New York Giants,Detroit Lions
+1763726409,2025-11-21 12:00:09,Detroit Lions,home,0.4,12,2025-11-23,New York Giants,Detroit Lions
+1763726416,2025-11-21 12:00:16,New York Giants,away,0.6,12,2025-11-23,New York Giants,Detroit Lions
+1763769609,2025-11-22 00:00:09,Detroit Lions,home,0.465,12,2025-11-23,New York Giants,Detroit Lions
+1763769616,2025-11-22 00:00:16,New York Giants,away,0.535,12,2025-11-23,New York Giants,Detroit Lions
+1763812809,2025-11-22 12:00:09,Detroit Lions,home,0.465,12,2025-11-23,New York Giants,Detroit Lions
+1763812816,2025-11-22 12:00:16,New York Giants,away,0.535,12,2025-11-23,New York Giants,Detroit Lions
+1763856009,2025-11-23 00:00:09,Detroit Lions,home,0.78,12,2025-11-23,New York Giants,Detroit Lions
+1763856017,2025-11-23 00:00:17,New York Giants,away,0.22,12,2025-11-23,New York Giants,Detroit Lions
+1763899208,2025-11-23 12:00:08,Detroit Lions,home,0.775,12,2025-11-23,New York Giants,Detroit Lions
+1763899215,2025-11-23 12:00:15,New York Giants,away,0.225,12,2025-11-23,New York Giants,Detroit Lions

@@ -1,0 +1,57 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765929607,2025-12-17 00:00:07,Los Angeles Rams,away,0.63,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1765929617,2025-12-17 00:00:17,Atlanta Falcons,home,0.37,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1765929632,2025-12-17 00:00:32,Los Angeles Rams,away,0.63,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1765929637,2025-12-17 00:00:37,Atlanta Falcons,home,0.37,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1765972811,2025-12-17 12:00:11,Los Angeles Rams,away,0.77,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1765972832,2025-12-17 12:00:32,Atlanta Falcons,home,0.23,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766016020,2025-12-18 00:00:20,Los Angeles Rams,away,0.775,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766016028,2025-12-18 00:00:28,Atlanta Falcons,home,0.225,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766059211,2025-12-18 12:00:11,Los Angeles Rams,away,0.815,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766059219,2025-12-18 12:00:19,Atlanta Falcons,home,0.185,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766102411,2025-12-19 00:00:11,Los Angeles Rams,away,0.82,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766102419,2025-12-19 00:00:19,Atlanta Falcons,home,0.18,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766145612,2025-12-19 12:00:12,Los Angeles Rams,away,0.825,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766145621,2025-12-19 12:00:21,Atlanta Falcons,home,0.175,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766188811,2025-12-20 00:00:11,Los Angeles Rams,away,0.825,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766188819,2025-12-20 00:00:19,Atlanta Falcons,home,0.175,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766232012,2025-12-20 12:00:12,Los Angeles Rams,away,0.81,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766232023,2025-12-20 12:00:23,Atlanta Falcons,home,0.19,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766275211,2025-12-21 00:00:11,Los Angeles Rams,away,0.805,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766275220,2025-12-21 00:00:20,Atlanta Falcons,home,0.195,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766318410,2025-12-21 12:00:10,Los Angeles Rams,away,0.8,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766318420,2025-12-21 12:00:20,Atlanta Falcons,home,0.2,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766361610,2025-12-22 00:00:10,Los Angeles Rams,away,0.825,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766361619,2025-12-22 00:00:19,Atlanta Falcons,home,0.175,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766404810,2025-12-22 12:00:10,Los Angeles Rams,away,0.795,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766404819,2025-12-22 12:00:19,Atlanta Falcons,home,0.205,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766448012,2025-12-23 00:00:12,Los Angeles Rams,away,0.795,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766448022,2025-12-23 00:00:22,Atlanta Falcons,home,0.205,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766491212,2025-12-23 12:00:12,Los Angeles Rams,away,0.795,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766491225,2025-12-23 12:00:25,Atlanta Falcons,home,0.205,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766534411,2025-12-24 00:00:11,Los Angeles Rams,away,0.785,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766534422,2025-12-24 00:00:22,Atlanta Falcons,home,0.215,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766577611,2025-12-24 12:00:11,Los Angeles Rams,away,0.785,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766577622,2025-12-24 12:00:22,Atlanta Falcons,home,0.215,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766620822,2025-12-25 00:00:22,Los Angeles Rams,away,0.785,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766620831,2025-12-25 00:00:31,Atlanta Falcons,home,0.215,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766664012,2025-12-25 12:00:12,Los Angeles Rams,away,0.785,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766664023,2025-12-25 12:00:23,Atlanta Falcons,home,0.215,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766707209,2025-12-26 00:00:09,Los Angeles Rams,away,0.785,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766707215,2025-12-26 00:00:15,Atlanta Falcons,home,0.215,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766750410,2025-12-26 12:00:10,Los Angeles Rams,away,0.795,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766750419,2025-12-26 12:00:19,Atlanta Falcons,home,0.205,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766793612,2025-12-27 00:00:12,Los Angeles Rams,away,0.795,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766793620,2025-12-27 00:00:20,Atlanta Falcons,home,0.205,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766836812,2025-12-27 12:00:12,Los Angeles Rams,away,0.785,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766836820,2025-12-27 12:00:20,Atlanta Falcons,home,0.215,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766880012,2025-12-28 00:00:12,Los Angeles Rams,away,0.785,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766880021,2025-12-28 00:00:21,Atlanta Falcons,home,0.215,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766923212,2025-12-28 12:00:12,Los Angeles Rams,away,0.785,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766923221,2025-12-28 12:00:21,Atlanta Falcons,home,0.215,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766966428,2025-12-29 00:00:28,Los Angeles Rams,away,0.775,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1766966438,2025-12-29 00:00:38,Atlanta Falcons,home,0.225,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1767009612,2025-12-29 12:00:12,Los Angeles Rams,away,0.765,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1767009621,2025-12-29 12:00:21,Atlanta Falcons,home,0.235,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1767052815,2025-12-30 00:00:15,Los Angeles Rams,away,0.755,17,2025-12-29,Los Angeles Rams,Atlanta Falcons
+1767052824,2025-12-30 00:00:24,Atlanta Falcons,home,0.245,17,2025-12-29,Los Angeles Rams,Atlanta Falcons

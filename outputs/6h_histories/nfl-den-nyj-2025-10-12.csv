@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1759665604,2025-10-05 12:00:04,Denver Broncos,away,0.715,6,2025-10-12,Denver Broncos,New York Jets
+1759665606,2025-10-05 12:00:06,New York Jets,home,0.285,6,2025-10-12,Denver Broncos,New York Jets
+1759708802,2025-10-06 00:00:02,New York Jets,home,0.245,6,2025-10-12,Denver Broncos,New York Jets
+1759708808,2025-10-06 00:00:08,Denver Broncos,away,0.755,6,2025-10-12,Denver Broncos,New York Jets
+1759752005,2025-10-06 12:00:05,Denver Broncos,away,0.77,6,2025-10-12,Denver Broncos,New York Jets
+1759752005,2025-10-06 12:00:05,New York Jets,home,0.23,6,2025-10-12,Denver Broncos,New York Jets
+1759795207,2025-10-07 00:00:07,New York Jets,home,0.225,6,2025-10-12,Denver Broncos,New York Jets
+1759795209,2025-10-07 00:00:09,Denver Broncos,away,0.775,6,2025-10-12,Denver Broncos,New York Jets
+1759838416,2025-10-07 12:00:16,New York Jets,home,0.225,6,2025-10-12,Denver Broncos,New York Jets
+1759838416,2025-10-07 12:00:16,Denver Broncos,away,0.775,6,2025-10-12,Denver Broncos,New York Jets
+1759881608,2025-10-08 00:00:08,Denver Broncos,away,0.77,6,2025-10-12,Denver Broncos,New York Jets
+1759881608,2025-10-08 00:00:08,New York Jets,home,0.23,6,2025-10-12,Denver Broncos,New York Jets
+1759924817,2025-10-08 12:00:17,New York Jets,home,0.225,6,2025-10-12,Denver Broncos,New York Jets
+1759924818,2025-10-08 12:00:18,Denver Broncos,away,0.775,6,2025-10-12,Denver Broncos,New York Jets
+1759968005,2025-10-09 00:00:05,New York Jets,home,0.225,6,2025-10-12,Denver Broncos,New York Jets
+1759968008,2025-10-09 00:00:08,Denver Broncos,away,0.775,6,2025-10-12,Denver Broncos,New York Jets
+1760011212,2025-10-09 12:00:12,Denver Broncos,away,0.775,6,2025-10-12,Denver Broncos,New York Jets
+1760011218,2025-10-09 12:00:18,New York Jets,home,0.225,6,2025-10-12,Denver Broncos,New York Jets
+1760054414,2025-10-10 00:00:14,Denver Broncos,away,0.77,6,2025-10-12,Denver Broncos,New York Jets
+1760054418,2025-10-10 00:00:18,New York Jets,home,0.23,6,2025-10-12,Denver Broncos,New York Jets
+1760097605,2025-10-10 12:00:05,Denver Broncos,away,0.775,6,2025-10-12,Denver Broncos,New York Jets
+1760097610,2025-10-10 12:00:10,New York Jets,home,0.225,6,2025-10-12,Denver Broncos,New York Jets
+1760140812,2025-10-11 00:00:12,New York Jets,home,0.235,6,2025-10-12,Denver Broncos,New York Jets
+1760140813,2025-10-11 00:00:13,Denver Broncos,away,0.765,6,2025-10-12,Denver Broncos,New York Jets
+1760184013,2025-10-11 12:00:13,Denver Broncos,away,0.765,6,2025-10-12,Denver Broncos,New York Jets
+1760184018,2025-10-11 12:00:18,New York Jets,home,0.235,6,2025-10-12,Denver Broncos,New York Jets
+1760227212,2025-10-12 00:00:12,Denver Broncos,away,0.765,6,2025-10-12,Denver Broncos,New York Jets
+1760227215,2025-10-12 00:00:15,New York Jets,home,0.235,6,2025-10-12,Denver Broncos,New York Jets
+1760270413,2025-10-12 12:00:13,New York Jets,home,0.235,6,2025-10-12,Denver Broncos,New York Jets
+1760270416,2025-10-12 12:00:16,Denver Broncos,away,0.765,6,2025-10-12,Denver Broncos,New York Jets

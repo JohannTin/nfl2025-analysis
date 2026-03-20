@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1759060804,2025-09-28 12:00:04,Washington Commanders,away,0.405,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759060809,2025-09-28 12:00:09,Los Angeles Chargers,home,0.595,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759104006,2025-09-29 00:00:06,Washington Commanders,away,0.405,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759104008,2025-09-29 00:00:08,Los Angeles Chargers,home,0.595,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759147206,2025-09-29 12:00:06,Los Angeles Chargers,home,0.595,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759147217,2025-09-29 12:00:17,Washington Commanders,away,0.405,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759190406,2025-09-30 00:00:06,Los Angeles Chargers,home,0.595,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759190411,2025-09-30 00:00:11,Washington Commanders,away,0.405,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759233606,2025-09-30 12:00:06,Los Angeles Chargers,home,0.585,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759233616,2025-09-30 12:00:16,Washington Commanders,away,0.415,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759276804,2025-10-01 00:00:04,Los Angeles Chargers,home,0.6,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759276807,2025-10-01 00:00:07,Washington Commanders,away,0.4,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759320006,2025-10-01 12:00:06,Los Angeles Chargers,home,0.595,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759320012,2025-10-01 12:00:12,Washington Commanders,away,0.405,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759363203,2025-10-02 00:00:03,Los Angeles Chargers,home,0.585,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759363207,2025-10-02 00:00:07,Washington Commanders,away,0.415,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759406409,2025-10-02 12:00:09,Washington Commanders,away,0.415,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759406409,2025-10-02 12:00:09,Los Angeles Chargers,home,0.585,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759449602,2025-10-03 00:00:02,Washington Commanders,away,0.405,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759449611,2025-10-03 00:00:11,Los Angeles Chargers,home,0.595,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759492807,2025-10-03 12:00:07,Washington Commanders,away,0.405,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759492807,2025-10-03 12:00:07,Los Angeles Chargers,home,0.595,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759536004,2025-10-04 00:00:04,Los Angeles Chargers,home,0.595,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759536004,2025-10-04 00:00:04,Washington Commanders,away,0.405,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759579210,2025-10-04 12:00:10,Los Angeles Chargers,home,0.6,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759579210,2025-10-04 12:00:10,Washington Commanders,away,0.4,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759622409,2025-10-05 00:00:09,Los Angeles Chargers,home,0.595,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759622409,2025-10-05 00:00:09,Washington Commanders,away,0.405,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759665603,2025-10-05 12:00:03,Washington Commanders,away,0.405,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759665606,2025-10-05 12:00:06,Los Angeles Chargers,home,0.595,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759708802,2025-10-06 00:00:02,Los Angeles Chargers,home,0.0005,5,2025-10-05,Washington Commanders,Los Angeles Chargers
+1759708808,2025-10-06 00:00:08,Washington Commanders,away,0.9995,5,2025-10-05,Washington Commanders,Los Angeles Chargers

@@ -1,0 +1,21 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1757246411,2025-09-07 12:00:11,Green Bay Packers,home,0.605,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757246422,2025-09-07 12:00:22,Washington Commanders,away,0.395,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757289612,2025-09-08 00:00:12,Green Bay Packers,home,0.605,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757289620,2025-09-08 00:00:20,Washington Commanders,away,0.395,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757332805,2025-09-08 12:00:05,Washington Commanders,away,0.35,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757332829,2025-09-08 12:00:29,Green Bay Packers,home,0.65,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757376014,2025-09-09 00:00:14,Green Bay Packers,home,0.625,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757376016,2025-09-09 00:00:16,Washington Commanders,away,0.375,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757419205,2025-09-09 12:00:05,Green Bay Packers,home,0.63,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757419216,2025-09-09 12:00:16,Washington Commanders,away,0.37,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757462404,2025-09-10 00:00:04,Washington Commanders,away,0.375,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757462414,2025-09-10 00:00:14,Green Bay Packers,home,0.625,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757505607,2025-09-10 12:00:07,Washington Commanders,away,0.375,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757505624,2025-09-10 12:00:24,Green Bay Packers,home,0.625,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757548806,2025-09-11 00:00:06,Green Bay Packers,home,0.625,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757548808,2025-09-11 00:00:08,Washington Commanders,away,0.375,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757592005,2025-09-11 12:00:05,Green Bay Packers,home,0.625,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757592017,2025-09-11 12:00:17,Washington Commanders,away,0.375,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757635205,2025-09-12 00:00:05,Washington Commanders,away,0.375,2,2025-09-11,Washington Commanders,Green Bay Packers
+1757635223,2025-09-12 00:00:23,Green Bay Packers,home,0.625,2,2025-09-11,Washington Commanders,Green Bay Packers

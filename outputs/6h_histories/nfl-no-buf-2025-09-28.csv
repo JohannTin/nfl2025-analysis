@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1758456021,2025-09-21 12:00:21,Buffalo Bills,home,0.915,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758456024,2025-09-21 12:00:24,New Orleans Saints,away,0.085,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758499216,2025-09-22 00:00:16,Buffalo Bills,home,0.925,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758499218,2025-09-22 00:00:18,New Orleans Saints,away,0.075,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758542410,2025-09-22 12:00:10,Buffalo Bills,home,0.915,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758542423,2025-09-22 12:00:23,New Orleans Saints,away,0.085,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758585607,2025-09-23 00:00:07,Buffalo Bills,home,0.915,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758585612,2025-09-23 00:00:12,New Orleans Saints,away,0.085,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758628812,2025-09-23 12:00:12,Buffalo Bills,home,0.915,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758628828,2025-09-23 12:00:28,New Orleans Saints,away,0.085,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758672012,2025-09-24 00:00:12,New Orleans Saints,away,0.085,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758672013,2025-09-24 00:00:13,Buffalo Bills,home,0.915,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758715210,2025-09-24 12:00:10,Buffalo Bills,home,0.915,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758715213,2025-09-24 12:00:13,New Orleans Saints,away,0.085,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758758404,2025-09-25 00:00:04,Buffalo Bills,home,0.915,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758758406,2025-09-25 00:00:06,New Orleans Saints,away,0.085,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758801616,2025-09-25 12:00:16,New Orleans Saints,away,0.085,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758801618,2025-09-25 12:00:18,Buffalo Bills,home,0.915,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758844811,2025-09-26 00:00:11,New Orleans Saints,away,0.085,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758844812,2025-09-26 00:00:12,Buffalo Bills,home,0.915,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758888012,2025-09-26 12:00:12,New Orleans Saints,away,0.085,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758888019,2025-09-26 12:00:19,Buffalo Bills,home,0.915,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758931208,2025-09-27 00:00:08,New Orleans Saints,away,0.085,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758931211,2025-09-27 00:00:11,Buffalo Bills,home,0.915,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758974406,2025-09-27 12:00:06,New Orleans Saints,away,0.085,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1758974408,2025-09-27 12:00:08,Buffalo Bills,home,0.915,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1759017606,2025-09-28 00:00:06,New Orleans Saints,away,0.085,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1759017608,2025-09-28 00:00:08,Buffalo Bills,home,0.915,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1759060808,2025-09-28 12:00:08,New Orleans Saints,away,0.095,4,2025-09-28,New Orleans Saints,Buffalo Bills
+1759060814,2025-09-28 12:00:14,Buffalo Bills,home,0.905,4,2025-09-28,New Orleans Saints,Buffalo Bills

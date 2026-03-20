@@ -1,0 +1,25 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765238425,2025-12-09 00:00:25,New York Jets,away,0.49,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765238427,2025-12-09 00:00:27,Jacksonville Jaguars,home,0.51,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765281614,2025-12-09 12:00:14,New York Jets,away,0.49,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765281616,2025-12-09 12:00:16,Jacksonville Jaguars,home,0.51,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765324813,2025-12-10 00:00:13,New York Jets,away,0.485,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765324814,2025-12-10 00:00:14,Jacksonville Jaguars,home,0.515,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765368024,2025-12-10 12:00:24,New York Jets,away,0.495,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765368028,2025-12-10 12:00:28,Jacksonville Jaguars,home,0.505,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765411214,2025-12-11 00:00:14,New York Jets,away,0.27,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765411215,2025-12-11 00:00:15,Jacksonville Jaguars,home,0.73,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765454416,2025-12-11 12:00:16,New York Jets,away,0.275,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765454417,2025-12-11 12:00:17,Jacksonville Jaguars,home,0.725,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765497614,2025-12-12 00:00:14,New York Jets,away,0.27,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765497615,2025-12-12 00:00:15,Jacksonville Jaguars,home,0.73,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765540816,2025-12-12 12:00:16,New York Jets,away,0.27,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765540818,2025-12-12 12:00:18,Jacksonville Jaguars,home,0.73,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765584016,2025-12-13 00:00:16,New York Jets,away,0.27,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765584018,2025-12-13 00:00:18,Jacksonville Jaguars,home,0.73,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765627217,2025-12-13 12:00:17,New York Jets,away,0.505,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765627219,2025-12-13 12:00:19,Jacksonville Jaguars,home,0.495,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765670416,2025-12-14 00:00:16,New York Jets,away,0.205,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765670418,2025-12-14 00:00:18,Jacksonville Jaguars,home,0.795,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765713616,2025-12-14 12:00:16,New York Jets,away,0.2,15,2025-12-14,New York Jets,Jacksonville Jaguars
+1765713618,2025-12-14 12:00:18,Jacksonville Jaguars,home,0.8,15,2025-12-14,New York Jets,Jacksonville Jaguars

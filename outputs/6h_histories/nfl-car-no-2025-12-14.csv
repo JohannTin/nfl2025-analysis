@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765238422,2025-12-09 00:00:22,New Orleans Saints,home,0.51,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765238430,2025-12-09 00:00:30,Carolina Panthers,away,0.49,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765281611,2025-12-09 12:00:11,New Orleans Saints,home,0.51,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765281619,2025-12-09 12:00:19,Carolina Panthers,away,0.49,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765324811,2025-12-10 00:00:11,New Orleans Saints,home,0.515,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765324817,2025-12-10 00:00:17,Carolina Panthers,away,0.485,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765368018,2025-12-10 12:00:18,New Orleans Saints,home,0.505,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765368034,2025-12-10 12:00:34,Carolina Panthers,away,0.495,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765411212,2025-12-11 00:00:12,New Orleans Saints,home,0.495,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765411218,2025-12-11 00:00:18,Carolina Panthers,away,0.505,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765454413,2025-12-11 12:00:13,New Orleans Saints,home,0.51,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765454420,2025-12-11 12:00:20,Carolina Panthers,away,0.49,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765497612,2025-12-12 00:00:12,New Orleans Saints,home,0.485,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765497618,2025-12-12 00:00:18,Carolina Panthers,away,0.515,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765540813,2025-12-12 12:00:13,New Orleans Saints,home,0.47,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765540821,2025-12-12 12:00:21,Carolina Panthers,away,0.53,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765584013,2025-12-13 00:00:13,New Orleans Saints,home,0.465,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765584021,2025-12-13 00:00:21,Carolina Panthers,away,0.535,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765627214,2025-12-13 12:00:14,New Orleans Saints,home,0.47,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765627224,2025-12-13 12:00:24,Carolina Panthers,away,0.53,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765670413,2025-12-14 00:00:13,New Orleans Saints,home,0.435,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765670422,2025-12-14 00:00:22,Carolina Panthers,away,0.565,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765713613,2025-12-14 12:00:13,New Orleans Saints,home,0.435,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765713622,2025-12-14 12:00:22,Carolina Panthers,away,0.565,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765756814,2025-12-15 00:00:14,New Orleans Saints,home,0.0005,15,2025-12-14,Carolina Panthers,New Orleans Saints
+1765756825,2025-12-15 00:00:25,Carolina Panthers,away,0.9995,15,2025-12-14,Carolina Panthers,New Orleans Saints

@@ -1,0 +1,25 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028812,2025-11-25 00:00:12,Indianapolis Colts,home,0.675,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764028815,2025-11-25 00:00:15,Houston Texans,away,0.325,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764072014,2025-11-25 12:00:14,Indianapolis Colts,home,0.675,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764072019,2025-11-25 12:00:19,Houston Texans,away,0.325,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764115211,2025-11-26 00:00:11,Indianapolis Colts,home,0.675,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764115213,2025-11-26 00:00:13,Houston Texans,away,0.325,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764158429,2025-11-26 12:00:29,Indianapolis Colts,home,0.675,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764158435,2025-11-26 12:00:35,Houston Texans,away,0.325,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764201612,2025-11-27 00:00:12,Indianapolis Colts,home,0.66,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764201616,2025-11-27 00:00:16,Houston Texans,away,0.34,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764244817,2025-11-27 12:00:17,Indianapolis Colts,home,0.66,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764244824,2025-11-27 12:00:24,Houston Texans,away,0.34,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764288012,2025-11-28 00:00:12,Indianapolis Colts,home,0.635,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764288015,2025-11-28 00:00:15,Houston Texans,away,0.365,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764331216,2025-11-28 12:00:16,Indianapolis Colts,home,0.635,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764331223,2025-11-28 12:00:23,Houston Texans,away,0.365,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764374414,2025-11-29 00:00:14,Indianapolis Colts,home,0.625,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764374420,2025-11-29 00:00:20,Houston Texans,away,0.375,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764417617,2025-11-29 12:00:17,Indianapolis Colts,home,0.625,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764417624,2025-11-29 12:00:24,Houston Texans,away,0.375,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764460812,2025-11-30 00:00:12,Indianapolis Colts,home,0.615,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764460815,2025-11-30 00:00:15,Houston Texans,away,0.385,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764504043,2025-11-30 12:00:43,Indianapolis Colts,home,0.615,13,2025-11-30,Houston Texans,Indianapolis Colts
+1764504048,2025-11-30 12:00:48,Houston Texans,away,0.385,13,2025-11-30,Houston Texans,Indianapolis Colts

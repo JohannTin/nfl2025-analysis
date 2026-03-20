@@ -1,0 +1,25 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028820,2025-11-25 00:00:20,Arizona Cardinals,away,0.42,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764028822,2025-11-25 00:00:22,Tampa Bay Buccaneers,home,0.58,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764072026,2025-11-25 12:00:26,Arizona Cardinals,away,0.44,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764072029,2025-11-25 12:00:29,Tampa Bay Buccaneers,home,0.56,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764115216,2025-11-26 00:00:16,Arizona Cardinals,away,0.375,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764115217,2025-11-26 00:00:17,Tampa Bay Buccaneers,home,0.625,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764158441,2025-11-26 12:00:41,Arizona Cardinals,away,0.375,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764158443,2025-11-26 12:00:43,Tampa Bay Buccaneers,home,0.625,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764201620,2025-11-27 00:00:20,Arizona Cardinals,away,0.425,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764201622,2025-11-27 00:00:22,Tampa Bay Buccaneers,home,0.575,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764244831,2025-11-27 12:00:31,Arizona Cardinals,away,0.425,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764244835,2025-11-27 12:00:35,Tampa Bay Buccaneers,home,0.575,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764288019,2025-11-28 00:00:19,Arizona Cardinals,away,0.41,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764288020,2025-11-28 00:00:20,Tampa Bay Buccaneers,home,0.59,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764331230,2025-11-28 12:00:30,Arizona Cardinals,away,0.415,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764331233,2025-11-28 12:00:33,Tampa Bay Buccaneers,home,0.585,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764374426,2025-11-29 00:00:26,Arizona Cardinals,away,0.36,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764374427,2025-11-29 00:00:27,Tampa Bay Buccaneers,home,0.64,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764417632,2025-11-29 12:00:32,Arizona Cardinals,away,0.36,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764417634,2025-11-29 12:00:34,Tampa Bay Buccaneers,home,0.64,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764460819,2025-11-30 00:00:19,Arizona Cardinals,away,0.36,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764460821,2025-11-30 00:00:21,Tampa Bay Buccaneers,home,0.64,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764504056,2025-11-30 12:00:56,Arizona Cardinals,away,0.365,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers
+1764504059,2025-11-30 12:00:59,Tampa Bay Buccaneers,home,0.635,13,2025-11-30,Arizona Cardinals,Tampa Bay Buccaneers

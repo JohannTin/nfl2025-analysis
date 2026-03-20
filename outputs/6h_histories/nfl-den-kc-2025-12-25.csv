@@ -1,0 +1,57 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765584012,2025-12-13 00:00:12,Denver Broncos,away,0.475,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765584020,2025-12-13 00:00:20,Kansas City Chiefs,home,0.525,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765627212,2025-12-13 12:00:12,Denver Broncos,away,0.505,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765627222,2025-12-13 12:00:22,Kansas City Chiefs,home,0.495,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765670412,2025-12-14 00:00:12,Denver Broncos,away,0.385,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765670421,2025-12-14 00:00:21,Kansas City Chiefs,home,0.615,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765713611,2025-12-14 12:00:11,Denver Broncos,away,0.535,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765713620,2025-12-14 12:00:20,Kansas City Chiefs,home,0.465,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765756811,2025-12-15 00:00:11,Denver Broncos,away,0.585,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765756823,2025-12-15 00:00:23,Kansas City Chiefs,home,0.415,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765800010,2025-12-15 12:00:10,Denver Broncos,away,0.655,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765800019,2025-12-15 12:00:19,Kansas City Chiefs,home,0.345,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765843210,2025-12-16 00:00:10,Denver Broncos,away,0.625,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765843219,2025-12-16 00:00:19,Kansas City Chiefs,home,0.375,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765886422,2025-12-16 12:00:22,Denver Broncos,away,0.64,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765886432,2025-12-16 12:00:32,Kansas City Chiefs,home,0.36,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765929607,2025-12-17 00:00:07,Denver Broncos,away,0.715,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765929616,2025-12-17 00:00:16,Kansas City Chiefs,home,0.285,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765929632,2025-12-17 00:00:32,Denver Broncos,away,0.715,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765929636,2025-12-17 00:00:36,Kansas City Chiefs,home,0.285,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765972811,2025-12-17 12:00:11,Denver Broncos,away,0.745,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1765972829,2025-12-17 12:00:29,Kansas City Chiefs,home,0.255,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766016020,2025-12-18 00:00:20,Denver Broncos,away,0.705,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766016027,2025-12-18 00:00:27,Kansas City Chiefs,home,0.295,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766059210,2025-12-18 12:00:10,Denver Broncos,away,0.74,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766059218,2025-12-18 12:00:18,Kansas City Chiefs,home,0.26,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766102411,2025-12-19 00:00:11,Denver Broncos,away,0.715,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766102418,2025-12-19 00:00:18,Kansas City Chiefs,home,0.285,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766145612,2025-12-19 12:00:12,Denver Broncos,away,0.725,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766145620,2025-12-19 12:00:20,Kansas City Chiefs,home,0.275,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766188810,2025-12-20 00:00:10,Denver Broncos,away,0.705,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766188818,2025-12-20 00:00:18,Kansas City Chiefs,home,0.295,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766232011,2025-12-20 12:00:11,Denver Broncos,away,0.72,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766232022,2025-12-20 12:00:22,Kansas City Chiefs,home,0.28,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766275210,2025-12-21 00:00:10,Denver Broncos,away,0.7,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766275218,2025-12-21 00:00:18,Kansas City Chiefs,home,0.3,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766318410,2025-12-21 12:00:10,Denver Broncos,away,0.715,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766318419,2025-12-21 12:00:19,Kansas City Chiefs,home,0.285,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766361610,2025-12-22 00:00:10,Denver Broncos,away,0.865,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766361618,2025-12-22 00:00:18,Kansas City Chiefs,home,0.135,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766404809,2025-12-22 12:00:09,Denver Broncos,away,0.87,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766404818,2025-12-22 12:00:18,Kansas City Chiefs,home,0.13,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766448012,2025-12-23 00:00:12,Denver Broncos,away,0.875,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766448020,2025-12-23 00:00:20,Kansas City Chiefs,home,0.125,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766491212,2025-12-23 12:00:12,Denver Broncos,away,0.875,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766491223,2025-12-23 12:00:23,Kansas City Chiefs,home,0.125,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766534411,2025-12-24 00:00:11,Denver Broncos,away,0.88,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766534420,2025-12-24 00:00:20,Kansas City Chiefs,home,0.12,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766577611,2025-12-24 12:00:11,Denver Broncos,away,0.885,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766577620,2025-12-24 12:00:20,Kansas City Chiefs,home,0.115,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766620821,2025-12-25 00:00:21,Denver Broncos,away,0.885,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766620830,2025-12-25 00:00:30,Kansas City Chiefs,home,0.115,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766664012,2025-12-25 12:00:12,Denver Broncos,away,0.89,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766664021,2025-12-25 12:00:21,Kansas City Chiefs,home,0.11,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766707209,2025-12-26 00:00:09,Denver Broncos,away,0.875,17,2025-12-25,Denver Broncos,Kansas City Chiefs
+1766707215,2025-12-26 00:00:15,Kansas City Chiefs,home,0.125,17,2025-12-25,Denver Broncos,Kansas City Chiefs

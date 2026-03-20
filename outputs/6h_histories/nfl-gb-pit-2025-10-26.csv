@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1760875205,2025-10-19 12:00:05,Pittsburgh Steelers,home,0.39,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1760875210,2025-10-19 12:00:10,Green Bay Packers,away,0.61,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1760918411,2025-10-20 00:00:11,Pittsburgh Steelers,home,0.4,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1760918416,2025-10-20 00:00:16,Green Bay Packers,away,0.6,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1760961620,2025-10-20 12:00:20,Pittsburgh Steelers,home,0.415,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1760961625,2025-10-20 12:00:25,Green Bay Packers,away,0.585,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761004806,2025-10-21 00:00:06,Green Bay Packers,away,0.625,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761004819,2025-10-21 00:00:19,Pittsburgh Steelers,home,0.375,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761048015,2025-10-21 12:00:15,Pittsburgh Steelers,home,0.38,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761048022,2025-10-21 12:00:22,Green Bay Packers,away,0.62,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761091212,2025-10-22 00:00:12,Pittsburgh Steelers,home,0.385,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761091213,2025-10-22 00:00:13,Green Bay Packers,away,0.615,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761134415,2025-10-22 12:00:15,Pittsburgh Steelers,home,0.385,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761134419,2025-10-22 12:00:19,Green Bay Packers,away,0.615,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761177608,2025-10-23 00:00:08,Green Bay Packers,away,0.615,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761177608,2025-10-23 00:00:08,Pittsburgh Steelers,home,0.385,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761220811,2025-10-23 12:00:11,Pittsburgh Steelers,home,0.395,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761220812,2025-10-23 12:00:12,Green Bay Packers,away,0.605,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761264011,2025-10-24 00:00:11,Pittsburgh Steelers,home,0.395,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761264012,2025-10-24 00:00:12,Green Bay Packers,away,0.605,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761307214,2025-10-24 12:00:14,Pittsburgh Steelers,home,0.405,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761307215,2025-10-24 12:00:15,Green Bay Packers,away,0.595,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761350411,2025-10-25 00:00:11,Pittsburgh Steelers,home,0.405,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761350412,2025-10-25 00:00:12,Green Bay Packers,away,0.595,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761393614,2025-10-25 12:00:14,Pittsburgh Steelers,home,0.405,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761393615,2025-10-25 12:00:15,Green Bay Packers,away,0.595,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761436811,2025-10-26 00:00:11,Pittsburgh Steelers,home,0.405,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761436813,2025-10-26 00:00:13,Green Bay Packers,away,0.595,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761480015,2025-10-26 12:00:15,Pittsburgh Steelers,home,0.405,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761480016,2025-10-26 12:00:16,Green Bay Packers,away,0.595,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761523211,2025-10-27 00:00:11,Pittsburgh Steelers,home,0.435,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers
+1761523212,2025-10-27 00:00:12,Green Bay Packers,away,0.565,8,2025-10-26,Green Bay Packers,Pittsburgh Steelers

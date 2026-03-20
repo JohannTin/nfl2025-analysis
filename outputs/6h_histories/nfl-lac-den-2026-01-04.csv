@@ -1,0 +1,59 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1766361620,2025-12-22 00:00:20,Denver Broncos,home,0.595,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766361621,2025-12-22 00:00:21,Los Angeles Chargers,away,0.405,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766404820,2025-12-22 12:00:20,Denver Broncos,home,0.595,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766404822,2025-12-22 12:00:22,Los Angeles Chargers,away,0.405,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766448022,2025-12-23 00:00:22,Denver Broncos,home,0.605,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766448024,2025-12-23 00:00:24,Los Angeles Chargers,away,0.395,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766491226,2025-12-23 12:00:26,Denver Broncos,home,0.6,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766491228,2025-12-23 12:00:28,Los Angeles Chargers,away,0.4,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766534422,2025-12-24 00:00:22,Denver Broncos,home,0.585,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766534424,2025-12-24 00:00:24,Los Angeles Chargers,away,0.415,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766577622,2025-12-24 12:00:22,Denver Broncos,home,0.585,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766577624,2025-12-24 12:00:24,Los Angeles Chargers,away,0.415,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766620832,2025-12-25 00:00:32,Denver Broncos,home,0.585,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766620833,2025-12-25 00:00:33,Los Angeles Chargers,away,0.415,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766664023,2025-12-25 12:00:23,Denver Broncos,home,0.585,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766664025,2025-12-25 12:00:25,Los Angeles Chargers,away,0.415,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766707216,2025-12-26 00:00:16,Denver Broncos,home,0.585,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766707217,2025-12-26 00:00:17,Los Angeles Chargers,away,0.415,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766750420,2025-12-26 12:00:20,Denver Broncos,home,0.585,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766750421,2025-12-26 12:00:21,Los Angeles Chargers,away,0.415,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766793620,2025-12-27 00:00:20,Denver Broncos,home,0.585,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766793621,2025-12-27 00:00:21,Los Angeles Chargers,away,0.415,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766836821,2025-12-27 12:00:21,Denver Broncos,home,0.585,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766836822,2025-12-27 12:00:22,Los Angeles Chargers,away,0.415,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766880021,2025-12-28 00:00:21,Denver Broncos,home,0.65,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766880022,2025-12-28 00:00:22,Los Angeles Chargers,away,0.35,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766923221,2025-12-28 12:00:21,Denver Broncos,home,0.625,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766923223,2025-12-28 12:00:23,Los Angeles Chargers,away,0.375,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766966438,2025-12-29 00:00:38,Denver Broncos,home,0.67,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1766966439,2025-12-29 00:00:39,Los Angeles Chargers,away,0.33,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767009621,2025-12-29 12:00:21,Denver Broncos,home,0.74,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767009623,2025-12-29 12:00:23,Los Angeles Chargers,away,0.26,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767052825,2025-12-30 00:00:25,Denver Broncos,home,0.87,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767052826,2025-12-30 00:00:26,Los Angeles Chargers,away,0.13,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767096025,2025-12-30 12:00:25,Denver Broncos,home,0.865,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767096027,2025-12-30 12:00:27,Los Angeles Chargers,away,0.135,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767139222,2025-12-31 00:00:22,Denver Broncos,home,0.855,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767139224,2025-12-31 00:00:24,Los Angeles Chargers,away,0.145,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767182422,2025-12-31 12:00:22,Denver Broncos,home,0.855,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767182424,2025-12-31 12:00:24,Los Angeles Chargers,away,0.145,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767225622,2026-01-01 00:00:22,Denver Broncos,home,0.855,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767225624,2026-01-01 00:00:24,Los Angeles Chargers,away,0.145,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767268824,2026-01-01 12:00:24,Denver Broncos,home,0.855,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767268826,2026-01-01 12:00:26,Los Angeles Chargers,away,0.145,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767312021,2026-01-02 00:00:21,Denver Broncos,home,0.86,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767312022,2026-01-02 00:00:22,Los Angeles Chargers,away,0.14,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767355222,2026-01-02 12:00:22,Denver Broncos,home,0.86,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767355223,2026-01-02 12:00:23,Los Angeles Chargers,away,0.14,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767398419,2026-01-03 00:00:19,Denver Broncos,home,0.865,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767398420,2026-01-03 00:00:20,Los Angeles Chargers,away,0.135,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767441621,2026-01-03 12:00:21,Denver Broncos,home,0.875,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767441622,2026-01-03 12:00:22,Los Angeles Chargers,away,0.125,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767484821,2026-01-04 00:00:21,Denver Broncos,home,0.885,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767484822,2026-01-04 00:00:22,Los Angeles Chargers,away,0.115,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767528024,2026-01-04 12:00:24,Denver Broncos,home,0.885,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767528025,2026-01-04 12:00:25,Los Angeles Chargers,away,0.115,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767571224,2026-01-05 00:00:24,Denver Broncos,home,0.9805,18,2026-01-04,Los Angeles Chargers,Denver Broncos
+1767571225,2026-01-05 00:00:25,Los Angeles Chargers,away,0.0195,18,2026-01-04,Los Angeles Chargers,Denver Broncos

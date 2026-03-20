@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1762084812,2025-11-02 12:00:12,New York Jets,home,0.54,10,2025-11-09,Cleveland Browns,New York Jets
+1762084816,2025-11-02 12:00:16,Cleveland Browns,away,0.46,10,2025-11-09,Cleveland Browns,New York Jets
+1762128010,2025-11-03 00:00:10,New York Jets,home,0.53,10,2025-11-09,Cleveland Browns,New York Jets
+1762128013,2025-11-03 00:00:13,Cleveland Browns,away,0.47,10,2025-11-09,Cleveland Browns,New York Jets
+1762171211,2025-11-03 12:00:11,New York Jets,home,0.545,10,2025-11-09,Cleveland Browns,New York Jets
+1762171216,2025-11-03 12:00:16,Cleveland Browns,away,0.455,10,2025-11-09,Cleveland Browns,New York Jets
+1762214410,2025-11-04 00:00:10,New York Jets,home,0.545,10,2025-11-09,Cleveland Browns,New York Jets
+1762214414,2025-11-04 00:00:14,Cleveland Browns,away,0.455,10,2025-11-09,Cleveland Browns,New York Jets
+1762257613,2025-11-04 12:00:13,New York Jets,home,0.545,10,2025-11-09,Cleveland Browns,New York Jets
+1762257618,2025-11-04 12:00:18,Cleveland Browns,away,0.455,10,2025-11-09,Cleveland Browns,New York Jets
+1762300810,2025-11-05 00:00:10,New York Jets,home,0.425,10,2025-11-09,Cleveland Browns,New York Jets
+1762300814,2025-11-05 00:00:14,Cleveland Browns,away,0.575,10,2025-11-09,Cleveland Browns,New York Jets
+1762344013,2025-11-05 12:00:13,New York Jets,home,0.425,10,2025-11-09,Cleveland Browns,New York Jets
+1762344018,2025-11-05 12:00:18,Cleveland Browns,away,0.575,10,2025-11-09,Cleveland Browns,New York Jets
+1762387207,2025-11-06 00:00:07,New York Jets,home,0.455,10,2025-11-09,Cleveland Browns,New York Jets
+1762387209,2025-11-06 00:00:09,Cleveland Browns,away,0.545,10,2025-11-09,Cleveland Browns,New York Jets
+1762430414,2025-11-06 12:00:14,New York Jets,home,0.455,10,2025-11-09,Cleveland Browns,New York Jets
+1762430419,2025-11-06 12:00:19,Cleveland Browns,away,0.545,10,2025-11-09,Cleveland Browns,New York Jets
+1762473610,2025-11-07 00:00:10,New York Jets,home,0.455,10,2025-11-09,Cleveland Browns,New York Jets
+1762473614,2025-11-07 00:00:14,Cleveland Browns,away,0.545,10,2025-11-09,Cleveland Browns,New York Jets
+1762516813,2025-11-07 12:00:13,New York Jets,home,0.455,10,2025-11-09,Cleveland Browns,New York Jets
+1762516819,2025-11-07 12:00:19,Cleveland Browns,away,0.545,10,2025-11-09,Cleveland Browns,New York Jets
+1762560009,2025-11-08 00:00:09,New York Jets,home,0.455,10,2025-11-09,Cleveland Browns,New York Jets
+1762560010,2025-11-08 00:00:10,Cleveland Browns,away,0.545,10,2025-11-09,Cleveland Browns,New York Jets
+1762603226,2025-11-08 12:00:26,New York Jets,home,0.455,10,2025-11-09,Cleveland Browns,New York Jets
+1762603231,2025-11-08 12:00:31,Cleveland Browns,away,0.545,10,2025-11-09,Cleveland Browns,New York Jets
+1762646423,2025-11-09 00:00:23,New York Jets,home,0.445,10,2025-11-09,Cleveland Browns,New York Jets
+1762646427,2025-11-09 00:00:27,Cleveland Browns,away,0.555,10,2025-11-09,Cleveland Browns,New York Jets
+1762689611,2025-11-09 12:00:11,New York Jets,home,0.455,10,2025-11-09,Cleveland Browns,New York Jets
+1762689617,2025-11-09 12:00:17,Cleveland Browns,away,0.545,10,2025-11-09,Cleveland Browns,New York Jets

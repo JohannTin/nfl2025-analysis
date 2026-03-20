@@ -1,0 +1,55 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765843213,2025-12-16 00:00:13,Tampa Bay Buccaneers,away,0.51,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1765843222,2025-12-16 00:00:22,Miami Dolphins,home,0.49,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1765886425,2025-12-16 12:00:25,Tampa Bay Buccaneers,away,0.505,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1765886436,2025-12-16 12:00:36,Miami Dolphins,home,0.495,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1765929610,2025-12-17 00:00:10,Tampa Bay Buccaneers,away,0.585,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1765929619,2025-12-17 00:00:19,Miami Dolphins,home,0.415,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1765929633,2025-12-17 00:00:33,Tampa Bay Buccaneers,away,0.585,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1765929638,2025-12-17 00:00:38,Miami Dolphins,home,0.415,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1765972813,2025-12-17 12:00:13,Tampa Bay Buccaneers,away,0.575,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1765972836,2025-12-17 12:00:36,Miami Dolphins,home,0.425,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766016022,2025-12-18 00:00:22,Tampa Bay Buccaneers,away,0.61,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766016028,2025-12-18 00:00:28,Miami Dolphins,home,0.39,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766059213,2025-12-18 12:00:13,Tampa Bay Buccaneers,away,0.575,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766059220,2025-12-18 12:00:20,Miami Dolphins,home,0.425,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766102413,2025-12-19 00:00:13,Tampa Bay Buccaneers,away,0.6,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766102420,2025-12-19 00:00:20,Miami Dolphins,home,0.4,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766145614,2025-12-19 12:00:14,Tampa Bay Buccaneers,away,0.725,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766145622,2025-12-19 12:00:22,Miami Dolphins,home,0.275,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766188813,2025-12-20 00:00:13,Tampa Bay Buccaneers,away,0.735,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766188820,2025-12-20 00:00:20,Miami Dolphins,home,0.265,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766232014,2025-12-20 12:00:14,Tampa Bay Buccaneers,away,0.73,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766232024,2025-12-20 12:00:24,Miami Dolphins,home,0.27,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766275213,2025-12-21 00:00:13,Tampa Bay Buccaneers,away,0.74,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766275221,2025-12-21 00:00:21,Miami Dolphins,home,0.26,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766318412,2025-12-21 12:00:12,Tampa Bay Buccaneers,away,0.625,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766318421,2025-12-21 12:00:21,Miami Dolphins,home,0.375,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766361612,2025-12-22 00:00:12,Tampa Bay Buccaneers,away,0.665,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766361621,2025-12-22 00:00:21,Miami Dolphins,home,0.335,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766404812,2025-12-22 12:00:12,Tampa Bay Buccaneers,away,0.685,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766404821,2025-12-22 12:00:21,Miami Dolphins,home,0.315,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766448014,2025-12-23 00:00:14,Tampa Bay Buccaneers,away,0.69,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766448023,2025-12-23 00:00:23,Miami Dolphins,home,0.31,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766491215,2025-12-23 12:00:15,Tampa Bay Buccaneers,away,0.69,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766491226,2025-12-23 12:00:26,Miami Dolphins,home,0.31,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766534414,2025-12-24 00:00:14,Tampa Bay Buccaneers,away,0.685,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766534423,2025-12-24 00:00:23,Miami Dolphins,home,0.315,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766577613,2025-12-24 12:00:13,Tampa Bay Buccaneers,away,0.695,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766577623,2025-12-24 12:00:23,Miami Dolphins,home,0.305,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766620824,2025-12-25 00:00:24,Tampa Bay Buccaneers,away,0.695,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766620832,2025-12-25 00:00:32,Miami Dolphins,home,0.305,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766664014,2025-12-25 12:00:14,Tampa Bay Buccaneers,away,0.695,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766664024,2025-12-25 12:00:24,Miami Dolphins,home,0.305,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766707211,2025-12-26 00:00:11,Tampa Bay Buccaneers,away,0.7,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766707216,2025-12-26 00:00:16,Miami Dolphins,home,0.3,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766750413,2025-12-26 12:00:13,Tampa Bay Buccaneers,away,0.7,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766750420,2025-12-26 12:00:20,Miami Dolphins,home,0.3,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766793614,2025-12-27 00:00:14,Tampa Bay Buccaneers,away,0.69,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766793621,2025-12-27 00:00:21,Miami Dolphins,home,0.31,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766836814,2025-12-27 12:00:14,Tampa Bay Buccaneers,away,0.695,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766836821,2025-12-27 12:00:21,Miami Dolphins,home,0.305,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766880014,2025-12-28 00:00:14,Tampa Bay Buccaneers,away,0.695,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766880021,2025-12-28 00:00:21,Miami Dolphins,home,0.305,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766923214,2025-12-28 12:00:14,Tampa Bay Buccaneers,away,0.695,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins
+1766923222,2025-12-28 12:00:22,Miami Dolphins,home,0.305,17,2025-12-28,Tampa Bay Buccaneers,Miami Dolphins

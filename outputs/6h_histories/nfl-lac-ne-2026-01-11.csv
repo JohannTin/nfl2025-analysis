@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1767657627,2026-01-06 00:00:27,Los Angeles Chargers,away,0.35,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1767657627,2026-01-06 00:00:27,New England Patriots,home,0.65,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1767700826,2026-01-06 12:00:26,Los Angeles Chargers,away,0.355,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1767700826,2026-01-06 12:00:26,New England Patriots,home,0.645,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1767744025,2026-01-07 00:00:25,Los Angeles Chargers,away,0.35,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1767744025,2026-01-07 00:00:25,New England Patriots,home,0.65,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1767787230,2026-01-07 12:00:30,Los Angeles Chargers,away,0.35,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1767787230,2026-01-07 12:00:30,New England Patriots,home,0.65,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1767830441,2026-01-08 00:00:41,Los Angeles Chargers,away,0.345,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1767830442,2026-01-08 00:00:42,New England Patriots,home,0.655,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1767873652,2026-01-08 12:00:52,New England Patriots,home,0.645,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1767873653,2026-01-08 12:00:53,Los Angeles Chargers,away,0.355,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1767916826,2026-01-09 00:00:26,New England Patriots,home,0.645,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1767916826,2026-01-09 00:00:26,Los Angeles Chargers,away,0.355,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1767960040,2026-01-09 12:00:40,Los Angeles Chargers,away,0.355,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1767960040,2026-01-09 12:00:40,New England Patriots,home,0.645,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1768003227,2026-01-10 00:00:27,New England Patriots,home,0.635,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1768003227,2026-01-10 00:00:27,Los Angeles Chargers,away,0.365,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1768046432,2026-01-10 12:00:32,New England Patriots,home,0.645,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1768046432,2026-01-10 12:00:32,Los Angeles Chargers,away,0.355,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1768089623,2026-01-11 00:00:23,New England Patriots,home,0.645,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1768089623,2026-01-11 00:00:23,Los Angeles Chargers,away,0.355,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1768132823,2026-01-11 12:00:23,New England Patriots,home,0.635,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1768132823,2026-01-11 12:00:23,Los Angeles Chargers,away,0.365,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1768176025,2026-01-12 00:00:25,Los Angeles Chargers,away,0.355,WC,2026-01-11,Los Angeles Chargers,New England Patriots
+1768176026,2026-01-12 00:00:26,New England Patriots,home,0.645,WC,2026-01-11,Los Angeles Chargers,New England Patriots

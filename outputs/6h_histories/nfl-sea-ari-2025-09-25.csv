@@ -1,0 +1,21 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1758456012,2025-09-21 12:00:12,Seattle Seahawks,away,0.43,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758456014,2025-09-21 12:00:14,Arizona Cardinals,home,0.57,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758499209,2025-09-22 00:00:09,Seattle Seahawks,away,0.505,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758499210,2025-09-22 00:00:10,Arizona Cardinals,home,0.495,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758542402,2025-09-22 12:00:02,Seattle Seahawks,away,0.5,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758542405,2025-09-22 12:00:05,Arizona Cardinals,home,0.5,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758585604,2025-09-23 00:00:04,Seattle Seahawks,away,0.505,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758585605,2025-09-23 00:00:05,Arizona Cardinals,home,0.495,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758628827,2025-09-23 12:00:27,Arizona Cardinals,home,0.495,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758628828,2025-09-23 12:00:28,Seattle Seahawks,away,0.505,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758672004,2025-09-24 00:00:04,Arizona Cardinals,home,0.475,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758672017,2025-09-24 00:00:17,Seattle Seahawks,away,0.525,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758715204,2025-09-24 12:00:04,Seattle Seahawks,away,0.525,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758715206,2025-09-24 12:00:06,Arizona Cardinals,home,0.475,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758758408,2025-09-25 00:00:08,Arizona Cardinals,home,0.465,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758758408,2025-09-25 00:00:08,Seattle Seahawks,away,0.535,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758801610,2025-09-25 12:00:10,Seattle Seahawks,away,0.535,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758801616,2025-09-25 12:00:16,Arizona Cardinals,home,0.465,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758844807,2025-09-26 00:00:07,Seattle Seahawks,away,0.525,4,2025-09-25,Seattle Seahawks,Arizona Cardinals
+1758844811,2025-09-26 00:00:11,Arizona Cardinals,home,0.475,4,2025-09-25,Seattle Seahawks,Arizona Cardinals

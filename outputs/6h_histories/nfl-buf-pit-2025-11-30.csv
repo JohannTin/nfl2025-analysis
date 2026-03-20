@@ -1,0 +1,26 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028817,2025-11-25 00:00:17,Buffalo Bills,away,0.65,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764028827,2025-11-25 00:00:27,Pittsburgh Steelers,home,0.35,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764072023,2025-11-25 12:00:23,Buffalo Bills,away,0.65,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764072036,2025-11-25 12:00:36,Pittsburgh Steelers,home,0.35,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764115214,2025-11-26 00:00:14,Buffalo Bills,away,0.645,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764115221,2025-11-26 00:00:21,Pittsburgh Steelers,home,0.355,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764158437,2025-11-26 12:00:37,Buffalo Bills,away,0.64,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764158451,2025-11-26 12:00:51,Pittsburgh Steelers,home,0.36,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764201618,2025-11-27 00:00:18,Buffalo Bills,away,0.625,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764201627,2025-11-27 00:00:27,Pittsburgh Steelers,home,0.375,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764244827,2025-11-27 12:00:27,Buffalo Bills,away,0.63,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764244844,2025-11-27 12:00:44,Pittsburgh Steelers,home,0.37,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764288016,2025-11-28 00:00:16,Buffalo Bills,away,0.63,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764288025,2025-11-28 00:00:25,Pittsburgh Steelers,home,0.37,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764331226,2025-11-28 12:00:26,Buffalo Bills,away,0.635,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764331243,2025-11-28 12:00:43,Pittsburgh Steelers,home,0.365,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764374422,2025-11-29 00:00:22,Buffalo Bills,away,0.625,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764374435,2025-11-29 00:00:35,Pittsburgh Steelers,home,0.375,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764417627,2025-11-29 12:00:27,Buffalo Bills,away,0.625,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764417644,2025-11-29 12:00:44,Pittsburgh Steelers,home,0.375,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764460817,2025-11-30 00:00:17,Buffalo Bills,away,0.615,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764460826,2025-11-30 00:00:26,Pittsburgh Steelers,home,0.385,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764504051,2025-11-30 12:00:51,Buffalo Bills,away,0.605,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764547219,2025-12-01 00:00:19,Buffalo Bills,away,0.9925,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers
+1764547230,2025-12-01 00:00:30,Pittsburgh Steelers,home,0.0075,13,2025-11-30,Buffalo Bills,Pittsburgh Steelers

@@ -1,0 +1,21 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1756641613,2025-08-31 12:00:13,Dallas Cowboys,away,0.24,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756641625,2025-08-31 12:00:25,Philadelphia Eagles,home,0.76,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756684806,2025-09-01 00:00:06,Dallas Cowboys,away,0.24,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756684811,2025-09-01 00:00:11,Philadelphia Eagles,home,0.76,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756728002,2025-09-01 12:00:02,Philadelphia Eagles,home,0.76,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756728019,2025-09-01 12:00:19,Dallas Cowboys,away,0.24,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756771207,2025-09-02 00:00:07,Philadelphia Eagles,home,0.795,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756771215,2025-09-02 00:00:15,Dallas Cowboys,away,0.205,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756814423,2025-09-02 12:00:23,Philadelphia Eagles,home,0.785,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756814425,2025-09-02 12:00:25,Dallas Cowboys,away,0.215,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756857610,2025-09-03 00:00:10,Philadelphia Eagles,home,0.795,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756857612,2025-09-03 00:00:12,Dallas Cowboys,away,0.205,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756900805,2025-09-03 12:00:05,Philadelphia Eagles,home,0.795,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756900819,2025-09-03 12:00:19,Dallas Cowboys,away,0.205,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756944008,2025-09-04 00:00:08,Dallas Cowboys,away,0.215,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756944013,2025-09-04 00:00:13,Philadelphia Eagles,home,0.785,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756987202,2025-09-04 12:00:02,Dallas Cowboys,away,0.21,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1756987229,2025-09-04 12:00:29,Philadelphia Eagles,home,0.79,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1757030405,2025-09-05 00:00:05,Dallas Cowboys,away,0.215,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles
+1757030406,2025-09-05 00:00:06,Philadelphia Eagles,home,0.785,1,2025-09-04,Dallas Cowboys,Philadelphia Eagles

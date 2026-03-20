@@ -1,0 +1,29 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1761480017,2025-10-26 12:00:17,Green Bay Packers,home,0.47,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761480033,2025-10-26 12:00:33,Carolina Panthers,away,0.53,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761523213,2025-10-27 00:00:13,Green Bay Packers,home,0.84,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761523221,2025-10-27 00:00:21,Carolina Panthers,away,0.16,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761566415,2025-10-27 12:00:15,Green Bay Packers,home,0.785,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761566427,2025-10-27 12:00:27,Carolina Panthers,away,0.215,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761609615,2025-10-28 00:00:15,Green Bay Packers,home,0.865,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761609626,2025-10-28 00:00:26,Carolina Panthers,away,0.135,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761652814,2025-10-28 12:00:14,Green Bay Packers,home,0.865,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761652827,2025-10-28 12:00:27,Carolina Panthers,away,0.135,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761696015,2025-10-29 00:00:15,Green Bay Packers,home,0.875,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761696025,2025-10-29 00:00:25,Carolina Panthers,away,0.125,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761782415,2025-10-30 00:00:15,Green Bay Packers,home,0.885,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761782425,2025-10-30 00:00:25,Carolina Panthers,away,0.115,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761825616,2025-10-30 12:00:16,Green Bay Packers,home,0.885,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761825631,2025-10-30 12:00:31,Carolina Panthers,away,0.115,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761868810,2025-10-31 00:00:10,Green Bay Packers,home,0.885,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761868816,2025-10-31 00:00:16,Carolina Panthers,away,0.115,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761912016,2025-10-31 12:00:16,Green Bay Packers,home,0.875,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761912030,2025-10-31 12:00:30,Carolina Panthers,away,0.125,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761955214,2025-11-01 00:00:14,Green Bay Packers,home,0.885,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761955225,2025-11-01 00:00:25,Carolina Panthers,away,0.115,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761998418,2025-11-01 12:00:18,Green Bay Packers,home,0.885,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1761998434,2025-11-01 12:00:34,Carolina Panthers,away,0.115,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1762041612,2025-11-02 00:00:12,Green Bay Packers,home,0.875,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1762041619,2025-11-02 00:00:19,Carolina Panthers,away,0.125,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1762084815,2025-11-02 12:00:15,Green Bay Packers,home,0.875,9,2025-11-02,Carolina Panthers,Green Bay Packers
+1762084830,2025-11-02 12:00:30,Carolina Panthers,away,0.125,9,2025-11-02,Carolina Panthers,Green Bay Packers

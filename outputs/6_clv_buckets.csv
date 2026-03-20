@@ -1,0 +1,7 @@
+move_bucket,n,away_cover_rate,sharp_cover_rate
+Sharp away >3pt,26,0.5,0.5
+Sharp away 1-3pt,40,0.65,0.65
+Slight away <1pt,67,0.47761194029850745,0.5223880597014925
+Slight home <1pt,78,0.5,0.5
+Sharp home 1-3pt,49,0.40816326530612246,0.5918367346938775
+Sharp home >3pt,21,0.3333333333333333,0.6666666666666667

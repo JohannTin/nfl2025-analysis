@@ -1,0 +1,25 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1763424006,2025-11-18 00:00:06,Kansas City Chiefs,home,0.51,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763424009,2025-11-18 00:00:09,Indianapolis Colts,away,0.49,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763467208,2025-11-18 12:00:08,Kansas City Chiefs,home,0.53,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763467212,2025-11-18 12:00:12,Indianapolis Colts,away,0.47,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763510409,2025-11-19 00:00:09,Kansas City Chiefs,home,0.49,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763510412,2025-11-19 00:00:12,Indianapolis Colts,away,0.51,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763553610,2025-11-19 12:00:10,Kansas City Chiefs,home,0.47,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763553614,2025-11-19 12:00:14,Indianapolis Colts,away,0.53,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763596806,2025-11-20 00:00:06,Kansas City Chiefs,home,0.505,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763596809,2025-11-20 00:00:09,Indianapolis Colts,away,0.495,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763640007,2025-11-20 12:00:07,Kansas City Chiefs,home,0.55,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763640009,2025-11-20 12:00:09,Indianapolis Colts,away,0.45,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763683208,2025-11-21 00:00:08,Kansas City Chiefs,home,0.495,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763683212,2025-11-21 00:00:12,Indianapolis Colts,away,0.505,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763726407,2025-11-21 12:00:07,Kansas City Chiefs,home,0.445,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763726409,2025-11-21 12:00:09,Indianapolis Colts,away,0.555,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763769607,2025-11-22 00:00:07,Kansas City Chiefs,home,0.495,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763769610,2025-11-22 00:00:10,Indianapolis Colts,away,0.505,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763812807,2025-11-22 12:00:07,Kansas City Chiefs,home,0.5,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763812810,2025-11-22 12:00:10,Indianapolis Colts,away,0.5,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763856007,2025-11-23 00:00:07,Kansas City Chiefs,home,0.5,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763856010,2025-11-23 00:00:10,Indianapolis Colts,away,0.5,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763899207,2025-11-23 12:00:07,Kansas City Chiefs,home,0.59,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs
+1763899209,2025-11-23 12:00:09,Indianapolis Colts,away,0.41,12,2025-11-23,Indianapolis Colts,Kansas City Chiefs

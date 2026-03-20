@@ -1,0 +1,25 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1763424010,2025-11-18 00:00:10,New York Jets,away,0.505,12,2025-11-23,New York Jets,Baltimore Ravens
+1763424020,2025-11-18 00:00:20,Baltimore Ravens,home,0.495,12,2025-11-23,New York Jets,Baltimore Ravens
+1763467215,2025-11-18 12:00:15,New York Jets,away,0.405,12,2025-11-23,New York Jets,Baltimore Ravens
+1763467235,2025-11-18 12:00:35,Baltimore Ravens,home,0.595,12,2025-11-23,New York Jets,Baltimore Ravens
+1763510414,2025-11-19 00:00:14,New York Jets,away,0.515,12,2025-11-23,New York Jets,Baltimore Ravens
+1763510431,2025-11-19 00:00:31,Baltimore Ravens,home,0.485,12,2025-11-23,New York Jets,Baltimore Ravens
+1763553617,2025-11-19 12:00:17,New York Jets,away,0.485,12,2025-11-23,New York Jets,Baltimore Ravens
+1763553640,2025-11-19 12:00:40,Baltimore Ravens,home,0.515,12,2025-11-23,New York Jets,Baltimore Ravens
+1763596810,2025-11-20 00:00:10,New York Jets,away,0.525,12,2025-11-23,New York Jets,Baltimore Ravens
+1763596819,2025-11-20 00:00:19,Baltimore Ravens,home,0.475,12,2025-11-23,New York Jets,Baltimore Ravens
+1763640010,2025-11-20 12:00:10,New York Jets,away,0.475,12,2025-11-23,New York Jets,Baltimore Ravens
+1763640021,2025-11-20 12:00:21,Baltimore Ravens,home,0.525,12,2025-11-23,New York Jets,Baltimore Ravens
+1763683214,2025-11-21 00:00:14,New York Jets,away,0.47,12,2025-11-23,New York Jets,Baltimore Ravens
+1763683234,2025-11-21 00:00:34,Baltimore Ravens,home,0.53,12,2025-11-23,New York Jets,Baltimore Ravens
+1763726410,2025-11-21 12:00:10,New York Jets,away,0.545,12,2025-11-23,New York Jets,Baltimore Ravens
+1763726421,2025-11-21 12:00:21,Baltimore Ravens,home,0.455,12,2025-11-23,New York Jets,Baltimore Ravens
+1763769610,2025-11-22 00:00:10,New York Jets,away,0.19,12,2025-11-23,New York Jets,Baltimore Ravens
+1763769620,2025-11-22 00:00:20,Baltimore Ravens,home,0.81,12,2025-11-23,New York Jets,Baltimore Ravens
+1763812811,2025-11-22 12:00:11,New York Jets,away,0.185,12,2025-11-23,New York Jets,Baltimore Ravens
+1763812820,2025-11-22 12:00:20,Baltimore Ravens,home,0.815,12,2025-11-23,New York Jets,Baltimore Ravens
+1763856011,2025-11-23 00:00:11,New York Jets,away,0.205,12,2025-11-23,New York Jets,Baltimore Ravens
+1763856022,2025-11-23 00:00:22,Baltimore Ravens,home,0.795,12,2025-11-23,New York Jets,Baltimore Ravens
+1763899210,2025-11-23 12:00:10,New York Jets,away,0.22,12,2025-11-23,New York Jets,Baltimore Ravens
+1763899220,2025-11-23 12:00:20,Baltimore Ravens,home,0.78,12,2025-11-23,New York Jets,Baltimore Ravens

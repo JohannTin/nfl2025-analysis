@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1756641606,2025-08-31 12:00:06,Detroit Lions,away,0.44,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756641630,2025-08-31 12:00:30,Green Bay Packers,home,0.56,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756684805,2025-09-01 00:00:05,Detroit Lions,away,0.44,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756684812,2025-09-01 00:00:12,Green Bay Packers,home,0.56,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756728010,2025-09-01 12:00:10,Green Bay Packers,home,0.56,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756728013,2025-09-01 12:00:13,Detroit Lions,away,0.44,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756771209,2025-09-02 00:00:09,Green Bay Packers,home,0.57,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756771211,2025-09-02 00:00:11,Detroit Lions,away,0.43,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756814414,2025-09-02 12:00:14,Green Bay Packers,home,0.565,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756814420,2025-09-02 12:00:20,Detroit Lions,away,0.435,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756857604,2025-09-03 00:00:04,Green Bay Packers,home,0.555,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756857608,2025-09-03 00:00:08,Detroit Lions,away,0.445,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756900811,2025-09-03 12:00:11,Green Bay Packers,home,0.545,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756900816,2025-09-03 12:00:16,Detroit Lions,away,0.455,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756944003,2025-09-04 00:00:03,Green Bay Packers,home,0.55,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756944006,2025-09-04 00:00:06,Detroit Lions,away,0.45,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756987211,2025-09-04 12:00:11,Detroit Lions,away,0.46,1,2025-09-07,Detroit Lions,Green Bay Packers
+1756987215,2025-09-04 12:00:15,Green Bay Packers,home,0.54,1,2025-09-07,Detroit Lions,Green Bay Packers
+1757030407,2025-09-05 00:00:07,Detroit Lions,away,0.46,1,2025-09-07,Detroit Lions,Green Bay Packers
+1757030412,2025-09-05 00:00:12,Green Bay Packers,home,0.54,1,2025-09-07,Detroit Lions,Green Bay Packers
+1757073620,2025-09-05 12:00:20,Detroit Lions,away,0.455,1,2025-09-07,Detroit Lions,Green Bay Packers
+1757073622,2025-09-05 12:00:22,Green Bay Packers,home,0.545,1,2025-09-07,Detroit Lions,Green Bay Packers
+1757116805,2025-09-06 00:00:05,Detroit Lions,away,0.46,1,2025-09-07,Detroit Lions,Green Bay Packers
+1757116808,2025-09-06 00:00:08,Green Bay Packers,home,0.54,1,2025-09-07,Detroit Lions,Green Bay Packers
+1757160005,2025-09-06 12:00:05,Detroit Lions,away,0.46,1,2025-09-07,Detroit Lions,Green Bay Packers
+1757160023,2025-09-06 12:00:23,Green Bay Packers,home,0.54,1,2025-09-07,Detroit Lions,Green Bay Packers
+1757203203,2025-09-07 00:00:03,Detroit Lions,away,0.465,1,2025-09-07,Detroit Lions,Green Bay Packers
+1757203212,2025-09-07 00:00:12,Green Bay Packers,home,0.535,1,2025-09-07,Detroit Lions,Green Bay Packers
+1757246408,2025-09-07 12:00:08,Green Bay Packers,home,0.535,1,2025-09-07,Detroit Lions,Green Bay Packers
+1757246425,2025-09-07 12:00:25,Detroit Lions,away,0.465,1,2025-09-07,Detroit Lions,Green Bay Packers
+1757289606,2025-09-08 00:00:06,Detroit Lions,away,0.0005,1,2025-09-07,Detroit Lions,Green Bay Packers
+1757289617,2025-09-08 00:00:17,Green Bay Packers,home,0.9995,1,2025-09-07,Detroit Lions,Green Bay Packers

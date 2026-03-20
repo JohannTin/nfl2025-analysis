@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1757332810,2025-09-08 12:00:10,Tampa Bay Buccaneers,away,0.45,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757332826,2025-09-08 12:00:26,Houston Texans,home,0.55,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757376003,2025-09-09 00:00:03,Tampa Bay Buccaneers,away,0.435,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757376011,2025-09-09 00:00:11,Houston Texans,home,0.565,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757419209,2025-09-09 12:00:09,Tampa Bay Buccaneers,away,0.435,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757419216,2025-09-09 12:00:16,Houston Texans,home,0.565,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757462404,2025-09-10 00:00:04,Houston Texans,home,0.565,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757462415,2025-09-10 00:00:15,Tampa Bay Buccaneers,away,0.435,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757505609,2025-09-10 12:00:09,Houston Texans,home,0.565,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757505625,2025-09-10 12:00:25,Tampa Bay Buccaneers,away,0.435,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757548811,2025-09-11 00:00:11,Houston Texans,home,0.57,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757548814,2025-09-11 00:00:14,Tampa Bay Buccaneers,away,0.43,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757592002,2025-09-11 12:00:02,Houston Texans,home,0.57,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757592033,2025-09-11 12:00:33,Tampa Bay Buccaneers,away,0.43,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757635220,2025-09-12 00:00:20,Tampa Bay Buccaneers,away,0.435,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757635221,2025-09-12 00:00:21,Houston Texans,home,0.565,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757678432,2025-09-12 12:00:32,Houston Texans,home,0.565,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757678432,2025-09-12 12:00:32,Tampa Bay Buccaneers,away,0.435,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757721609,2025-09-13 00:00:09,Tampa Bay Buccaneers,away,0.42,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757721609,2025-09-13 00:00:09,Houston Texans,home,0.58,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757764808,2025-09-13 12:00:08,Tampa Bay Buccaneers,away,0.425,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757764828,2025-09-13 12:00:28,Houston Texans,home,0.575,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757808009,2025-09-14 00:00:09,Tampa Bay Buccaneers,away,0.42,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757808019,2025-09-14 00:00:19,Houston Texans,home,0.58,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757851210,2025-09-14 12:00:10,Tampa Bay Buccaneers,away,0.425,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757851226,2025-09-14 12:00:26,Houston Texans,home,0.575,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757894408,2025-09-15 00:00:08,Tampa Bay Buccaneers,away,0.425,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757894413,2025-09-15 00:00:13,Houston Texans,home,0.575,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757937614,2025-09-15 12:00:14,Houston Texans,home,0.565,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757937627,2025-09-15 12:00:27,Tampa Bay Buccaneers,away,0.435,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757980808,2025-09-16 00:00:08,Tampa Bay Buccaneers,away,0.63,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans
+1757980814,2025-09-16 00:00:14,Houston Texans,home,0.37,2,2025-09-15,Tampa Bay Buccaneers,Houston Texans

@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1758456012,2025-09-21 12:00:12,San Francisco 49ers,home,0.64,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758456015,2025-09-21 12:00:15,Jacksonville Jaguars,away,0.36,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758499209,2025-09-22 00:00:09,San Francisco 49ers,home,0.645,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758499213,2025-09-22 00:00:13,Jacksonville Jaguars,away,0.355,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758542406,2025-09-22 12:00:06,San Francisco 49ers,home,0.65,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758542417,2025-09-22 12:00:17,Jacksonville Jaguars,away,0.35,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758585606,2025-09-23 00:00:06,San Francisco 49ers,home,0.625,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758585609,2025-09-23 00:00:09,Jacksonville Jaguars,away,0.375,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758628812,2025-09-23 12:00:12,San Francisco 49ers,home,0.62,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758628827,2025-09-23 12:00:27,Jacksonville Jaguars,away,0.38,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758672011,2025-09-24 00:00:11,San Francisco 49ers,home,0.61,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758672015,2025-09-24 00:00:15,Jacksonville Jaguars,away,0.39,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758715207,2025-09-24 12:00:07,Jacksonville Jaguars,away,0.385,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758715216,2025-09-24 12:00:16,San Francisco 49ers,home,0.615,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758758407,2025-09-25 00:00:07,San Francisco 49ers,home,0.615,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758758409,2025-09-25 00:00:09,Jacksonville Jaguars,away,0.385,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758801605,2025-09-25 12:00:05,Jacksonville Jaguars,away,0.385,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758801610,2025-09-25 12:00:10,San Francisco 49ers,home,0.615,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758844806,2025-09-26 00:00:06,San Francisco 49ers,home,0.615,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758844815,2025-09-26 00:00:15,Jacksonville Jaguars,away,0.385,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758888013,2025-09-26 12:00:13,Jacksonville Jaguars,away,0.375,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758888014,2025-09-26 12:00:14,San Francisco 49ers,home,0.625,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758931208,2025-09-27 00:00:08,Jacksonville Jaguars,away,0.375,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758931208,2025-09-27 00:00:08,San Francisco 49ers,home,0.625,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758974413,2025-09-27 12:00:13,San Francisco 49ers,home,0.625,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1758974413,2025-09-27 12:00:13,Jacksonville Jaguars,away,0.375,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1759017611,2025-09-28 00:00:11,Jacksonville Jaguars,away,0.385,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1759017612,2025-09-28 00:00:12,San Francisco 49ers,home,0.615,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1759060811,2025-09-28 12:00:11,Jacksonville Jaguars,away,0.385,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1759060817,2025-09-28 12:00:17,San Francisco 49ers,home,0.615,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1759104008,2025-09-29 00:00:08,Jacksonville Jaguars,away,0.9995,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers
+1759104010,2025-09-29 00:00:10,San Francisco 49ers,home,0.0005,4,2025-09-28,Jacksonville Jaguars,San Francisco 49ers

@@ -1,0 +1,25 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765238420,2025-12-09 00:00:20,New England Patriots,home,0.48,15,2025-12-14,Buffalo Bills,New England Patriots
+1765238432,2025-12-09 00:00:32,Buffalo Bills,away,0.52,15,2025-12-14,Buffalo Bills,New England Patriots
+1765281609,2025-12-09 12:00:09,New England Patriots,home,0.475,15,2025-12-14,Buffalo Bills,New England Patriots
+1765281621,2025-12-09 12:00:21,Buffalo Bills,away,0.53,15,2025-12-14,Buffalo Bills,New England Patriots
+1765324810,2025-12-10 00:00:10,New England Patriots,home,0.48,15,2025-12-14,Buffalo Bills,New England Patriots
+1765324818,2025-12-10 00:00:18,Buffalo Bills,away,0.52,15,2025-12-14,Buffalo Bills,New England Patriots
+1765368013,2025-12-10 12:00:13,New England Patriots,home,0.54,15,2025-12-14,Buffalo Bills,New England Patriots
+1765368039,2025-12-10 12:00:39,Buffalo Bills,away,0.46,15,2025-12-14,Buffalo Bills,New England Patriots
+1765411210,2025-12-11 00:00:10,New England Patriots,home,0.72,15,2025-12-14,Buffalo Bills,New England Patriots
+1765411219,2025-12-11 00:00:19,Buffalo Bills,away,0.28,15,2025-12-14,Buffalo Bills,New England Patriots
+1765454411,2025-12-11 12:00:11,New England Patriots,home,0.72,15,2025-12-14,Buffalo Bills,New England Patriots
+1765454422,2025-12-11 12:00:22,Buffalo Bills,away,0.28,15,2025-12-14,Buffalo Bills,New England Patriots
+1765497609,2025-12-12 00:00:09,New England Patriots,home,0.72,15,2025-12-14,Buffalo Bills,New England Patriots
+1765497620,2025-12-12 00:00:20,Buffalo Bills,away,0.28,15,2025-12-14,Buffalo Bills,New England Patriots
+1765540810,2025-12-12 12:00:10,New England Patriots,home,0.595,15,2025-12-14,Buffalo Bills,New England Patriots
+1765540823,2025-12-12 12:00:23,Buffalo Bills,away,0.405,15,2025-12-14,Buffalo Bills,New England Patriots
+1765584011,2025-12-13 00:00:11,New England Patriots,home,0.59,15,2025-12-14,Buffalo Bills,New England Patriots
+1765584023,2025-12-13 00:00:23,Buffalo Bills,away,0.41,15,2025-12-14,Buffalo Bills,New England Patriots
+1765627211,2025-12-13 12:00:11,New England Patriots,home,0.55,15,2025-12-14,Buffalo Bills,New England Patriots
+1765627225,2025-12-13 12:00:25,Buffalo Bills,away,0.45,15,2025-12-14,Buffalo Bills,New England Patriots
+1765670411,2025-12-14 00:00:11,New England Patriots,home,0.49,15,2025-12-14,Buffalo Bills,New England Patriots
+1765670424,2025-12-14 00:00:24,Buffalo Bills,away,0.51,15,2025-12-14,Buffalo Bills,New England Patriots
+1765713610,2025-12-14 12:00:10,New England Patriots,home,0.47,15,2025-12-14,Buffalo Bills,New England Patriots
+1765713624,2025-12-14 12:00:24,Buffalo Bills,away,0.53,15,2025-12-14,Buffalo Bills,New England Patriots

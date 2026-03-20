@@ -1,0 +1,21 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1762689616,2025-11-09 12:00:16,New York Jets,away,0.545,11,2025-11-13,New York Jets,New England Patriots
+1762689618,2025-11-09 12:00:18,New England Patriots,home,0.455,11,2025-11-13,New York Jets,New England Patriots
+1762732810,2025-11-10 00:00:10,New York Jets,away,0.155,11,2025-11-13,New York Jets,New England Patriots
+1762732811,2025-11-10 00:00:11,New England Patriots,home,0.845,11,2025-11-13,New York Jets,New England Patriots
+1762776016,2025-11-10 12:00:16,New York Jets,away,0.15,11,2025-11-13,New York Jets,New England Patriots
+1762776018,2025-11-10 12:00:18,New England Patriots,home,0.85,11,2025-11-13,New York Jets,New England Patriots
+1762819216,2025-11-11 00:00:16,New York Jets,away,0.145,11,2025-11-13,New York Jets,New England Patriots
+1762819217,2025-11-11 00:00:17,New England Patriots,home,0.855,11,2025-11-13,New York Jets,New England Patriots
+1762862432,2025-11-11 12:00:32,New York Jets,away,0.145,11,2025-11-13,New York Jets,New England Patriots
+1762862434,2025-11-11 12:00:34,New England Patriots,home,0.855,11,2025-11-13,New York Jets,New England Patriots
+1762905614,2025-11-12 00:00:14,New York Jets,away,0.145,11,2025-11-13,New York Jets,New England Patriots
+1762905615,2025-11-12 00:00:15,New England Patriots,home,0.855,11,2025-11-13,New York Jets,New England Patriots
+1762948818,2025-11-12 12:00:18,New York Jets,away,0.145,11,2025-11-13,New York Jets,New England Patriots
+1762948820,2025-11-12 12:00:20,New England Patriots,home,0.855,11,2025-11-13,New York Jets,New England Patriots
+1762992014,2025-11-13 00:00:14,New York Jets,away,0.145,11,2025-11-13,New York Jets,New England Patriots
+1762992015,2025-11-13 00:00:15,New England Patriots,home,0.855,11,2025-11-13,New York Jets,New England Patriots
+1763035220,2025-11-13 12:00:20,New York Jets,away,0.145,11,2025-11-13,New York Jets,New England Patriots
+1763035221,2025-11-13 12:00:21,New England Patriots,home,0.855,11,2025-11-13,New York Jets,New England Patriots
+1763078413,2025-11-14 00:00:13,New York Jets,away,0.155,11,2025-11-13,New York Jets,New England Patriots
+1763078415,2025-11-14 00:00:15,New England Patriots,home,0.845,11,2025-11-13,New York Jets,New England Patriots

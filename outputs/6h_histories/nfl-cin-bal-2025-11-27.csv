@@ -1,0 +1,15 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028805,2025-11-25 00:00:05,Baltimore Ravens,home,0.735,13,2025-11-27,Cincinnati Bengals,Baltimore Ravens
+1764028812,2025-11-25 00:00:12,Cincinnati Bengals,away,0.265,13,2025-11-27,Cincinnati Bengals,Baltimore Ravens
+1764072005,2025-11-25 12:00:05,Baltimore Ravens,home,0.73,13,2025-11-27,Cincinnati Bengals,Baltimore Ravens
+1764072015,2025-11-25 12:00:15,Cincinnati Bengals,away,0.27,13,2025-11-27,Cincinnati Bengals,Baltimore Ravens
+1764115206,2025-11-26 00:00:06,Baltimore Ravens,home,0.74,13,2025-11-27,Cincinnati Bengals,Baltimore Ravens
+1764115211,2025-11-26 00:00:11,Cincinnati Bengals,away,0.26,13,2025-11-27,Cincinnati Bengals,Baltimore Ravens
+1764158419,2025-11-26 12:00:19,Baltimore Ravens,home,0.74,13,2025-11-27,Cincinnati Bengals,Baltimore Ravens
+1764158430,2025-11-26 12:00:30,Cincinnati Bengals,away,0.26,13,2025-11-27,Cincinnati Bengals,Baltimore Ravens
+1764201605,2025-11-27 00:00:05,Baltimore Ravens,home,0.755,13,2025-11-27,Cincinnati Bengals,Baltimore Ravens
+1764201613,2025-11-27 00:00:13,Cincinnati Bengals,away,0.245,13,2025-11-27,Cincinnati Bengals,Baltimore Ravens
+1764244805,2025-11-27 12:00:05,Baltimore Ravens,home,0.755,13,2025-11-27,Cincinnati Bengals,Baltimore Ravens
+1764244818,2025-11-27 12:00:18,Cincinnati Bengals,away,0.245,13,2025-11-27,Cincinnati Bengals,Baltimore Ravens
+1764288006,2025-11-28 00:00:06,Baltimore Ravens,home,0.775,13,2025-11-27,Cincinnati Bengals,Baltimore Ravens
+1764288013,2025-11-28 00:00:13,Cincinnati Bengals,away,0.225,13,2025-11-27,Cincinnati Bengals,Baltimore Ravens

@@ -1,0 +1,55 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028811,2025-11-25 00:00:11,Arizona Cardinals,home,0.5,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764028820,2025-11-25 00:00:20,Los Angeles Rams,away,0.5,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764072014,2025-11-25 12:00:14,Arizona Cardinals,home,0.495,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764072026,2025-11-25 12:00:26,Los Angeles Rams,away,0.505,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764115210,2025-11-26 00:00:10,Arizona Cardinals,home,0.38,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764115216,2025-11-26 00:00:16,Los Angeles Rams,away,0.62,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764158428,2025-11-26 12:00:28,Arizona Cardinals,home,0.445,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764158441,2025-11-26 12:00:41,Los Angeles Rams,away,0.555,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764201611,2025-11-27 00:00:11,Arizona Cardinals,home,0.5,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764201620,2025-11-27 00:00:20,Los Angeles Rams,away,0.5,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764244816,2025-11-27 12:00:16,Arizona Cardinals,home,0.205,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764244831,2025-11-27 12:00:31,Los Angeles Rams,away,0.795,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764288011,2025-11-28 00:00:11,Arizona Cardinals,home,0.515,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764288019,2025-11-28 00:00:19,Los Angeles Rams,away,0.485,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764331215,2025-11-28 12:00:15,Arizona Cardinals,home,0.495,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764331230,2025-11-28 12:00:30,Los Angeles Rams,away,0.505,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764374414,2025-11-29 00:00:14,Arizona Cardinals,home,0.395,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764374426,2025-11-29 00:00:26,Los Angeles Rams,away,0.605,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764417616,2025-11-29 12:00:16,Arizona Cardinals,home,0.515,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764417632,2025-11-29 12:00:32,Los Angeles Rams,away,0.485,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764460811,2025-11-30 00:00:11,Arizona Cardinals,home,0.345,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764460819,2025-11-30 00:00:19,Los Angeles Rams,away,0.655,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764504042,2025-11-30 12:00:42,Arizona Cardinals,home,0.21,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764504056,2025-11-30 12:00:56,Los Angeles Rams,away,0.79,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764547212,2025-12-01 00:00:12,Arizona Cardinals,home,0.215,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764547222,2025-12-01 00:00:22,Los Angeles Rams,away,0.785,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764590424,2025-12-01 12:00:24,Arizona Cardinals,home,0.22,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764590437,2025-12-01 12:00:37,Los Angeles Rams,away,0.78,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764633609,2025-12-02 00:00:09,Arizona Cardinals,home,0.22,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764633615,2025-12-02 00:00:15,Los Angeles Rams,away,0.78,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764676815,2025-12-02 12:00:15,Arizona Cardinals,home,0.225,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764676827,2025-12-02 12:00:27,Los Angeles Rams,away,0.775,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764720013,2025-12-03 00:00:13,Arizona Cardinals,home,0.23,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764720022,2025-12-03 00:00:22,Los Angeles Rams,away,0.77,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764763216,2025-12-03 12:00:16,Arizona Cardinals,home,0.225,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764763230,2025-12-03 12:00:30,Los Angeles Rams,away,0.775,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764806410,2025-12-04 00:00:10,Arizona Cardinals,home,0.22,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764806415,2025-12-04 00:00:15,Los Angeles Rams,away,0.78,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764849615,2025-12-04 12:00:15,Arizona Cardinals,home,0.215,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764849631,2025-12-04 12:00:31,Los Angeles Rams,away,0.785,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764892811,2025-12-05 00:00:11,Arizona Cardinals,home,0.21,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764892817,2025-12-05 00:00:17,Los Angeles Rams,away,0.79,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764936011,2025-12-05 12:00:11,Arizona Cardinals,home,0.21,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764936019,2025-12-05 12:00:19,Los Angeles Rams,away,0.79,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764979211,2025-12-06 00:00:11,Arizona Cardinals,home,0.21,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1764979218,2025-12-06 00:00:18,Los Angeles Rams,away,0.79,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1765022412,2025-12-06 12:00:12,Arizona Cardinals,home,0.21,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1765022419,2025-12-06 12:00:19,Los Angeles Rams,away,0.79,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1765065624,2025-12-07 00:00:24,Arizona Cardinals,home,0.185,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1765065630,2025-12-07 00:00:30,Los Angeles Rams,away,0.815,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1765108812,2025-12-07 12:00:12,Arizona Cardinals,home,0.185,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1765108821,2025-12-07 12:00:21,Los Angeles Rams,away,0.815,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1765152023,2025-12-08 00:00:23,Arizona Cardinals,home,0.0005,14,2025-12-07,Los Angeles Rams,Arizona Cardinals
+1765152029,2025-12-08 00:00:29,Los Angeles Rams,away,0.9995,14,2025-12-07,Los Angeles Rams,Arizona Cardinals

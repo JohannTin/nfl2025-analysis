@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1759060803,2025-09-28 12:00:03,New York Jets,home,0.465,5,2025-10-05,Dallas Cowboys,New York Jets
+1759060815,2025-09-28 12:00:15,Dallas Cowboys,away,0.535,5,2025-10-05,Dallas Cowboys,New York Jets
+1759104005,2025-09-29 00:00:05,New York Jets,home,0.465,5,2025-10-05,Dallas Cowboys,New York Jets
+1759104009,2025-09-29 00:00:09,Dallas Cowboys,away,0.535,5,2025-10-05,Dallas Cowboys,New York Jets
+1759147212,2025-09-29 12:00:12,Dallas Cowboys,away,0.57,5,2025-10-05,Dallas Cowboys,New York Jets
+1759147216,2025-09-29 12:00:16,New York Jets,home,0.43,5,2025-10-05,Dallas Cowboys,New York Jets
+1759190407,2025-09-30 00:00:07,Dallas Cowboys,away,0.56,5,2025-10-05,Dallas Cowboys,New York Jets
+1759190408,2025-09-30 00:00:08,New York Jets,home,0.44,5,2025-10-05,Dallas Cowboys,New York Jets
+1759233603,2025-09-30 12:00:03,Dallas Cowboys,away,0.585,5,2025-10-05,Dallas Cowboys,New York Jets
+1759233605,2025-09-30 12:00:05,New York Jets,home,0.415,5,2025-10-05,Dallas Cowboys,New York Jets
+1759276804,2025-10-01 00:00:04,Dallas Cowboys,away,0.565,5,2025-10-05,Dallas Cowboys,New York Jets
+1759276804,2025-10-01 00:00:04,New York Jets,home,0.435,5,2025-10-05,Dallas Cowboys,New York Jets
+1759320007,2025-10-01 12:00:07,New York Jets,home,0.445,5,2025-10-05,Dallas Cowboys,New York Jets
+1759320014,2025-10-01 12:00:14,Dallas Cowboys,away,0.555,5,2025-10-05,Dallas Cowboys,New York Jets
+1759363203,2025-10-02 00:00:03,New York Jets,home,0.435,5,2025-10-05,Dallas Cowboys,New York Jets
+1759363208,2025-10-02 00:00:08,Dallas Cowboys,away,0.565,5,2025-10-05,Dallas Cowboys,New York Jets
+1759406407,2025-10-02 12:00:07,Dallas Cowboys,away,0.565,5,2025-10-05,Dallas Cowboys,New York Jets
+1759406414,2025-10-02 12:00:14,New York Jets,home,0.435,5,2025-10-05,Dallas Cowboys,New York Jets
+1759449605,2025-10-03 00:00:05,New York Jets,home,0.445,5,2025-10-05,Dallas Cowboys,New York Jets
+1759449611,2025-10-03 00:00:11,Dallas Cowboys,away,0.555,5,2025-10-05,Dallas Cowboys,New York Jets
+1759492804,2025-10-03 12:00:04,New York Jets,home,0.445,5,2025-10-05,Dallas Cowboys,New York Jets
+1759492813,2025-10-03 12:00:13,Dallas Cowboys,away,0.555,5,2025-10-05,Dallas Cowboys,New York Jets
+1759536007,2025-10-04 00:00:07,Dallas Cowboys,away,0.535,5,2025-10-05,Dallas Cowboys,New York Jets
+1759536010,2025-10-04 00:00:10,New York Jets,home,0.465,5,2025-10-05,Dallas Cowboys,New York Jets
+1759579205,2025-10-04 12:00:05,New York Jets,home,0.465,5,2025-10-05,Dallas Cowboys,New York Jets
+1759579214,2025-10-04 12:00:14,Dallas Cowboys,away,0.535,5,2025-10-05,Dallas Cowboys,New York Jets
+1759622404,2025-10-05 00:00:04,Dallas Cowboys,away,0.525,5,2025-10-05,Dallas Cowboys,New York Jets
+1759622407,2025-10-05 00:00:07,New York Jets,home,0.475,5,2025-10-05,Dallas Cowboys,New York Jets
+1759665603,2025-10-05 12:00:03,Dallas Cowboys,away,0.525,5,2025-10-05,Dallas Cowboys,New York Jets
+1759665607,2025-10-05 12:00:07,New York Jets,home,0.475,5,2025-10-05,Dallas Cowboys,New York Jets

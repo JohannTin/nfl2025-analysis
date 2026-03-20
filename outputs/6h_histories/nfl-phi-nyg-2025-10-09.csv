@@ -1,0 +1,21 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1759665604,2025-10-05 12:00:04,Philadelphia Eagles,away,0.77,6,2025-10-09,Philadelphia Eagles,New York Giants
+1759665610,2025-10-05 12:00:10,New York Giants,home,0.23,6,2025-10-09,Philadelphia Eagles,New York Giants
+1759708806,2025-10-06 00:00:06,New York Giants,home,0.225,6,2025-10-09,Philadelphia Eagles,New York Giants
+1759708808,2025-10-06 00:00:08,Philadelphia Eagles,away,0.775,6,2025-10-09,Philadelphia Eagles,New York Giants
+1759752007,2025-10-06 12:00:07,Philadelphia Eagles,away,0.78,6,2025-10-09,Philadelphia Eagles,New York Giants
+1759752009,2025-10-06 12:00:09,New York Giants,home,0.22,6,2025-10-09,Philadelphia Eagles,New York Giants
+1759795205,2025-10-07 00:00:05,Philadelphia Eagles,away,0.775,6,2025-10-09,Philadelphia Eagles,New York Giants
+1759795211,2025-10-07 00:00:11,New York Giants,home,0.225,6,2025-10-09,Philadelphia Eagles,New York Giants
+1759838405,2025-10-07 12:00:05,Philadelphia Eagles,away,0.775,6,2025-10-09,Philadelphia Eagles,New York Giants
+1759838413,2025-10-07 12:00:13,New York Giants,home,0.225,6,2025-10-09,Philadelphia Eagles,New York Giants
+1759881605,2025-10-08 00:00:05,New York Giants,home,0.225,6,2025-10-09,Philadelphia Eagles,New York Giants
+1759881612,2025-10-08 00:00:12,Philadelphia Eagles,away,0.775,6,2025-10-09,Philadelphia Eagles,New York Giants
+1759924814,2025-10-08 12:00:14,New York Giants,home,0.225,6,2025-10-09,Philadelphia Eagles,New York Giants
+1759924818,2025-10-08 12:00:18,Philadelphia Eagles,away,0.775,6,2025-10-09,Philadelphia Eagles,New York Giants
+1759968012,2025-10-09 00:00:12,New York Giants,home,0.215,6,2025-10-09,Philadelphia Eagles,New York Giants
+1759968013,2025-10-09 00:00:13,Philadelphia Eagles,away,0.785,6,2025-10-09,Philadelphia Eagles,New York Giants
+1760011212,2025-10-09 12:00:12,New York Giants,home,0.215,6,2025-10-09,Philadelphia Eagles,New York Giants
+1760011214,2025-10-09 12:00:14,Philadelphia Eagles,away,0.785,6,2025-10-09,Philadelphia Eagles,New York Giants
+1760054414,2025-10-10 00:00:14,New York Giants,home,0.225,6,2025-10-09,Philadelphia Eagles,New York Giants
+1760054415,2025-10-10 00:00:15,Philadelphia Eagles,away,0.775,6,2025-10-09,Philadelphia Eagles,New York Giants

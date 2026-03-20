@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1756641609,2025-08-31 12:00:09,New York Jets,home,0.42,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756641621,2025-08-31 12:00:21,Pittsburgh Steelers,away,0.58,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756684805,2025-09-01 00:00:05,New York Jets,home,0.425,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756684809,2025-09-01 00:00:09,Pittsburgh Steelers,away,0.575,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756728024,2025-09-01 12:00:24,Pittsburgh Steelers,away,0.58,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756728027,2025-09-01 12:00:27,New York Jets,home,0.42,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756771205,2025-09-02 00:00:05,New York Jets,home,0.415,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756771218,2025-09-02 00:00:18,Pittsburgh Steelers,away,0.585,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756814417,2025-09-02 12:00:17,Pittsburgh Steelers,away,0.59,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756814417,2025-09-02 12:00:17,New York Jets,home,0.41,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756857606,2025-09-03 00:00:06,Pittsburgh Steelers,away,0.575,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756857606,2025-09-03 00:00:06,New York Jets,home,0.425,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756900805,2025-09-03 12:00:05,Pittsburgh Steelers,away,0.565,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756900827,2025-09-03 12:00:27,New York Jets,home,0.435,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756944013,2025-09-04 00:00:13,New York Jets,home,0.425,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756944014,2025-09-04 00:00:14,Pittsburgh Steelers,away,0.575,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756987220,2025-09-04 12:00:20,Pittsburgh Steelers,away,0.57,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1756987232,2025-09-04 12:00:32,New York Jets,home,0.43,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1757030410,2025-09-05 00:00:10,New York Jets,home,0.42,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1757030412,2025-09-05 00:00:12,Pittsburgh Steelers,away,0.58,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1757073612,2025-09-05 12:00:12,New York Jets,home,0.415,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1757073629,2025-09-05 12:00:29,Pittsburgh Steelers,away,0.585,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1757116814,2025-09-06 00:00:14,Pittsburgh Steelers,away,0.585,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1757116820,2025-09-06 00:00:20,New York Jets,home,0.415,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1757160007,2025-09-06 12:00:07,New York Jets,home,0.415,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1757160015,2025-09-06 12:00:15,Pittsburgh Steelers,away,0.585,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1757203204,2025-09-07 00:00:04,New York Jets,home,0.405,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1757203208,2025-09-07 00:00:08,Pittsburgh Steelers,away,0.595,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1757246417,2025-09-07 12:00:17,Pittsburgh Steelers,away,0.595,1,2025-09-07,Pittsburgh Steelers,New York Jets
+1757246422,2025-09-07 12:00:22,New York Jets,home,0.405,1,2025-09-07,Pittsburgh Steelers,New York Jets

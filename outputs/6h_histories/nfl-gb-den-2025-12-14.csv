@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765238420,2025-12-09 00:00:20,Denver Broncos,home,0.51,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765238426,2025-12-09 00:00:26,Green Bay Packers,away,0.49,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765281609,2025-12-09 12:00:09,Denver Broncos,home,0.5,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765281615,2025-12-09 12:00:15,Green Bay Packers,away,0.5,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765324810,2025-12-10 00:00:10,Denver Broncos,home,0.5,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765324814,2025-12-10 00:00:14,Green Bay Packers,away,0.5,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765368012,2025-12-10 12:00:12,Denver Broncos,home,0.49,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765368026,2025-12-10 12:00:26,Green Bay Packers,away,0.51,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765411210,2025-12-11 00:00:10,Denver Broncos,home,0.495,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765411215,2025-12-11 00:00:15,Green Bay Packers,away,0.505,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765454411,2025-12-11 12:00:11,Denver Broncos,home,0.49,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765454416,2025-12-11 12:00:16,Green Bay Packers,away,0.51,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765497609,2025-12-12 00:00:09,Denver Broncos,home,0.495,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765497615,2025-12-12 00:00:15,Green Bay Packers,away,0.505,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765540810,2025-12-12 12:00:10,Denver Broncos,home,0.435,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765540817,2025-12-12 12:00:17,Green Bay Packers,away,0.565,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765584011,2025-12-13 00:00:11,Denver Broncos,home,0.42,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765584017,2025-12-13 00:00:17,Green Bay Packers,away,0.58,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765627211,2025-12-13 12:00:11,Denver Broncos,home,0.48,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765627218,2025-12-13 12:00:18,Green Bay Packers,away,0.52,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765670411,2025-12-14 00:00:11,Denver Broncos,home,0.485,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765670418,2025-12-14 00:00:18,Green Bay Packers,away,0.515,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765713610,2025-12-14 12:00:10,Denver Broncos,home,0.495,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765713617,2025-12-14 12:00:17,Green Bay Packers,away,0.505,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765756811,2025-12-15 00:00:11,Denver Broncos,home,0.0005,15,2025-12-14,Green Bay Packers,Denver Broncos
+1765756819,2025-12-15 00:00:19,Green Bay Packers,away,0.9995,15,2025-12-14,Green Bay Packers,Denver Broncos

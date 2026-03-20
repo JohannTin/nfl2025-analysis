@@ -1,0 +1,57 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765756807,2025-12-15 00:00:07,Baltimore Ravens,away,0.25,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1765756817,2025-12-15 00:00:17,Green Bay Packers,home,0.75,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1765800006,2025-12-15 12:00:06,Baltimore Ravens,away,0.245,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1765800014,2025-12-15 12:00:14,Green Bay Packers,home,0.755,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1765843206,2025-12-16 00:00:06,Baltimore Ravens,away,0.37,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1765843214,2025-12-16 00:00:14,Green Bay Packers,home,0.63,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1765886418,2025-12-16 12:00:18,Baltimore Ravens,away,0.375,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1765886427,2025-12-16 12:00:27,Green Bay Packers,home,0.625,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1765929603,2025-12-17 00:00:03,Baltimore Ravens,away,0.42,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1765929611,2025-12-17 00:00:11,Green Bay Packers,home,0.58,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1765929630,2025-12-17 00:00:30,Baltimore Ravens,away,0.42,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1765929634,2025-12-17 00:00:34,Green Bay Packers,home,0.58,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1765972807,2025-12-17 12:00:07,Baltimore Ravens,away,0.39,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1765972816,2025-12-17 12:00:16,Green Bay Packers,home,0.61,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766016018,2025-12-18 00:00:18,Baltimore Ravens,away,0.39,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766016023,2025-12-18 00:00:23,Green Bay Packers,home,0.61,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766059207,2025-12-18 12:00:07,Baltimore Ravens,away,0.385,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766059214,2025-12-18 12:00:14,Green Bay Packers,home,0.615,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766102408,2025-12-19 00:00:08,Baltimore Ravens,away,0.385,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766102414,2025-12-19 00:00:14,Green Bay Packers,home,0.615,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766145609,2025-12-19 12:00:09,Baltimore Ravens,away,0.4,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766145615,2025-12-19 12:00:15,Green Bay Packers,home,0.6,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766188807,2025-12-20 00:00:07,Baltimore Ravens,away,0.4,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766188813,2025-12-20 00:00:13,Green Bay Packers,home,0.6,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766232007,2025-12-20 12:00:07,Baltimore Ravens,away,0.4,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766232016,2025-12-20 12:00:16,Green Bay Packers,home,0.6,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766275207,2025-12-21 00:00:07,Baltimore Ravens,away,0.385,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766275214,2025-12-21 00:00:14,Green Bay Packers,home,0.615,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766318407,2025-12-21 12:00:07,Baltimore Ravens,away,0.425,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766318413,2025-12-21 12:00:13,Green Bay Packers,home,0.575,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766361607,2025-12-22 00:00:07,Baltimore Ravens,away,0.495,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766361613,2025-12-22 00:00:13,Green Bay Packers,home,0.505,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766404806,2025-12-22 12:00:06,Baltimore Ravens,away,0.445,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766404814,2025-12-22 12:00:14,Green Bay Packers,home,0.555,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766448008,2025-12-23 00:00:08,Baltimore Ravens,away,0.44,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766448015,2025-12-23 00:00:15,Green Bay Packers,home,0.56,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766491208,2025-12-23 12:00:08,Baltimore Ravens,away,0.45,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766491217,2025-12-23 12:00:17,Green Bay Packers,home,0.55,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766534408,2025-12-24 00:00:08,Baltimore Ravens,away,0.4,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766534415,2025-12-24 00:00:15,Green Bay Packers,home,0.6,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766577607,2025-12-24 12:00:07,Baltimore Ravens,away,0.41,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766577615,2025-12-24 12:00:15,Green Bay Packers,home,0.59,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766620818,2025-12-25 00:00:18,Baltimore Ravens,away,0.39,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766620825,2025-12-25 00:00:25,Green Bay Packers,home,0.61,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766664008,2025-12-25 12:00:08,Baltimore Ravens,away,0.385,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766664016,2025-12-25 12:00:16,Green Bay Packers,home,0.615,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766707207,2025-12-26 00:00:07,Baltimore Ravens,away,0.325,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766707211,2025-12-26 00:00:11,Green Bay Packers,home,0.675,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766750407,2025-12-26 12:00:07,Baltimore Ravens,away,0.34,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766750414,2025-12-26 12:00:14,Green Bay Packers,home,0.66,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766793609,2025-12-27 00:00:09,Baltimore Ravens,away,0.365,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766793615,2025-12-27 00:00:15,Green Bay Packers,home,0.635,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766836808,2025-12-27 12:00:08,Baltimore Ravens,away,0.395,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766836815,2025-12-27 12:00:15,Green Bay Packers,home,0.605,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766880009,2025-12-28 00:00:09,Baltimore Ravens,away,0.455,17,2025-12-27,Baltimore Ravens,Green Bay Packers
+1766880015,2025-12-28 00:00:15,Green Bay Packers,home,0.545,17,2025-12-27,Baltimore Ravens,Green Bay Packers

@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1760270404,2025-10-12 12:00:04,Tennessee Titans,home,0.295,7,2025-10-19,New England Patriots,Tennessee Titans
+1760270405,2025-10-12 12:00:05,New England Patriots,away,0.705,7,2025-10-19,New England Patriots,Tennessee Titans
+1760313615,2025-10-13 00:00:15,Tennessee Titans,home,0.26,7,2025-10-19,New England Patriots,Tennessee Titans
+1760313616,2025-10-13 00:00:16,New England Patriots,away,0.74,7,2025-10-19,New England Patriots,Tennessee Titans
+1760356806,2025-10-13 12:00:06,Tennessee Titans,home,0.25,7,2025-10-19,New England Patriots,Tennessee Titans
+1760356826,2025-10-13 12:00:26,New England Patriots,away,0.75,7,2025-10-19,New England Patriots,Tennessee Titans
+1760400007,2025-10-14 00:00:07,New England Patriots,away,0.745,7,2025-10-19,New England Patriots,Tennessee Titans
+1760400010,2025-10-14 00:00:10,Tennessee Titans,home,0.255,7,2025-10-19,New England Patriots,Tennessee Titans
+1760443204,2025-10-14 12:00:04,New England Patriots,away,0.745,7,2025-10-19,New England Patriots,Tennessee Titans
+1760443218,2025-10-14 12:00:18,Tennessee Titans,home,0.255,7,2025-10-19,New England Patriots,Tennessee Titans
+1760486406,2025-10-15 00:00:06,New England Patriots,away,0.755,7,2025-10-19,New England Patriots,Tennessee Titans
+1760486409,2025-10-15 00:00:09,Tennessee Titans,home,0.245,7,2025-10-19,New England Patriots,Tennessee Titans
+1760529614,2025-10-15 12:00:14,New England Patriots,away,0.75,7,2025-10-19,New England Patriots,Tennessee Titans
+1760529620,2025-10-15 12:00:20,Tennessee Titans,home,0.25,7,2025-10-19,New England Patriots,Tennessee Titans
+1760572818,2025-10-16 00:00:18,New England Patriots,away,0.745,7,2025-10-19,New England Patriots,Tennessee Titans
+1760572822,2025-10-16 00:00:22,Tennessee Titans,home,0.255,7,2025-10-19,New England Patriots,Tennessee Titans
+1760616022,2025-10-16 12:00:22,Tennessee Titans,home,0.255,7,2025-10-19,New England Patriots,Tennessee Titans
+1760616028,2025-10-16 12:00:28,New England Patriots,away,0.745,7,2025-10-19,New England Patriots,Tennessee Titans
+1760659206,2025-10-17 00:00:06,Tennessee Titans,home,0.255,7,2025-10-19,New England Patriots,Tennessee Titans
+1760659214,2025-10-17 00:00:14,New England Patriots,away,0.745,7,2025-10-19,New England Patriots,Tennessee Titans
+1760702416,2025-10-17 12:00:16,New England Patriots,away,0.745,7,2025-10-19,New England Patriots,Tennessee Titans
+1760702425,2025-10-17 12:00:25,Tennessee Titans,home,0.255,7,2025-10-19,New England Patriots,Tennessee Titans
+1760745608,2025-10-18 00:00:08,Tennessee Titans,home,0.255,7,2025-10-19,New England Patriots,Tennessee Titans
+1760745620,2025-10-18 00:00:20,New England Patriots,away,0.745,7,2025-10-19,New England Patriots,Tennessee Titans
+1760788822,2025-10-18 12:00:22,New England Patriots,away,0.745,7,2025-10-19,New England Patriots,Tennessee Titans
+1760788824,2025-10-18 12:00:24,Tennessee Titans,home,0.255,7,2025-10-19,New England Patriots,Tennessee Titans
+1760832010,2025-10-19 00:00:10,New England Patriots,away,0.745,7,2025-10-19,New England Patriots,Tennessee Titans
+1760832011,2025-10-19 00:00:11,Tennessee Titans,home,0.255,7,2025-10-19,New England Patriots,Tennessee Titans
+1760875208,2025-10-19 12:00:08,New England Patriots,away,0.745,7,2025-10-19,New England Patriots,Tennessee Titans
+1760875221,2025-10-19 12:00:21,Tennessee Titans,home,0.255,7,2025-10-19,New England Patriots,Tennessee Titans

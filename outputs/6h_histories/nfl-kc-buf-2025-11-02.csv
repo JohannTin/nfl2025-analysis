@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1761480016,2025-10-26 12:00:16,Kansas City Chiefs,away,0.53,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761480017,2025-10-26 12:00:17,Buffalo Bills,home,0.47,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761523211,2025-10-27 00:00:11,Kansas City Chiefs,away,0.515,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761523213,2025-10-27 00:00:13,Buffalo Bills,home,0.485,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761566414,2025-10-27 12:00:14,Kansas City Chiefs,away,0.535,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761566415,2025-10-27 12:00:15,Buffalo Bills,home,0.465,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761609613,2025-10-28 00:00:13,Kansas City Chiefs,away,0.54,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761609615,2025-10-28 00:00:15,Buffalo Bills,home,0.46,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761652812,2025-10-28 12:00:12,Kansas City Chiefs,away,0.535,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761652813,2025-10-28 12:00:13,Buffalo Bills,home,0.465,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761696012,2025-10-29 00:00:12,Kansas City Chiefs,away,0.555,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761696014,2025-10-29 00:00:14,Buffalo Bills,home,0.445,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761782413,2025-10-30 00:00:13,Kansas City Chiefs,away,0.555,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761782415,2025-10-30 00:00:15,Buffalo Bills,home,0.445,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761825612,2025-10-30 12:00:12,Kansas City Chiefs,away,0.545,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761825615,2025-10-30 12:00:15,Buffalo Bills,home,0.455,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761868809,2025-10-31 00:00:09,Kansas City Chiefs,away,0.555,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761868809,2025-10-31 00:00:09,Buffalo Bills,home,0.445,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761912014,2025-10-31 12:00:14,Kansas City Chiefs,away,0.555,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761912015,2025-10-31 12:00:15,Buffalo Bills,home,0.445,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761955212,2025-11-01 00:00:12,Kansas City Chiefs,away,0.555,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761955214,2025-11-01 00:00:14,Buffalo Bills,home,0.445,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761998415,2025-11-01 12:00:15,Kansas City Chiefs,away,0.555,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1761998416,2025-11-01 12:00:16,Buffalo Bills,home,0.445,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1762041611,2025-11-02 00:00:11,Kansas City Chiefs,away,0.555,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1762041612,2025-11-02 00:00:12,Buffalo Bills,home,0.445,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1762084813,2025-11-02 12:00:13,Kansas City Chiefs,away,0.545,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1762084815,2025-11-02 12:00:15,Buffalo Bills,home,0.455,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1762128011,2025-11-03 00:00:11,Kansas City Chiefs,away,0.185,9,2025-11-02,Kansas City Chiefs,Buffalo Bills
+1762128011,2025-11-03 00:00:11,Buffalo Bills,home,0.815,9,2025-11-02,Kansas City Chiefs,Buffalo Bills

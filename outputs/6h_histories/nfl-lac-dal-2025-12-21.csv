@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765843212,2025-12-16 00:00:12,Dallas Cowboys,home,0.505,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1765843214,2025-12-16 00:00:14,Los Angeles Chargers,away,0.495,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1765886424,2025-12-16 12:00:24,Dallas Cowboys,home,0.565,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1765886427,2025-12-16 12:00:27,Los Angeles Chargers,away,0.435,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1765929608,2025-12-17 00:00:08,Dallas Cowboys,home,0.565,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1765929611,2025-12-17 00:00:11,Los Angeles Chargers,away,0.435,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1765929632,2025-12-17 00:00:32,Dallas Cowboys,home,0.565,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1765929634,2025-12-17 00:00:34,Los Angeles Chargers,away,0.435,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1765972812,2025-12-17 12:00:12,Dallas Cowboys,home,0.535,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1765972818,2025-12-17 12:00:18,Los Angeles Chargers,away,0.465,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766016021,2025-12-18 00:00:21,Dallas Cowboys,home,0.535,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766016023,2025-12-18 00:00:23,Los Angeles Chargers,away,0.465,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766059212,2025-12-18 12:00:12,Dallas Cowboys,home,0.535,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766059214,2025-12-18 12:00:14,Los Angeles Chargers,away,0.465,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766102412,2025-12-19 00:00:12,Dallas Cowboys,home,0.535,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766102414,2025-12-19 00:00:14,Los Angeles Chargers,away,0.465,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766145613,2025-12-19 12:00:13,Dallas Cowboys,home,0.575,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766145615,2025-12-19 12:00:15,Los Angeles Chargers,away,0.425,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766188811,2025-12-20 00:00:11,Dallas Cowboys,home,0.575,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766188814,2025-12-20 00:00:14,Los Angeles Chargers,away,0.425,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766232013,2025-12-20 12:00:13,Dallas Cowboys,home,0.52,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766232016,2025-12-20 12:00:16,Los Angeles Chargers,away,0.48,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766275211,2025-12-21 00:00:11,Dallas Cowboys,home,0.545,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766275214,2025-12-21 00:00:14,Los Angeles Chargers,away,0.455,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766318411,2025-12-21 12:00:11,Dallas Cowboys,home,0.525,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys
+1766318414,2025-12-21 12:00:14,Los Angeles Chargers,away,0.475,16,2025-12-21,Los Angeles Chargers,Dallas Cowboys

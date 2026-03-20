@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1757851210,2025-09-14 12:00:10,Washington Commanders,home,0.735,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1757851233,2025-09-14 12:00:33,Las Vegas Raiders,away,0.265,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1757894404,2025-09-15 00:00:04,Las Vegas Raiders,away,0.275,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1757894408,2025-09-15 00:00:08,Washington Commanders,home,0.725,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1757937605,2025-09-15 12:00:05,Las Vegas Raiders,away,0.295,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1757937618,2025-09-15 12:00:18,Washington Commanders,home,0.705,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1757980808,2025-09-16 00:00:08,Las Vegas Raiders,away,0.365,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1757980819,2025-09-16 00:00:19,Washington Commanders,home,0.635,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758024021,2025-09-16 12:00:21,Washington Commanders,home,0.66,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758024025,2025-09-16 12:00:25,Las Vegas Raiders,away,0.34,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758067202,2025-09-17 00:00:02,Las Vegas Raiders,away,0.37,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758067209,2025-09-17 00:00:09,Washington Commanders,home,0.63,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758110405,2025-09-17 12:00:05,Washington Commanders,home,0.63,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758110414,2025-09-17 12:00:14,Las Vegas Raiders,away,0.37,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758153605,2025-09-18 00:00:05,Washington Commanders,home,0.615,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758153612,2025-09-18 00:00:12,Las Vegas Raiders,away,0.385,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758196808,2025-09-18 12:00:08,Washington Commanders,home,0.61,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758196814,2025-09-18 12:00:14,Las Vegas Raiders,away,0.39,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758240008,2025-09-19 00:00:08,Las Vegas Raiders,away,0.375,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758240009,2025-09-19 00:00:09,Washington Commanders,home,0.625,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758283205,2025-09-19 12:00:05,Washington Commanders,home,0.625,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758283212,2025-09-19 12:00:12,Las Vegas Raiders,away,0.375,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758326405,2025-09-20 00:00:05,Las Vegas Raiders,away,0.41,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758326422,2025-09-20 00:00:22,Washington Commanders,home,0.59,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758369602,2025-09-20 12:00:02,Washington Commanders,home,0.59,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758369637,2025-09-20 12:00:37,Las Vegas Raiders,away,0.41,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758412810,2025-09-21 00:00:10,Washington Commanders,home,0.575,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758412810,2025-09-21 00:00:10,Las Vegas Raiders,away,0.425,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758456015,2025-09-21 12:00:15,Las Vegas Raiders,away,0.425,3,2025-09-21,Las Vegas Raiders,Washington Commanders
+1758456015,2025-09-21 12:00:15,Washington Commanders,home,0.575,3,2025-09-21,Las Vegas Raiders,Washington Commanders

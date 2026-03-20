@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1760961607,2025-10-20 12:00:07,Washington Commanders,away,0.175,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1760961609,2025-10-20 12:00:09,Kansas City Chiefs,home,0.825,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761004812,2025-10-21 00:00:12,Washington Commanders,away,0.17,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761004814,2025-10-21 00:00:14,Kansas City Chiefs,home,0.83,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761048008,2025-10-21 12:00:08,Kansas City Chiefs,home,0.835,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761048018,2025-10-21 12:00:18,Washington Commanders,away,0.165,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761091205,2025-10-22 00:00:05,Washington Commanders,away,0.165,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761091222,2025-10-22 00:00:22,Kansas City Chiefs,home,0.835,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761134406,2025-10-22 12:00:06,Washington Commanders,away,0.175,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761134429,2025-10-22 12:00:29,Kansas City Chiefs,home,0.825,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761177606,2025-10-23 00:00:06,Washington Commanders,away,0.145,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761177611,2025-10-23 00:00:11,Kansas City Chiefs,home,0.855,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761220806,2025-10-23 12:00:06,Washington Commanders,away,0.145,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761220820,2025-10-23 12:00:20,Kansas City Chiefs,home,0.855,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761264007,2025-10-24 00:00:07,Washington Commanders,away,0.135,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761264017,2025-10-24 00:00:17,Kansas City Chiefs,home,0.865,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761307207,2025-10-24 12:00:07,Washington Commanders,away,0.14,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761307223,2025-10-24 12:00:23,Kansas City Chiefs,home,0.86,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761350407,2025-10-25 00:00:07,Washington Commanders,away,0.145,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761350416,2025-10-25 00:00:16,Kansas City Chiefs,home,0.855,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761393607,2025-10-25 12:00:07,Washington Commanders,away,0.145,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761393623,2025-10-25 12:00:23,Kansas City Chiefs,home,0.855,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761436807,2025-10-26 00:00:07,Washington Commanders,away,0.145,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761436819,2025-10-26 00:00:19,Kansas City Chiefs,home,0.855,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761480008,2025-10-26 12:00:08,Washington Commanders,away,0.145,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761480026,2025-10-26 12:00:26,Kansas City Chiefs,home,0.855,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761523207,2025-10-27 00:00:07,Washington Commanders,away,0.145,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761523217,2025-10-27 00:00:17,Kansas City Chiefs,home,0.855,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761566407,2025-10-27 12:00:07,Washington Commanders,away,0.145,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761566421,2025-10-27 12:00:21,Kansas City Chiefs,home,0.855,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761609607,2025-10-28 00:00:07,Washington Commanders,away,0.175,8,2025-10-27,Washington Commanders,Kansas City Chiefs
+1761609621,2025-10-28 00:00:21,Kansas City Chiefs,home,0.825,8,2025-10-27,Washington Commanders,Kansas City Chiefs

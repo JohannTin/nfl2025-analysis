@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1762689604,2025-11-09 12:00:04,Buffalo Bills,home,0.67,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1762689624,2025-11-09 12:00:24,Tampa Bay Buccaneers,away,0.33,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1762732804,2025-11-10 00:00:04,Buffalo Bills,home,0.72,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1762732814,2025-11-10 00:00:14,Tampa Bay Buccaneers,away,0.28,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1762776004,2025-11-10 12:00:04,Buffalo Bills,home,0.7,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1762776023,2025-11-10 12:00:23,Tampa Bay Buccaneers,away,0.3,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1762819206,2025-11-11 00:00:06,Buffalo Bills,home,0.7,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1762819221,2025-11-11 00:00:21,Tampa Bay Buccaneers,away,0.3,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1762862419,2025-11-11 12:00:19,Buffalo Bills,home,0.7,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1762862440,2025-11-11 12:00:40,Tampa Bay Buccaneers,away,0.3,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1762905608,2025-11-12 00:00:08,Buffalo Bills,home,0.705,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1762905618,2025-11-12 00:00:18,Tampa Bay Buccaneers,away,0.295,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1762948805,2025-11-12 12:00:05,Buffalo Bills,home,0.71,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1762948826,2025-11-12 12:00:26,Tampa Bay Buccaneers,away,0.29,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1762992004,2025-11-13 00:00:04,Buffalo Bills,home,0.71,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1762992020,2025-11-13 00:00:20,Tampa Bay Buccaneers,away,0.29,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1763035204,2025-11-13 12:00:04,Buffalo Bills,home,0.71,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1763035228,2025-11-13 12:00:28,Tampa Bay Buccaneers,away,0.29,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1763078405,2025-11-14 00:00:05,Buffalo Bills,home,0.705,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1763078418,2025-11-14 00:00:18,Tampa Bay Buccaneers,away,0.295,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1763121605,2025-11-14 12:00:05,Buffalo Bills,home,0.705,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1763121629,2025-11-14 12:00:29,Tampa Bay Buccaneers,away,0.295,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1763164805,2025-11-15 00:00:05,Buffalo Bills,home,0.705,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1763164823,2025-11-15 00:00:23,Tampa Bay Buccaneers,away,0.295,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1763208005,2025-11-15 12:00:05,Buffalo Bills,home,0.705,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1763208030,2025-11-15 12:00:30,Tampa Bay Buccaneers,away,0.295,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1763251205,2025-11-16 00:00:05,Buffalo Bills,home,0.715,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1763251215,2025-11-16 00:00:15,Tampa Bay Buccaneers,away,0.285,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1763294404,2025-11-16 12:00:04,Buffalo Bills,home,0.705,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills
+1763294425,2025-11-16 12:00:25,Tampa Bay Buccaneers,away,0.295,11,2025-11-16,Tampa Bay Buccaneers,Buffalo Bills

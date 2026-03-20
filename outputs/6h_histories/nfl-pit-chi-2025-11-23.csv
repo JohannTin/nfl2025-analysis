@@ -1,0 +1,25 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1763424005,2025-11-18 00:00:05,Pittsburgh Steelers,away,0.51,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763424013,2025-11-18 00:00:13,Chicago Bears,home,0.49,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763467204,2025-11-18 12:00:04,Pittsburgh Steelers,away,0.505,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763467222,2025-11-18 12:00:22,Chicago Bears,home,0.495,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763510405,2025-11-19 00:00:05,Pittsburgh Steelers,away,0.45,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763510419,2025-11-19 00:00:19,Chicago Bears,home,0.55,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763553605,2025-11-19 12:00:05,Pittsburgh Steelers,away,0.5,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763553624,2025-11-19 12:00:24,Chicago Bears,home,0.5,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763596805,2025-11-20 00:00:05,Pittsburgh Steelers,away,0.5,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763596813,2025-11-20 00:00:13,Chicago Bears,home,0.5,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763640005,2025-11-20 12:00:05,Pittsburgh Steelers,away,0.52,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763640014,2025-11-20 12:00:14,Chicago Bears,home,0.48,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763683205,2025-11-21 00:00:05,Pittsburgh Steelers,away,0.515,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763683220,2025-11-21 00:00:20,Chicago Bears,home,0.485,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763726405,2025-11-21 12:00:05,Pittsburgh Steelers,away,0.515,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763726414,2025-11-21 12:00:14,Chicago Bears,home,0.485,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763769605,2025-11-22 00:00:05,Pittsburgh Steelers,away,0.515,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763769614,2025-11-22 00:00:14,Chicago Bears,home,0.485,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763812806,2025-11-22 12:00:06,Pittsburgh Steelers,away,0.535,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763812814,2025-11-22 12:00:14,Chicago Bears,home,0.465,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763856005,2025-11-23 00:00:05,Pittsburgh Steelers,away,0.44,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763856015,2025-11-23 00:00:15,Chicago Bears,home,0.56,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763899204,2025-11-23 12:00:04,Pittsburgh Steelers,away,0.425,12,2025-11-23,Pittsburgh Steelers,Chicago Bears
+1763899213,2025-11-23 12:00:13,Chicago Bears,home,0.575,12,2025-11-23,Pittsburgh Steelers,Chicago Bears

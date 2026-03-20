@@ -1,0 +1,57 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765756809,2025-12-15 00:00:09,Los Angeles Chargers,home,0.5,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1765756815,2025-12-15 00:00:15,Houston Texans,away,0.5,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1765800007,2025-12-15 12:00:07,Los Angeles Chargers,home,0.525,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1765800012,2025-12-15 12:00:12,Houston Texans,away,0.475,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1765843207,2025-12-16 00:00:07,Los Angeles Chargers,home,0.525,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1765843213,2025-12-16 00:00:13,Houston Texans,away,0.475,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1765886419,2025-12-16 12:00:19,Los Angeles Chargers,home,0.525,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1765886425,2025-12-16 12:00:25,Houston Texans,away,0.475,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1765929604,2025-12-17 00:00:04,Los Angeles Chargers,home,0.47,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1765929609,2025-12-17 00:00:09,Houston Texans,away,0.53,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1765929630,2025-12-17 00:00:30,Los Angeles Chargers,home,0.47,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1765929633,2025-12-17 00:00:33,Houston Texans,away,0.53,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1765972809,2025-12-17 12:00:09,Los Angeles Chargers,home,0.47,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1765972813,2025-12-17 12:00:13,Houston Texans,away,0.53,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766016018,2025-12-18 00:00:18,Los Angeles Chargers,home,0.47,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766016022,2025-12-18 00:00:22,Houston Texans,away,0.53,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766059208,2025-12-18 12:00:08,Los Angeles Chargers,home,0.455,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766059212,2025-12-18 12:00:12,Houston Texans,away,0.545,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766102409,2025-12-19 00:00:09,Los Angeles Chargers,home,0.46,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766102413,2025-12-19 00:00:13,Houston Texans,away,0.54,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766145609,2025-12-19 12:00:09,Los Angeles Chargers,home,0.445,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766145614,2025-12-19 12:00:14,Houston Texans,away,0.555,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766188808,2025-12-20 00:00:08,Los Angeles Chargers,home,0.445,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766188812,2025-12-20 00:00:12,Houston Texans,away,0.555,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766232009,2025-12-20 12:00:09,Los Angeles Chargers,home,0.45,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766232014,2025-12-20 12:00:14,Houston Texans,away,0.55,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766275208,2025-12-21 00:00:08,Los Angeles Chargers,home,0.455,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766275212,2025-12-21 00:00:12,Houston Texans,away,0.545,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766318408,2025-12-21 12:00:08,Los Angeles Chargers,home,0.455,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766318412,2025-12-21 12:00:12,Houston Texans,away,0.545,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766361608,2025-12-22 00:00:08,Los Angeles Chargers,home,0.47,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766361612,2025-12-22 00:00:12,Houston Texans,away,0.53,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766404807,2025-12-22 12:00:07,Los Angeles Chargers,home,0.515,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766404812,2025-12-22 12:00:12,Houston Texans,away,0.485,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766448009,2025-12-23 00:00:09,Los Angeles Chargers,home,0.55,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766448014,2025-12-23 00:00:14,Houston Texans,away,0.45,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766491209,2025-12-23 12:00:09,Los Angeles Chargers,home,0.555,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766491215,2025-12-23 12:00:15,Houston Texans,away,0.445,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766534409,2025-12-24 00:00:09,Los Angeles Chargers,home,0.545,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766534414,2025-12-24 00:00:14,Houston Texans,away,0.455,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766577608,2025-12-24 12:00:08,Los Angeles Chargers,home,0.55,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766577613,2025-12-24 12:00:13,Houston Texans,away,0.45,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766620819,2025-12-25 00:00:19,Los Angeles Chargers,home,0.535,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766620824,2025-12-25 00:00:24,Houston Texans,away,0.465,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766664008,2025-12-25 12:00:08,Los Angeles Chargers,home,0.54,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766664014,2025-12-25 12:00:14,Houston Texans,away,0.46,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766707208,2025-12-26 00:00:08,Los Angeles Chargers,home,0.535,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766707210,2025-12-26 00:00:10,Houston Texans,away,0.465,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766750408,2025-12-26 12:00:08,Los Angeles Chargers,home,0.525,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766750413,2025-12-26 12:00:13,Houston Texans,away,0.475,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766793610,2025-12-27 00:00:10,Los Angeles Chargers,home,0.525,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766793614,2025-12-27 00:00:14,Houston Texans,away,0.475,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766836809,2025-12-27 12:00:09,Los Angeles Chargers,home,0.525,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766836814,2025-12-27 12:00:14,Houston Texans,away,0.475,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766880010,2025-12-28 00:00:10,Los Angeles Chargers,home,0.225,17,2025-12-27,Houston Texans,Los Angeles Chargers
+1766880014,2025-12-28 00:00:14,Houston Texans,away,0.775,17,2025-12-27,Houston Texans,Los Angeles Chargers

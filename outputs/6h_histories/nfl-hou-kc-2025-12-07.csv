@@ -1,0 +1,55 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1764028814,2025-11-25 00:00:14,Houston Texans,away,0.63,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764028814,2025-11-25 00:00:14,Kansas City Chiefs,home,0.37,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764072017,2025-11-25 12:00:17,Kansas City Chiefs,home,0.52,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764072018,2025-11-25 12:00:18,Houston Texans,away,0.48,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764115212,2025-11-26 00:00:12,Kansas City Chiefs,home,0.61,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764115213,2025-11-26 00:00:13,Houston Texans,away,0.39,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764158432,2025-11-26 12:00:32,Kansas City Chiefs,home,0.465,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764158433,2025-11-26 12:00:33,Houston Texans,away,0.535,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764201615,2025-11-27 00:00:15,Kansas City Chiefs,home,0.47,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764201615,2025-11-27 00:00:15,Houston Texans,away,0.53,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764244822,2025-11-27 12:00:22,Kansas City Chiefs,home,0.465,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764244823,2025-11-27 12:00:23,Houston Texans,away,0.535,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764288014,2025-11-28 00:00:14,Houston Texans,away,0.41,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764288014,2025-11-28 00:00:14,Kansas City Chiefs,home,0.59,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764331220,2025-11-28 12:00:20,Kansas City Chiefs,home,0.665,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764331222,2025-11-28 12:00:22,Houston Texans,away,0.335,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764374418,2025-11-29 00:00:18,Kansas City Chiefs,home,0.655,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764374419,2025-11-29 00:00:19,Houston Texans,away,0.345,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764417621,2025-11-29 12:00:21,Kansas City Chiefs,home,0.655,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764417622,2025-11-29 12:00:22,Houston Texans,away,0.345,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764460814,2025-11-30 00:00:14,Kansas City Chiefs,home,0.655,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764460815,2025-11-30 00:00:15,Houston Texans,away,0.345,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764504046,2025-11-30 12:00:46,Kansas City Chiefs,home,0.66,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764504047,2025-11-30 12:00:47,Houston Texans,away,0.34,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764547215,2025-12-01 00:00:15,Kansas City Chiefs,home,0.665,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764547216,2025-12-01 00:00:16,Houston Texans,away,0.335,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764590429,2025-12-01 12:00:29,Kansas City Chiefs,home,0.655,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764590430,2025-12-01 12:00:30,Houston Texans,away,0.345,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764633611,2025-12-02 00:00:11,Kansas City Chiefs,home,0.625,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764633611,2025-12-02 00:00:11,Houston Texans,away,0.375,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764676819,2025-12-02 12:00:19,Kansas City Chiefs,home,0.635,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764676820,2025-12-02 12:00:20,Houston Texans,away,0.365,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764720016,2025-12-03 00:00:16,Kansas City Chiefs,home,0.625,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764720017,2025-12-03 00:00:17,Houston Texans,away,0.375,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764763220,2025-12-03 12:00:20,Kansas City Chiefs,home,0.625,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764763222,2025-12-03 12:00:22,Houston Texans,away,0.375,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764806412,2025-12-04 00:00:12,Kansas City Chiefs,home,0.625,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764806412,2025-12-04 00:00:12,Houston Texans,away,0.375,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764849621,2025-12-04 12:00:21,Kansas City Chiefs,home,0.62,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764849622,2025-12-04 12:00:22,Houston Texans,away,0.38,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764892813,2025-12-05 00:00:13,Kansas City Chiefs,home,0.625,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764892813,2025-12-05 00:00:13,Houston Texans,away,0.375,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764936014,2025-12-05 12:00:14,Kansas City Chiefs,home,0.625,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764936015,2025-12-05 12:00:15,Houston Texans,away,0.375,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764979213,2025-12-06 00:00:13,Kansas City Chiefs,home,0.63,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1764979214,2025-12-06 00:00:14,Houston Texans,away,0.37,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1765022414,2025-12-06 12:00:14,Kansas City Chiefs,home,0.635,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1765022415,2025-12-06 12:00:15,Houston Texans,away,0.365,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1765065626,2025-12-07 00:00:26,Kansas City Chiefs,home,0.645,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1765065627,2025-12-07 00:00:27,Houston Texans,away,0.355,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1765108815,2025-12-07 12:00:15,Kansas City Chiefs,home,0.645,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1765108816,2025-12-07 12:00:16,Houston Texans,away,0.355,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1765152025,2025-12-08 00:00:25,Kansas City Chiefs,home,0.665,14,2025-12-07,Houston Texans,Kansas City Chiefs
+1765152026,2025-12-08 00:00:26,Houston Texans,away,0.335,14,2025-12-07,Houston Texans,Kansas City Chiefs

@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1762171205,2025-11-03 12:00:05,Philadelphia Eagles,away,0.44,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762171220,2025-11-03 12:00:20,Green Bay Packers,home,0.56,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762214405,2025-11-04 00:00:05,Philadelphia Eagles,away,0.44,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762214417,2025-11-04 00:00:17,Green Bay Packers,home,0.56,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762257607,2025-11-04 12:00:07,Philadelphia Eagles,away,0.435,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762257622,2025-11-04 12:00:22,Green Bay Packers,home,0.565,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762300805,2025-11-05 00:00:05,Philadelphia Eagles,away,0.435,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762300818,2025-11-05 00:00:18,Green Bay Packers,home,0.565,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762344006,2025-11-05 12:00:06,Philadelphia Eagles,away,0.435,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762344023,2025-11-05 12:00:23,Green Bay Packers,home,0.565,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762387204,2025-11-06 00:00:04,Philadelphia Eagles,away,0.465,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762387211,2025-11-06 00:00:11,Green Bay Packers,home,0.535,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762430405,2025-11-06 12:00:05,Philadelphia Eagles,away,0.465,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762430425,2025-11-06 12:00:25,Green Bay Packers,home,0.535,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762473606,2025-11-07 00:00:06,Philadelphia Eagles,away,0.465,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762473618,2025-11-07 00:00:18,Green Bay Packers,home,0.535,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762516806,2025-11-07 12:00:06,Philadelphia Eagles,away,0.475,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762516823,2025-11-07 12:00:23,Green Bay Packers,home,0.525,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762560006,2025-11-08 00:00:06,Philadelphia Eagles,away,0.475,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762560012,2025-11-08 00:00:12,Green Bay Packers,home,0.525,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762603220,2025-11-08 12:00:20,Philadelphia Eagles,away,0.475,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762603236,2025-11-08 12:00:36,Green Bay Packers,home,0.525,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762646419,2025-11-09 00:00:19,Philadelphia Eagles,away,0.475,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762646430,2025-11-09 00:00:30,Green Bay Packers,home,0.525,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762689605,2025-11-09 12:00:05,Philadelphia Eagles,away,0.485,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762689621,2025-11-09 12:00:21,Green Bay Packers,home,0.515,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762732805,2025-11-10 00:00:05,Philadelphia Eagles,away,0.485,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762732812,2025-11-10 00:00:12,Green Bay Packers,home,0.515,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762776006,2025-11-10 12:00:06,Philadelphia Eagles,away,0.495,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762776020,2025-11-10 12:00:20,Green Bay Packers,home,0.505,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762819208,2025-11-11 00:00:08,Philadelphia Eagles,away,0.505,10,2025-11-10,Philadelphia Eagles,Green Bay Packers
+1762819219,2025-11-11 00:00:19,Green Bay Packers,home,0.495,10,2025-11-10,Philadelphia Eagles,Green Bay Packers

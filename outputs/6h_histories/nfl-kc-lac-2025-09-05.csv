@@ -1,0 +1,25 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1756641615,2025-08-31 12:00:15,Los Angeles Chargers,home,0.395,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756641635,2025-08-31 12:00:35,Kansas City Chiefs,away,0.605,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756684802,2025-09-01 00:00:02,Kansas City Chiefs,away,0.605,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756684807,2025-09-01 00:00:07,Los Angeles Chargers,home,0.395,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756728020,2025-09-01 12:00:20,Los Angeles Chargers,home,0.395,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756728026,2025-09-01 12:00:26,Kansas City Chiefs,away,0.605,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756771203,2025-09-02 00:00:03,Kansas City Chiefs,away,0.615,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756771215,2025-09-02 00:00:15,Los Angeles Chargers,home,0.385,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756814411,2025-09-02 12:00:11,Los Angeles Chargers,home,0.385,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756814414,2025-09-02 12:00:14,Kansas City Chiefs,away,0.615,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756857604,2025-09-03 00:00:04,Kansas City Chiefs,away,0.615,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756857615,2025-09-03 00:00:15,Los Angeles Chargers,home,0.385,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756900816,2025-09-03 12:00:16,Kansas City Chiefs,away,0.615,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756900824,2025-09-03 12:00:24,Los Angeles Chargers,home,0.385,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756944006,2025-09-04 00:00:06,Kansas City Chiefs,away,0.615,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756944011,2025-09-04 00:00:11,Los Angeles Chargers,home,0.385,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756987224,2025-09-04 12:00:24,Los Angeles Chargers,home,0.395,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1756987231,2025-09-04 12:00:31,Kansas City Chiefs,away,0.605,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1757030403,2025-09-05 00:00:03,Kansas City Chiefs,away,0.605,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1757030409,2025-09-05 00:00:09,Los Angeles Chargers,home,0.395,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1757073616,2025-09-05 12:00:16,Los Angeles Chargers,home,0.395,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1757073620,2025-09-05 12:00:20,Kansas City Chiefs,away,0.605,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1757116802,2025-09-06 00:00:02,Los Angeles Chargers,home,0.4,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers
+1757116806,2025-09-06 00:00:06,Kansas City Chiefs,away,0.6,1,2025-09-05,Kansas City Chiefs,Los Angeles Chargers

@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765843208,2025-12-16 00:00:08,New York Jets,away,0.5,16,2025-12-21,New York Jets,New Orleans Saints
+1765843222,2025-12-16 00:00:22,New Orleans Saints,home,0.5,16,2025-12-21,New York Jets,New Orleans Saints
+1765886420,2025-12-16 12:00:20,New York Jets,away,0.42,16,2025-12-21,New York Jets,New Orleans Saints
+1765886436,2025-12-16 12:00:36,New Orleans Saints,home,0.58,16,2025-12-21,New York Jets,New Orleans Saints
+1765929605,2025-12-17 00:00:05,New York Jets,away,0.43,16,2025-12-21,New York Jets,New Orleans Saints
+1765929619,2025-12-17 00:00:19,New Orleans Saints,home,0.57,16,2025-12-21,New York Jets,New Orleans Saints
+1765929631,2025-12-17 00:00:31,New York Jets,away,0.43,16,2025-12-21,New York Jets,New Orleans Saints
+1765929638,2025-12-17 00:00:38,New Orleans Saints,home,0.57,16,2025-12-21,New York Jets,New Orleans Saints
+1765972809,2025-12-17 12:00:09,New York Jets,away,0.48,16,2025-12-21,New York Jets,New Orleans Saints
+1765972837,2025-12-17 12:00:37,New Orleans Saints,home,0.52,16,2025-12-21,New York Jets,New Orleans Saints
+1766016019,2025-12-18 00:00:19,New York Jets,away,0.48,16,2025-12-21,New York Jets,New Orleans Saints
+1766016029,2025-12-18 00:00:29,New Orleans Saints,home,0.52,16,2025-12-21,New York Jets,New Orleans Saints
+1766059209,2025-12-18 12:00:09,New York Jets,away,0.425,16,2025-12-21,New York Jets,New Orleans Saints
+1766059221,2025-12-18 12:00:21,New Orleans Saints,home,0.575,16,2025-12-21,New York Jets,New Orleans Saints
+1766102409,2025-12-19 00:00:09,New York Jets,away,0.43,16,2025-12-21,New York Jets,New Orleans Saints
+1766102421,2025-12-19 00:00:21,New Orleans Saints,home,0.57,16,2025-12-21,New York Jets,New Orleans Saints
+1766145610,2025-12-19 12:00:10,New York Jets,away,0.465,16,2025-12-21,New York Jets,New Orleans Saints
+1766145623,2025-12-19 12:00:23,New Orleans Saints,home,0.535,16,2025-12-21,New York Jets,New Orleans Saints
+1766188808,2025-12-20 00:00:08,New York Jets,away,0.465,16,2025-12-21,New York Jets,New Orleans Saints
+1766188821,2025-12-20 00:00:21,New Orleans Saints,home,0.535,16,2025-12-21,New York Jets,New Orleans Saints
+1766232010,2025-12-20 12:00:10,New York Jets,away,0.47,16,2025-12-21,New York Jets,New Orleans Saints
+1766232025,2025-12-20 12:00:25,New Orleans Saints,home,0.53,16,2025-12-21,New York Jets,New Orleans Saints
+1766275209,2025-12-21 00:00:09,New York Jets,away,0.34,16,2025-12-21,New York Jets,New Orleans Saints
+1766275222,2025-12-21 00:00:22,New Orleans Saints,home,0.66,16,2025-12-21,New York Jets,New Orleans Saints
+1766318408,2025-12-21 12:00:08,New York Jets,away,0.34,16,2025-12-21,New York Jets,New Orleans Saints
+1766318422,2025-12-21 12:00:22,New Orleans Saints,home,0.66,16,2025-12-21,New York Jets,New Orleans Saints

@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1762689610,2025-11-09 12:00:10,Jacksonville Jaguars,home,0.47,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1762689617,2025-11-09 12:00:17,Los Angeles Chargers,away,0.53,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1762732807,2025-11-10 00:00:07,Jacksonville Jaguars,home,0.45,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1762732810,2025-11-10 00:00:10,Los Angeles Chargers,away,0.55,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1762776011,2025-11-10 12:00:11,Jacksonville Jaguars,home,0.42,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1762776017,2025-11-10 12:00:17,Los Angeles Chargers,away,0.58,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1762819212,2025-11-11 00:00:12,Jacksonville Jaguars,home,0.415,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1762819216,2025-11-11 00:00:16,Los Angeles Chargers,away,0.585,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1762862426,2025-11-11 12:00:26,Jacksonville Jaguars,home,0.415,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1762862432,2025-11-11 12:00:32,Los Angeles Chargers,away,0.585,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1762905611,2025-11-12 00:00:11,Jacksonville Jaguars,home,0.405,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1762905615,2025-11-12 00:00:15,Los Angeles Chargers,away,0.595,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1762948813,2025-11-12 12:00:13,Jacksonville Jaguars,home,0.405,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1762948819,2025-11-12 12:00:19,Los Angeles Chargers,away,0.595,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1762992010,2025-11-13 00:00:10,Jacksonville Jaguars,home,0.405,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1762992014,2025-11-13 00:00:14,Los Angeles Chargers,away,0.595,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1763035213,2025-11-13 12:00:13,Jacksonville Jaguars,home,0.405,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1763035220,2025-11-13 12:00:20,Los Angeles Chargers,away,0.595,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1763078410,2025-11-14 00:00:10,Jacksonville Jaguars,home,0.405,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1763078413,2025-11-14 00:00:13,Los Angeles Chargers,away,0.595,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1763121613,2025-11-14 12:00:13,Jacksonville Jaguars,home,0.405,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1763121621,2025-11-14 12:00:21,Los Angeles Chargers,away,0.595,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1763164811,2025-11-15 00:00:11,Jacksonville Jaguars,home,0.405,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1763164816,2025-11-15 00:00:16,Los Angeles Chargers,away,0.595,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1763208013,2025-11-15 12:00:13,Jacksonville Jaguars,home,0.415,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1763208022,2025-11-15 12:00:22,Los Angeles Chargers,away,0.585,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1763251208,2025-11-16 00:00:08,Jacksonville Jaguars,home,0.405,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1763251212,2025-11-16 00:00:12,Los Angeles Chargers,away,0.595,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1763294412,2025-11-16 12:00:12,Jacksonville Jaguars,home,0.395,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars
+1763294419,2025-11-16 12:00:19,Los Angeles Chargers,away,0.605,11,2025-11-16,Los Angeles Chargers,Jacksonville Jaguars

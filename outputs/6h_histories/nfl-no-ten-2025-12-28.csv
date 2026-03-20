@@ -1,0 +1,55 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765843211,2025-12-16 00:00:11,New Orleans Saints,away,0.525,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1765843215,2025-12-16 00:00:15,Tennessee Titans,home,0.475,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1765886423,2025-12-16 12:00:23,New Orleans Saints,away,0.54,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1765886428,2025-12-16 12:00:28,Tennessee Titans,home,0.46,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1765929608,2025-12-17 00:00:08,New Orleans Saints,away,0.545,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1765929612,2025-12-17 00:00:12,Tennessee Titans,home,0.455,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1765929632,2025-12-17 00:00:32,New Orleans Saints,away,0.545,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1765929634,2025-12-17 00:00:34,Tennessee Titans,home,0.455,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1765972812,2025-12-17 12:00:12,New Orleans Saints,away,0.575,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1765972819,2025-12-17 12:00:19,Tennessee Titans,home,0.425,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766016021,2025-12-18 00:00:21,New Orleans Saints,away,0.575,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766016023,2025-12-18 00:00:23,Tennessee Titans,home,0.425,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766059211,2025-12-18 12:00:11,New Orleans Saints,away,0.58,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766059214,2025-12-18 12:00:14,Tennessee Titans,home,0.42,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766102412,2025-12-19 00:00:12,New Orleans Saints,away,0.58,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766102415,2025-12-19 00:00:15,Tennessee Titans,home,0.42,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766145613,2025-12-19 12:00:13,New Orleans Saints,away,0.58,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766145616,2025-12-19 12:00:16,Tennessee Titans,home,0.42,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766188811,2025-12-20 00:00:11,New Orleans Saints,away,0.58,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766188814,2025-12-20 00:00:14,Tennessee Titans,home,0.42,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766232013,2025-12-20 12:00:13,New Orleans Saints,away,0.575,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766232017,2025-12-20 12:00:17,Tennessee Titans,home,0.425,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766275211,2025-12-21 00:00:11,New Orleans Saints,away,0.575,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766275215,2025-12-21 00:00:15,Tennessee Titans,home,0.425,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766318411,2025-12-21 12:00:11,New Orleans Saints,away,0.575,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766318414,2025-12-21 12:00:14,Tennessee Titans,home,0.425,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766361611,2025-12-22 00:00:11,New Orleans Saints,away,0.615,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766361614,2025-12-22 00:00:14,Tennessee Titans,home,0.385,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766404810,2025-12-22 12:00:10,New Orleans Saints,away,0.575,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766404814,2025-12-22 12:00:14,Tennessee Titans,home,0.425,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766448012,2025-12-23 00:00:12,New Orleans Saints,away,0.58,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766448016,2025-12-23 00:00:16,Tennessee Titans,home,0.42,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766491213,2025-12-23 12:00:13,New Orleans Saints,away,0.585,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766491218,2025-12-23 12:00:18,Tennessee Titans,home,0.415,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766534412,2025-12-24 00:00:12,New Orleans Saints,away,0.585,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766534416,2025-12-24 00:00:16,Tennessee Titans,home,0.415,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766577612,2025-12-24 12:00:12,New Orleans Saints,away,0.58,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766577615,2025-12-24 12:00:15,Tennessee Titans,home,0.42,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766620822,2025-12-25 00:00:22,New Orleans Saints,away,0.575,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766620825,2025-12-25 00:00:25,Tennessee Titans,home,0.425,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766664013,2025-12-25 12:00:13,New Orleans Saints,away,0.575,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766664017,2025-12-25 12:00:17,Tennessee Titans,home,0.425,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766707210,2025-12-26 00:00:10,New Orleans Saints,away,0.575,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766707212,2025-12-26 00:00:12,Tennessee Titans,home,0.425,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766750411,2025-12-26 12:00:11,New Orleans Saints,away,0.575,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766750415,2025-12-26 12:00:15,Tennessee Titans,home,0.425,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766793613,2025-12-27 00:00:13,New Orleans Saints,away,0.575,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766793616,2025-12-27 00:00:16,Tennessee Titans,home,0.425,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766836813,2025-12-27 12:00:13,New Orleans Saints,away,0.575,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766836816,2025-12-27 12:00:16,Tennessee Titans,home,0.425,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766880013,2025-12-28 00:00:13,New Orleans Saints,away,0.565,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766880016,2025-12-28 00:00:16,Tennessee Titans,home,0.435,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766923213,2025-12-28 12:00:13,New Orleans Saints,away,0.535,17,2025-12-28,New Orleans Saints,Tennessee Titans
+1766923216,2025-12-28 12:00:16,Tennessee Titans,home,0.465,17,2025-12-28,New Orleans Saints,Tennessee Titans

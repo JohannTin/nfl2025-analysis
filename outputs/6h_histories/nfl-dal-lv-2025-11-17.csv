@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1762776006,2025-11-10 12:00:06,Las Vegas Raiders,home,0.365,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1762776028,2025-11-10 12:00:28,Dallas Cowboys,away,0.635,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1762819208,2025-11-11 00:00:08,Las Vegas Raiders,home,0.365,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1762819225,2025-11-11 00:00:25,Dallas Cowboys,away,0.635,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1762862421,2025-11-11 12:00:21,Las Vegas Raiders,home,0.36,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1762862446,2025-11-11 12:00:46,Dallas Cowboys,away,0.64,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1762905608,2025-11-12 00:00:08,Las Vegas Raiders,home,0.37,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1762905621,2025-11-12 00:00:21,Dallas Cowboys,away,0.63,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1762948806,2025-11-12 12:00:06,Las Vegas Raiders,home,0.365,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1762948833,2025-11-12 12:00:33,Dallas Cowboys,away,0.635,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1762992006,2025-11-13 00:00:06,Las Vegas Raiders,home,0.375,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1762992024,2025-11-13 00:00:24,Dallas Cowboys,away,0.625,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763035207,2025-11-13 12:00:07,Las Vegas Raiders,home,0.37,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763035235,2025-11-13 12:00:35,Dallas Cowboys,away,0.63,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763078407,2025-11-14 00:00:07,Las Vegas Raiders,home,0.375,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763078422,2025-11-14 00:00:22,Dallas Cowboys,away,0.625,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763121607,2025-11-14 12:00:07,Las Vegas Raiders,home,0.375,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763121636,2025-11-14 12:00:36,Dallas Cowboys,away,0.625,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763164807,2025-11-15 00:00:07,Las Vegas Raiders,home,0.375,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763164828,2025-11-15 00:00:28,Dallas Cowboys,away,0.625,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763208007,2025-11-15 12:00:07,Las Vegas Raiders,home,0.375,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763208037,2025-11-15 12:00:37,Dallas Cowboys,away,0.625,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763251206,2025-11-16 00:00:06,Las Vegas Raiders,home,0.375,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763251218,2025-11-16 00:00:18,Dallas Cowboys,away,0.625,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763294407,2025-11-16 12:00:07,Las Vegas Raiders,home,0.365,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763294432,2025-11-16 12:00:32,Dallas Cowboys,away,0.635,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763337606,2025-11-17 00:00:06,Las Vegas Raiders,home,0.375,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763337624,2025-11-17 00:00:24,Dallas Cowboys,away,0.625,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763380806,2025-11-17 12:00:06,Las Vegas Raiders,home,0.365,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763380831,2025-11-17 12:00:31,Dallas Cowboys,away,0.635,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763424006,2025-11-18 00:00:06,Las Vegas Raiders,home,0.365,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders
+1763424018,2025-11-18 00:00:18,Dallas Cowboys,away,0.635,11,2025-11-17,Dallas Cowboys,Las Vegas Raiders

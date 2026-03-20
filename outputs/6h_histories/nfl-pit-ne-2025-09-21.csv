@@ -1,0 +1,31 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1757851224,2025-09-14 12:00:24,Pittsburgh Steelers,away,0.55,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1757851230,2025-09-14 12:00:30,New England Patriots,home,0.45,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1757894403,2025-09-15 00:00:03,New England Patriots,home,0.475,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1757894413,2025-09-15 00:00:13,Pittsburgh Steelers,away,0.525,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1757937602,2025-09-15 12:00:02,Pittsburgh Steelers,away,0.51,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1757937621,2025-09-15 12:00:21,New England Patriots,home,0.49,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1757980817,2025-09-16 00:00:17,Pittsburgh Steelers,away,0.505,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1757980819,2025-09-16 00:00:19,New England Patriots,home,0.495,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758024007,2025-09-16 12:00:07,Pittsburgh Steelers,away,0.525,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758024018,2025-09-16 12:00:18,New England Patriots,home,0.475,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758067206,2025-09-17 00:00:06,New England Patriots,home,0.455,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758067218,2025-09-17 00:00:18,Pittsburgh Steelers,away,0.545,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758110402,2025-09-17 12:00:02,Pittsburgh Steelers,away,0.545,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758110405,2025-09-17 12:00:05,New England Patriots,home,0.455,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758153605,2025-09-18 00:00:05,New England Patriots,home,0.46,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758153612,2025-09-18 00:00:12,Pittsburgh Steelers,away,0.54,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758196810,2025-09-18 12:00:10,Pittsburgh Steelers,away,0.545,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758196816,2025-09-18 12:00:16,New England Patriots,home,0.455,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758240011,2025-09-19 00:00:11,New England Patriots,home,0.46,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758240012,2025-09-19 00:00:12,Pittsburgh Steelers,away,0.54,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758283210,2025-09-19 12:00:10,Pittsburgh Steelers,away,0.54,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758283223,2025-09-19 12:00:23,New England Patriots,home,0.46,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758326404,2025-09-20 00:00:04,Pittsburgh Steelers,away,0.535,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758326412,2025-09-20 00:00:12,New England Patriots,home,0.465,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758369617,2025-09-20 12:00:17,Pittsburgh Steelers,away,0.535,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758369637,2025-09-20 12:00:37,New England Patriots,home,0.465,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758412804,2025-09-21 00:00:04,Pittsburgh Steelers,away,0.535,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758412810,2025-09-21 00:00:10,New England Patriots,home,0.465,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758456008,2025-09-21 12:00:08,Pittsburgh Steelers,away,0.53,3,2025-09-21,Pittsburgh Steelers,New England Patriots
+1758456022,2025-09-21 12:00:22,New England Patriots,home,0.47,3,2025-09-21,Pittsburgh Steelers,New England Patriots

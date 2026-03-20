@@ -1,0 +1,33 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1765843218,2025-12-16 00:00:18,Indianapolis Colts,home,0.5,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1765843221,2025-12-16 00:00:21,San Francisco 49ers,away,0.5,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1765886432,2025-12-16 12:00:32,Indianapolis Colts,home,0.41,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1765886434,2025-12-16 12:00:34,San Francisco 49ers,away,0.59,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1765929615,2025-12-17 00:00:15,Indianapolis Colts,home,0.41,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1765929617,2025-12-17 00:00:17,San Francisco 49ers,away,0.59,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1765929636,2025-12-17 00:00:36,Indianapolis Colts,home,0.41,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1765929637,2025-12-17 00:00:37,San Francisco 49ers,away,0.59,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1765972827,2025-12-17 12:00:27,Indianapolis Colts,home,0.415,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1765972832,2025-12-17 12:00:32,San Francisco 49ers,away,0.585,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766016026,2025-12-18 00:00:26,Indianapolis Colts,home,0.415,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766016028,2025-12-18 00:00:28,San Francisco 49ers,away,0.585,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766059217,2025-12-18 12:00:17,Indianapolis Colts,home,0.405,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766059219,2025-12-18 12:00:19,San Francisco 49ers,away,0.595,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766102417,2025-12-19 00:00:17,Indianapolis Colts,home,0.405,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766102419,2025-12-19 00:00:19,San Francisco 49ers,away,0.595,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766145619,2025-12-19 12:00:19,Indianapolis Colts,home,0.43,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766145621,2025-12-19 12:00:21,San Francisco 49ers,away,0.57,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766188817,2025-12-20 00:00:17,Indianapolis Colts,home,0.43,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766188819,2025-12-20 00:00:19,San Francisco 49ers,away,0.57,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766232021,2025-12-20 12:00:21,Indianapolis Colts,home,0.44,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766232023,2025-12-20 12:00:23,San Francisco 49ers,away,0.56,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766275218,2025-12-21 00:00:18,Indianapolis Colts,home,0.365,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766275220,2025-12-21 00:00:20,San Francisco 49ers,away,0.635,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766318418,2025-12-21 12:00:18,Indianapolis Colts,home,0.37,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766318420,2025-12-21 12:00:20,San Francisco 49ers,away,0.63,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766361617,2025-12-22 00:00:17,Indianapolis Colts,home,0.37,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766361620,2025-12-22 00:00:20,San Francisco 49ers,away,0.63,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766404817,2025-12-22 12:00:17,Indianapolis Colts,home,0.37,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766404820,2025-12-22 12:00:20,San Francisco 49ers,away,0.63,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766448019,2025-12-23 00:00:19,Indianapolis Colts,home,0.405,16,2025-12-22,San Francisco 49ers,Indianapolis Colts
+1766448022,2025-12-23 00:00:22,San Francisco 49ers,away,0.595,16,2025-12-22,San Francisco 49ers,Indianapolis Colts

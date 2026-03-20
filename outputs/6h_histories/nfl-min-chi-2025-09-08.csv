@@ -1,0 +1,27 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1756857608,2025-09-03 00:00:08,Chicago Bears,home,0.475,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1756857615,2025-09-03 00:00:15,Minnesota Vikings,away,0.525,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1756900805,2025-09-03 12:00:05,Chicago Bears,home,0.47,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1756900816,2025-09-03 12:00:16,Minnesota Vikings,away,0.53,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1756944006,2025-09-04 00:00:06,Minnesota Vikings,away,0.515,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1756944014,2025-09-04 00:00:14,Chicago Bears,home,0.485,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1756987208,2025-09-04 12:00:08,Chicago Bears,home,0.465,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1756987222,2025-09-04 12:00:22,Minnesota Vikings,away,0.535,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757030403,2025-09-05 00:00:03,Minnesota Vikings,away,0.52,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757030408,2025-09-05 00:00:08,Chicago Bears,home,0.48,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757073618,2025-09-05 12:00:18,Minnesota Vikings,away,0.515,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757073628,2025-09-05 12:00:28,Chicago Bears,home,0.485,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757116805,2025-09-06 00:00:05,Minnesota Vikings,away,0.52,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757116813,2025-09-06 00:00:13,Chicago Bears,home,0.48,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757160009,2025-09-06 12:00:09,Chicago Bears,home,0.48,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757160013,2025-09-06 12:00:13,Minnesota Vikings,away,0.52,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757203205,2025-09-07 00:00:05,Chicago Bears,home,0.48,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757203206,2025-09-07 00:00:06,Minnesota Vikings,away,0.52,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757246402,2025-09-07 12:00:02,Minnesota Vikings,away,0.52,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757246425,2025-09-07 12:00:25,Chicago Bears,home,0.48,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757289604,2025-09-08 00:00:04,Minnesota Vikings,away,0.525,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757289611,2025-09-08 00:00:11,Chicago Bears,home,0.475,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757332820,2025-09-08 12:00:20,Chicago Bears,home,0.465,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757332824,2025-09-08 12:00:24,Minnesota Vikings,away,0.535,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757376009,2025-09-09 00:00:09,Chicago Bears,home,0.495,1,2025-09-08,Minnesota Vikings,Chicago Bears
+1757376011,2025-09-09 00:00:11,Minnesota Vikings,away,0.505,1,2025-09-08,Minnesota Vikings,Chicago Bears

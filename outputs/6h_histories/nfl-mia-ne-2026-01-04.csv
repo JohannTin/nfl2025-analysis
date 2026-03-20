@@ -1,0 +1,59 @@
+timestamp,datetime,team,side,probability,week,date,away_team,home_team
+1766361610,2025-12-22 00:00:10,New England Patriots,home,0.715,18,2026-01-04,Miami Dolphins,New England Patriots
+1766361611,2025-12-22 00:00:11,Miami Dolphins,away,0.285,18,2026-01-04,Miami Dolphins,New England Patriots
+1766404810,2025-12-22 12:00:10,Miami Dolphins,away,0.295,18,2026-01-04,Miami Dolphins,New England Patriots
+1766404810,2025-12-22 12:00:10,New England Patriots,home,0.705,18,2026-01-04,Miami Dolphins,New England Patriots
+1766448012,2025-12-23 00:00:12,New England Patriots,home,0.72,18,2026-01-04,Miami Dolphins,New England Patriots
+1766448013,2025-12-23 00:00:13,Miami Dolphins,away,0.28,18,2026-01-04,Miami Dolphins,New England Patriots
+1766491212,2025-12-23 12:00:12,New England Patriots,home,0.705,18,2026-01-04,Miami Dolphins,New England Patriots
+1766491213,2025-12-23 12:00:13,Miami Dolphins,away,0.295,18,2026-01-04,Miami Dolphins,New England Patriots
+1766534412,2025-12-24 00:00:12,Miami Dolphins,away,0.29,18,2026-01-04,Miami Dolphins,New England Patriots
+1766534412,2025-12-24 00:00:12,New England Patriots,home,0.71,18,2026-01-04,Miami Dolphins,New England Patriots
+1766577611,2025-12-24 12:00:11,New England Patriots,home,0.71,18,2026-01-04,Miami Dolphins,New England Patriots
+1766577612,2025-12-24 12:00:12,Miami Dolphins,away,0.29,18,2026-01-04,Miami Dolphins,New England Patriots
+1766620821,2025-12-25 00:00:21,New England Patriots,home,0.72,18,2026-01-04,Miami Dolphins,New England Patriots
+1766620822,2025-12-25 00:00:22,Miami Dolphins,away,0.28,18,2026-01-04,Miami Dolphins,New England Patriots
+1766664012,2025-12-25 12:00:12,New England Patriots,home,0.72,18,2026-01-04,Miami Dolphins,New England Patriots
+1766664013,2025-12-25 12:00:13,Miami Dolphins,away,0.28,18,2026-01-04,Miami Dolphins,New England Patriots
+1766707209,2025-12-26 00:00:09,New England Patriots,home,0.72,18,2026-01-04,Miami Dolphins,New England Patriots
+1766707210,2025-12-26 00:00:10,Miami Dolphins,away,0.28,18,2026-01-04,Miami Dolphins,New England Patriots
+1766750410,2025-12-26 12:00:10,New England Patriots,home,0.72,18,2026-01-04,Miami Dolphins,New England Patriots
+1766750411,2025-12-26 12:00:11,Miami Dolphins,away,0.28,18,2026-01-04,Miami Dolphins,New England Patriots
+1766793612,2025-12-27 00:00:12,New England Patriots,home,0.71,18,2026-01-04,Miami Dolphins,New England Patriots
+1766793613,2025-12-27 00:00:13,Miami Dolphins,away,0.29,18,2026-01-04,Miami Dolphins,New England Patriots
+1766836812,2025-12-27 12:00:12,New England Patriots,home,0.715,18,2026-01-04,Miami Dolphins,New England Patriots
+1766836813,2025-12-27 12:00:13,Miami Dolphins,away,0.285,18,2026-01-04,Miami Dolphins,New England Patriots
+1766880012,2025-12-28 00:00:12,New England Patriots,home,0.71,18,2026-01-04,Miami Dolphins,New England Patriots
+1766880013,2025-12-28 00:00:13,Miami Dolphins,away,0.29,18,2026-01-04,Miami Dolphins,New England Patriots
+1766923212,2025-12-28 12:00:12,New England Patriots,home,0.71,18,2026-01-04,Miami Dolphins,New England Patriots
+1766923213,2025-12-28 12:00:13,Miami Dolphins,away,0.29,18,2026-01-04,Miami Dolphins,New England Patriots
+1766966428,2025-12-29 00:00:28,New England Patriots,home,0.72,18,2026-01-04,Miami Dolphins,New England Patriots
+1766966429,2025-12-29 00:00:29,Miami Dolphins,away,0.28,18,2026-01-04,Miami Dolphins,New England Patriots
+1767009612,2025-12-29 12:00:12,New England Patriots,home,0.81,18,2026-01-04,Miami Dolphins,New England Patriots
+1767009613,2025-12-29 12:00:13,Miami Dolphins,away,0.19,18,2026-01-04,Miami Dolphins,New England Patriots
+1767052815,2025-12-30 00:00:15,New England Patriots,home,0.84,18,2026-01-04,Miami Dolphins,New England Patriots
+1767052816,2025-12-30 00:00:16,Miami Dolphins,away,0.16,18,2026-01-04,Miami Dolphins,New England Patriots
+1767096013,2025-12-30 12:00:13,New England Patriots,home,0.835,18,2026-01-04,Miami Dolphins,New England Patriots
+1767096014,2025-12-30 12:00:14,Miami Dolphins,away,0.165,18,2026-01-04,Miami Dolphins,New England Patriots
+1767139212,2025-12-31 00:00:12,New England Patriots,home,0.835,18,2026-01-04,Miami Dolphins,New England Patriots
+1767139213,2025-12-31 00:00:13,Miami Dolphins,away,0.165,18,2026-01-04,Miami Dolphins,New England Patriots
+1767182412,2025-12-31 12:00:12,New England Patriots,home,0.83,18,2026-01-04,Miami Dolphins,New England Patriots
+1767182413,2025-12-31 12:00:13,Miami Dolphins,away,0.17,18,2026-01-04,Miami Dolphins,New England Patriots
+1767225612,2026-01-01 00:00:12,New England Patriots,home,0.83,18,2026-01-04,Miami Dolphins,New England Patriots
+1767225613,2026-01-01 00:00:13,Miami Dolphins,away,0.17,18,2026-01-04,Miami Dolphins,New England Patriots
+1767268813,2026-01-01 12:00:13,New England Patriots,home,0.83,18,2026-01-04,Miami Dolphins,New England Patriots
+1767268813,2026-01-01 12:00:13,Miami Dolphins,away,0.17,18,2026-01-04,Miami Dolphins,New England Patriots
+1767312011,2026-01-02 00:00:11,New England Patriots,home,0.83,18,2026-01-04,Miami Dolphins,New England Patriots
+1767312012,2026-01-02 00:00:12,Miami Dolphins,away,0.17,18,2026-01-04,Miami Dolphins,New England Patriots
+1767355212,2026-01-02 12:00:12,Miami Dolphins,away,0.17,18,2026-01-04,Miami Dolphins,New England Patriots
+1767355212,2026-01-02 12:00:12,New England Patriots,home,0.83,18,2026-01-04,Miami Dolphins,New England Patriots
+1767398411,2026-01-03 00:00:11,New England Patriots,home,0.835,18,2026-01-04,Miami Dolphins,New England Patriots
+1767398412,2026-01-03 00:00:12,Miami Dolphins,away,0.165,18,2026-01-04,Miami Dolphins,New England Patriots
+1767441612,2026-01-03 12:00:12,New England Patriots,home,0.84,18,2026-01-04,Miami Dolphins,New England Patriots
+1767441613,2026-01-03 12:00:13,Miami Dolphins,away,0.16,18,2026-01-04,Miami Dolphins,New England Patriots
+1767484812,2026-01-04 00:00:12,New England Patriots,home,0.835,18,2026-01-04,Miami Dolphins,New England Patriots
+1767484813,2026-01-04 00:00:13,Miami Dolphins,away,0.165,18,2026-01-04,Miami Dolphins,New England Patriots
+1767528013,2026-01-04 12:00:13,New England Patriots,home,0.835,18,2026-01-04,Miami Dolphins,New England Patriots
+1767528014,2026-01-04 12:00:14,Miami Dolphins,away,0.165,18,2026-01-04,Miami Dolphins,New England Patriots
+1767571213,2026-01-05 00:00:13,New England Patriots,home,0.9995,18,2026-01-04,Miami Dolphins,New England Patriots
+1767571215,2026-01-05 00:00:15,Miami Dolphins,away,0.0005,18,2026-01-04,Miami Dolphins,New England Patriots
