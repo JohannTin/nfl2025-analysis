@@ -3,19 +3,19 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>NFL 2025 Analytics Dashboard</title>
+<title>NFL 2025: Sportsbook Pricing vs. Prediction Markets</title>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 <style>
 :root {
-  --bg:#080b10; --surface:#0f1219; --border:#1a1f2e; --accent:#00e5a0;
+  --bg:#080c10; --surface:#0d1117; --border:#1a1f28; --accent:#7eb8d4;
   --accent2:#4d9fff; --danger:#ff4d6d; --warn:#ffb347; --purple:#a78bfa;
-  --text:#dde4ee; --muted:#5a6378; --card:#111621;
+  --text:#dde4ee; --muted:#9aa3b2; --card:#0f1520;
 }
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
-body{background:var(--bg);color:var(--text);font-family:'IBM Plex Sans',sans-serif;font-size:14px;line-height:1.65}
+body{background:var(--bg);color:var(--text);font-family:'IBM Plex Sans',sans-serif;font-size:15px;line-height:1.65}
 
 /* HEADER */
 header{border-bottom:1px solid var(--border);padding:0 28px;display:flex;align-items:center;justify-content:space-between;height:60px;position:sticky;top:0;z-index:200;background:rgba(8,11,16,.97);backdrop-filter:blur(12px)}
@@ -23,7 +23,7 @@ header{border-bottom:1px solid var(--border);padding:0 28px;display:flex;align-i
 .logo span{color:var(--text)}
 nav{display:flex;gap:2px;flex-wrap:wrap}
 nav a{color:var(--muted);text-decoration:none;padding:5px 10px;border-radius:4px;font-size:11px;font-weight:600;letter-spacing:.6px;transition:all .15s;border:1px solid transparent;white-space:nowrap}
-nav a:hover,nav a.active{color:var(--accent);border-color:rgba(0,229,160,.3);background:rgba(0,229,160,.06)}
+nav a:hover,nav a.active{color:var(--accent);border-color:rgba(126,184,212,.3);background:rgba(126,184,212,.06)}
 
 /* LAYOUT */
 main{max-width:1360px;margin:0 auto;padding:28px 20px}
@@ -35,54 +35,54 @@ section{margin-bottom:60px;scroll-margin-top:72px}
 
 /* STAT CARDS */
 .stats-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin-bottom:22px}
-.stat-card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:16px 18px;position:relative;overflow:hidden}
+.stat-card{background:var(--card);border:1px solid var(--border);border-radius:4px;padding:16px 18px;position:relative;overflow:hidden}
 .stat-card::after{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:var(--accent)}
 .stat-card.red::after{background:var(--danger)}.stat-card.warn::after{background:var(--warn)}.stat-card.blue::after{background:var(--accent2)}.stat-card.purple::after{background:var(--purple)}
-.stat-label{font-size:10px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:var(--muted);margin-bottom:6px}
+.stat-label{font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:var(--muted);margin-bottom:6px}
 .stat-value{font-family:'IBM Plex Mono',monospace;font-size:28px;font-weight:600;line-height:1}
-.stat-note{font-size:11px;color:var(--muted);margin-top:5px;line-height:1.4}
+.stat-note{font-size:12px;color:var(--muted);margin-top:5px;line-height:1.4}
 .v-accent{color:var(--accent)}.v-red{color:var(--danger)}.v-warn{color:var(--warn)}.v-blue{color:var(--accent2)}.v-purple{color:var(--purple)}
 
 /* CHARTS */
 .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px}
 .grid3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px;margin-bottom:14px}
-.cbox{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:18px 20px}
+.cbox{background:var(--card);border:1px solid var(--border);border-radius:4px;padding:18px 20px}
 .cbox.wide{grid-column:span 2}.cbox.full{grid-column:1/-1}
-.ctitle{font-size:10px;font-weight:600;letter-spacing:.8px;text-transform:uppercase;color:var(--muted);margin-bottom:14px}
-.cdesc{font-size:12px;color:var(--muted);line-height:1.6;margin-bottom:14px;font-style:italic}
+.ctitle{font-size:11px;font-weight:600;letter-spacing:.8px;text-transform:uppercase;color:var(--muted);margin-bottom:14px}
+.cdesc{font-size:13px;color:var(--muted);line-height:1.6;margin-bottom:14px;font-style:italic}
 canvas{max-height:280px}
 canvas.tall{max-height:400px}
 canvas.short{max-height:200px}
 
 /* FINDINGS */
-.finding{background:var(--card);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:6px;padding:14px 18px;margin-bottom:10px;display:flex;gap:14px}
+.finding{background:var(--card);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:0px;padding:14px 18px;margin-bottom:10px;display:flex;gap:14px}
 .finding.red{border-left-color:var(--danger)}.finding.warn{border-left-color:var(--warn)}.finding.blue{border-left-color:var(--accent2)}.finding.purple{border-left-color:var(--purple)}
 .fi{font-size:22px;flex-shrink:0;line-height:1;padding-top:2px}
 .ft{font-weight:600;margin-bottom:4px;font-size:13px}
-.fd{color:var(--muted);font-size:12px;line-height:1.6}
+.fd{color:var(--muted);font-size:13px;line-height:1.6}
 
 /* TABLES */
 .twrap{overflow-x:auto}
 table{width:100%;border-collapse:collapse;font-size:12px}
 th{text-align:left;padding:8px 12px;font-size:10px;letter-spacing:.8px;font-weight:600;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--border)}
-td{padding:9px 12px;border-bottom:1px solid rgba(26,31,46,.7);font-family:'IBM Plex Mono',monospace;font-size:11px}
+td{padding:9px 12px;border-bottom:1px solid rgba(26,31,46,.7);font-family:'IBM Plex Mono',monospace;font-size:12px}
 tr:hover td{background:rgba(255,255,255,.02)}
 .pill{display:inline-block;padding:2px 8px;border-radius:10px;font-size:10px;font-weight:600;font-family:'IBM Plex Sans',sans-serif}
-.pg{background:rgba(0,229,160,.12);color:var(--accent)}.pr{background:rgba(255,77,109,.12);color:var(--danger)}
+.pg{background:rgba(126,184,212,.12);color:var(--accent)}.pr{background:rgba(255,77,109,.12);color:var(--danger)}
 .pw{background:rgba(255,179,71,.12);color:var(--warn)}.pb{background:rgba(77,159,255,.12);color:var(--accent2)}
 .pp{background:rgba(167,139,250,.12);color:var(--purple)}
 
 /* FILTERS */
 .fbar{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px;align-items:center}
 .fbtn{background:var(--card);border:1px solid var(--border);color:var(--muted);padding:5px 12px;border-radius:4px;cursor:pointer;font-size:11px;font-weight:600;letter-spacing:.4px;transition:all .15s;font-family:'IBM Plex Mono',monospace}
-.fbtn:hover,.fbtn.on{background:rgba(0,229,160,.08);border-color:rgba(0,229,160,.35);color:var(--accent)}
+.fbtn:hover,.fbtn.on{background:rgba(126,184,212,.08);border-color:rgba(126,184,212,.35);color:var(--accent)}
 select,input[type=text]{background:var(--card);border:1px solid var(--border);color:var(--text);padding:5px 10px;border-radius:4px;font-size:12px;cursor:pointer;outline:none;font-family:'IBM Plex Mono',monospace}
 input[type=text]{min-width:180px}
 input[type=text]::placeholder{color:var(--muted)}
 
 /* SIGNAL CARDS */
 .sigrow{display:flex;gap:10px;margin-bottom:20px;flex-wrap:wrap}
-.sigcard{flex:1;min-width:130px;background:var(--card);border:1px solid var(--border);border-radius:8px;padding:14px;text-align:center}
+.sigcard{flex:1;min-width:130px;background:var(--card);border:1px solid var(--border);border-radius:4px;padding:14px;text-align:center}
 .sigpct{font-family:'IBM Plex Mono',monospace;font-size:30px;font-weight:600;line-height:1}
 .siglbl{font-size:10px;color:var(--muted);margin-top:4px;letter-spacing:.5px;line-height:1.4}
 .sign{font-size:10px;color:var(--muted);margin-top:2px}
@@ -94,15 +94,15 @@ input[type=text]::placeholder{color:var(--muted)}
 .hero-eye{font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--accent);letter-spacing:2px;text-transform:uppercase;margin-bottom:12px}
 .hero-title{font-family:'Bebas Neue',sans-serif;font-size:clamp(44px,6vw,78px);line-height:1;letter-spacing:2px;margin-bottom:16px}
 .hero-title span{color:var(--accent)}
-.hero-desc{color:#8492a8;max-width:620px;font-size:14px;line-height:1.75}
+.hero-desc{color:#9aa3b2;max-width:620px;font-size:14px;line-height:1.75}
 .hero-meta{display:flex;gap:28px;margin-top:22px;flex-wrap:wrap}
 .hmi{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--muted)}
 .hmi b{color:var(--accent);font-size:15px}
 
 /* GAME EXPLORER */
-.game-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:20px;margin-bottom:10px;cursor:pointer;transition:border-color .2s}
-.game-card:hover{border-color:rgba(0,229,160,.3)}
-.game-card.open{border-color:rgba(0,229,160,.5)}
+.game-card{background:var(--card);border:1px solid var(--border);border-radius:4px;padding:20px;margin-bottom:10px;cursor:pointer;transition:border-color .2s}
+.game-card:hover{border-color:rgba(126,184,212,.3)}
+.game-card.open{border-color:rgba(126,184,212,.5)}
 .gc-header{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
 .gc-week{font-family:'Bebas Neue',sans-serif;font-size:14px;color:var(--muted);letter-spacing:1px;min-width:36px}
 .gc-teams{flex:1;font-weight:600;font-size:14px}
@@ -125,16 +125,16 @@ input[type=text]::placeholder{color:var(--muted)}
 .prob-bar-home{background:var(--accent2);flex:1;height:100%;display:flex;align-items:center;justify-content:center;font-size:9px;font-weight:700;color:var(--bg)}
 
 /* FINAL THOUGHTS */
-.thought-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:24px 28px;margin-bottom:14px}
-.thought-card h3{font-family:'Bebas Neue',sans-serif;font-size:20px;letter-spacing:1px;margin-bottom:10px;color:var(--text)}
-.thought-card p{color:#8492a8;font-size:13px;line-height:1.75;margin-bottom:10px}
+.thought-card{background:var(--card);border:1px solid var(--border);border-radius:4px;padding:24px 28px;margin-bottom:14px}
+.thought-card h3{font-family:'IBM Plex Sans',sans-serif;font-size:15px;font-weight:600;letter-spacing:.2px;margin-bottom:10px;color:var(--text)}
+.thought-card p{color:#9aa3b2;font-size:14px;line-height:1.75;margin-bottom:10px}
 .thought-card p:last-child{margin-bottom:0}
-.thought-card ul{color:#8492a8;font-size:13px;line-height:1.8;padding-left:20px}
+.thought-card ul{color:#9aa3b2;font-size:14px;line-height:1.8;padding-left:20px}
 
 /* PAGINATION */
 .pagination{display:flex;gap:6px;justify-content:center;margin-top:16px;flex-wrap:wrap}
 .ppage{background:var(--card);border:1px solid var(--border);color:var(--muted);padding:4px 10px;border-radius:4px;cursor:pointer;font-size:11px;font-family:'IBM Plex Mono',monospace;transition:all .15s}
-.ppage:hover,.ppage.on{color:var(--accent);border-color:rgba(0,229,160,.35)}
+.ppage:hover,.ppage.on{color:var(--accent);border-color:rgba(126,184,212,.35)}
 
 @media(max-width:768px){.grid2,.grid3{grid-template-columns:1fr}.cbox.wide{grid-column:span 1}nav{display:none}}
 ::-webkit-scrollbar{width:5px;height:5px}::-webkit-scrollbar-track{background:var(--bg)}::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
@@ -143,7 +143,7 @@ input[type=text]::placeholder{color:var(--muted)}
 <body>
 
 <header>
-  <div class="logo">NFL<span>2025</span> Analytics</div>
+  <div class="logo">NFL<span>2025</span></div>
   <nav>
     <a href="#nb1">01 &nbsp;ESPN vs Books</a>
     <a href="#nb2">02 &nbsp;Calibration</a>
@@ -159,9 +159,9 @@ input[type=text]::placeholder{color:var(--muted)}
 <main>
 
 <div class="hero">
-  <div class="hero-eye">NFL 2025 Season · End-to-End Quantitative Analysis</div>
-  <h1 class="hero-title">Market <span>Intelligence</span><br>Dashboard</h1>
-  <p class="hero-desc">This dashboard presents findings from six analytical notebooks covering the complete 2025 NFL season. We examine how accurate ESPN's pre-game win probabilities are, whether sportsbooks price games fairly, what Polymarket's prediction markets reveal about crowd wisdom, which teams consistently beat the spread, and where professional sharp bettors placed their money.</p>
+  <div class="hero-eye">NFL 2025 Season · Quantitative Research</div>
+  <h1 class="hero-title">Sportsbook Pricing<br>vs. <span>Prediction Markets</span></h1>
+  <p class="hero-desc">Six notebooks. 285 games. One question: who actually priced the 2025 NFL season correctly — ESPN, the sportsbooks, or a $1.14B prediction market? This report works through each model, tests them against outcomes, and follows the sharp money.</p>
   <div class="hero-meta">
     <div class="hmi"><b>285</b><br>games analysed</div>
     <div class="hmi"><b>7</b><br>sportsbooks tracked</div>
@@ -181,8 +181,8 @@ input[type=text]::placeholder{color:var(--muted)}
     <div class="section-title">ESPN Win Probability vs. Sportsbooks</div>
     <div class="section-sub">Expected Value Analysis · 285 games · 7 books</div>
   </div>
-  <p class="cdesc" style="font-size:13px;color:#8492a8;margin-bottom:18px;line-height:1.7">
-    Before each NFL game, ESPN publishes a win probability for both teams. Sportsbooks publish moneyline odds — the prices you bet at. By converting the sportsbook odds into implied probabilities and comparing them to ESPN's model, we can calculate the "Expected Value" (EV) of each bet. A positive EV means ESPN thinks the team is more likely to win than the sportsbook price implies. The question: does a high ESPN-suggested EV actually mean the team is more likely to win?
+  <p class="cdesc" style="font-size:14px;color:#9aa3b2;margin-bottom:18px;line-height:1.7">
+    Before each NFL game, ESPN publishes a win probability for both teams. Sportsbooks publish moneyline odds (the prices you bet at). By converting the sportsbook odds into implied probabilities and comparing them to ESPN's model, we can calculate the "Expected Value" (EV) of each bet. A positive EV means ESPN thinks the team is more likely to win than the sportsbook price implies. The question: does betting on high ESPN-suggested EV actually make money in the long run?
   </p>
   <div class="stats-row">
     <div class="stat-card red">
@@ -198,7 +198,7 @@ input[type=text]::placeholder{color:var(--muted)}
     <div class="stat-card">
       <div class="stat-label">Win Rate: Negative EV Bets (EV &lt; −10)</div>
       <div class="stat-value v-accent">69.6%</div>
-      <div class="stat-note">The "bad value" bets — backing strong favourites — won 7-in-10 times, as expected.</div>
+      <div class="stat-note">The "bad value" bets (backing strong favourites) won 7-in-10 times, as expected.</div>
     </div>
     <div class="stat-card blue">
       <div class="stat-label">Total Bets Analysed</div>
@@ -207,7 +207,6 @@ input[type=text]::placeholder{color:var(--muted)}
     </div>
   </div>
   <div class="finding red">
-    <div class="fi">⚠️</div>
     <div>
       <div class="ft">ESPN Systematically Overrates Underdogs</div>
       <div class="fd">The core finding of Notebook 1 is striking: ESPN's Expected Value signal is completely inverted. The higher the EV ESPN suggests for a bet, the more likely that team is to <em>lose</em>. This happens because ESPN's model assigns overly generous win probabilities to underdogs — teams the sportsbooks have correctly priced as heavy longshots. When a team is priced at +250 (28.6% implied) by the books but ESPN says they have a 40% chance, the "EV" looks excellent. In reality, the sportsbook was right. This means treating ESPN's win probability as a betting signal is actively counterproductive.</div>
@@ -235,8 +234,8 @@ input[type=text]::placeholder{color:var(--muted)}
     <div class="section-title">Model Calibration — How Accurate Are the Predictions?</div>
     <div class="section-sub">Brier Score ranking · 17 models compared</div>
   </div>
-  <p class="cdesc" style="font-size:13px;color:#8492a8;margin-bottom:18px;line-height:1.7">
-    The Brier Score measures how accurate a probability model is — lower is better. A score of 0.25 is what you'd get from always guessing 50/50 (completely useless). The Brier Skill Score (BSS) shows improvement over that 50/50 baseline — higher is better. We scored 17 different models: ESPN, 7 sportsbooks using two different mathematical methods each, Polymarket, and two consensus averages.
+  <p class="cdesc" style="font-size:14px;color:#9aa3b2;margin-bottom:18px;line-height:1.7">
+    The Brier Score measures how accurate a probability model is (lower is better). A score of 0.25 is what you'd get from always guessing 50/50 (completely useless). The Brier Skill Score (BSS) shows improvement over that 50/50 baseline (higher is better). We scored 17 different models: ESPN, 7 sportsbooks using two different mathematical methods each, Polymarket, and two consensus averages.
   </p>
   <div class="stats-row">
     <div class="stat-card">
@@ -261,7 +260,6 @@ input[type=text]::placeholder{color:var(--muted)}
     </div>
   </div>
   <div class="finding">
-    <div class="fi">📊</div>
     <div>
       <div class="ft">The Wisdom of Crowds Wins — But the Crowd Is Bookmakers, Not Twitter</div>
       <div class="fd">The most accurate pre-game probability model isn't a sophisticated algorithm — it's simply the average of what seven sportsbooks agree on. Professional bookmakers, competing against each other for market share, are collectively the best forecasters in the dataset. The sportsbook consensus is 1.57× more skill-efficient than ESPN. Polymarket — despite attracting over $1 billion in trading volume from thousands of participants — performs no better than ESPN's internal model. The implication: market depth alone doesn't guarantee accuracy. Bookmakers have decades of incentive to price correctly; Polymarket participants may be less informed on average.</div>
@@ -269,7 +267,7 @@ input[type=text]::placeholder{color:var(--muted)}
   </div>
   <div class="grid2">
     <div class="cbox">
-      <div class="ctitle">The Four Key Models Side by Side</div>
+      <div class="ctitle">The Three Key Models Side by Side</div>
       <div class="cdesc">Lower Brier Score = more accurate. The gap between the sportsbook consensus and ESPN/Polymarket is small in absolute terms but meaningful when compounded over 285 games.</div>
       <canvas id="pmBrierChart" class="short"></canvas>
     </div>
@@ -290,7 +288,7 @@ input[type=text]::placeholder{color:var(--muted)}
     <div class="section-title">Which Sportsbook Offers the Best Odds?</div>
     <div class="section-sub">Best line frequency · Book deviation · Season shopping value</div>
   </div>
-  <p class="cdesc" style="font-size:13px;color:#8492a8;margin-bottom:18px;line-height:1.7">
+  <p class="cdesc" style="font-size:14px;color:#9aa3b2;margin-bottom:18px;line-height:1.7">
     Across 285 games, sportsbooks often offer slightly different odds on the same outcome. This section identifies which book most frequently offered the best available price, how far each book's odds deviated from the average market consensus, and how much money a bettor who always shopped for the best line could have captured over the full season.
   </p>
   <div class="stats-row">
@@ -316,14 +314,12 @@ input[type=text]::placeholder{color:var(--muted)}
     </div>
   </div>
   <div class="finding warn">
-    <div class="fi">⚡</div>
     <div>
       <div class="ft">The Bet365 Paradox: Most Volatile, Not Most Generous</div>
       <div class="fd">At first glance, Bet365 looks like the obvious choice — it offered the best available line 203 times out of 570 opportunities (35.6%). But it also offered the <em>worst</em> line 110 times on the away side alone. Bet365's pricing swings dramatically in both directions, with a standard deviation 2.4× greater than the next most volatile book. This isn't generosity — it's aggression. Bet365 takes strong positions that diverge from the market consensus, sometimes in the bettor's favour, sometimes not. DraftKings, by contrast, sits quietly above the consensus average in 153 of 285 games without the wild swings — making it the more reliable choice for a disciplined line-shopper.</div>
     </div>
   </div>
   <div class="finding">
-    <div class="fi">💸</div>
     <div>
       <div class="ft">$32,785 in Value Left on the Table All Season</div>
       <div class="fd">If a bettor placed $100 on the away side of every game using the worst available book each time, and another bettor used the best available book, the second bettor would end the season $32,785 ahead — purely from line shopping. The largest single-game gap was $1,090 (Arizona Cardinals @ Seattle Seahawks, Week 10), driven entirely by Bet365's extreme pricing on a heavy underdog. The median gap of $27 per game is more realistic for most situations, but over a full season the cumulative value is substantial.</div>
@@ -331,13 +327,13 @@ input[type=text]::placeholder{color:var(--muted)}
   </div>
   <div class="grid2">
     <div class="cbox">
-      <div class="ctitle">How Often Each Book Offered the Best (Green) or Worst (Red) Odds</div>
-      <div class="cdesc">The green bars show how many times each book posted the highest moneyline for bettors across the season. The red bars show worst-line appearances. Notice Bet365 leads both categories.</div>
+      <div class="ctitle">How Often Each Book Offered the Best (Blue) or Worst (Red) Odds</div>
+      <div class="cdesc">The blue bars show how many times each book posted the highest moneyline for bettors across the season. The red bars show worst-line appearances. Notice Bet365 leads both categories.</div>
       <canvas id="freqChart"></canvas>
     </div>
     <div class="cbox">
       <div class="ctitle">Each Book's Average Deviation from the Market Consensus</div>
-      <div class="cdesc">Positive (green) means this book's odds implied a lower probability than average — better for bettors. Negative (red) means the book priced the team as more likely to win than peers did, giving bettors worse value.</div>
+      <div class="cdesc">Positive (blue) means this book's odds implied a lower probability than average (better for bettors). Negative (red) means the book priced the team as more likely to win than peers did, giving bettors worse value.</div>
       <canvas id="devChart"></canvas>
     </div>
   </div>
@@ -352,7 +348,7 @@ input[type=text]::placeholder{color:var(--muted)}
     <div class="section-title">Polymarket: Can a Prediction Market Beat the Bookmakers?</div>
     <div class="section-sub">$1.14 billion in trading volume · 285 games · 4-model comparison</div>
   </div>
-  <p class="cdesc" style="font-size:13px;color:#8492a8;margin-bottom:18px;line-height:1.7">
+  <p class="cdesc" style="font-size:14px;color:#9aa3b2;margin-bottom:18px;line-height:1.7">
     Polymarket is a decentralised prediction market where anyone can bet real money on sports outcomes — with no bookmaker taking a cut. In theory, the collective wisdom of thousands of informed bettors should produce more accurate probabilities than any single model. We tracked $1.14 billion in Polymarket trading across all 285 NFL 2025 games and compared its accuracy to ESPN and the sportsbook consensus.
   </p>
   <div class="stats-row">
@@ -378,7 +374,6 @@ input[type=text]::placeholder{color:var(--muted)}
     </div>
   </div>
   <div class="finding blue">
-    <div class="fi">🔮</div>
     <div>
       <div class="ft">$1.1 Billion in Bets, Yet No Better Than ESPN</div>
       <div class="fd">Despite attracting over a billion dollars in trading volume, Polymarket's accuracy (Brier Score 0.2224) is virtually identical to ESPN's (0.2216) and both trail the sportsbook consensus (0.2103) by a meaningful margin. This is one of the most surprising findings in the entire project. The "wisdom of crowds" failed to outperform professional bookmakers even with massive liquidity. The likely explanation: Polymarket's participants, though numerous, may be less systematically informed than bookmakers who have every financial incentive to price games correctly. Additionally, low-volume games — which tend to involve heavy favourites with predictable outcomes — are actually the most accurately priced on Polymarket, suggesting that crowd input is most useful when the outcome is already obvious.</div>
@@ -387,8 +382,8 @@ input[type=text]::placeholder{color:var(--muted)}
   <div class="grid2">
     <div class="cbox">
       <div class="ctitle">Does More Trading Volume Mean More Accurate Prices?</div>
-      <div class="cdesc">Each bar shows Polymarket's prediction accuracy (Brier Score, lower = better) for games in each volume tier. Surprisingly, the lowest-volume games — likely heavy-favourite matchups where the outcome was obvious — were the most accurately priced.</div>
-      <canvas id="pmVolChart" class="short"></canvas>
+      <div class="cdesc">Each bar shows Polymarket's prediction accuracy (Brier Score, lower = better) for games in each volume tier. Surprisingly, the lowest-volume games (likely heavy-favourite matchups where the outcome was obvious) were the most accurately priced.</div>
+      <canvas id="pmVolChart" class="tall"></canvas>
     </div>
     <div class="cbox">
       <div class="ctitle">Top 10 Most-Traded Games on Polymarket</div>
@@ -406,7 +401,7 @@ input[type=text]::placeholder{color:var(--muted)}
     <div class="section-title">Which Teams Beat the Spread — and Which Are Traps?</div>
     <div class="section-sub">All 32 teams · Cover rates · Home vs. Away splits · Over/Under records</div>
   </div>
-  <p class="cdesc" style="font-size:13px;color:#8492a8;margin-bottom:18px;line-height:1.7">
+  <p class="cdesc" style="font-size:14px;color:#9aa3b2;margin-bottom:18px;line-height:1.7">
     The point spread is sportsbooks' way of levelling the playing field — they set a margin the favourite must win by. Covering the spread means performing better than that expectation. In a perfectly efficient market, every team would cover the spread exactly 50% of the time. When teams deviate significantly from that, it reveals which teams the market consistently over or under-estimated all season.
   </p>
   <div class="stats-row">
@@ -432,14 +427,12 @@ input[type=text]::placeholder{color:var(--muted)}
     </div>
   </div>
   <div class="finding">
-    <div class="fi">🏈</div>
     <div>
       <div class="ft">The Trap Team Phenomenon: Winning Doesn't Mean Covering</div>
       <div class="fd">The most practically useful insight for anyone betting on football: winning a game and covering the spread are completely different things. The Buffalo Bills won 68.4% of their games — one of the best records in the league — yet covered only 42.1% of the time. This happens because their strong brand and recognisable roster attracted so much public money that sportsbooks consistently set their spread too high. Betting on Buffalo to win outright was reasonable; betting them against the spread was a losing proposition all season. The Green Bay Packers are the opposite trap — the market priced them as roughly a .500 team (which they were), but the spread was still consistently too generous, resulting in the worst cover rate in the dataset at 27.8%.</div>
     </div>
   </div>
   <div class="finding blue">
-    <div class="fi">🏆</div>
     <div>
       <div class="ft">Playoffs: Home Teams Dominated the Spread</div>
       <div class="fd">In the regular season, away teams and home teams covered the spread at nearly identical rates (48.8% vs. 51.2%). But in the playoffs, the pattern collapsed entirely: away teams covered 0 of 4 Divisional games, and 0 of 2 Conference Championship games. Six consecutive playoff games where the spread underestimated the home team's advantage. Home field appears to be systematically underpriced in high-stakes playoff matchups — teams that earned home field advantage through winning records may receive less spread credit than they deserve.</div>
@@ -453,25 +446,25 @@ input[type=text]::placeholder{color:var(--muted)}
   <div class="grid2">
     <div class="cbox">
       <div class="ctitle">Cover Rate for All 32 Teams — Full Season</div>
-      <div class="cdesc">Green = teams covering above 50% (market underrated them). Red = teams covering below 50% (market overrated them). The dashed line at 50% is the theoretical break-even.</div>
+      <div class="cdesc">Blue = teams covering above 50% (market underrated them). Red = teams covering below 50% (market overrated them). The dashed line at 50% is the theoretical break-even.</div>
       <canvas id="atsChart" class="tall"></canvas>
     </div>
     <div class="cbox">
       <div class="ctitle">Win Rate vs. Cover Rate — Spotting Traps and Value</div>
-      <div class="cdesc">Each dot is a team. <span style="color:var(--danger)">Red dots</span> (bottom-right) are trap teams: they win often but their spread is too high. <span style="color:var(--accent)">Green dots</span> (top-left) cover well despite losing records — value plays. <span style="color:var(--warn)">Orange</span> is Seattle, the standout in both dimensions.</div>
+      <div class="cdesc">Each dot is a team. <span style="color:var(--danger)">Red dots</span> (bottom-right) are trap teams: they win often but their spread is too high. <span style="color:var(--accent)">Blue dots</span> (top-left) cover well despite losing records (value plays). <span style="color:var(--warn)">Orange</span> is Seattle, the standout in both dimensions.</div>
       <canvas id="atsScatterChart"></canvas>
     </div>
   </div>
   <div class="grid2">
     <div class="cbox">
       <div class="ctitle">Away Team Cover Rate by Week — Did the Market Get Better Over the Season?</div>
-      <div class="cdesc">Green weeks: away teams beat the spread more than 50% of the time. Red weeks: home teams dominated. Divisions (DIV) and Championship (CC) weeks show away teams going 0% — a historic sweep by home teams in the playoffs.</div>
-      <canvas id="weeklyAtsChart" class="short"></canvas>
+      <div class="cdesc">Blue weeks: away teams beat the spread more than 50% of the time. Red weeks: home teams dominated. Divisions (DIV) and Championship (CC) weeks show away teams going 0% — a historic sweep by home teams in the playoffs.</div>
+      <canvas id="weeklyAtsChart"></canvas>
     </div>
     <div class="cbox">
       <div class="ctitle">Over/Under Rate by Team — Who Plays in High-Scoring Games?</div>
       <div class="cdesc">Red bars: the total consistently went over in these teams' games (market underestimated scoring). Blue bars: games consistently went under. The Kansas City Chiefs had the lowest over rate in the league at 23.5% — their games were consistently priced too high on expected scoring.</div>
-      <canvas id="ouChart" class="short"></canvas>
+      <canvas id="ouChart" class="tall"></canvas>
     </div>
   </div>
 </section>
@@ -485,26 +478,23 @@ input[type=text]::placeholder{color:var(--muted)}
     <div class="section-title">Sharp Money: Following the Professionals</div>
     <div class="section-sub">Line movement signals · Reverse line movement · Dual-market analysis</div>
   </div>
-  <p class="cdesc" style="font-size:13px;color:#8492a8;margin-bottom:18px;line-height:1.7">
+  <p class="cdesc" style="font-size:14px;color:#9aa3b2;margin-bottom:18px;line-height:1.7">
     "Sharp" bettors are professionals who bet large amounts based on sophisticated analysis. When they place significant wagers, sportsbooks adjust their spread to limit exposure. By tracking how much the spread moved from the opening line to the closing line, we can identify which games attracted sharp attention — and test whether the sharp side actually covered the spread more often.
   </p>
   <div class="sigrow" id="sigCards"></div>
   <div class="finding">
-    <div class="fi">🎯</div>
     <div>
       <div class="ft">Line Movement Predicts Outcomes — Especially Strong Movements</div>
       <div class="fd">When the spread moved more than 1 point in a direction, the team that money moved toward covered the spread at above-50% rates. The signal gets stronger as the movement increases: spreads moving 1–3 points toward a team produced 65% cover rates (away) and 59.2% (home). Movements greater than 3 points toward the home team produced a 66.7% cover rate in the 21 games where it occurred. This confirms that professional bettors moving lines were generally right — but extreme away movements (>3pts) appear driven by injury news rather than pure analytical edge, and those produced only a 50% cover rate.</div>
     </div>
   </div>
   <div class="finding warn">
-    <div class="fi">🔥</div>
     <div>
-      <div class="ft">Deep Dive: Houston @ Baltimore, Week 5 — The Sharpest Game of the Season</div>
+      <div class="ft">Houston @ Baltimore, Week 5 — The Sharpest Game of the Season</div>
       <div class="fd">The most extreme sharp money event in 285 games: Houston opened as 9.5-point underdogs at Baltimore. Over the following days, massive sharp action moved the spread 12.7 points — the largest movement in the entire dataset — with Houston closing as 3.2-point <em>favourites</em>. Simultaneously, Polymarket moved Houston's win probability from 20.5% to 53.5% — a 33-point shift. Two completely independent markets, moving simultaneously in the same direction, signalling the same thing. Houston won the game outright by double digits. Both markets were right.</div>
     </div>
   </div>
   <div class="finding purple">
-    <div class="fi">⚡</div>
     <div>
       <div class="ft">When Sportsbooks and Polymarket Disagreed — The Most Extreme Finding</div>
       <div class="fd">In 8 games, the sportsbook spread and Polymarket moved in <em>opposite</em> directions — one market said sharp money was on the away team while the other suggested sharp money was on the home team. In 7 of those 8 games (87.5%), the away team covered the spread. While 8 games is a small sample, this 87.5% rate is the most extreme result in the entire dataset. When two independent sharp markets contradict each other, it may signal that sportsbooks were reacting to public money while Polymarket reflected more informed positioning — and the away team benefited from that confusion.</div>
@@ -533,7 +523,7 @@ input[type=text]::placeholder{color:var(--muted)}
     <div class="section-title">Game Explorer</div>
     <div class="section-sub">All 285 games · Click any game to expand full analysis</div>
   </div>
-  <p class="cdesc" style="font-size:13px;color:#8492a8;margin-bottom:18px;line-height:1.7">
+  <p class="cdesc" style="font-size:14px;color:#9aa3b2;margin-bottom:18px;line-height:1.7">
     Browse every game of the 2025 NFL season. Each entry shows the final score, how the pre-game probabilities compared across ESPN, the sportsbook consensus, and Polymarket, how much the spread moved before kickoff, and whether sharp money or unusual market signals were present. Click any game to expand the full detail view.
   </p>
   <div class="fbar">
@@ -566,7 +556,7 @@ input[type=text]::placeholder{color:var(--muted)}
 
   <div class="thought-card">
     <h3>What We Found: Five Key Takeaways</h3>
-    <p><strong style="color:var(--text)">1. Sportsbooks are the most accurate probability model available.</strong> The 7-book consensus outperformed ESPN, Polymarket, and every individual book. Professional bookmakers — incentivised to price correctly or lose money — collectively produced the best pre-game forecasts in the dataset.</p>
+    <p><strong style="color:var(--text)">1. Sportsbooks are the most accurate probability model available.</strong> The 7-book consensus outperformed ESPN, Polymarket, and every individual book. Professional bookmakers (incentivised to price correctly or lose money) collectively produced the best pre-game forecasts in the dataset.</p>
     <p><strong style="color:var(--text)">2. ESPN's win probabilities should not be used as a betting signal.</strong> The model systematically overstates the chances of heavy underdogs. Using high ESPN Expected Value as a guide to bet actually leads to worse-than-random results. This is likely because ESPN optimises for broadcast context (making games sound competitive) rather than betting accuracy.</p>
     <p><strong style="color:var(--text)">3. Line shopping matters — a lot.</strong> The difference between the best and worst available odds was worth $32,785 over the full season across all games on a $100-per-bet model. In practice, a serious bettor placing larger wagers across multiple games every week would see this gap multiply substantially. Always checking multiple books before placing a bet is the single highest-return discipline available.</p>
     <p><strong style="color:var(--text)">4. Sharp money is a genuine signal.</strong> Spread movements of 1–3 points correctly predicted cover direction roughly 60–65% of the time. Reverse line movement (where public money floods one side but the line moves the other way) is the strongest signal: underdogs showing RLM covered at 63.9%, versus a 47.3% base rate. The dual-signal approach — combining sportsbook line movement with Polymarket probability movement — adds further confirmation when both markets agree.</p>
@@ -602,7 +592,7 @@ const D = DASH.data, S = DASH.stats;
 Chart.defaults.color='#5a6378';
 Chart.defaults.font.family="'IBM Plex Mono',monospace";
 Chart.defaults.font.size=10;
-const C={G:'#00e5a0',B:'#4d9fff',R:'#ff4d6d',W:'#ffb347',P:'#a78bfa',M:'#5a6378',BD:'#1a1f2e'};
+const C={G:'#7eb8d4',B:'#4d9fff',R:'#ff4d6d',W:'#ffb347',P:'#a78bfa',M:'#5a6378',BD:'#1a1f28'};
 
 function grd(scale){return{x:{grid:{color:C.BD},ticks:{color:C.M}},y:{grid:{color:C.BD},ticks:{color:C.M},...scale}}}
 
@@ -649,7 +639,7 @@ new IntersectionObserver(entries=>{
     const cl=b.win_rate>0.5?'pg':'pr';
     h+=`<tr><td>${b.ev_bucket}</td><td>${b.n_bets.toLocaleString()}</td>
         <td><span class="pill ${cl}">${pct}%</span></td>
-        <td style="font-family:'IBM Plex Sans',sans-serif;color:#8492a8">${plain[i]||''}</td></tr>`;
+        <td style="font-family:'IBM Plex Sans',sans-serif;color:#9aa3b2">${plain[i]||''}</td></tr>`;
   });
   w.innerHTML=h+'</tbody></table>';
 })();
@@ -781,7 +771,7 @@ new IntersectionObserver(entries=>{
     ouShow.map(t=>t.over_rate>0.58?C.R+'cc':t.over_rate<0.42?C.B+'cc':C.M+'88'),{
     h:true,
     scales:{x:{grid:{color:C.BD},ticks:{color:C.M,callback:v=>v+'%'},min:0,max:80},
-            y:{grid:{display:false},ticks:{color:C.M,font:{size:9}}}},
+            y:{grid:{display:false},ticks:{color:C.M,font:{size:9},autoSkip:false}}},
     tooltip:{callbacks:{label:c=>`Over rate: ${c.raw}%`}}
   });
 })();
